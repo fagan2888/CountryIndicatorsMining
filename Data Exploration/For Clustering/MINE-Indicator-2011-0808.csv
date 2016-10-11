@@ -1,0 +1,1006 @@
+X var,Y var,MIC (strength),MIC-p^2 (nonlinearity),MAS (non-monotonicity),MEV (functionality),MCN (complexity),Linear regression (p)
+0808N: GDP per capita  (current US$) - WDI - 5,0781: Adjusted net national income per capita  (current US$) - WDI - 713,1.0,0.044929683,0.065810025,0.98377,4.5849624,0.977277
+0808N: GDP per capita  (current US$) - WDI - 5,0808: GDP per capita  (current US$) - WDI - 740,1.0,0.005237043,0.046119988,1.0,4.321928,0.99737805
+0808N: GDP per capita  (current US$) - WDI - 5,0832: GNI per capita  (constant 2005 US$) - WDI - 764,1.0,0.060851753,0.046410024,1.0,4.321928,0.9690966
+0808N: GDP per capita  (current US$) - WDI - 5,0830: GNI per capita; Atlas method  (current US$) - WDI - 762,0.9909,0.031056046,0.060150027,0.9909,4.5849624,0.97971624
+0808N: GDP per capita  (current US$) - WDI - 5,0835: GNI per capita; PPP  (current international $) - WDI - 767,0.9874,0.13419253,0.039900005,0.9874,4.5849624,0.9236923
+0808N: GDP per capita  (current US$) - WDI - 5,0813: GDP per capita; PPP  (current international $) - WDI - 745,0.9853,0.14429885,0.025279999,0.9853,4.5849624,0.91706115
+0808N: GDP per capita  (current US$) - WDI - 5,0814: GDP per capita; PPP  (constant 2011 international $) - WDI - 746,0.9853,0.14429885,0.025279999,0.9853,4.5849624,0.91706115
+0808N: GDP per capita  (current US$) - WDI - 5,0836: GNI per capita; PPP  (constant 2011 international $) - WDI - 768,0.9846,0.13124567,0.031340003,0.97512,4.5849624,0.9237718
+0808N: GDP per capita  (current US$) - WDI - 5,1954: Gross national income per capita (PPP int. $) - WHO - 1679,0.98416,0.16806203,0.06540996,0.97925,4.4594316,0.9033814
+0808N: GDP per capita  (current US$) - WDI - 5,0782: Adjusted net national income per capita  (constant 2005 US$) - WDI - 714,0.94709,3.0106306E-4,0.01899004,0.94709,4.321928,0.9730308
+0808N: GDP per capita  (current US$) - WDI - 5,0810: GDP per capita  (constant 2005 US$) - WDI - 742,0.94145,-0.011893988,0.025330007,0.94145,4.5849624,0.97639334
+0808N: GDP per capita  (current US$) - WDI - 5,0736: Agriculture; value added  (% of GDP) - WDI - 668,0.88947,0.60340977,0.045080006,0.87387,4.5849624,-0.53484595
+0808N: GDP per capita  (current US$) - WDI - 5,0677: Household final consumption expenditure per capita  (constant 2005 US$) - WDI - 609,0.88586,0.09945321,0.07810998,0.88586,4.321928,0.8867958
+0808N: GDP per capita  (current US$) - WDI - 5,1167: GDP per person employed  (constant 2011 PPP $) - WDI - 1080,0.88077,0.09987426,0.061720014,0.87333,4.5849624,0.8836831
+0808N: GDP per capita  (current US$) - WDI - 5,2714: Public Services - Fund for Peace - 1709,0.87178,0.29809862,0.20604998,0.8608,4.4594316,-0.75741756
+0808N: GDP per capita  (current US$) - WDI - 5,1098: Health expenditure per capita  (current US$) - WDI - 1013,0.86398,0.05857253,0.067310035,0.86398,4.5849624,0.89744496
+0808N: GDP per capita  (current US$) - WDI - 5,1099: Health expenditure per capita; PPP  (constant 2011 international $) - WDI - 1014,0.8545,0.06289691,0.028640032,0.8545,4.5849624,0.8897208
+0808N: GDP per capita  (current US$) - WDI - 5,0379: Electric power consumption  (kWh per capita) - WDI - 365,0.81134,0.30880475,0.04177004,0.81134,4.321928,0.7088972
+0808N: GDP per capita  (current US$) - WDI - 5,0454: Automated teller machines (ATMs)  (per 100;000 adults) - WDI - 404,0.78476,0.38764676,0.10159004,0.76822,4.5849624,0.6301692
+0808N: GDP per capita  (current US$) - WDI - 5,0898: Pupil-teacher ratio; primary - WDI - 828,0.77736,0.5126513,0.065780014,0.77736,4.321928,-0.51449853
+0808N: GDP per capita  (current US$) - WDI - 5,0388: CO2 emissions  (metric tons per capita) - WDI - 374,0.7619,0.44850853,0.05445999,0.7619,4.5849624,0.5598138
+0808N: GDP per capita  (current US$) - WDI - 5,0642: Secure Internet servers  (per 1 million people) - WDI - 583,0.75755,0.1471085,0.08655,0.75755,4.5849624,0.7813076
+0808N: GDP per capita  (current US$) - WDI - 5,1899: Percentage of Individuals using the Internet (%) - ITU - 1657,0.75015,0.18218136,0.09334999,0.75015,4.4594316,0.75363696
+0808N: GDP per capita  (current US$) - WDI - 5,0643: Internet users  (per 100 people) - WDI - 584,0.74895,0.16468877,0.048099995,0.74895,4.5849624,0.76436985
+0808N: GDP per capita  (current US$) - WDI - 5,2708: Demographic Pressures - Fund for Peace - 1703,0.74474,0.19506145,0.12227005,0.72897,4.4594316,-0.7414031
+0808N: GDP per capita  (current US$) - WDI - 5,1415: Account at a financial institution; income; poorest 40%  (% ages 15+) - WDI - 1320,0.74175,0.15137464,0.16301,0.72654,4.321928,0.7683589
+0808N: GDP per capita  (current US$) - WDI - 5,0638: Fixed telephone subscriptions  (per 100 people) - WDI - 579,0.74019,0.26602277,0.08643001,0.74019,4.5849624,0.68859804
+0808N: GDP per capita  (current US$) - WDI - 5,0380: Energy use  (kg of oil equivalent per capita) - WDI - 366,0.73981,0.26146138,0.056930006,0.73981,4.321928,0.6916275
+0808N: GDP per capita  (current US$) - WDI - 5,1433: Air and GHG emissions - CO2 (TONNE_CAP) - OECD - 1327,0.73975,0.27174917,0.11163998,0.72535,4.169925,0.6841059
+0808N: GDP per capita  (current US$) - WDI - 5,1898: Fixed-telephone subscriptions per 100 inhabitants - ITU - 1656,0.73672,0.2942933,0.11042005,0.73672,4.4594316,0.66515166
+0808N: GDP per capita  (current US$) - WDI - 5,2712: Poverty and Economic Decline - Fund for Peace - 1707,0.73281,0.17023766,0.07942003,0.71514,4.4594316,-0.7500482
+0808N: GDP per capita  (current US$) - WDI - 5,1413: Account at a financial institution; male  (% age 15+) - WDI - 1318,0.71849,0.18387109,0.10154998,0.70548,4.321928,0.7311764
+0808N: GDP per capita  (current US$) - WDI - 5,1031: Mortality rate; neonatal  (per 1;000 live births) - WDI - 953,0.71594,0.3895765,0.10143,0.71594,4.5849624,-0.5712823
+0808N: GDP per capita  (current US$) - WDI - 5,1028: Mortality rate; under-5  (per 1;000 live births) - WDI - 952,0.70852,0.4642584,0.07658005,0.70852,4.5849624,-0.49422827
+0808N: GDP per capita  (current US$) - WDI - 5,1283: Mortality rate; infant  (per 1;000 live births) - WDI - 1189,0.70695,0.42264843,0.08228004,0.70695,4.5849624,-0.53319937
+0808N: GDP per capita  (current US$) - WDI - 5,1416: Account at a financial institution; income; richest 60%  (% ages 15+) - WDI - 1321,0.70387,0.18449575,0.12333,0.685,4.321928,0.72067624
+0808N: GDP per capita  (current US$) - WDI - 5,1412: Account at a financial institution  (% age 15+) - WDI - 1317,0.7034,0.14744675,0.122039974,0.69658,4.321928,0.74562275
+0808N: GDP per capita  (current US$) - WDI - 5,0640: Fixed broadband subscriptions  (per 100 people) - WDI - 581,0.69067,0.10557127,0.030489981,0.68052,4.5849624,0.7649175
+0808N: GDP per capita  (current US$) - WDI - 5,1901: Fixed-broadband subscriptions per 100 inhabitants - ITU - 1659,0.68094,0.118849576,0.02857995,0.66819,4.4594316,0.7497269
+0808N: GDP per capita  (current US$) - WDI - 5,2706: Failed States Index Rank - Fund for Peace - 1701,0.68092,0.21340802,0.056950033,0.66086,4.4594316,0.6837485
+0808N: GDP per capita  (current US$) - WDI - 5,2707: Failed States Index Total - Fund for Peace - 1702,0.68092,0.09245467,0.048479974,0.66086,4.4594316,-0.76711494
+0808N: GDP per capita  (current US$) - WDI - 5,1414: Account at a financial institution; female  (% age 15+) - WDI - 1319,0.67339,0.12310505,0.124330044,0.658,4.321928,0.74181193
+0808N: GDP per capita  (current US$) - WDI - 5,0322: Net ODA received  (% of imports of goods; services and primary income) - WDI - 314,0.66735,0.54043895,0.086680055,0.64951,4.321928,-0.35624576
+0808N: GDP per capita  (current US$) - WDI - 5,1289: Survival to age 65; female  (% of cohort) - WDI - 1194,0.66203,0.3650305,0.06454003,0.66203,4.5849624,0.5449766
+0808N: GDP per capita  (current US$) - WDI - 5,0953: School enrollment; secondary; female  (% gross) - WDI - 883,0.66161,0.4042731,0.06411001,0.64543,4.4594316,0.50728387
+0808N: GDP per capita  (current US$) - WDI - 5,0773: Adjusted savings: particulate emission damage  (% of GNI) - WDI - 705,0.66126,0.45007706,0.083139986,0.64391,4.5849624,-0.45954648
+0808N: GDP per capita  (current US$) - WDI - 5,0954: School enrollment; secondary; male  (% gross) - WDI - 884,0.66105,0.3466849,0.06077999,0.64214,4.4594316,0.5606827
+0808N: GDP per capita  (current US$) - WDI - 5,2718: External Intervention - Fund for Peace - 1713,0.66044,0.17961702,0.093519986,0.64852,4.4594316,-0.69341403
+0808N: GDP per capita  (current US$) - WDI - 5,1035: Improved water source  (% of population with access) - WDI - 957,0.66032,0.44571212,0.08561003,0.66032,4.5849624,0.46325788
+0808N: GDP per capita  (current US$) - WDI - 5,0956: School enrollment; secondary; female  (% net) - WDI - 886,0.65967,0.44749987,0.099619985,0.63977,4.169925,0.4606193
+0808N: GDP per capita  (current US$) - WDI - 5,1285: Life expectancy at birth; female  (years) - WDI - 1190,0.65965,0.3367868,0.041560054,0.65965,4.5849624,0.56821054
+0808N: GDP per capita  (current US$) - WDI - 5,1050: Lifetime risk of maternal death  (1 in: rate varies by country) - WDI - 972,0.65922,0.28465477,0.07236999,0.64413,4.5849624,0.61201733
+0808N: GDP per capita  (current US$) - WDI - 5,1051: Lifetime risk of maternal death  (%) - WDI - 973,0.65922,0.51875305,0.06215,0.64413,4.5849624,-0.37478918
+0808N: GDP per capita  (current US$) - WDI - 5,1295: Population ages 0-14  (% of total) - WDI - 1200,0.65665,0.3067113,0.064010024,0.65665,4.5849624,-0.5915562
+0808N: GDP per capita  (current US$) - WDI - 5,0973: Secondary education; teachers  (% female) - WDI - 903,0.64665,0.5391129,0.03316003,0.62124,4.169925,0.32792848
+0808N: GDP per capita  (current US$) - WDI - 5,1300: Age dependency ratio; young  (% of working-age population) - WDI - 1205,0.64479,0.33934963,0.05268997,0.64479,4.5849624,-0.5526666
+0808N: GDP per capita  (current US$) - WDI - 5,0353: Agriculture value added per worker  (constant 2005 US$) - WDI - 345,0.64115,0.16780564,0.05874002,0.64115,4.4594316,0.68800026
+0808N: GDP per capita  (current US$) - WDI - 5,0978: School enrollment; tertiary  (% gross) - WDI - 908,0.64071,0.39152616,0.052670002,0.64071,4.321928,0.49918315
+0808N: GDP per capita  (current US$) - WDI - 5,1286: Life expectancy at birth; total  (years) - WDI - 1191,0.63622,0.28278902,0.04433,0.63622,4.5849624,0.5945006
+0808N: GDP per capita  (current US$) - WDI - 5,0177: Concessional debt  (% of total external debt) - WDI - 172,0.63596,0.17657697,0.04527998,0.59838,4.169925,-0.677778
+0808N: GDP per capita  (current US$) - WDI - 5,0952: School enrollment; secondary  (% gross) - WDI - 882,0.63582,0.34588295,0.04152,0.62014,4.4594316,0.538458
+0808N: GDP per capita  (current US$) - WDI - 5,0319: Net ODA received  (% of gross capital formation) - WDI - 311,0.63231,0.5324436,0.089430034,0.63231,4.169925,-0.3160164
+0808N: GDP per capita  (current US$) - WDI - 5,1924: Psychiatrists working in mental health sector (per 100;000) - WHO - 1666,0.63224,0.1327261,0.034539998,0.63224,4.321928,0.70676297
+0808N: GDP per capita  (current US$) - WDI - 5,0980: School enrollment; tertiary; male  (% gross) - WDI - 910,0.63197,0.38441324,0.07969999,0.61402,4.321928,0.49755076
+0808N: GDP per capita  (current US$) - WDI - 5,1276: Mortality rate; adult; female  (per 1;000 female adults) - WDI - 1183,0.62923,0.3931049,0.06666997,0.61763,4.5849624,-0.48592705
+0808N: GDP per capita  (current US$) - WDI - 5,1287: Life expectancy at birth; male  (years) - WDI - 1192,0.62905,0.2507269,0.037500024,0.62905,4.5849624,0.61507976
+0808N: GDP per capita  (current US$) - WDI - 5,0957: School enrollment; secondary; male  (% net) - WDI - 887,0.62855,0.3776472,0.10488999,0.60012,4.169925,0.500902
+0808N: GDP per capita  (current US$) - WDI - 5,0948: Pupil-teacher ratio; secondary - WDI - 878,0.62367,0.43310136,0.07683,0.62367,4.169925,-0.43654168
+0808N: GDP per capita  (current US$) - WDI - 5,1071: Maternal mortality ratio  (modeled estimate; per 100;000 live births) - WDI - 987,0.62277,0.44385338,0.036660016,0.60664,4.5849624,-0.42298537
+0808N: GDP per capita  (current US$) - WDI - 5,0979: School enrollment; tertiary; female  (% gross) - WDI - 909,0.62112,0.384621,0.09222999,0.60371,4.321928,0.4863116
+0808N: GDP per capita  (current US$) - WDI - 5,1058: Improved sanitation facilities  (% of population with access) - WDI - 975,0.62058,0.32958266,0.042549968,0.62058,4.5849624,0.5394417
+0808N: GDP per capita  (current US$) - WDI - 5,0928: Primary education; teachers  (% female) - WDI - 858,0.60716,0.4255629,0.08833003,0.60716,4.321928,0.4261421
+0808N: GDP per capita  (current US$) - WDI - 5,0165: PPG; IBRD  (DIS; current US$) - WDI - 160,0.60641,0.57883483,0.09818998,0.58339,4.169925,0.16605772
+0808N: GDP per capita  (current US$) - WDI - 5,1095: External resources for health  (% of total expenditure on health) - WDI - 1010,0.60324,0.50823444,0.028939992,0.5885,4.4594316,-0.30822974
+0808N: GDP per capita  (current US$) - WDI - 5,0539: Distance to frontier score  (0=lowest performance to 100=frontier) - WDI - 488,0.60207,0.1808187,0.027510017,0.58571,4.5849624,0.64903873
+0808N: GDP per capita  (current US$) - WDI - 5,2823: Balance of Payments-Imports-Personal; cultural; and recreational services (US dollar at current prices) - WTO - 1818,0.59639,0.26609546,0.05771002,0.56707,4.169925,0.5747126
+0808N: GDP per capita  (current US$) - WDI - 5,1016: Prevalence of anemia among children  (% of children under 5) - WDI - 943,0.59604,0.21383789,0.039880008,0.59604,4.5849624,-0.618225
+0808N: GDP per capita  (current US$) - WDI - 5,1298: Age dependency ratio  (% of working-age population) - WDI - 1203,0.59488,0.3770932,0.08989999,0.59488,4.5849624,-0.46667632
+0808N: GDP per capita  (current US$) - WDI - 5,1060: Improved sanitation facilities; urban  (% of urban population with access) - WDI - 977,0.59347,0.35094917,0.046249986,0.59347,4.5849624,0.492464
+0808N: GDP per capita  (current US$) - WDI - 5,0798: Forest rents  (% of GDP) - WDI - 730,0.59256,0.511789,0.078070015,0.57515,4.5849624,-0.28420237
+0808N: GDP per capita  (current US$) - WDI - 5,1290: Survival to age 65; male  (% of cohort) - WDI - 1195,0.58775,0.190314,0.07861003,0.58775,4.5849624,0.6304253
+0808N: GDP per capita  (current US$) - WDI - 5,1299: Age dependency ratio; old  (% of working-age population) - WDI - 1204,0.58315,0.29524118,0.049899995,0.58315,4.5849624,0.5365714
+0808N: GDP per capita  (current US$) - WDI - 5,0955: School enrollment; secondary  (% net) - WDI - 885,0.58208,0.34897244,0.061310023,0.55868,4.169925,0.48281214
+0808N: GDP per capita  (current US$) - WDI - 5,1296: Population ages 15-64  (% of total) - WDI - 1201,0.57968,0.3448057,0.05730003,0.57968,4.5849624,0.48463836
+0808N: GDP per capita  (current US$) - WDI - 5,0920: Persistence to last grade of primary; total  (% of cohort) - WDI - 850,0.57889,0.35445553,0.08074999,0.57889,4.0,0.4737452
+0808N: GDP per capita  (current US$) - WDI - 5,0320: Net ODA received  (% of GNI) - WDI - 312,0.57761,0.49537587,0.035559982,0.57761,4.321928,-0.28676495
+0808N: GDP per capita  (current US$) - WDI - 5,1059: Improved sanitation facilities; rural  (% of rural population with access) - WDI - 976,0.57761,0.2584432,0.030279994,0.57761,4.5849624,0.5649485
+0808N: GDP per capita  (current US$) - WDI - 5,1278: Birth rate; crude  (per 1;000 people) - WDI - 1185,0.57592,0.30723438,0.039689988,0.57592,4.5849624,-0.51834893
+0808N: GDP per capita  (current US$) - WDI - 5,0918: Persistence to last grade of primary; female  (% of cohort) - WDI - 848,0.57578,0.35238212,0.07145998,0.55762,4.169925,0.4726498
+0808N: GDP per capita  (current US$) - WDI - 5,1297: Population ages 65 and above  (% of total) - WDI - 1202,0.57525,0.2759599,0.04828,0.57525,4.5849624,0.54707414
+0808N: GDP per capita  (current US$) - WDI - 5,0235: PPG; IBRD  (INT; current US$) - WDI - 227,0.57287,0.5479186,0.09066999,0.55135,4.169925,0.15796004
+0808N: GDP per capita  (current US$) - WDI - 5,1288: Fertility rate; total  (births per woman) - WDI - 1193,0.57019,0.36865956,0.039499998,0.57019,4.5849624,-0.44892144
+0808N: GDP per capita  (current US$) - WDI - 5,0456: Commercial bank branches  (per 100;000 adults) - WDI - 406,0.56989,0.36795846,0.08711997,0.55716,4.5849624,0.44936797
+0808N: GDP per capita  (current US$) - WDI - 5,0542: New business density  (new registrations per 1;000 people ages 15-64) - WDI - 490,0.56818,0.4579934,0.015049994,0.56818,4.169925,0.33194372
+0808N: GDP per capita  (current US$) - WDI - 5,1967: Total fertility rate (per woman) - WHO - 1684,0.56505,0.37976477,0.04291001,0.55215,4.4594316,-0.43044773
+0808N: GDP per capita  (current US$) - WDI - 5,1895: Mobile-cellular telephone subscriptions - ITU - 1653,0.56342,0.39130276,0.029709995,0.56342,4.4594316,0.41487014
+0808N: GDP per capita  (current US$) - WDI - 5,1896: Mobile-cellular telephone subscriptions per 100 inhabitants - ITU - 1654,0.56342,0.39130276,0.029709995,0.56342,4.4594316,0.41487014
+0808N: GDP per capita  (current US$) - WDI - 5,0636: Mobile cellular subscriptions  (per 100 people) - WDI - 577,0.5573,0.37126505,0.024649978,0.5573,4.5849624,0.43131763
+0808N: GDP per capita  (current US$) - WDI - 5,1093: Incidence of tuberculosis  (per 100;000 people) - WDI - 1008,0.55515,0.4343598,0.060519964,0.54178,4.5849624,-0.3475488
+0808N: GDP per capita  (current US$) - WDI - 5,1033: Improved water source; rural  (% of rural population with access) - WDI - 955,0.55375,0.3151304,0.08528003,0.55375,4.5849624,0.488487
+0808N: GDP per capita  (current US$) - WDI - 5,0848: Net current transfers from abroad  (current LCU) - WDI - 780,0.55079,0.5502137,0.07811001,0.55079,4.321928,-0.024006378
+0808N: GDP per capita  (current US$) - WDI - 5,0919: Persistence to last grade of primary; male  (% of cohort) - WDI - 849,0.55038,0.32341707,0.09498,0.55038,4.0,0.47640628
+0808N: GDP per capita  (current US$) - WDI - 5,0337: PPG; IBRD  (TDS; current US$) - WDI - 329,0.54929,0.5101365,0.090110004,0.52776,4.169925,0.1978725
+0808N: GDP per capita  (current US$) - WDI - 5,1034: Improved water source; urban  (% of urban population with access) - WDI - 956,0.54533,0.40617025,0.05260998,0.54533,4.5849624,0.3730412
+0808N: GDP per capita  (current US$) - WDI - 5,0940: Lower secondary completion rate; male  (% of relevant age group) - WDI - 870,0.54423,0.35800928,0.07958999,0.52753,4.321928,0.43153295
+0808N: GDP per capita  (current US$) - WDI - 5,1903: Cellular subscribers (per 100 population) - WHO - 1660,0.54086,0.36133158,0.031229973,0.52618,4.4594316,0.42370796
+0808N: GDP per capita  (current US$) - WDI - 5,2704: Corruption perceptions index - Transparency - 1699,0.54052,-0.08907044,0.042460024,0.5199,4.4594316,0.79346734
+0808N: GDP per capita  (current US$) - WDI - 5,2719: Human Flight - Fund for Peace - 1714,0.54021,-0.0072141886,0.07249999,0.54021,4.169925,-0.7398812
+0808N: GDP per capita  (current US$) - WDI - 5,0062: Primary income receipts  (BoP; current US$) - WDI - 59,0.53895,0.4943305,0.043470025,0.51996,4.5849624,0.21123333
+0808N: GDP per capita  (current US$) - WDI - 5,2816: Balance of Payments-Imports-Financial services (US dollar at current prices) - WTO - 1811,0.5375,0.22633305,0.033600032,0.5375,4.169925,0.5578234
+0808N: GDP per capita  (current US$) - WDI - 5,1277: Mortality rate; adult; male  (per 1;000 male adults) - WDI - 1184,0.53693,0.20622936,0.064150035,0.5222,4.5849624,-0.5750658
+0808N: GDP per capita  (current US$) - WDI - 5,2788: Balance of Payments-Exports-Travel (US dollar at current prices) - WTO - 1783,0.53631,0.38986653,0.04534003,0.53631,4.321928,0.38267937
+0808N: GDP per capita  (current US$) - WDI - 5,0961: Progression to secondary school  (%) - WDI - 891,0.53512,0.38392824,0.09391001,0.51411,4.169925,0.38883385
+0808N: GDP per capita  (current US$) - WDI - 5,0886: School enrollment; preprimary; female  (% gross) - WDI - 816,0.53385,0.34225628,0.08261001,0.53385,4.321928,0.43771422
+0808N: GDP per capita  (current US$) - WDI - 5,0887: School enrollment; preprimary; male  (% gross) - WDI - 817,0.53385,0.33592993,0.07188001,0.53385,4.321928,0.44488212
+0808N: GDP per capita  (current US$) - WDI - 5,0882: School enrollment; tertiary (gross); gender parity index  (GPI) - WDI - 812,0.53338,0.405765,0.041940004,0.53338,4.0,0.3572324
+0808N: GDP per capita  (current US$) - WDI - 5,1312: Rural population  (% of total population) - WDI - 1217,0.53065,0.26260158,0.03896001,0.53065,4.5849624,-0.51773393
+0808N: GDP per capita  (current US$) - WDI - 5,1315: Urban population  (% of total) - WDI - 1220,0.53065,0.26258716,0.03896001,0.53065,4.5849624,0.5177479
+0808N: GDP per capita  (current US$) - WDI - 5,0939: Lower secondary completion rate; female  (% of relevant age group) - WDI - 869,0.52925,0.3439454,0.08783001,0.51255,4.321928,0.43047023
+0808N: GDP per capita  (current US$) - WDI - 5,0885: School enrollment; preprimary  (% gross) - WDI - 815,0.52898,0.33163396,0.07313001,0.52898,4.321928,0.4442365
+0808N: GDP per capita  (current US$) - WDI - 5,0855: Price level ratio of PPP conversion factor  to market exchange rate (GDP) - WDI - 786,0.5289,-0.0510782,0.055350006,0.5289,4.4594316,0.761563
+0808N: GDP per capita  (current US$) - WDI - 5,0625: Burden of customs procedure; WEF  (1=extremely inefficient to 7=extremely efficient) - WDI - 566,0.52815,0.1297763,0.08422002,0.52815,4.321928,0.63116854
+0808N: GDP per capita  (current US$) - WDI - 5,0291: Net official flows from UN agencies; UNFPA  (current US$) - WDI - 283,0.52669,0.52386326,0.21857,0.52669,4.169925,-0.0531671
+0808N: GDP per capita  (current US$) - WDI - 5,0229: Interest payments on external debt  (% of GNI) - WDI - 221,0.52454,0.3143609,0.030750006,0.49777,4.169925,0.45845297
+0808N: GDP per capita  (current US$) - WDI - 5,0941: Lower secondary completion rate; total  (% of relevant age group) - WDI - 871,0.52452,0.33832824,0.07488999,0.50887,4.321928,0.4314994
+0808N: GDP per capita  (current US$) - WDI - 5,0571: Time to import  (days) - WDI - 517,0.52325,0.3189566,0.08565,0.52325,4.5849624,-0.45198825
+0808N: GDP per capita  (current US$) - WDI - 5,0904: Gross intake ratio in first grade of primary education; total  (% of relevant age group) - WDI - 834,0.52224,0.48546875,0.17672998,0.50946,4.4594316,-0.19175832
+0808N: GDP per capita  (current US$) - WDI - 5,2797: Balance of Payments-Exports-Services (US dollar at current prices) - WTO - 1792,0.51627,0.33573335,0.11960998,0.49579,4.4594316,0.424896
+0808N: GDP per capita  (current US$) - WDI - 5,0518: Taxes on international trade  (% of revenue) - WDI - 467,0.51604,0.39887607,0.077279985,0.49464,4.169925,-0.34229222
+0808N: GDP per capita  (current US$) - WDI - 5,0784: Adjusted net savings; including particulate emission damage  (current US$) - WDI - 716,0.51436,0.5014242,0.07681,0.49022,4.169925,0.11373578
+0808N: GDP per capita  (current US$) - WDI - 5,1073: People practicing open defecation; rural  (% of rural population) - WDI - 989,0.51428,0.34997547,0.09193003,0.49944,4.5849624,-0.405345
+0808N: GDP per capita  (current US$) - WDI - 5,0164: IDA grants  (current US$) - WDI - 159,0.51367,0.49520108,0.10416001,0.49687,4.169925,-0.13590048
+0808N: GDP per capita  (current US$) - WDI - 5,1075: People practicing open defecation  (% of population) - WDI - 991,0.51225,0.36712,0.06418002,0.50197,4.5849624,-0.38095933
+0808N: GDP per capita  (current US$) - WDI - 5,0361: Electric power transmission and distribution losses  (% of output) - WDI - 350,0.51159,0.3623057,0.08090001,0.51159,4.169925,-0.38637328
+0808N: GDP per capita  (current US$) - WDI - 5,2709: Refugees and IDPs - Fund for Peace - 1704,0.51119,0.18237576,0.08557001,0.48884,4.4594316,-0.57342327
+0808N: GDP per capita  (current US$) - WDI - 5,0976: Adolescents out of school  (% of lower secondary school age) - WDI - 906,0.51103,0.3698383,0.09339002,0.51103,3.807355,-0.37575486
+0808N: GDP per capita  (current US$) - WDI - 5,2785: Balance of Payments-Exports-Commercial services (US dollar at current prices) - WTO - 1780,0.50939,0.32804182,0.10655999,0.48389,4.4594316,0.42584994
+0808N: GDP per capita  (current US$) - WDI - 5,2743: Merchandise trade-Exports-Pharmaceuticals (US dollar at current prices) - WTO - 1738,0.50911,0.31619608,0.14903998,0.49325,4.321928,0.43921965
+0808N: GDP per capita  (current US$) - WDI - 5,1313: Urban population growth  (annual %) - WDI - 1218,0.50807,0.44686994,0.07896,0.50807,4.5849624,-0.24738644
+0808N: GDP per capita  (current US$) - WDI - 5,0626: Quality of port infrastructure; WEF  (1=extremely underdeveloped to 7=well developed and efficient by international standards) - WDI - 567,0.50325,0.105205,0.049929976,0.50325,4.321928,0.6309081
+0808N: GDP per capita  (current US$) - WDI - 5,0039: Transport services  (% of service imports; BoP) - WDI - 36,0.50171,0.31700754,0.058209985,0.48105,4.5849624,-0.42977026
+0808N: GDP per capita  (current US$) - WDI - 5,2792: Balance of Payments-Exports-Financial services (US dollar at current prices) - WTO - 1787,0.50122,0.30830768,0.034390002,0.47633,4.169925,0.43921784
+0808N: GDP per capita  (current US$) - WDI - 5,0847: Net current transfers from abroad  (current US$) - WDI - 779,0.50079,0.44090742,0.073929995,0.50079,4.321928,-0.24470921
+0808N: GDP per capita  (current US$) - WDI - 5,0123: PPG; IBRD  (AMT; current US$) - WDI - 120,0.50065,0.45960498,0.07506001,0.48074,4.169925,0.20259568
+0808N: GDP per capita  (current US$) - WDI - 5,2716: Security Apparatus - Fund for Peace - 1711,0.4945,0.009319991,0.056840003,0.4945,4.321928,-0.69654864
+0808N: GDP per capita  (current US$) - WDI - 5,0152: Currency composition of PPG debt; SDR  (%) - WDI - 147,0.49438,0.25151634,0.080850005,0.47419,4.169925,-0.492812
+0808N: GDP per capita  (current US$) - WDI - 5,2711: Uneven Development - Fund for Peace - 1706,0.49347,-0.02634573,0.042320013,0.49347,4.321928,-0.7209825
+0808N: GDP per capita  (current US$) - WDI - 5,2791: Balance of Payments-Exports-Insurance and pension services (US dollar at current prices) - WTO - 1786,0.49345,0.3589437,0.07332,0.4715,4.321928,0.36675102
+0808N: GDP per capita  (current US$) - WDI - 5,0577: Cost of business start-up procedures  (% of GNI per capita) - WDI - 521,0.49265,0.3803,0.03512001,0.4845,4.5849624,-0.33518654
+0808N: GDP per capita  (current US$) - WDI - 5,0055: Net secondary income  (BoP; current US$) - WDI - 52,0.49141,0.38086134,0.061230004,0.48506,4.4594316,-0.33248857
+0808N: GDP per capita  (current US$) - WDI - 5,0696: Gross national expenditure  (% of GDP) - WDI - 628,0.49083,0.26045406,0.03801,0.49083,4.321928,-0.47997493
+0808N: GDP per capita  (current US$) - WDI - 5,0765: Adjusted savings: net forest depletion  (% of GNI) - WDI - 697,0.49071,0.43100324,0.05265999,0.477,4.5849624,-0.24434964
+0808N: GDP per capita  (current US$) - WDI - 5,2713: Legitimacy of the State - Fund for Peace - 1708,0.48658,-0.015489221,0.069649994,0.47853,4.4594316,-0.70856845
+0808N: GDP per capita  (current US$) - WDI - 5,1376: Transport services  (% of commercial service imports) - WDI - 1281,0.48609,0.27934042,0.07241002,0.47048,4.5849624,-0.45469725
+0808N: GDP per capita  (current US$) - WDI - 5,0289: Net official flows from UN agencies; UNDP  (current US$) - WDI - 281,0.48537,0.4816509,0.09209001,0.48537,4.321928,-0.06098451
+0808N: GDP per capita  (current US$) - WDI - 5,0485: Lending interest rate  (%) - WDI - 434,0.48515,0.27758557,0.05177,0.48515,3.321928,-0.45559242
+0808N: GDP per capita  (current US$) - WDI - 5,0344: PPG; commercial banks  (TDS; current US$) - WDI - 336,0.4849,0.45773435,0.09752998,0.46928,4.169925,0.16482008
+0808N: GDP per capita  (current US$) - WDI - 5,1074: People practicing open defecation; urban  (% of urban population) - WDI - 990,0.48172,0.40007782,0.056989998,0.46793,4.5849624,-0.285731
+0808N: GDP per capita  (current US$) - WDI - 5,0029: Cereal yield  (kg per hectare) - WDI - 26,0.48041,0.39098063,0.08098,0.46094,4.5849624,0.29904744
+0808N: GDP per capita  (current US$) - WDI - 5,0490: Claims on other sectors of the domestic economy  (% of GDP) - WDI - 439,0.47933,0.023477793,0.04745999,0.46344,4.321928,0.6751683
+0808N: GDP per capita  (current US$) - WDI - 5,0884: Pupil-teacher ratio; preprimary - WDI - 814,0.47759,0.33068883,0.12213999,0.47759,4.169925,-0.38327688
+0808N: GDP per capita  (current US$) - WDI - 5,0921: Repeaters; primary; female  (% of female enrollment) - WDI - 851,0.47725,0.33648896,0.08201,0.47725,4.321928,-0.37518138
+0808N: GDP per capita  (current US$) - WDI - 5,0053: Portfolio Investment; net  (BoP; current US$) - WDI - 50,0.47681,0.4149347,0.28527,0.47681,4.321928,-0.24874747
+0808N: GDP per capita  (current US$) - WDI - 5,0892: Primary completion rate; female  (% of relevant age group) - WDI - 822,0.47523,0.39560515,0.05217001,0.45655,4.321928,0.2821788
+0808N: GDP per capita  (current US$) - WDI - 5,0368: Renewable energy consumption  (% of total final energy consumption) - WDI - 357,0.47485,0.3430364,0.05524999,0.46768,4.5849624,-0.3630614
+0808N: GDP per capita  (current US$) - WDI - 5,0894: Primary completion rate; total  (% of relevant age group) - WDI - 824,0.4747,0.39025253,0.079950005,0.46916,4.321928,0.29059845
+0808N: GDP per capita  (current US$) - WDI - 5,0269: Net financial flows; IBRD  (NFL; current US$) - WDI - 261,0.47223,0.47007558,0.14482999,0.47223,4.169925,0.046415478
+0808N: GDP per capita  (current US$) - WDI - 5,2817: Balance of Payments-Imports-Charges for the use of intellectual property n.i.e. (US dollar at current prices) - WTO - 1812,0.47045,0.30146652,0.08516002,0.47045,4.169925,0.41107604
+0808N: GDP per capita  (current US$) - WDI - 5,0059: ICT service exports  (BoP; current US$) - WDI - 56,0.47043,0.4360822,0.09538999,0.47043,4.321928,0.1853315
+0808N: GDP per capita  (current US$) - WDI - 5,0245: PPG; private creditors  (INT; current US$) - WDI - 237,0.46997,0.43447825,0.07950997,0.44702,4.169925,0.18839249
+0808N: GDP per capita  (current US$) - WDI - 5,0378: Combustible renewables and waste  (% of total energy) - WDI - 364,0.46863,0.3161437,0.04178998,0.46863,4.321928,-0.39049494
+0808N: GDP per capita  (current US$) - WDI - 5,0309: PPG; commercial banks  (NTR; current US$) - WDI - 301,0.46685,0.43120533,0.14349002,0.43638,4.169925,-0.18879795
+0808N: GDP per capita  (current US$) - WDI - 5,1952: Number of neonatal deaths (thousands) - WHO - 1678,0.46665,0.449851,0.15714002,0.44426,4.4594316,-0.129611
+0808N: GDP per capita  (current US$) - WDI - 5,0193: PPG; IBRD  (DOD; current US$) - WDI - 188,0.46638,0.4454897,0.04732001,0.44486,4.169925,0.14453474
+0808N: GDP per capita  (current US$) - WDI - 5,0729: External balance on goods and services  (% of GDP) - WDI - 661,0.46591,0.2616548,0.01817,0.44922,4.5849624,0.451946
+0808N: GDP per capita  (current US$) - WDI - 5,0922: Repeaters; primary; male  (% of male enrollment) - WDI - 852,0.4659,0.32230586,0.087439984,0.4659,4.321928,-0.37893817
+0808N: GDP per capita  (current US$) - WDI - 5,0129: PPG; commercial banks  (AMT; current US$) - WDI - 126,0.46533,0.43860376,0.081370026,0.4454,4.169925,0.16348167
+0808N: GDP per capita  (current US$) - WDI - 5,2794: Balance of Payments-Exports-Telecommunications; computer; and information services (US dollar at current prices) - WTO - 1789,0.46498,0.36211875,0.1189,0.46498,4.321928,0.3207199
+0808N: GDP per capita  (current US$) - WDI - 5,0103: Net bilateral aid flows from DAC donors; Japan  (current US$) - WDI - 100,0.46265,0.4593885,0.14067,0.46265,4.321928,-0.057109494
+0808N: GDP per capita  (current US$) - WDI - 5,0893: Primary completion rate; male  (% of relevant age group) - WDI - 823,0.46256,0.3694629,0.039899975,0.44324,4.321928,0.30511817
+0808N: GDP per capita  (current US$) - WDI - 5,0240: PPG; bonds  (INT; current US$) - WDI - 232,0.46193,0.42520738,0.08653,0.44678,4.169925,0.1916315
+0808N: GDP per capita  (current US$) - WDI - 5,1323: International tourism; receipts for travel items  (current US$) - WDI - 1228,0.46081,0.4352385,0.057469994,0.44336,4.5849624,0.15991093
+0808N: GDP per capita  (current US$) - WDI - 5,1021: Number of infant deaths - WDI - 947,0.46058,0.45008177,0.15032001,0.46058,4.4594316,-0.10246081
+0808N: GDP per capita  (current US$) - WDI - 5,0348: PPG; private creditors  (TDS; current US$) - WDI - 340,0.45912,0.42621112,0.06278998,0.43486,4.169925,0.1814081
+0808N: GDP per capita  (current US$) - WDI - 5,1273: Adolescent fertility rate  (births per 1;000 women ages 15-19) - WDI - 1182,0.45887,0.20299336,0.022520006,0.45887,4.5849624,-0.5058425
+0808N: GDP per capita  (current US$) - WDI - 5,2819: Balance of Payments-Imports-Telecommunications services (US dollar at current prices) - WTO - 1814,0.45867,0.24111769,0.13724998,0.45867,4.169925,0.46642503
+0808N: GDP per capita  (current US$) - WDI - 5,0303: PPG; IBRD  (NTR; current US$) - WDI - 295,0.45846,0.42543095,0.16751,0.44334,4.169925,-0.18173893
+0808N: GDP per capita  (current US$) - WDI - 5,0691: Gross national expenditure deflator  (base year varies by country) - WDI - 623,0.45833,0.4315519,0.07497999,0.45833,4.0,-0.16364016
+0808N: GDP per capita  (current US$) - WDI - 5,0585: Tax payments  (number) - WDI - 527,0.4574,0.25423998,0.07664999,0.44248,4.5849624,-0.45073277
+0808N: GDP per capita  (current US$) - WDI - 5,0553: Time to export  (days) - WDI - 500,0.45345,0.2611857,0.030479997,0.45345,4.5849624,-0.43847954
+0808N: GDP per capita  (current US$) - WDI - 5,2822: Balance of Payments-Imports-Other business services (US dollar at current prices) - WTO - 1817,0.45131,0.25527793,0.087740004,0.45131,4.321928,0.4427551
+0808N: GDP per capita  (current US$) - WDI - 5,1101: Health expenditure; public  (% of total health expenditure) - WDI - 1016,0.45076,0.2820869,0.11644,0.45076,4.5849624,0.4106983
+0808N: GDP per capita  (current US$) - WDI - 5,0759: Services; etc.; value added  (% of GDP) - WDI - 691,0.45044,0.3074705,0.03545001,0.43891,4.5849624,0.3781131
+0808N: GDP per capita  (current US$) - WDI - 5,1269: Prevalence of undernourishment  (% of population) - WDI - 1178,0.4488,0.27538827,0.022080004,0.4488,4.169925,-0.41642734
+0808N: GDP per capita  (current US$) - WDI - 5,0786: Adjusted net savings; excluding particulate emission damage  (current US$) - WDI - 718,0.4475,0.43366948,0.06595999,0.4475,4.169925,0.11760323
+0808N: GDP per capita  (current US$) - WDI - 5,0946: Secondary education; general pupils  (% female) - WDI - 876,0.44644,0.38344747,0.12723,0.44644,4.0,0.25098312
+0808N: GDP per capita  (current US$) - WDI - 5,0049: Net trade in goods and services  (BoP; current US$) - WDI - 46,0.4464,0.43869957,0.102559984,0.42782,4.4594316,0.08775192
+0808N: GDP per capita  (current US$) - WDI - 5,2744: Merchandise trade-Exports-Machinery and transport equipment (US dollar at current prices) - WTO - 1739,0.44634,0.38212478,0.08888999,0.44634,4.321928,0.25340724
+0808N: GDP per capita  (current US$) - WDI - 5,0047: Net financial account  (BoP; current US$) - WDI - 44,0.44592,0.44416925,0.21995999,0.43203,4.4594316,0.041841872
+0808N: GDP per capita  (current US$) - WDI - 5,0944: Secondary education; pupils  (% female) - WDI - 874,0.44525,0.42188016,0.09715,0.44525,4.321928,0.15287197
+0808N: GDP per capita  (current US$) - WDI - 5,0284: Net financial flows; RDB concessional  (NFL; current US$) - WDI - 276,0.44493,0.43405387,0.046710014,0.41217,4.169925,-0.1042886
+0808N: GDP per capita  (current US$) - WDI - 5,0460: Domestic credit to private sector by banks  (% of GDP) - WDI - 409,0.44304,0.025673449,0.031569988,0.42879,4.5849624,0.6460391
+0808N: GDP per capita  (current US$) - WDI - 5,2746: Merchandise trade-Exports-Electronic data processing and office equipment (US dollar at current prices) - WTO - 1741,0.44285,0.43423727,0.023029998,0.42312,4.321928,0.092804715
+0808N: GDP per capita  (current US$) - WDI - 5,0903: Gross intake ratio in first grade of primary education; male  (% of relevant age group) - WDI - 833,0.44254,0.38498288,0.07023999,0.44254,4.321928,-0.23991059
+0808N: GDP per capita  (current US$) - WDI - 5,0492: Domestic credit to private sector  (% of GDP) - WDI - 441,0.44196,0.105443776,0.03768,0.4279,4.5849624,0.5801002
+0808N: GDP per capita  (current US$) - WDI - 5,2747: Merchandise trade-Exports-Telecommunications equipment (US dollar at current prices) - WTO - 1742,0.44044,0.43111163,0.032079995,0.42175,4.321928,0.09658349
+0808N: GDP per capita  (current US$) - WDI - 5,2715: Human Rights - Fund for Peace - 1710,0.44014,0.030144572,0.049979985,0.4288,4.4594316,-0.64030886
+0808N: GDP per capita  (current US$) - WDI - 5,1383: ICT goods exports  (% of total goods exports) - WDI - 1288,0.44006,0.407342,0.05879,0.44006,4.321928,0.18088119
+0808N: GDP per capita  (current US$) - WDI - 5,1025: Number of neonatal deaths - WDI - 949,0.43794,0.42758012,0.12766,0.42325,4.5849624,-0.101783484
+0808N: GDP per capita  (current US$) - WDI - 5,0241: PPG; commercial banks  (INT; current US$) - WDI - 233,0.4369,0.40729073,0.09849,0.41486,4.169925,0.17207344
+0808N: GDP per capita  (current US$) - WDI - 5,1023: Number of under-five deaths - WDI - 948,0.43667,0.4260418,0.12009001,0.43667,4.4594316,-0.10309308
+0808N: GDP per capita  (current US$) - WDI - 5,0231: Interest payments on external debt; long-term  (INT; current US$) - WDI - 223,0.43529,0.40530455,0.07530999,0.41905,4.169925,0.17316313
+0808N: GDP per capita  (current US$) - WDI - 5,2798: Balance of Payments-Exports-Other services (US dollar at current prices) - WTO - 1793,0.43483,0.28682762,0.039710015,0.43483,4.321928,0.38471076
+0808N: GDP per capita  (current US$) - WDI - 5,0056: Net capital account  (BoP; current US$) - WDI - 53,0.4348,0.43468797,0.13231999,0.39867,4.321928,-0.010583902
+0808N: GDP per capita  (current US$) - WDI - 5,0552: Documents to export  (number) - WDI - 499,0.43394,0.12011418,0.047939986,0.43394,4.5849624,-0.5602016
+0808N: GDP per capita  (current US$) - WDI - 5,1410: Intentional homicides  (per 100;000 people) - WDI - 1315,0.43394,0.38696346,0.089379996,0.41298,4.169925,-0.21674071
+0808N: GDP per capita  (current US$) - WDI - 5,0844: Net taxes on products  (current US$) - WDI - 776,0.43344,0.36864364,0.055510014,0.419,4.321928,0.2545513
+0808N: GDP per capita  (current US$) - WDI - 5,2739: Merchandise trade-Imports-Clothing (US dollar at current prices) - WTO - 1734,0.43341,0.32218954,0.06048,0.43341,4.321928,0.33349732
+0808N: GDP per capita  (current US$) - WDI - 5,2804: Balance of Payments-Imports-Other commercial services (US dollar at current prices) - WTO - 1799,0.43331,0.23468372,0.059350014,0.43331,4.321928,0.44567508
+0808N: GDP per capita  (current US$) - WDI - 5,1052: Prevalence of anemia among pregnant women  (%) - WDI - 974,0.43243,0.25690323,0.04724002,0.43243,4.5849624,-0.41895914
+0808N: GDP per capita  (current US$) - WDI - 5,0133: PPG; private creditors  (AMT; current US$) - WDI - 130,0.43209,0.40085554,0.05620998,0.40953,4.169925,0.17673281
+0808N: GDP per capita  (current US$) - WDI - 5,0766: Adjusted savings: consumption of fixed capital  (current US$) - WDI - 698,0.431,0.3729109,0.024289995,0.431,4.4594316,0.24101682
+0808N: GDP per capita  (current US$) - WDI - 5,0570: Documents to import  (number) - WDI - 516,0.43084,0.16838178,0.112179995,0.43084,4.5849624,-0.51230675
+0808N: GDP per capita  (current US$) - WDI - 5,1402: Commercial service exports  (current US$) - WDI - 1307,0.43035,0.39976245,0.04888001,0.41741,4.5849624,0.17489296
+0808N: GDP per capita  (current US$) - WDI - 5,0923: Repeaters; primary; total  (% of total enrollment) - WDI - 853,0.43026,0.28688395,0.061340004,0.43026,4.321928,-0.37865028
+0808N: GDP per capita  (current US$) - WDI - 5,0057: Grants; excluding technical cooperation  (BoP; current US$) - WDI - 54,0.42979,0.42789757,0.043260008,0.42979,4.169925,-0.04350189
+0808N: GDP per capita  (current US$) - WDI - 5,0327: Debt service on external debt; total  (TDS; current US$) - WDI - 319,0.42922,0.40296733,0.055220008,0.40387,4.169925,0.16202675
+0808N: GDP per capita  (current US$) - WDI - 5,0331: Debt service on external debt; long-term  (TDS; current US$) - WDI - 323,0.42922,0.40263942,0.047879994,0.40387,4.169925,0.16303545
+0808N: GDP per capita  (current US$) - WDI - 5,2818: Balance of Payments-Imports-Telecommunications; computer; and information services (US dollar at current prices) - WTO - 1813,0.42856,0.24450311,0.05348,0.42856,4.321928,0.4290185
+0808N: GDP per capita  (current US$) - WDI - 5,2780: Merchandise trade-Exports-Total merchandise (US dollar at current prices) - WTO - 1775,0.42815,0.31617343,0.028179988,0.42815,4.4594316,0.334629
+0808N: GDP per capita  (current US$) - WDI - 5,2787: Balance of Payments-Exports-Transport (US dollar at current prices) - WTO - 1782,0.42717,0.21287383,0.04539001,0.42717,4.321928,0.46292135
+0808N: GDP per capita  (current US$) - WDI - 5,2803: Balance of Payments-Imports-Travel (US dollar at current prices) - WTO - 1798,0.42693,0.26168907,0.028549999,0.42693,4.321928,0.40649837
+0808N: GDP per capita  (current US$) - WDI - 5,2748: Merchandise trade-Exports-Integrated circuits and electronic components (US dollar at current prices) - WTO - 1743,0.42672,0.38139313,0.04492998,0.40919,4.321928,0.21290104
+0808N: GDP per capita  (current US$) - WDI - 5,0078: Personal remittances; received  (% of GDP) - WDI - 75,0.42529,0.36112058,0.06012,0.41517,4.5849624,-0.2533168
+0808N: GDP per capita  (current US$) - WDI - 5,0902: Gross intake ratio in first grade of primary education; female  (% of relevant age group) - WDI - 832,0.42473,0.40911838,0.120570004,0.42473,4.321928,-0.12494643
+0808N: GDP per capita  (current US$) - WDI - 5,0727: External balance on goods and services  (current LCU) - WDI - 659,0.42462,0.42396614,0.031040013,0.4054,4.4594316,-0.025570983
+0808N: GDP per capita  (current US$) - WDI - 5,0852: Official exchange rate  (LCU per US$; period average) - WDI - 784,0.42458,0.40596464,0.08163002,0.42458,4.321928,-0.13643815
+0808N: GDP per capita  (current US$) - WDI - 5,2745: Merchandise trade-Exports-Office and telecom equipment (US dollar at current prices) - WTO - 1740,0.42348,0.40614557,0.067719996,0.4055,4.321928,0.13166028
+0808N: GDP per capita  (current US$) - WDI - 5,2710: Group Grievance - Fund for Peace - 1705,0.42305,0.11944333,0.07323998,0.4108,4.4594316,-0.5510051
+0808N: GDP per capita  (current US$) - WDI - 5,0044: Personal remittances; paid  (current US$) - WDI - 41,0.42297,0.38824594,0.075430006,0.40976,4.5849624,0.18634395
+0808N: GDP per capita  (current US$) - WDI - 5,0227: Interest payments on external debt; total  (INT; current US$) - WDI - 219,0.42277,0.39545354,0.07211,0.40273,4.169925,0.16527693
+0808N: GDP per capita  (current US$) - WDI - 5,2800: Balance of Payments-Imports-Commercial services (US dollar at current prices) - WTO - 1795,0.42266,0.22551255,0.025840014,0.40844,4.4594316,0.44401288
+0808N: GDP per capita  (current US$) - WDI - 5,0699: Exports of goods and services  (constant 2005 US$) - WDI - 631,0.42126,0.40050068,0.05118999,0.42126,4.321928,0.1440809
+0808N: GDP per capita  (current US$) - WDI - 5,0067: Charges for the use of intellectual property; receipts  (BoP; current US$) - WDI - 64,0.42112,0.3618495,0.10047001,0.42112,4.169925,0.24345535
+0808N: GDP per capita  (current US$) - WDI - 5,2717: Factionalized Elites - Fund for Peace - 1712,0.42044,0.031001568,0.03719002,0.40661,4.4594316,-0.62405
+0808N: GDP per capita  (current US$) - WDI - 5,1396: Merchandise exports to low- and middle-income economies in Sub-Saharan Africa  (% of total merchandise exports) - WDI - 1301,0.41912,0.35592467,0.068670005,0.41912,4.4594316,-0.25138685
+0808N: GDP per capita  (current US$) - WDI - 5,0254: Average maturity on new external debt commitments  (years) - WDI - 246,0.41901,0.32477027,0.09246999,0.38422,4.169925,-0.3069849
+0808N: GDP per capita  (current US$) - WDI - 5,2795: Balance of Payments-Exports-Other business services (US dollar at current prices) - WTO - 1790,0.41827,0.25690213,0.02215001,0.39997,4.321928,0.4017062
+0808N: GDP per capita  (current US$) - WDI - 5,2805: Balance of Payments-Imports-Services (US dollar at current prices) - WTO - 1800,0.41821,0.22437102,0.02831,0.40201,4.4594316,0.4402715
+0808N: GDP per capita  (current US$) - WDI - 5,0219: Average grant element on new external debt commitments  (%) - WDI - 211,0.41792,0.35055786,0.09426001,0.39319,4.169925,-0.25954214
+0808N: GDP per capita  (current US$) - WDI - 5,1403: High-technology exports  (current US$) - WDI - 1308,0.4179,0.3993832,0.031460002,0.40495,4.4594316,0.13607645
+0808N: GDP per capita  (current US$) - WDI - 5,1369: Merchandise imports from low- and middle-income economies in Sub-Saharan Africa  (% of total merchandise imports) - WDI - 1274,0.41672,0.34731793,0.074690014,0.41672,4.321928,-0.26344272
+0808N: GDP per capita  (current US$) - WDI - 5,0671: Household final consumption expenditure; etc.  (% of GDP) - WDI - 603,0.41622,0.20958607,0.06285,0.39961,4.5849624,-0.45457006
+0808N: GDP per capita  (current US$) - WDI - 5,0881: School enrollment; secondary (gross); gender parity index  (GPI) - WDI - 811,0.41583,0.3975393,0.06834999,0.41583,4.169925,0.13524306
+0808N: GDP per capita  (current US$) - WDI - 5,0596: Patent applications; residents - WDI - 537,0.41542,0.41271585,0.07698998,0.39696,4.169925,0.052001446
+0808N: GDP per capita  (current US$) - WDI - 5,0201: PPG; commercial banks  (DOD; current US$) - WDI - 196,0.41502,0.39368096,0.11831999,0.38143,4.169925,0.14607888
+0808N: GDP per capita  (current US$) - WDI - 5,0329: Total debt service  (% of GNI) - WDI - 321,0.41475,0.26568744,0.058759987,0.39752,4.169925,0.38608623
+0808N: GDP per capita  (current US$) - WDI - 5,0066: Service exports  (BoP; current US$) - WDI - 63,0.41133,0.3807625,0.03218001,0.39344,4.5849624,0.17483573
+0808N: GDP per capita  (current US$) - WDI - 5,0032: Primary income payments  (BoP; current US$) - WDI - 29,0.41111,0.37465215,0.04110001,0.40152,4.5849624,0.1909394
+0808N: GDP per capita  (current US$) - WDI - 5,0906: School enrollment; primary; female  (% net) - WDI - 836,0.41109,0.30123574,0.0598,0.41109,4.169925,0.33144268
+0808N: GDP per capita  (current US$) - WDI - 5,0545: Private credit bureau coverage  (% of adults) - WDI - 492,0.41021,0.20199929,0.06537999,0.3941,4.5849624,0.45630112
+0808N: GDP per capita  (current US$) - WDI - 5,0119: Principal repayments on external debt; long-term + IMF  (AMT; current US$) - WDI - 116,0.41011,0.3845039,0.07043001,0.38814,4.169925,0.16001904
+0808N: GDP per capita  (current US$) - WDI - 5,0120: Principal repayments on external debt; long-term  (AMT; current US$) - WDI - 117,0.41011,0.3845767,0.029180005,0.38814,4.169925,0.15979142
+0808N: GDP per capita  (current US$) - WDI - 5,0063: Exports of goods and services  (BoP; current US$) - WDI - 60,0.40967,0.38793954,0.032289997,0.39323,4.5849624,0.14741252
+0808N: GDP per capita  (current US$) - WDI - 5,0043: Secondary income; other sectors; payments  (BoP; current US$) - WDI - 40,0.40957,0.36541188,0.031759992,0.40957,4.4594316,0.21013838
+0808N: GDP per capita  (current US$) - WDI - 5,1362: Merchandise imports from high-income economies  (% of total merchandise imports) - WDI - 1267,0.40947,0.19202557,0.09928,0.39476,4.5849624,0.46630937
+0808N: GDP per capita  (current US$) - WDI - 5,1015: Prevalence of anemia among women of reproductive age  (% of women ages 15-49) - WDI - 942,0.40943,0.2003805,0.05790001,0.40943,4.5849624,-0.4572193
+0808N: GDP per capita  (current US$) - WDI - 5,0278: PPG; commercial banks  (NFL; current US$) - WDI - 270,0.40745,0.4053871,0.12464999,0.3918,4.169925,-0.04541903
+0808N: GDP per capita  (current US$) - WDI - 5,0068: Exports of goods; services and primary income  (BoP; current US$) - WDI - 65,0.40722,0.38172135,0.046079993,0.38989,4.5849624,0.15968302
+0808N: GDP per capita  (current US$) - WDI - 5,0036: Service imports  (BoP; current US$) - WDI - 33,0.40668,0.3800993,0.029020011,0.39227,4.5849624,0.16303582
+0808N: GDP per capita  (current US$) - WDI - 5,0491: Domestic credit provided by financial sector  (% of GDP) - WDI - 440,0.40602,0.06682438,0.02858001,0.3903,4.5849624,0.58240503
+0808N: GDP per capita  (current US$) - WDI - 5,1207: Labor force participation rate; female (% of female population ages 15-64)  (modeled ILO estimate) - WDI - 1120,0.40561,0.36948317,0.15293,0.39085,4.5849624,0.19007054
+0808N: GDP per capita  (current US$) - WDI - 5,0314: Net official development assistance and official aid received  (current US$) - WDI - 306,0.40521,0.40312207,0.14355999,0.40521,4.321928,-0.04569371
+0808N: GDP per capita  (current US$) - WDI - 5,1301: Population growth  (annual %) - WDI - 1206,0.40465,0.39025435,0.055180013,0.40465,4.5849624,-0.11998191
+0808N: GDP per capita  (current US$) - WDI - 5,0486: Interest rate spread  (lending rate minus deposit rate; %) - WDI - 435,0.40445,0.30967003,0.024459988,0.40445,4.169925,-0.30786356
+0808N: GDP per capita  (current US$) - WDI - 5,0037: Charges for the use of intellectual property; payments  (BoP; current US$) - WDI - 34,0.40408,0.35873786,0.073359996,0.40408,4.321928,0.21293695
+0808N: GDP per capita  (current US$) - WDI - 5,1049: Number of maternal deaths - WDI - 971,0.40367,0.3852989,0.10589999,0.38967,4.5849624,-0.13554001
+0808N: GDP per capita  (current US$) - WDI - 5,2723: Merchandise trade-Exports-Manufactures (US dollar at current prices) - WTO - 1718,0.40366,0.3297475,0.06738001,0.40366,4.321928,0.27186853
+0808N: GDP per capita  (current US$) - WDI - 5,1375: Commercial service imports  (current US$) - WDI - 1280,0.40352,0.3767144,0.028349996,0.38911,4.5849624,0.16372406
+0808N: GDP per capita  (current US$) - WDI - 5,0726: External balance on goods and services  (current US$) - WDI - 658,0.40327,0.39834175,0.087390006,0.38712,4.4594316,0.07020164
+0808N: GDP per capita  (current US$) - WDI - 5,0051: Net errors and omissions  (BoP; current US$) - WDI - 48,0.40293,0.37006998,0.19548999,0.38068,4.4594316,-0.18127327
+0808N: GDP per capita  (current US$) - WDI - 5,0233: Interest payments on external debt; public and publicly guaranteed (PPG)  (INT; current US$) - WDI - 225,0.4024,0.37683097,0.06489,0.37703,4.169925,0.15990314
+0808N: GDP per capita  (current US$) - WDI - 5,1017: Prevalence of anemia among non-pregnant women  (% of women ages 15-49) - WDI - 944,0.40186,0.19865556,0.072019994,0.40186,4.5849624,-0.45078203
+0808N: GDP per capita  (current US$) - WDI - 5,0779: Adjusted net national income  (constant 2005 US$) - WDI - 711,0.40174,0.36903894,0.056140006,0.40174,4.321928,0.18083437
+0808N: GDP per capita  (current US$) - WDI - 5,1270: Depth of the food deficit  (kilocalories per person per day) - WDI - 1179,0.40154,0.22923912,0.036280006,0.40154,4.169925,-0.41509143
+0808N: GDP per capita  (current US$) - WDI - 5,2736: Merchandise trade-Imports-Transport equipment (US dollar at current prices) - WTO - 1731,0.40152,0.2961161,0.062480003,0.40152,4.321928,0.32465965
+0808N: GDP per capita  (current US$) - WDI - 5,1319: International tourism; receipts  (current US$) - WDI - 1224,0.40122,0.37513566,0.027730003,0.38473,4.5849624,0.16150647
+0808N: GDP per capita  (current US$) - WDI - 5,2789: Balance of Payments-Exports-Other commercial services (US dollar at current prices) - WTO - 1784,0.40078,0.25061965,0.02014999,0.40078,4.321928,0.3875053
+0808N: GDP per capita  (current US$) - WDI - 5,0194: PPG; IDA  (DOD; current US$) - WDI - 189,0.40043,0.39507797,0.04728,0.37905,4.169925,-0.07315747
+0808N: GDP per capita  (current US$) - WDI - 5,0897: Primary education; pupils  (% female) - WDI - 827,0.40031,0.35068852,0.12110999,0.40031,4.4594316,0.2227588
+0808N: GDP per capita  (current US$) - WDI - 5,2806: Balance of Payments-Imports-Other services (US dollar at current prices) - WTO - 1801,0.40003,0.21135278,0.033859998,0.40003,4.321928,0.4343699
+0808N: GDP per capita  (current US$) - WDI - 5,1321: International tourism; receipts for passenger transport items  (current US$) - WDI - 1226,0.39903,0.36832166,0.05068001,0.39903,4.321928,0.17523798
+0808N: GDP per capita  (current US$) - WDI - 5,2750: Merchandise trade-Exports-Automotive products (US dollar at current prices) - WTO - 1745,0.39871,0.32288146,0.08865002,0.39871,4.321928,0.27536982
+0808N: GDP per capita  (current US$) - WDI - 5,0335: Public and publicly guaranteed debt service  (% of GNI) - WDI - 327,0.39849,0.31775495,0.04964,0.36348,4.169925,0.28413916
+0808N: GDP per capita  (current US$) - WDI - 5,0879: School enrollment; primary (gross); gender parity index  (GPI) - WDI - 809,0.39846,0.32381874,0.06775001,0.38375,4.4594316,0.27320552
+0808N: GDP per capita  (current US$) - WDI - 5,0315: Net official development assistance and official aid received  (constant 2013 US$) - WDI - 307,0.39732,0.39520216,0.14997,0.39732,4.321928,-0.046020146
+0808N: GDP per capita  (current US$) - WDI - 5,2740: Merchandise trade-Exports-Fuels (US dollar at current prices) - WTO - 1735,0.39612,0.30581632,0.08535999,0.39612,4.321928,0.30050573
+0808N: GDP per capita  (current US$) - WDI - 5,0196: Multilateral debt  (% of total external debt) - WDI - 191,0.39571,0.13346899,0.031540006,0.37555,4.169925,-0.51209474
+0808N: GDP per capita  (current US$) - WDI - 5,0435: Population in urban agglomerations of more than 1 million  (% of total population) - WDI - 399,0.39559,0.198505,0.042030007,0.39559,4.0,0.44394258
+0808N: GDP per capita  (current US$) - WDI - 5,0074: Portfolio equity; net inflows  (BoP; current US$) - WDI - 71,0.39543,0.33684078,0.18312,0.39543,4.321928,0.24205208
+0808N: GDP per capita  (current US$) - WDI - 5,0318: Net official development assistance received  (current US$) - WDI - 310,0.39446,0.39340898,0.15501,0.39446,4.321928,-0.032419413
+0808N: GDP per capita  (current US$) - WDI - 5,0200: PPG; bonds  (DOD; current US$) - WDI - 195,0.3942,0.36047357,0.07018998,0.36618,4.169925,0.18364757
+0808N: GDP per capita  (current US$) - WDI - 5,0262: Net flows on external debt; private nonguaranteed (PNG)  (NFL; current US$) - WDI - 254,0.39378,0.35857332,0.1376,0.36841,4.169925,0.1876344
+0808N: GDP per capita  (current US$) - WDI - 5,1322: International tourism; expenditures for passenger transport items  (current US$) - WDI - 1227,0.3935,0.36115792,0.054189995,0.37634,4.4594316,0.17983902
+0808N: GDP per capita  (current US$) - WDI - 5,0694: Gross national expenditure  (constant 2005 US$) - WDI - 626,0.3934,0.36658028,0.08143002,0.3934,4.321928,0.1637673
+0808N: GDP per capita  (current US$) - WDI - 5,0234: Interest payments on external debt; short-term  (INT; current US$) - WDI - 226,0.39331,0.37505835,0.028850004,0.36905,4.169925,0.13509873
+0808N: GDP per capita  (current US$) - WDI - 5,1356: ICT goods imports  (% total goods imports) - WDI - 1261,0.39329,0.32138324,0.060289994,0.37019,4.4594316,0.2681544
+0808N: GDP per capita  (current US$) - WDI - 5,0536: Expense  (% of GDP) - WDI - 485,0.39238,0.34078908,0.093069986,0.39238,4.169925,0.22713637
+0808N: GDP per capita  (current US$) - WDI - 5,0045: Current account balance  (BoP; current US$) - WDI - 42,0.39217,0.38591507,0.17363001,0.37166,4.4594316,0.07908812
+0808N: GDP per capita  (current US$) - WDI - 5,0041: Foreign direct investment; net outflows  (BoP; current US$) - WDI - 38,0.39075,0.34478962,0.077739984,0.37651,4.5849624,0.21438372
+0808N: GDP per capita  (current US$) - WDI - 5,0837: Gross savings  (current US$) - WDI - 769,0.39069,0.35507855,0.028709993,0.3706,4.321928,0.18870999
+0808N: GDP per capita  (current US$) - WDI - 5,2742: Merchandise trade-Exports-Chemicals (US dollar at current prices) - WTO - 1737,0.39058,0.2255841,0.035970002,0.39058,4.321928,0.40619686
+0808N: GDP per capita  (current US$) - WDI - 5,0509: Revenue; excluding grants  (% of GDP) - WDI - 458,0.3903,0.30861664,0.12929001,0.3903,4.169925,0.285803
+0808N: GDP per capita  (current US$) - WDI - 5,0033: Imports of goods and services  (BoP; current US$) - WDI - 30,0.38971,0.3672855,0.049930006,0.37766,4.5849624,0.14974816
+0808N: GDP per capita  (current US$) - WDI - 5,2749: Merchandise trade-Exports-Transport equipment (US dollar at current prices) - WTO - 1744,0.38919,0.3107695,0.016929984,0.38919,4.321928,0.28003657
+0808N: GDP per capita  (current US$) - WDI - 5,0283: PPG; private creditors  (NFL; current US$) - WDI - 275,0.38816,0.36344165,0.10709998,0.36827,4.169925,0.15722074
+0808N: GDP per capita  (current US$) - WDI - 5,1324: International tourism; expenditures for travel items  (current US$) - WDI - 1229,0.38807,0.36140814,0.021229982,0.3743,4.5849624,0.16328453
+0808N: GDP per capita  (current US$) - WDI - 5,0151: Currency composition of PPG debt; all other currencies  (%) - WDI - 146,0.3874,0.3606232,0.06442,0.36377,4.169925,-0.16363612
+0808N: GDP per capita  (current US$) - WDI - 5,0343: PPG; bonds  (TDS; current US$) - WDI - 335,0.38727,0.3497799,0.048779994,0.3708,4.169925,0.19362362
+0808N: GDP per capita  (current US$) - WDI - 5,0038: Imports of goods; services and primary income  (BoP; current US$) - WDI - 35,0.38709,0.36239684,0.033309996,0.37222,4.5849624,0.15714055
+0808N: GDP per capita  (current US$) - WDI - 5,0778: Adjusted net national income  (current US$) - WDI - 710,0.3867,0.3572466,0.09009999,0.37001,4.5849624,0.1716199
+0808N: GDP per capita  (current US$) - WDI - 5,0686: Final consumption expenditure; etc.  (% of GDP) - WDI - 618,0.38665,0.20723926,0.056140006,0.38665,4.321928,-0.42356905
+0808N: GDP per capita  (current US$) - WDI - 5,0003: Fertilizer consumption  (kilograms per hectare of arable land) - WDI - 9,0.38612,0.24343608,0.06476,0.37222,4.4594316,0.37773523
+0808N: GDP per capita  (current US$) - WDI - 5,0825: GNI  (constant 2005 US$) - WDI - 757,0.38585,0.3505543,0.06436999,0.38585,4.321928,0.18787156
+0808N: GDP per capita  (current US$) - WDI - 5,0188: External debt stocks; short-term  (DOD; current US$) - WDI - 183,0.38522,0.36767638,0.08961001,0.3643,4.169925,0.13245234
+0808N: GDP per capita  (current US$) - WDI - 5,0321: Net official development assistance received  (constant 2013 US$) - WDI - 313,0.3851,0.38402718,0.15310001,0.3851,4.321928,-0.032753836
+0808N: GDP per capita  (current US$) - WDI - 5,0760: Adjusted savings: education expenditure  (current US$) - WDI - 692,0.38492,0.32769498,0.039649993,0.36676,4.4594316,0.23921749
+0808N: GDP per capita  (current US$) - WDI - 5,0900: School enrollment; primary; female  (% gross) - WDI - 830,0.38483,0.38252506,0.18838,0.36618,4.4594316,-0.048009664
+0808N: GDP per capita  (current US$) - WDI - 5,1900: Fixed-broadband subscriptions - ITU - 1658,0.3841,0.37257603,0.0925,0.37005,4.4594316,0.10734971
+0808N: GDP per capita  (current US$) - WDI - 5,1254: Unemployment; female (% of female labor force)  (national estimate) - WDI - 1167,0.38394,0.2737921,0.06702,0.34937,4.169925,-0.33188543
+0808N: GDP per capita  (current US$) - WDI - 5,2732: Merchandise trade-Imports-Pharmaceuticals (US dollar at current prices) - WTO - 1727,0.38297,0.2407411,0.049050003,0.38297,4.321928,0.37713248
+0808N: GDP per capita  (current US$) - WDI - 5,0641: Secure Internet servers - WDI - 582,0.38253,0.35093653,0.03185001,0.38253,4.5849624,0.17774554
+0808N: GDP per capita  (current US$) - WDI - 5,0281: PNG; commercial banks and other creditors  (NFL; current US$) - WDI - 273,0.38249,0.35571015,0.11784002,0.35692,4.169925,0.16364549
+0808N: GDP per capita  (current US$) - WDI - 5,0482: Inflation; consumer prices  (annual %) - WDI - 431,0.38248,0.30096447,0.043659985,0.36326,4.5849624,-0.28550923
+0808N: GDP per capita  (current US$) - WDI - 5,2809: Balance of Payments-Exports-Telecommunications services (US dollar at current prices) - WTO - 1804,0.38247,0.19241245,0.09918001,0.38247,4.169925,0.4359559
+0808N: GDP per capita  (current US$) - WDI - 5,1325: International tourism; expenditures  (current US$) - WDI - 1230,0.38211,0.35490265,0.048539996,0.36898,4.5849624,0.1649465
+0808N: GDP per capita  (current US$) - WDI - 5,0304: PPG; IDA  (NTR; current US$) - WDI - 296,0.38198,0.35479373,0.08658001,0.35217,4.169925,-0.16488259
+0808N: GDP per capita  (current US$) - WDI - 5,2734: Merchandise trade-Imports-Office and telecom equipment (US dollar at current prices) - WTO - 1729,0.38149,0.32779446,0.026030004,0.38149,4.321928,0.23172297
+0808N: GDP per capita  (current US$) - WDI - 5,0052: Foreign direct investment; net  (BoP; current US$) - WDI - 49,0.38143,0.35475752,0.15841,0.36839,4.4594316,0.16331711
+0808N: GDP per capita  (current US$) - WDI - 5,0042: Foreign direct investment; net outflows  (% of GDP) - WDI - 39,0.38133,0.32522684,0.05762002,0.36763,4.5849624,0.23686107
+0808N: GDP per capita  (current US$) - WDI - 5,0937: Children out of school  (% of primary school age) - WDI - 867,0.38131,0.29284722,0.1153,0.38131,3.807355,-0.29742694
+0808N: GDP per capita  (current US$) - WDI - 5,2807: Balance of Payments-Imports-Government goods and services n.i.e. (US dollar at current prices) - WTO - 1802,0.38112,0.34693766,0.07495999,0.38112,4.321928,0.18488467
+0808N: GDP per capita  (current US$) - WDI - 5,0767: Adjusted savings: consumption of fixed capital  (% of GNI) - WDI - 699,0.38102,0.20341364,0.035160005,0.38102,4.5849624,0.42143372
+0808N: GDP per capita  (current US$) - WDI - 5,1733: Crude oil production - TOT (KTOE) - OECD - 1542,0.38012,0.38009882,0.19034001,0.35567,4.169925,-0.004603312
+0808N: GDP per capita  (current US$) - WDI - 5,2729: Merchandise trade-Imports-Manufactures (US dollar at current prices) - WTO - 1724,0.37975,0.28178322,0.031239986,0.37975,4.321928,0.31299648
+0808N: GDP per capita  (current US$) - WDI - 5,1137: Employment to population ratio; ages 15-24; female (%)  (modeled ILO estimate) - WDI - 1050,0.37971,0.3696905,0.16227,0.36433,4.5849624,0.100097306
+0808N: GDP per capita  (current US$) - WDI - 5,0313: PPG; private creditors  (NTR; current US$) - WDI - 305,0.37924,0.3712589,0.19928001,0.3537,4.169925,0.089336894
+0808N: GDP per capita  (current US$) - WDI - 5,0054: Reserves and related items  (BoP; current US$) - WDI - 51,0.37885,0.37559205,0.097440004,0.36132,4.4594316,0.05707862
+0808N: GDP per capita  (current US$) - WDI - 5,0071: Foreign direct investment; net inflows  (BoP; current US$) - WDI - 68,0.37859,0.35363382,0.040279984,0.37859,4.5849624,0.1579752
+0808N: GDP per capita  (current US$) - WDI - 5,0716: Gross capital formation  (constant 2005 US$) - WDI - 648,0.37754,0.36109126,0.056980014,0.37754,4.321928,0.12825264
+0808N: GDP per capita  (current US$) - WDI - 5,0048: Net primary income  (BoP; current US$) - WDI - 45,0.3775,0.3432153,0.11900999,0.36104,4.4594316,0.18516135
+0808N: GDP per capita  (current US$) - WDI - 5,1096: Out-of-pocket health expenditure  (% of total expenditure on health) - WDI - 1011,0.37703,0.21155003,0.0731,0.37703,4.5849624,-0.40679228
+0808N: GDP per capita  (current US$) - WDI - 5,0931: Adjusted net enrollment rate; primary; male  (% of primary school age children) - WDI - 861,0.37688,0.28359985,0.100779995,0.37688,3.807355,0.30541795
+0808N: GDP per capita  (current US$) - WDI - 5,0287: Net official flows from UN agencies; UNICEF  (current US$) - WDI - 279,0.37505,0.3719195,0.053330004,0.37505,4.169925,-0.055950865
+0808N: GDP per capita  (current US$) - WDI - 5,0707: Gross fixed capital formation  (constant 2005 US$) - WDI - 639,0.37488,0.35483176,0.05350001,0.37488,4.321928,0.14159174
+0808N: GDP per capita  (current US$) - WDI - 5,0764: Adjusted savings: net forest depletion  (current US$) - WDI - 696,0.37339,0.36031517,0.10501999,0.37339,4.321928,-0.114345096
+0808N: GDP per capita  (current US$) - WDI - 5,2815: Balance of Payments-Imports-Insurance and pension services (US dollar at current prices) - WTO - 1810,0.37317,0.32423595,0.037750006,0.37317,4.321928,0.22121039
+0808N: GDP per capita  (current US$) - WDI - 5,1311: Rural population growth  (annual %) - WDI - 1216,0.37296,0.2992997,0.048000008,0.37296,4.5849624,-0.27140433
+0808N: GDP per capita  (current US$) - WDI - 5,0340: Multilateral debt service  (% of public and publicly guaranteed debt service) - WDI - 332,0.37289,0.14715986,0.036040008,0.34962,4.169925,-0.47511065
+0808N: GDP per capita  (current US$) - WDI - 5,1404: High-technology exports  (% of manufactured exports) - WDI - 1309,0.3726,0.33537194,0.04789999,0.3726,4.321928,0.1929457
+0808N: GDP per capita  (current US$) - WDI - 5,0930: Adjusted net enrollment rate; primary; female  (% of primary school age children) - WDI - 860,0.37209,0.2584487,0.07887,0.37209,4.169925,0.3371073
+0808N: GDP per capita  (current US$) - WDI - 5,0687: Final consumption expenditure  (current US$) - WDI - 619,0.37205,0.3131362,0.059149995,0.37205,4.321928,0.24272166
+0808N: GDP per capita  (current US$) - WDI - 5,1354: Food imports  (% of merchandise imports) - WDI - 1259,0.37117,0.2637891,0.02926001,0.35676,4.4594316,-0.3276903
+0808N: GDP per capita  (current US$) - WDI - 5,0212: External debt stocks; variable rate  (DOD; current US$) - WDI - 204,0.3705,0.3451806,0.023770005,0.35282,4.169925,0.15912071
+0808N: GDP per capita  (current US$) - WDI - 5,0206: PPG; private creditors  (DOD; current US$) - WDI - 201,0.37038,0.3399419,0.03882003,0.34886,4.169925,0.17446524
+0808N: GDP per capita  (current US$) - WDI - 5,0232: Interest payments on external debt; private nonguaranteed (PNG)  (INT; current US$) - WDI - 224,0.37006,0.3367856,0.047709987,0.34485,4.169925,0.18241268
+0808N: GDP per capita  (current US$) - WDI - 5,0728: External balance on goods and services  (constant LCU) - WDI - 660,0.36994,0.36985365,0.04198,0.34052,4.169925,-0.009293931
+0808N: GDP per capita  (current US$) - WDI - 5,0462: Total reserves  (includes gold; current US$) - WDI - 411,0.36919,0.35644844,0.050479993,0.35318,4.4594316,0.112878576
+0808N: GDP per capita  (current US$) - WDI - 5,0934: Children out of school; female  (% of female primary school age) - WDI - 864,0.36918,0.25551566,0.071229994,0.36918,4.169925,-0.3371414
+0808N: GDP per capita  (current US$) - WDI - 5,0244: PPG; other private creditors  (INT; current US$) - WDI - 236,0.36901,0.3531336,0.06559001,0.35095,4.169925,0.12600167
+0808N: GDP per capita  (current US$) - WDI - 5,0936: Children out of school; male  (% of male primary school age) - WDI - 866,0.36867,0.2753061,0.09673001,0.36867,3.5849626,-0.30555505
+0808N: GDP per capita  (current US$) - WDI - 5,2737: Merchandise trade-Imports-Automotive products (US dollar at current prices) - WTO - 1732,0.36859,0.27209732,0.028050005,0.36859,4.321928,0.3106327
+0808N: GDP per capita  (current US$) - WDI - 5,0027: Livestock production index  (2004-2006 = 100) - WDI - 24,0.36857,0.32129952,0.08869001,0.36857,4.5849624,-0.21741773
+0808N: GDP per capita  (current US$) - WDI - 5,0929: Adjusted net enrollment rate; primary  (% of primary school age children) - WDI - 859,0.36821,0.27961272,0.12333,0.36821,3.807355,0.29765296
+0808N: GDP per capita  (current US$) - WDI - 5,1374: Computer; communications and other services  (% of commercial service imports) - WDI - 1279,0.36788,0.27023995,0.084040016,0.3535,4.5849624,0.31247407
+0808N: GDP per capita  (current US$) - WDI - 5,0472: Broad money  (% of GDP) - WDI - 421,0.36779,0.21468797,0.043150008,0.35478,4.4594316,0.39128256
+0808N: GDP per capita  (current US$) - WDI - 5,0851: DEC alternative conversion factor  (LCU per US$) - WDI - 783,0.36774,0.34806085,0.0414,0.36774,4.4594316,-0.1402824
+0808N: GDP per capita  (current US$) - WDI - 5,2741: Merchandise trade-Exports-Iron and steel (US dollar at current prices) - WTO - 1736,0.36751,0.3076416,0.038870007,0.34849,4.321928,0.2446802
+0808N: GDP per capita  (current US$) - WDI - 5,0325: PPG; bilateral  (TDS; current US$) - WDI - 317,0.3671,0.3639125,0.1288,0.3441,4.169925,0.056457967
+0808N: GDP per capita  (current US$) - WDI - 5,1040: Immunization; DPT  (% of children ages 12-23 months) - WDI - 962,0.36689,0.2742698,0.11472002,0.36689,4.5849624,0.3043357
+0808N: GDP per capita  (current US$) - WDI - 5,0531: Interest payments  (% of revenue) - WDI - 480,0.36673,0.3666232,0.08993,0.36673,4.169925,-0.010334279
+0808N: GDP per capita  (current US$) - WDI - 5,0222: Average interest on new external debt commitments  (%) - WDI - 214,0.36647,0.22492842,0.017849997,0.34226,4.169925,0.37622014
+0808N: GDP per capita  (current US$) - WDI - 5,0170: PPG; bonds  (DIS; current US$) - WDI - 165,0.36598,0.3346662,0.118760005,0.33885,4.169925,0.17695709
+0808N: GDP per capita  (current US$) - WDI - 5,1381: Food exports  (% of merchandise exports) - WDI - 1286,0.36574,0.28105944,0.033940002,0.34812,4.4594316,-0.29099926
+0808N: GDP per capita  (current US$) - WDI - 5,0065: Goods exports  (BoP; current US$) - WDI - 62,0.36518,0.34648347,0.059389994,0.35144,4.5849624,0.13673523
+0808N: GDP per capita  (current US$) - WDI - 5,0697: Exports of goods and services  (current US$) - WDI - 629,0.36515,0.34499985,0.050239995,0.35088,4.5849624,0.14195128
+0808N: GDP per capita  (current US$) - WDI - 5,0226: PPG; bilateral concessional  (INT; current US$) - WDI - 218,0.36509,0.36346743,0.18230002,0.34681,4.169925,0.040281292
+0808N: GDP per capita  (current US$) - WDI - 5,0134: Principal arrears; long-term DOD  (US$) - WDI - 131,0.36506,0.3599327,0.14899,0.33501,4.169925,-0.07160527
+0808N: GDP per capita  (current US$) - WDI - 5,0225: PPG; bilateral  (INT; current US$) - WDI - 217,0.36476,0.36219436,0.15462,0.34167,4.169925,0.05065215
+0808N: GDP per capita  (current US$) - WDI - 5,1317: International tourism; number of arrivals - WDI - 1222,0.36404,0.3546114,0.0067799985,0.34737,4.5849624,0.0971009
+0808N: GDP per capita  (current US$) - WDI - 5,2752: Merchandise trade-Imports-Electronic data processing and office equipment (US dollar at current prices) - WTO - 1747,0.36393,0.28399605,0.03791,0.36393,4.321928,0.28272593
+0808N: GDP per capita  (current US$) - WDI - 5,0477: Money and quasi money  as % of GDP (M2) - WDI - 426,0.36354,0.20789652,0.037279993,0.35067,4.4594316,0.39451677
+0808N: GDP per capita  (current US$) - WDI - 5,0465: Total reserves minus gold  (current US$) - WDI - 414,0.36302,0.3553236,0.05725999,0.34699,4.4594316,0.087729044
+0808N: GDP per capita  (current US$) - WDI - 5,0116: PPG; bilateral  (AMT; current US$) - WDI - 113,0.36299,0.35962364,0.09154001,0.34083,4.169925,0.058020268
+0808N: GDP per capita  (current US$) - WDI - 5,1388: Merchandise exports  (current US$) - WDI - 1293,0.36235,0.34384355,0.029529989,0.36235,4.5849624,0.13603841
+0808N: GDP per capita  (current US$) - WDI - 5,0382: CO2 emissions from gaseous fuel consumption  (kt) - WDI - 368,0.3623,0.36003387,0.062480003,0.3623,4.5849624,0.04760401
+0808N: GDP per capita  (current US$) - WDI - 5,0308: PPG; bonds  (NTR; current US$) - WDI - 300,0.36206,0.34461343,0.10437,0.33907,4.169925,0.13208547
+0808N: GDP per capita  (current US$) - WDI - 5,0031: Communications; computer; etc.  (% of service imports; BoP) - WDI - 28,0.36204,0.28678608,0.023829997,0.34538,4.5849624,0.27432454
+0808N: GDP per capita  (current US$) - WDI - 5,0243: PNG; commercial banks and other creditors  (INT; current US$) - WDI - 235,0.36055,0.32863656,0.049519986,0.344,4.169925,0.17864329
+0808N: GDP per capita  (current US$) - WDI - 5,0524: Taxes on income; profits and capital gains  (% of revenue) - WDI - 473,0.36026,0.22422399,0.1314,0.36026,4.169925,0.36883062
+0808N: GDP per capita  (current US$) - WDI - 5,1432: Air and GHG emissions - CO2 (MLN_TONNE) - OECD - 1326,0.36024,0.36020947,0.04648,0.34813,4.169925,-0.005526142
+0808N: GDP per capita  (current US$) - WDI - 5,0114: Net bilateral aid flows from DAC donors; Total  (current US$) - WDI - 111,0.35843,0.3568125,0.11901,0.35843,4.321928,-0.040217973
+0808N: GDP per capita  (current US$) - WDI - 5,0722: Imports of goods and services  (constant 2005 US$) - WDI - 654,0.35817,0.3365519,0.041689992,0.35817,4.321928,0.1470309
+0808N: GDP per capita  (current US$) - WDI - 5,1236: Unemployment; youth male (% of male labor force ages 15-24)  (modeled ILO estimate) - WDI - 1149,0.35726,0.3572124,0.08577001,0.34478,4.5849624,-0.0068995613
+0808N: GDP per capita  (current US$) - WDI - 5,0662: General government final consumption expenditure  (constant 2005 US$) - WDI - 594,0.35654,0.3264323,0.055299997,0.35654,4.321928,0.17351575
+0808N: GDP per capita  (current US$) - WDI - 5,2735: Merchandise trade-Imports-Telecommunications equipment (US dollar at current prices) - WTO - 1730,0.35613,0.27792874,0.039399996,0.35613,4.321928,0.2796449
+0808N: GDP per capita  (current US$) - WDI - 5,0455: Bank capital to assets ratio  (%) - WDI - 405,0.356,0.18237308,0.06804998,0.33387,4.321928,-0.41668564
+0808N: GDP per capita  (current US$) - WDI - 5,1214: Labor force participation rate; male (% of male population ages 15+)  (national estimate) - WDI - 1127,0.35568,0.3556793,0.04839,0.31731,4.169925,-8.263013E-4
+0808N: GDP per capita  (current US$) - WDI - 5,0230: IMF charges  (INT; current US$) - WDI - 222,0.35552,0.34534702,0.062290013,0.33567,4.169925,0.1008612
+0808N: GDP per capita  (current US$) - WDI - 5,0142: Commitments; IBRD  (COM; current US$) - WDI - 139,0.3555,0.3455643,0.072160006,0.33745,4.169925,0.099677995
+0808N: GDP per capita  (current US$) - WDI - 5,0739: Manufacturing; value added  (constant 2005 US$) - WDI - 671,0.35544,0.32107553,0.06394,0.33819,4.4594316,0.18537654
+0808N: GDP per capita  (current US$) - WDI - 5,0481: Consumer price index  (2010 = 100) - WDI - 430,0.35536,0.25689122,0.054539993,0.3452,4.4594316,-0.31379735
+0808N: GDP per capita  (current US$) - WDI - 5,0255: Average maturity on new external debt commitments; official  (years) - WDI - 247,0.35498,0.27206355,0.039320007,0.32994,4.169925,-0.28795213
+0808N: GDP per capita  (current US$) - WDI - 5,0117: PPG; bilateral concessional  (AMT; current US$) - WDI - 114,0.35496,0.35256428,0.09623,0.33661,4.169925,0.04894597
+0808N: GDP per capita  (current US$) - WDI - 5,0326: PPG; bilateral concessional  (TDS; current US$) - WDI - 318,0.35462,0.35241196,0.14339001,0.33816,4.169925,0.04698994
+0808N: GDP per capita  (current US$) - WDI - 5,1398: Merchandise exports by the reporting economy  (current US$) - WDI - 1303,0.35459,0.3370166,0.038009986,0.33709,4.5849624,0.13256468
+0808N: GDP per capita  (current US$) - WDI - 5,0180: External debt stocks; total  (DOD; current US$) - WDI - 175,0.35442,0.33583465,0.046949998,0.33453,4.169925,0.13632812
+0808N: GDP per capita  (current US$) - WDI - 5,0203: PNG; commercial banks and other creditors  (DOD; current US$) - WDI - 198,0.35391,0.32789823,0.095149994,0.33138,4.169925,0.16128163
+0808N: GDP per capita  (current US$) - WDI - 5,0683: Final consumption expenditure; etc.  (constant 2005 US$) - WDI - 615,0.35375,0.3245103,0.046570003,0.35375,4.321928,0.17099616
+0808N: GDP per capita  (current US$) - WDI - 5,0311: PNG; commercial banks and other creditors  (NTR; current US$) - WDI - 303,0.35369,0.33048782,0.08791,0.3316,4.169925,0.15232259
+0808N: GDP per capita  (current US$) - WDI - 5,2733: Merchandise trade-Imports-Machinery and transport equipment (US dollar at current prices) - WTO - 1728,0.35341,0.2713886,0.02147001,0.35341,4.321928,0.28639382
+0808N: GDP per capita  (current US$) - WDI - 5,0663: General government final consumption expenditure  (annual % growth) - WDI - 595,0.35334,0.31693652,0.056470007,0.32441,4.4594316,-0.19079697
+0808N: GDP per capita  (current US$) - WDI - 5,0817: Gross domestic savings  (current US$) - WDI - 749,0.35267,0.34301415,0.03814,0.34091,4.5849624,0.09826421
+0808N: GDP per capita  (current US$) - WDI - 5,0197: PPG; multilateral concessional  (DOD; current US$) - WDI - 192,0.35243,0.3506506,0.15214999,0.32288,4.169925,-0.04218281
+0808N: GDP per capita  (current US$) - WDI - 5,0366: Electricity production from renewable sources; excluding hydroelectric  (kWh) - WDI - 355,0.3524,0.3265751,0.0627,0.3524,4.321928,0.1607013
+0808N: GDP per capita  (current US$) - WDI - 5,0381: CO2 intensity  (kg per kg of oil equivalent energy use) - WDI - 367,0.35223,0.34319076,0.050360024,0.35223,4.321928,0.09507496
+0808N: GDP per capita  (current US$) - WDI - 5,0796: Gross value added at factor cost  (constant 2005 US$) - WDI - 728,0.35196,0.30566722,0.050730005,0.35196,4.321928,0.21515755
+0808N: GDP per capita  (current US$) - WDI - 5,0186: External debt stocks; private nonguaranteed (PNG)  (DOD; current US$) - WDI - 181,0.35183,0.3247025,0.07892001,0.32819,4.169925,0.16470434
+0808N: GDP per capita  (current US$) - WDI - 5,0205: External debt stocks; long-term private sector  (DOD; current US$) - WDI - 200,0.35183,0.3245428,0.07917002,0.32819,4.169925,0.16518846
+0808N: GDP per capita  (current US$) - WDI - 5,0301: Net transfers on external debt; private nonguaranteed (PNG)  (NTR; current US$) - WDI - 293,0.3517,0.31671175,0.03580001,0.32681,4.169925,0.18705148
+0808N: GDP per capita  (current US$) - WDI - 5,0300: Net transfers on external debt; long-term  (NTR; current US$) - WDI - 292,0.3515,0.32556927,0.1375,0.31969,4.169925,0.16103023
+0808N: GDP per capita  (current US$) - WDI - 5,0819: Gross domestic savings  (% of GDP) - WDI - 751,0.35118,0.20122658,0.039529994,0.33718,4.5849624,0.38723817
+0808N: GDP per capita  (current US$) - WDI - 5,2731: Merchandise trade-Imports-Chemicals (US dollar at current prices) - WTO - 1726,0.3511,0.25288302,0.024729997,0.3511,4.321928,0.3133959
+0808N: GDP per capita  (current US$) - WDI - 5,1092: Tuberculosis case detection rate  (%; all forms) - WDI - 1007,0.35088,0.223054,0.03727001,0.33794,4.5849624,0.3575276
+0808N: GDP per capita  (current US$) - WDI - 5,0809: GDP per capita  (current LCU) - WDI - 741,0.35072,0.3459175,0.0855,0.35072,4.4594316,-0.06930014
+0808N: GDP per capita  (current US$) - WDI - 5,0190: Short-term debt  (% of exports of goods; services and primary income) - WDI - 185,0.35066,0.31104583,0.058860004,0.32602,4.169925,0.19903311
+0808N: GDP per capita  (current US$) - WDI - 5,0122: Principal repayments on external debt; public and publicly guaranteed (PPG)  (AMT; current US$) - WDI - 119,0.35056,0.32966268,0.046969995,0.32903,4.169925,0.14455907
+0808N: GDP per capita  (current US$) - WDI - 5,2722: Merchandise trade-Exports-Fuels and mining products (US dollar at current prices) - WTO - 1717,0.35046,0.22738287,0.053639993,0.35046,4.321928,0.3508235
+0808N: GDP per capita  (current US$) - WDI - 5,0376: Fossil fuel energy consumption  (% of total) - WDI - 362,0.34977,0.2932661,0.038220003,0.34977,4.321928,0.23770553
+0808N: GDP per capita  (current US$) - WDI - 5,0776: Adjusted savings: net national savings  (current US$) - WDI - 708,0.3495,0.34856573,0.0344,0.32953,4.321928,0.03056607
+0808N: GDP per capita  (current US$) - WDI - 5,0173: PNG; commercial banks and other creditors  (DIS; current US$) - WDI - 168,0.34945,0.3201759,0.056360006,0.32563,4.169925,0.17109679
+0808N: GDP per capita  (current US$) - WDI - 5,0905: School enrollment; primary  (% net) - WDI - 835,0.34867,0.27386606,0.078289986,0.34867,3.807355,0.27350312
+0808N: GDP per capita  (current US$) - WDI - 5,0594: Scientific and technical journal articles - WDI - 535,0.34848,0.32947013,0.03704998,0.34848,4.5849624,0.13787629
+0808N: GDP per capita  (current US$) - WDI - 5,0035: Goods imports  (BoP; current US$) - WDI - 32,0.34837,0.327573,0.030829996,0.33508,4.5849624,0.14421165
+0808N: GDP per capita  (current US$) - WDI - 5,0332: Debt service on external debt; private nonguaranteed (PNG)  (TDS; current US$) - WDI - 324,0.34744,0.31905347,0.06705001,0.3316,4.169925,0.16848299
+0808N: GDP per capita  (current US$) - WDI - 5,1154: Employment to population ratio; 15+; total (%)  (modeled ILO estimate) - WDI - 1067,0.34744,0.347402,0.054580003,0.33091,4.5849624,0.006163212
+0808N: GDP per capita  (current US$) - WDI - 5,1103: Health expenditure; public  (% of GDP) - WDI - 1018,0.34689,0.1563495,0.023780003,0.34689,4.5849624,0.43650946
+0808N: GDP per capita  (current US$) - WDI - 5,0668: Household final consumption expenditure; etc.  (constant 2005 US$) - WDI - 600,0.34578,0.31590277,0.047739998,0.34578,4.321928,0.1728503
+0808N: GDP per capita  (current US$) - WDI - 5,0162: Disbursements on external debt; private nonguaranteed (PNG)  (DIS; current US$) - WDI - 157,0.34573,0.31429994,0.06369001,0.32052,4.169925,0.17728527
+0808N: GDP per capita  (current US$) - WDI - 5,1216: Labor force participation rate; total (% of total population ages 15+)  (national estimate) - WDI - 1129,0.3448,0.31560573,0.12775,0.3448,4.169925,0.17086332
+0808N: GDP per capita  (current US$) - WDI - 5,0236: PPG; IDA  (INT; current US$) - WDI - 228,0.34475,0.33994606,0.038220003,0.3293,4.169925,-0.06931026
+0808N: GDP per capita  (current US$) - WDI - 5,0155: Currency composition of PPG debt; U.S. dollars  (%) - WDI - 150,0.34462,0.31780082,0.13015,0.31824,4.169925,0.16376555
+0808N: GDP per capita  (current US$) - WDI - 5,0933: Children out of school; primary; female - WDI - 863,0.34446,0.31581736,0.049089998,0.34446,4.169925,-0.16924138
+0808N: GDP per capita  (current US$) - WDI - 5,0191: Short-term debt  (% of total external debt) - WDI - 186,0.34428,0.23009232,0.06361002,0.32185,4.169925,0.3379167
+0808N: GDP per capita  (current US$) - WDI - 5,0756: Services; etc.; value added  (constant 2005 US$) - WDI - 688,0.34346,0.30524826,0.036259994,0.34346,4.4594316,0.19547825
+0808N: GDP per capita  (current US$) - WDI - 5,0127: PPG; official creditors  (AMT; current US$) - WDI - 124,0.34338,0.33190703,0.08166,0.32617,4.169925,0.10711189
+0808N: GDP per capita  (current US$) - WDI - 5,0342: PPG; official creditors  (TDS; current US$) - WDI - 334,0.34338,0.33273366,0.05617,0.32617,4.169925,0.10318107
+0808N: GDP per capita  (current US$) - WDI - 5,1380: Agricultural raw materials exports  (% of merchandise exports) - WDI - 1285,0.34336,0.3086336,0.04479,0.32285,4.4594316,-0.18635021
+0808N: GDP per capita  (current US$) - WDI - 5,2730: Merchandise trade-Imports-Iron and steel (US dollar at current prices) - WTO - 1725,0.34323,0.25652328,0.01749,0.34323,4.321928,0.29446006
+0808N: GDP per capita  (current US$) - WDI - 5,0334: Debt service on external debt; public and publicly guaranteed (PPG)  (TDS; current US$) - WDI - 326,0.34224,0.31989157,0.07173999,0.32353,4.169925,0.14949396
+0808N: GDP per capita  (current US$) - WDI - 5,1041: Immunization; measles  (% of children ages 12-23 months) - WDI - 963,0.34209,0.2547397,0.038650006,0.34209,4.5849624,0.29555085
+0808N: GDP per capita  (current US$) - WDI - 5,0907: School enrollment; primary; male  (% net) - WDI - 837,0.34206,0.2537733,0.059729993,0.34206,4.169925,0.29713076
+0808N: GDP per capita  (current US$) - WDI - 5,0285: Net financial flows; RDB nonconcessional  (NFL; current US$) - WDI - 277,0.34194,0.3298893,0.082099974,0.31716,4.169925,0.10977564
+0808N: GDP per capita  (current US$) - WDI - 5,0131: PNG; commercial banks and other creditors  (AMT; current US$) - WDI - 128,0.34189,0.31208804,0.029849991,0.31553,4.169925,0.17263249
+0808N: GDP per capita  (current US$) - WDI - 5,0189: Short-term debt  (% of total reserves) - WDI - 184,0.34137,0.340164,0.07290998,0.31679,4.169925,-0.034727354
+0808N: GDP per capita  (current US$) - WDI - 5,0273: Net financial flows; others  (NFL; current US$) - WDI - 265,0.34115,0.3156137,0.14069998,0.31323,4.169925,0.15980081
+0808N: GDP per capita  (current US$) - WDI - 5,0135: Principal arrears; official creditors  (current US$) - WDI - 132,0.34111,0.3320463,0.14062999,0.31469,4.169925,-0.09520337
+0808N: GDP per capita  (current US$) - WDI - 5,0073: Primary income on FDI; payments  (current US$) - WDI - 70,0.34026,0.32312217,0.07808,0.32036,4.169925,0.1309115
+0808N: GDP per capita  (current US$) - WDI - 5,0529: Goods and services expense  (% of expense) - WDI - 478,0.34005,0.2636024,0.03824,0.34005,4.169925,-0.2764916
+0808N: GDP per capita  (current US$) - WDI - 5,2725: Merchandise trade-Imports-Agricultural products (US dollar at current prices) - WTO - 1720,0.33965,0.24770245,0.041319996,0.33965,4.321928,0.30322856
+0808N: GDP per capita  (current US$) - WDI - 5,0346: PNG; commercial banks and other creditors  (TDS; current US$) - WDI - 338,0.33936,0.309178,0.06874001,0.31917,4.169925,0.17372966
+0808N: GDP per capita  (current US$) - WDI - 5,0720: Imports of goods and services  (current US$) - WDI - 652,0.33905,0.31813723,0.040629998,0.32514,4.5849624,0.14461252
+0808N: GDP per capita  (current US$) - WDI - 5,0046: Current account balance  (% of GDP) - WDI - 43,0.33882,0.26151967,0.05443999,0.32202,4.4594316,0.2780294
+0808N: GDP per capita  (current US$) - WDI - 5,2781: Merchandise trade-Imports-Total merchandise (US dollar at current prices) - WTO - 1776,0.33862,0.24132887,0.035589993,0.33862,4.4594316,0.31191528
+0808N: GDP per capita  (current US$) - WDI - 5,0121: Principal repayments on external debt; private nonguaranteed (PNG)  (AMT; current US$) - WDI - 118,0.33822,0.31100684,0.03503999,0.31702,4.169925,0.16496406
+0808N: GDP per capita  (current US$) - WDI - 5,1373: Import value index  (2000 = 100) - WDI - 1278,0.33807,0.2725724,0.07798001,0.33807,4.4594316,-0.255925
+0808N: GDP per capita  (current US$) - WDI - 5,0853: PPP conversion factor; GDP  (LCU per international $) - WDI - 785,0.33758,0.31785154,0.023619995,0.33758,4.4594316,-0.14045805
+0808N: GDP per capita  (current US$) - WDI - 5,0185: External debt stocks; long-term  (DOD; current US$) - WDI - 180,0.33755,0.31856546,0.05950001,0.31765,4.169925,0.13778442
+0808N: GDP per capita  (current US$) - WDI - 5,0672: Household final consumption expenditure  (current US$) - WDI - 604,0.33744,0.31512538,0.04173,0.32281,4.5849624,0.14938086
+0808N: GDP per capita  (current US$) - WDI - 5,1202: Labor force participation rate for ages 15-24; female (%)  (modeled ILO estimate) - WDI - 1115,0.33712,0.3282753,0.11107999,0.31975,4.5849624,0.09404633
+0808N: GDP per capita  (current US$) - WDI - 5,0266: Net official flows from UN agencies; IFAD  (current US$) - WDI - 258,0.33667,0.3356574,0.061759993,0.30532,4.169925,-0.031821698
+0808N: GDP per capita  (current US$) - WDI - 5,1141: Employment to population ratio; ages 15-24; total (%)  (modeled ILO estimate) - WDI - 1054,0.33655,0.3348489,0.12173,0.31598,4.5849624,0.041244365
+0808N: GDP per capita  (current US$) - WDI - 5,0666: Household final consumption expenditure; etc.  (current US$) - WDI - 598,0.33633,0.31437513,0.054179996,0.32316,4.5849624,0.1481717
+0808N: GDP per capita  (current US$) - WDI - 5,2720: Merchandise trade-Exports-Agricultural products (US dollar at current prices) - WTO - 1715,0.33626,0.23702322,0.06004998,0.33626,4.321928,0.31501868
+0808N: GDP per capita  (current US$) - WDI - 5,1361: Merchandise imports  (current US$) - WDI - 1266,0.33614,0.3158876,0.050380006,0.33614,4.5849624,0.14231095
+0808N: GDP per capita  (current US$) - WDI - 5,0743: Industry; value added  (current US$) - WDI - 675,0.33602,0.32774487,0.033539996,0.32262,4.5849624,0.09096763
+0808N: GDP per capita  (current US$) - WDI - 5,0681: Final consumption expenditure; etc.  (current US$) - WDI - 613,0.33578,0.3129773,0.038220003,0.32378,4.5849624,0.15100557
+0808N: GDP per capita  (current US$) - WDI - 5,0660: General government final consumption expenditure  (current US$) - WDI - 592,0.33504,0.3102049,0.05173999,0.32084,4.5849624,0.15759163
+0808N: GDP per capita  (current US$) - WDI - 5,0091: Net bilateral aid flows from DAC donors; Switzerland  (current US$) - WDI - 88,0.33449,0.3344878,0.060279995,0.30415,4.169925,-0.001484342
+0808N: GDP per capita  (current US$) - WDI - 5,0856: PPP conversion factor; private consumption  (LCU per international $) - WDI - 787,0.3343,0.3155669,0.021449998,0.3343,4.4594316,-0.13686894
+0808N: GDP per capita  (current US$) - WDI - 5,0950: Secondary education; vocational pupils - WDI - 880,0.33414,0.33314276,0.050330013,0.31128,4.169925,-0.031579025
+0808N: GDP per capita  (current US$) - WDI - 5,0248: Interest arrears; official creditors  (current US$) - WDI - 240,0.33411,0.32598537,0.07957998,0.30472,4.169925,-0.09013662
+0808N: GDP per capita  (current US$) - WDI - 5,0277: PPG; bonds  (NFL; current US$) - WDI - 269,0.33404,0.3063382,0.04218,0.31677,4.169925,0.16643861
+0808N: GDP per capita  (current US$) - WDI - 5,0149: Currency composition of PPG debt; Japanese yen  (%) - WDI - 144,0.33396,0.33211333,0.042209983,0.30646,4.169925,0.04297289
+0808N: GDP per capita  (current US$) - WDI - 5,0932: Children out of school; primary - WDI - 862,0.33381,0.3101742,0.04185,0.3148,4.321928,-0.15373944
+0808N: GDP per capita  (current US$) - WDI - 5,0829: GNI; PPP  (constant 2011 international $) - WDI - 761,0.33344,0.3247168,0.030870005,0.31737,4.5849624,0.09339799
+0808N: GDP per capita  (current US$) - WDI - 5,0597: Trademark applications; direct nonresident - WDI - 538,0.33297,0.33276653,0.0949,0.33297,4.169925,-0.01426376
+0808N: GDP per capita  (current US$) - WDI - 5,1385: Manufactures exports  (% of merchandise exports) - WDI - 1290,0.33297,0.27454284,0.04694,0.31352,4.4594316,0.24171709
+0808N: GDP per capita  (current US$) - WDI - 5,0202: PNG; bonds  (DOD; current US$) - WDI - 197,0.3323,0.28935796,0.12133001,0.31562,4.169925,0.20722465
+0808N: GDP per capita  (current US$) - WDI - 5,0242: PNG; bonds  (INT; current US$) - WDI - 234,0.3323,0.29119208,0.08603999,0.31562,4.169925,0.20275089
+0808N: GDP per capita  (current US$) - WDI - 5,0345: PNG; bonds  (TDS; current US$) - WDI - 337,0.3323,0.2967661,0.10988,0.31562,4.169925,0.18850443
+0808N: GDP per capita  (current US$) - WDI - 5,0745: Industry; value added  (constant 2005 US$) - WDI - 677,0.33219,0.31092936,0.056319997,0.33219,4.4594316,0.14581034
+0808N: GDP per capita  (current US$) - WDI - 5,0383: CO2 emissions from gaseous fuel consumption  (% of total) - WDI - 369,0.33217,0.21383718,0.05005999,0.33217,4.5849624,0.3439954
+0808N: GDP per capita  (current US$) - WDI - 5,0754: Services; etc.; value added  (current US$) - WDI - 686,0.33144,0.30318257,0.029830009,0.31699,4.5849624,0.16809948
+0808N: GDP per capita  (current US$) - WDI - 5,0802: GDP  (constant 2005 US$) - WDI - 734,0.33119,0.30269074,0.034399986,0.33119,4.5849624,0.16881724
+0808N: GDP per capita  (current US$) - WDI - 5,1212: Ratio of female to male labor force participation rate (%)  (national estimate) - WDI - 1125,0.33118,0.2510445,0.016559988,0.30964,4.169925,0.28308216
+0808N: GDP per capita  (current US$) - WDI - 5,1209: Labor force participation rate; total (% of total population ages 15-64)  (modeled ILO estimate) - WDI - 1122,0.33102,0.27401036,0.12224999,0.31597,4.5849624,0.23876691
+0808N: GDP per capita  (current US$) - WDI - 5,0831: GNI per capita  (current LCU) - WDI - 763,0.33014,0.32550034,0.07213001,0.33014,4.4594316,-0.06811512
+0808N: GDP per capita  (current US$) - WDI - 5,0060: ICT service exports  (% of service exports; BoP) - WDI - 57,0.33013,0.3090324,0.05610001,0.30636,4.4594316,0.14525013
+0808N: GDP per capita  (current US$) - WDI - 5,0218: Average grace period on new external debt commitments; private  (years) - WDI - 210,0.33012,0.16244291,0.04694,0.31298,4.169925,0.40948394
+0808N: GDP per capita  (current US$) - WDI - 5,0166: PPG; IDA  (DIS; current US$) - WDI - 161,0.33005,0.32211304,0.032099992,0.31116,4.169925,-0.08908953
+0808N: GDP per capita  (current US$) - WDI - 5,0675: Household final consumption expenditure  (annual % growth) - WDI - 607,0.32982,0.3125963,0.070989996,0.31118,4.4594316,-0.13123916
+0808N: GDP per capita  (current US$) - WDI - 5,0841: Net income from abroad  (current US$) - WDI - 773,0.32969,0.29858315,0.08365001,0.31886,4.4594316,0.17637134
+0808N: GDP per capita  (current US$) - WDI - 5,0673: Household final consumption expenditure  (current LCU) - WDI - 605,0.32948,0.32542902,0.110000014,0.32948,4.321928,-0.06364718
+0808N: GDP per capita  (current US$) - WDI - 5,0270: Net financial flows; IDA  (NFL; current US$) - WDI - 262,0.32941,0.30630866,0.05071999,0.32941,4.169925,-0.1519912
+0808N: GDP per capita  (current US$) - WDI - 5,0674: Household final consumption expenditure  (constant 2005 US$) - WDI - 606,0.32929,0.30116346,0.033409998,0.32929,4.321928,0.16770968
+0808N: GDP per capita  (current US$) - WDI - 5,0678: Household final consumption expenditure per capita growth  (annual %) - WDI - 610,0.32788,0.3077463,0.13475,0.32788,4.321928,-0.14189333
+0808N: GDP per capita  (current US$) - WDI - 5,0732: Agriculture; value added  (current LCU) - WDI - 664,0.32759,0.32289475,0.05054,0.30683,4.4594316,-0.06852178
+0808N: GDP per capita  (current US$) - WDI - 5,1406: Travel services  (% of commercial service exports) - WDI - 1311,0.32727,0.23814005,0.040439993,0.30698,4.5849624,-0.2985464
+0808N: GDP per capita  (current US$) - WDI - 5,0794: Gross value added at factor cost  (current US$) - WDI - 726,0.32702,0.3003041,0.038569987,0.3102,4.4594316,0.16344987
+0808N: GDP per capita  (current US$) - WDI - 5,0627: Air transport; registered carrier departures worldwide - WDI - 568,0.32686,0.2948208,0.06057,0.30462,4.4594316,0.17899507
+0808N: GDP per capita  (current US$) - WDI - 5,0805: GDP; PPP  (current international $) - WDI - 737,0.32657,0.31838518,0.03052999,0.32657,4.5849624,0.09046999
+0808N: GDP per capita  (current US$) - WDI - 5,0806: GDP; PPP  (constant 2011 international $) - WDI - 738,0.32657,0.3183852,0.03052999,0.32657,4.5849624,0.09046989
+0808N: GDP per capita  (current US$) - WDI - 5,2726: Merchandise trade-Imports-Food (US dollar at current prices) - WTO - 1721,0.3261,0.21063015,0.043469995,0.3261,4.321928,0.33980855
+0808N: GDP per capita  (current US$) - WDI - 5,1234: Unemployment; youth female (% of female labor force ages 15-24)  (modeled ILO estimate) - WDI - 1147,0.32598,0.31002396,0.09213999,0.31169,4.5849624,-0.12631722
+0808N: GDP per capita  (current US$) - WDI - 5,1358: Manufactures imports  (% of merchandise imports) - WDI - 1263,0.3253,0.26116467,0.023220003,0.30705,4.4594316,0.25324956
+0808N: GDP per capita  (current US$) - WDI - 5,0070: Travel services  (% of service exports; BoP) - WDI - 67,0.32511,0.25698677,0.090699986,0.30914,4.5849624,-0.26100427
+0808N: GDP per capita  (current US$) - WDI - 5,0367: Electricity production from renewable sources; excluding hydroelectric  (% of total) - WDI - 356,0.32475,0.2459561,0.06874001,0.32475,4.321928,0.28070253
+0808N: GDP per capita  (current US$) - WDI - 5,0267: Net financial flows; IMF concessional  (NFL; current US$) - WDI - 259,0.32378,0.3135749,0.08139999,0.32378,4.169925,-0.101020195
+0808N: GDP per capita  (current US$) - WDI - 5,0899: School enrollment; primary  (% gross) - WDI - 829,0.32371,0.30747634,0.095029995,0.32371,4.4594316,-0.12741138
+0808N: GDP per capita  (current US$) - WDI - 5,2837: Total health expenditure as a percent of GDP by institutional sector/ Institutional Sector = Private (Units Percentage) - ILO - 1832,0.32325,0.16745394,0.0704,0.32325,4.321928,0.3947101
+0808N: GDP per capita  (current US$) - WDI - 5,2839: Percentage of health care expenditure not financed by private households' out of pocket payments/ Total = Value (Units Percentage) - ILO - 1834,0.32325,0.16745394,0.0704,0.32325,4.321928,0.3947101
+0808N: GDP per capita  (current US$) - WDI - 5,0935: Children out of school; primary; male - WDI - 865,0.32295,0.29604158,0.038100004,0.32295,4.169925,-0.1640379
+0808N: GDP per capita  (current US$) - WDI - 5,0692: Gross national expenditure  (current US$) - WDI - 624,0.32269,0.30179712,0.046299994,0.30948,4.5849624,0.14454369
+0808N: GDP per capita  (current US$) - WDI - 5,0064: Insurance and financial services  (% of service exports; BoP) - WDI - 61,0.32267,0.055396944,0.04775001,0.30878,4.4594316,0.5169846
+0808N: GDP per capita  (current US$) - WDI - 5,0246: Interest arrears; long-term DOD  (US$) - WDI - 238,0.32223,0.31587794,0.09444001,0.29541,4.169925,-0.07969978
+0808N: GDP per capita  (current US$) - WDI - 5,0239: PPG; official creditors  (INT; current US$) - WDI - 231,0.32211,0.3142587,0.05307001,0.30169,4.169925,0.08860753
+0808N: GDP per capita  (current US$) - WDI - 5,0090: Net bilateral aid flows from DAC donors; European Union institutions  (current US$) - WDI - 87,0.3218,0.3191898,0.097090006,0.3218,4.321928,0.051090095
+0808N: GDP per capita  (current US$) - WDI - 5,0822: GNI; Atlas method  (current US$) - WDI - 754,0.32089,0.29579753,0.026549995,0.32089,4.5849624,0.15840605
+0808N: GDP per capita  (current US$) - WDI - 5,0684: Final consumption expenditure; etc.  (annual % growth) - WDI - 616,0.32074,0.29858363,0.042300016,0.29828,4.4594316,-0.14885026
+0808N: GDP per capita  (current US$) - WDI - 5,0259: Portfolio investment; bonds (PPG + PNG)  (NFL; current US$) - WDI - 251,0.32059,0.2937793,0.02680999,0.29973,4.169925,0.16373964
+0808N: GDP per capita  (current US$) - WDI - 5,0757: Services; etc.; value added  (annual % growth) - WDI - 689,0.32037,0.2401919,0.015030012,0.30518,4.5849624,-0.28315735
+0808N: GDP per capita  (current US$) - WDI - 5,0705: Gross fixed capital formation  (current US$) - WDI - 637,0.32,0.30820107,0.030110002,0.32,4.4594316,0.108622886
+0808N: GDP per capita  (current US$) - WDI - 5,0763: Adjusted savings: carbon dioxide damage  (% of GNI) - WDI - 695,0.31965,0.25057948,0.118049994,0.31965,4.5849624,-0.26281267
+0808N: GDP per capita  (current US$) - WDI - 5,0714: Gross capital formation  (current US$) - WDI - 646,0.31956,0.3094638,0.019649997,0.30507,4.5849624,0.100479856
+0808N: GDP per capita  (current US$) - WDI - 5,0748: Industry; value added  (% of GDP) - WDI - 680,0.31928,0.31560096,0.121319994,0.29609,4.5849624,0.06065499
+0808N: GDP per capita  (current US$) - WDI - 5,0453: Bank nonperforming loans to total gross loans  (%) - WDI - 403,0.3191,0.2513427,0.099649996,0.2934,4.321928,-0.2603023
+0808N: GDP per capita  (current US$) - WDI - 5,1000: Nonpregnant and nonnursing women can do the same jobs as men  (1=yes; 0=no) - WDI - 930,0.31905,0.18589753,0.21969002,0.31905,4.169925,0.36490065
+0808N: GDP per capita  (current US$) - WDI - 5,1365: Merchandise imports from low- and middle-income economies in Europe & Central Asia  (% of total merchandise imports) - WDI - 1270,0.31874,0.2703532,0.054339997,0.31874,4.321928,-0.21997003
+0808N: GDP per capita  (current US$) - WDI - 5,0187: External debt stocks; public and publicly guaranteed (PPG)  (DOD; current US$) - WDI - 182,0.31864,0.30677676,0.05715999,0.29871,4.169925,0.108918406
+0808N: GDP per capita  (current US$) - WDI - 5,0207: External debt stocks; long-term public sector  (DOD; current US$) - WDI - 202,0.31864,0.30700618,0.053480014,0.29871,4.169925,0.10786009
+0808N: GDP per capita  (current US$) - WDI - 5,0352: Undisbursed external debt; private creditors  (UND; current US$) - WDI - 344,0.31796,0.2992789,0.07999,0.29051,4.169925,0.13667884
+0808N: GDP per capita  (current US$) - WDI - 5,0680: Household final consumption expenditure; PPP  (constant 2011 international $) - WDI - 612,0.31751,0.30856743,0.091409996,0.31751,4.4594316,0.09456523
+0808N: GDP per capita  (current US$) - WDI - 5,0737: Manufacturing; value added  (current US$) - WDI - 669,0.31724,0.30524087,0.044599995,0.30226,4.5849624,0.109540544
+0808N: GDP per capita  (current US$) - WDI - 5,0689: Final consumption expenditure  (constant 2005 US$) - WDI - 621,0.31719,0.28861928,0.04094,0.31719,4.321928,0.16902873
+0808N: GDP per capita  (current US$) - WDI - 5,0088: Net bilateral aid flows from DAC donors; Belgium  (current US$) - WDI - 85,0.31685,0.312859,0.07462001,0.29474,4.169925,-0.0631744
+0808N: GDP per capita  (current US$) - WDI - 5,1150: Employment to population ratio; 15+; female (%)  (modeled ILO estimate) - WDI - 1063,0.31647,0.31503168,0.042490005,0.30094,4.5849624,0.037925154
+0808N: GDP per capita  (current US$) - WDI - 5,2753: Merchandise trade-Imports-Integrated circuits and electronic components (US dollar at current prices) - WTO - 1748,0.31613,0.3065027,0.050360024,0.31613,4.321928,0.09811885
+0808N: GDP per capita  (current US$) - WDI - 5,0628: Air transport; freight  (million ton-km) - WDI - 569,0.31602,0.28191918,0.04028,0.30423,4.4594316,0.18466409
+0808N: GDP per capita  (current US$) - WDI - 5,0050: Net trade in goods  (BoP; current US$) - WDI - 47,0.31593,0.3158688,0.10930002,0.29901,4.4594316,0.007823435
+0808N: GDP per capita  (current US$) - WDI - 5,0385: CO2 emissions  (kt) - WDI - 371,0.31561,0.3145616,0.057249993,0.31561,4.5849624,0.03237856
+0808N: GDP per capita  (current US$) - WDI - 5,1238: Unemployment; youth total (% of total labor force ages 15-24)  (modeled ILO estimate) - WDI - 1151,0.3156,0.31122208,0.08565001,0.29996,4.5849624,-0.066166
+0808N: GDP per capita  (current US$) - WDI - 5,0279: Commercial banks and other lending (PPG + PNG)  (NFL; current US$) - WDI - 271,0.31557,0.3051595,0.05622001,0.29787,4.169925,0.10203187
+0808N: GDP per capita  (current US$) - WDI - 5,0171: PPG; commercial banks  (DIS; current US$) - WDI - 166,0.31505,0.2958951,0.05384001,0.28929,4.169925,0.13840128
+0808N: GDP per capita  (current US$) - WDI - 5,0143: Commitments; IDA  (COM; current US$) - WDI - 140,0.31503,0.3042423,0.035689995,0.28927,4.169925,-0.10386379
+0808N: GDP per capita  (current US$) - WDI - 5,1217: Labor force participation rate; total (% of total population ages 15+)  (modeled ILO estimate) - WDI - 1130,0.3143,0.31287712,0.081369996,0.29702,4.5849624,-0.037720915
+0808N: GDP per capita  (current US$) - WDI - 5,0423: CO2 emissions from transport  (% of total fuel combustion) - WDI - 394,0.31393,0.3082632,0.09392001,0.31393,4.321928,-0.075278126
+0808N: GDP per capita  (current US$) - WDI - 5,0723: Imports of goods and services  (annual % growth) - WDI - 655,0.3129,0.31255156,0.10600999,0.29087,4.4594316,0.018666873
+0808N: GDP per capita  (current US$) - WDI - 5,0264: Net flows on external debt; short-term  (NFL; current US$) - WDI - 256,0.3128,0.30604848,0.10471,0.29235,4.169925,0.082167484
+0808N: GDP per capita  (current US$) - WDI - 5,1206: Labor force participation rate for ages 15-24; total (%)  (modeled ILO estimate) - WDI - 1119,0.31254,0.31145507,0.07710001,0.29535,4.5849624,0.032938007
+0808N: GDP per capita  (current US$) - WDI - 5,0823: GNI  (current US$) - WDI - 755,0.31222,0.29543045,0.043080002,0.31222,4.5849624,0.12957455
+0808N: GDP per capita  (current US$) - WDI - 5,0828: GNI; PPP  (current international $) - WDI - 760,0.31209,0.30325487,0.020879999,0.31209,4.5849624,0.09399539
+0808N: GDP per capita  (current US$) - WDI - 5,0791: GDP deflator  (base year varies by country) - WDI - 723,0.31196,0.29299805,0.047360003,0.31196,4.4594316,-0.13770248
+0808N: GDP per capita  (current US$) - WDI - 5,0175: PPG; private creditors  (DIS; current US$) - WDI - 170,0.31195,0.2834568,0.05147001,0.28782,4.169925,0.16879924
+0808N: GDP per capita  (current US$) - WDI - 5,0790: Inflation; GDP deflator  (annual %) - WDI - 722,0.31095,0.27216294,0.03961,0.31095,4.5849624,-0.19694433
+0808N: GDP per capita  (current US$) - WDI - 5,0118: IMF repurchases  (AMT; current US$) - WDI - 115,0.31058,0.28238478,0.02877,0.28077,4.169925,0.16791424
+0808N: GDP per capita  (current US$) - WDI - 5,1210: Labor force participation rate; female (% of female population ages 15+)  (national estimate) - WDI - 1123,0.31058,0.2493852,0.015149981,0.28505,4.169925,0.24737582
+0808N: GDP per capita  (current US$) - WDI - 5,0711: Changes in inventories  (current US$) - WDI - 643,0.31054,0.30499375,0.028329998,0.31054,4.321928,0.07447315
+0808N: GDP per capita  (current US$) - WDI - 5,0880: School enrollment; primary and secondary (gross); gender parity index  (GPI) - WDI - 810,0.31038,0.278148,0.077120006,0.31038,4.321928,0.17953277
+0808N: GDP per capita  (current US$) - WDI - 5,1204: Labor force participation rate for ages 15-24; male (%)  (modeled ILO estimate) - WDI - 1117,0.30998,0.30242312,0.08267,0.28956,4.5849624,-0.08693035
+0808N: GDP per capita  (current US$) - WDI - 5,0538: Subsidies and other transfers  (% of expense) - WDI - 487,0.30975,0.0739937,0.03778,0.30975,4.169925,0.48554742
+0808N: GDP per capita  (current US$) - WDI - 5,0800: GDP  (current US$) - WDI - 732,0.30971,0.2941256,0.039460003,0.30971,4.5849624,0.12483754
+0808N: GDP per capita  (current US$) - WDI - 5,0667: Household final consumption expenditure; etc.  (current LCU) - WDI - 599,0.30942,0.30529353,0.103039995,0.30942,4.321928,-0.064237416
+0808N: GDP per capita  (current US$) - WDI - 5,0621: Methodology assessment of statistical capacity  (scale 0 - 100) - WDI - 562,0.30895,0.21494082,0.1146,0.2939,4.321928,0.30660918
+0808N: GDP per capita  (current US$) - WDI - 5,2836: Total health expenditure as a percent of GDP by institutional sector/ Institutional Sector = Public (Units Percentage) - ILO - 1831,0.30891,0.16151646,0.061200008,0.30891,4.321928,0.38391867
+0808N: GDP per capita  (current US$) - WDI - 5,1368: Merchandise imports from low- and middle-income economies in South Asia  (% of total merchandise imports) - WDI - 1273,0.30831,0.28746247,0.07816,0.2962,4.5849624,-0.14438675
+0808N: GDP per capita  (current US$) - WDI - 5,0250: Interest forgiven  (current US$) - WDI - 242,0.30825,0.29571664,0.067650005,0.28875,4.169925,-0.11195251
+0808N: GDP per capita  (current US$) - WDI - 5,0639: Fixed broadband subscriptions - WDI - 580,0.30802,0.3021867,0.03050001,0.29206,4.5849624,0.076376036
+0808N: GDP per capita  (current US$) - WDI - 5,0160: Disbursements on external debt; long-term + IMF  (DIS; current US$) - WDI - 155,0.30798,0.28142157,0.048700005,0.29102,4.169925,0.1629676
+0808N: GDP per capita  (current US$) - WDI - 5,0161: Disbursements on external debt; long-term  (DIS; current US$) - WDI - 156,0.30798,0.28124145,0.05553001,0.29102,4.169925,0.16351925
+0808N: GDP per capita  (current US$) - WDI - 5,2802: Balance of Payments-Imports-Transport (US dollar at current prices) - WTO - 1797,0.30786,0.16831759,0.024989992,0.30786,4.321928,0.37355375
+0808N: GDP per capita  (current US$) - WDI - 5,0163: Disbursements on external debt; public and publicly guaranteed (PPG)  (DIS; current US$) - WDI - 158,0.30772,0.2911634,0.07771,0.28194,4.169925,0.1286724
+0808N: GDP per capita  (current US$) - WDI - 5,1215: Labor force participation rate; male (% of male population ages 15+)  (modeled ILO estimate) - WDI - 1128,0.30734,0.26268953,0.032810003,0.29173,4.5849624,-0.21130657
+0808N: GDP per capita  (current US$) - WDI - 5,0086: Net bilateral aid flows from DAC donors; Australia  (current US$) - WDI - 83,0.30714,0.30682123,0.07947999,0.28381,4.321928,-0.017853864
+0808N: GDP per capita  (current US$) - WDI - 5,0580: Time to prepare and pay taxes  (hours) - WDI - 524,0.307,0.18187188,0.056730002,0.29409,4.5849624,-0.35373455
+0808N: GDP per capita  (current US$) - WDI - 5,0220: Average grant element on new external debt commitments; official  (%) - WDI - 212,0.30687,0.2839728,0.05228001,0.28128,4.169925,-0.1513182
+0808N: GDP per capita  (current US$) - WDI - 5,0125: PPG; multilateral  (AMT; current US$) - WDI - 122,0.30659,0.28759494,0.0671,0.28996,4.169925,0.13782251
+0808N: GDP per capita  (current US$) - WDI - 5,0816: Total natural resources rents  (% of GDP) - WDI - 748,0.30634,0.2895878,0.026679993,0.29203,4.5849624,-0.1294304
+0808N: GDP per capita  (current US$) - WDI - 5,0972: Secondary education; teachers; female - WDI - 902,0.30611,0.3050311,0.07224001,0.28222,4.169925,-0.032846697
+0808N: GDP per capita  (current US$) - WDI - 5,1139: Employment to population ratio; ages 15-24; male (%)  (modeled ILO estimate) - WDI - 1052,0.30604,0.30136344,0.03143999,0.28807,4.5849624,-0.068385415
+0808N: GDP per capita  (current US$) - WDI - 5,1371: Merchandise imports by the reporting economy  (current US$) - WDI - 1276,0.30502,0.28630307,0.024360001,0.29356,4.5849624,0.13680983
+0808N: GDP per capita  (current US$) - WDI - 5,0527: Compensation of employees  (% of expense) - WDI - 476,0.30492,0.14065076,0.022479981,0.30492,4.169925,-0.4053014
+0808N: GDP per capita  (current US$) - WDI - 5,2721: Merchandise trade-Exports-Food (US dollar at current prices) - WTO - 1716,0.30489,0.20731848,0.06502001,0.30489,4.321928,0.3123644
+0808N: GDP per capita  (current US$) - WDI - 5,0901: School enrollment; primary; male  (% gross) - WDI - 831,0.30444,0.2653653,0.071140006,0.28909,4.4594316,-0.19767316
+0808N: GDP per capita  (current US$) - WDI - 5,2727: Merchandise trade-Imports-Fuels and mining products (US dollar at current prices) - WTO - 1722,0.30432,0.24490958,0.03763002,0.30432,4.321928,0.24374253
+0808N: GDP per capita  (current US$) - WDI - 5,2724: Merchandise trade-Exports-Textiles (US dollar at current prices) - WTO - 1719,0.30421,0.30141142,0.028060004,0.30421,4.321928,0.05290161
+0808N: GDP per capita  (current US$) - WDI - 5,1393: Merchandise exports to low- and middle-income economies in Latin America & the Caribbean  (% of total merchandise exports) - WDI - 1298,0.30413,0.29390943,0.05328998,0.30413,4.4594316,-0.101096846
+0808N: GDP per capita  (current US$) - WDI - 5,2799: Balance of Payments-Exports-Government goods and services n.i.e. (US dollar at current prices) - WTO - 1794,0.30391,0.22101265,0.06991999,0.28841,4.321928,0.28791898
+0808N: GDP per capita  (current US$) - WDI - 5,0025: Crop production index  (2004-2006 = 100) - WDI - 22,0.3039,0.2537227,0.044980004,0.3039,4.5849624,-0.2240029
+0808N: GDP per capita  (current US$) - WDI - 5,0302: Net transfers on external debt; public and publicly guaranteed (PPG)  (NTR; current US$) - WDI - 294,0.30388,0.3036628,0.11310999,0.2787,4.169925,0.014737334
+0808N: GDP per capita  (current US$) - WDI - 5,0261: Net flows on external debt; long-term  (NFL; current US$) - WDI - 253,0.30349,0.27579513,0.021029994,0.27355,4.169925,0.16641782
+0808N: GDP per capita  (current US$) - WDI - 5,0669: Household final consumption expenditure; etc.  (annual % growth) - WDI - 601,0.30347,0.28769854,0.043260008,0.30347,4.321928,-0.1255844
+0808N: GDP per capita  (current US$) - WDI - 5,1266: Refugee population by country or territory of origin - WDI - 1177,0.30346,0.287929,0.02606,0.30346,4.5849624,-0.124623425
+0808N: GDP per capita  (current US$) - WDI - 5,0338: PPG; IDA  (TDS; current US$) - WDI - 330,0.30321,0.30320993,0.017189994,0.28825,4.169925,2.5108425E-4
+0808N: GDP per capita  (current US$) - WDI - 5,0461: Bank liquid reserves to bank assets ratio  (%) - WDI - 410,0.30306,0.24521762,0.08949001,0.28137,4.169925,-0.24050441
+0808N: GDP per capita  (current US$) - WDI - 5,0026: Food production index  (2004-2006 = 100) - WDI - 23,0.30279,0.23909536,0.05453001,0.30279,4.5849624,-0.25237793
+0808N: GDP per capita  (current US$) - WDI - 5,0522: Tax revenue  (% of GDP) - WDI - 471,0.30273,0.22098085,0.042959988,0.30273,4.169925,0.2859181
+0808N: GDP per capita  (current US$) - WDI - 5,0595: Patent applications; nonresidents - WDI - 536,0.30262,0.2933317,0.09244999,0.27544,4.169925,0.096375726
+0808N: GDP per capita  (current US$) - WDI - 5,0679: Household final consumption expenditure; PPP  (current international $) - WDI - 611,0.30252,0.29215413,0.084690005,0.30252,4.4594316,0.101812884
+0808N: GDP per capita  (current US$) - WDI - 5,0124: PPG; IDA  (AMT; current US$) - WDI - 121,0.30204,0.30178842,0.07202999,0.27413,4.169925,0.015861997
+0808N: GDP per capita  (current US$) - WDI - 5,0223: Average interest on new external debt commitments; official  (%) - WDI - 215,0.30171,0.29254374,0.076450005,0.27207,4.169925,0.095740624
+0808N: GDP per capita  (current US$) - WDI - 5,2814: Balance of Payments-Imports-Construction (US dollar at current prices) - WTO - 1809,0.30154,0.24636598,0.035949975,0.27133,4.169925,0.23489149
+0808N: GDP per capita  (current US$) - WDI - 5,1213: Ratio of female to male labor force participation rate (%)  (modeled ILO estimate) - WDI - 1126,0.30125,0.2864876,0.04321,0.28631,4.5849624,0.121500656
+0808N: GDP per capita  (current US$) - WDI - 5,1231: Labor force; female  (% of total labor force) - WDI - 1144,0.30063,0.29821217,0.07641001,0.28477,4.5849624,0.049171463
+0808N: GDP per capita  (current US$) - WDI - 5,0336: Public and publicly guaranteed debt service  (% of exports of goods; services and primary income) - WDI - 328,0.29995,0.2558782,0.047360003,0.2736,4.169925,0.20993283
+0808N: GDP per capita  (current US$) - WDI - 5,0762: Adjusted savings: carbon dioxide damage  (current US$) - WDI - 694,0.29985,0.29631993,0.015550002,0.29985,4.4594316,0.05941416
+0808N: GDP per capita  (current US$) - WDI - 5,0803: GDP growth  (annual %) - WDI - 735,0.29983,0.29565382,0.11707999,0.29983,4.5849624,-0.06462328
+0808N: GDP per capita  (current US$) - WDI - 5,2838: Total health expenditure as a percent of GDP by institutional sector/ Institutional Sector = Total (Units Percentage) - ILO - 1833,0.29979,0.24680305,0.08897999,0.27891,4.4594316,0.23018895
+0808N: GDP per capita  (current US$) - WDI - 5,0575: Time required to register property  (days) - WDI - 519,0.29978,0.25799373,0.04705,0.28615,4.5849624,-0.20441692
+0808N: GDP per capita  (current US$) - WDI - 5,0010: Permanent cropland  (% of land area) - WDI - 16,0.29948,0.26068002,0.08792001,0.29948,4.5849624,-0.1969771
+0808N: GDP per capita  (current US$) - WDI - 5,0089: Net bilateral aid flows from DAC donors; Canada  (current US$) - WDI - 86,0.29935,0.29713115,0.026669994,0.28038,4.321928,-0.047104537
+0808N: GDP per capita  (current US$) - WDI - 5,1265: Refugee population by country or territory of asylum - WDI - 1176,0.29902,0.29110625,0.10515001,0.29902,4.4594316,-0.088959254
+0808N: GDP per capita  (current US$) - WDI - 5,0323: Net ODA received per capita  (current US$) - WDI - 315,0.29891,0.29382747,0.06408,0.29891,4.321928,-0.07129172
+0808N: GDP per capita  (current US$) - WDI - 5,0224: Average interest on new external debt commitments; private  (%) - WDI - 216,0.29874,0.16294158,0.035479993,0.27947,4.169925,0.36850837
+0808N: GDP per capita  (current US$) - WDI - 5,0286: Net official flows from UN agencies; UNAIDS  (current US$) - WDI - 278,0.29873,0.2983707,0.0987,0.26792,4.169925,0.018954953
+0808N: GDP per capita  (current US$) - WDI - 5,0263: Net flows on external debt; public and publicly guaranteed (PPG)  (NFL; current US$) - WDI - 255,0.29839,0.2876585,0.10332999,0.28166,4.169925,0.10359284
+0808N: GDP per capita  (current US$) - WDI - 5,1359: Ores and metals imports  (% of merchandise imports) - WDI - 1264,0.29822,0.27294737,0.0846,0.27638,4.4594316,0.15897366
+0808N: GDP per capita  (current US$) - WDI - 5,0532: Interest payments  (% of expense) - WDI - 481,0.29818,0.29218584,0.081259996,0.29818,4.169925,-0.07742194
+0808N: GDP per capita  (current US$) - WDI - 5,0818: Gross domestic savings  (current LCU) - WDI - 750,0.29752,0.2943579,0.078679994,0.29752,4.321928,-0.0562328
+0808N: GDP per capita  (current US$) - WDI - 5,1384: Insurance and financial services  (% of commercial service exports) - WDI - 1289,0.29719,0.0659195,0.031859994,0.28156,4.4594316,0.48090592
+0808N: GDP per capita  (current US$) - WDI - 5,1783: Renewable energy - TOT (KTOE) - OECD - 1576,0.29714,0.29713023,0.04514,0.27155,4.169925,-0.0031273756
+0808N: GDP per capita  (current US$) - WDI - 5,0115: Net bilateral aid flows from DAC donors; United States  (current US$) - WDI - 112,0.29706,0.2946044,0.065550014,0.29706,4.321928,-0.04955437
+0808N: GDP per capita  (current US$) - WDI - 5,0774: Adjusted savings: natural resources depletion  (% of GNI) - WDI - 706,0.29566,0.28024024,0.046469986,0.28119,4.5849624,-0.12417627
+0808N: GDP per capita  (current US$) - WDI - 5,0058: Technical cooperation grants  (BoP; current US$) - WDI - 55,0.29553,0.29472384,0.05256,0.29553,4.169925,-0.028392892
+0808N: GDP per capita  (current US$) - WDI - 5,1770: Primary energy supply - TOT (MLN_TOE) - OECD - 1566,0.29536,0.29535022,0.043359995,0.27155,4.169925,-0.0031272003
+0808N: GDP per capita  (current US$) - WDI - 5,0102: Net bilateral aid flows from DAC donors; Italy  (current US$) - WDI - 99,0.29524,0.291018,0.15805002,0.29524,4.169925,-0.06497703
+0808N: GDP per capita  (current US$) - WDI - 5,0307: PPG; official creditors  (NTR; current US$) - WDI - 299,0.29496,0.28999704,0.08244999,0.26684,4.169925,-0.070448205
+0808N: GDP per capita  (current US$) - WDI - 5,1897: Fixed-telephone subscriptions - ITU - 1655,0.2948,0.28710803,0.02256,0.2948,4.4594316,0.087703936
+0808N: GDP per capita  (current US$) - WDI - 5,0183: External debt stocks  (% of GNI) - WDI - 178,0.2947,0.28196862,0.10062,0.2657,4.169925,0.11283335
+0808N: GDP per capita  (current US$) - WDI - 5,0145: Commitments; private creditors  (COM; current US$) - WDI - 142,0.29378,0.2658379,0.044689998,0.2741,4.169925,0.16715892
+0808N: GDP per capita  (current US$) - WDI - 5,0256: Average maturity on new external debt commitments; private  (years) - WDI - 248,0.29378,0.19675002,0.081180006,0.2741,4.169925,0.31149638
+0808N: GDP per capita  (current US$) - WDI - 5,0386: CO2 emissions from liquid fuel consumption  (kt) - WDI - 372,0.29326,0.28793675,0.05602999,0.29326,4.5849624,0.07296076
+0808N: GDP per capita  (current US$) - WDI - 5,0211: Residual; debt stock-flow reconciliation  (current US$) - WDI - 203,0.29302,0.27577236,0.029599994,0.27367,4.169925,0.1313303
+0808N: GDP per capita  (current US$) - WDI - 5,0156: Debt forgiveness or reduction  (current US$) - WDI - 151,0.29239,0.28602308,0.087199986,0.26512,4.169925,0.07979285
+0808N: GDP per capita  (current US$) - WDI - 5,0098: Net bilateral aid flows from DAC donors; United Kingdom  (current US$) - WDI - 95,0.29176,0.2881654,0.040439993,0.26116,4.321928,-0.059955165
+0808N: GDP per capita  (current US$) - WDI - 5,1211: Labor force participation rate; female (% of female population ages 15+)  (modeled ILO estimate) - WDI - 1124,0.29152,0.29140255,0.04855001,0.27667,4.5849624,0.010837439
+0808N: GDP per capita  (current US$) - WDI - 5,1152: Employment to population ratio; 15+; male (%)  (modeled ILO estimate) - WDI - 1065,0.29129,0.27433088,0.031469986,0.27403,4.5849624,-0.13022709
+0808N: GDP per capita  (current US$) - WDI - 5,0354: Energy intensity level of primary energy  (MJ/$2011 PPP GDP) - WDI - 346,0.29103,0.23631476,0.06374,0.29103,4.5849624,-0.23391287
+0808N: GDP per capita  (current US$) - WDI - 5,0132: PPG; other private creditors  (AMT; current US$) - WDI - 129,0.29071,0.27264673,0.020529993,0.26672,4.169925,0.1343997
+0808N: GDP per capita  (current US$) - WDI - 5,0655: Armed forces personnel  (% of total labor force) - WDI - 587,0.2905,0.28976697,0.038229987,0.2905,4.4594316,-0.027074032
+0808N: GDP per capita  (current US$) - WDI - 5,0772: Adjusted savings: particulate emission damage  (current US$) - WDI - 704,0.29029,0.28180465,0.025590003,0.29029,4.321928,0.09211592
+0808N: GDP per capita  (current US$) - WDI - 5,1104: Health expenditure; total  (% of GDP) - WDI - 1019,0.28986,0.17955641,0.07186,0.28986,4.5849624,0.33211985
+0808N: GDP per capita  (current US$) - WDI - 5,0629: Air transport; passengers carried - WDI - 570,0.28982,0.26333058,0.057789996,0.27265,4.4594316,0.16275564
+0808N: GDP per capita  (current US$) - WDI - 5,0546: Public credit registry coverage  (% of adults) - WDI - 493,0.28957,0.2865497,0.1271,0.28839,4.5849624,0.05495733
+0808N: GDP per capita  (current US$) - WDI - 5,0221: Average grant element on new external debt commitments; private  (%) - WDI - 213,0.28954,0.22058965,0.075399995,0.26986,4.169925,0.26258397
+0808N: GDP per capita  (current US$) - WDI - 5,0466: Claims on central government  (annual growth as % of broad money) - WDI - 415,0.28917,0.26845902,0.03431,0.28917,4.169925,-0.14391313
+0808N: GDP per capita  (current US$) - WDI - 5,1257: Unemployment; male (% of male labor force)  (modeled ILO estimate) - WDI - 1170,0.28786,0.2776987,0.08173001,0.2693,4.5849624,-0.100803316
+0808N: GDP per capita  (current US$) - WDI - 5,1279: Death rate; crude  (per 1;000 people) - WDI - 1186,0.28734,0.259908,0.094790004,0.28734,4.5849624,-0.1656261
+0808N: GDP per capita  (current US$) - WDI - 5,0298: PPG; bilateral concessional  (NTR; current US$) - WDI - 290,0.28697,0.26771152,0.034329996,0.25904,4.169925,-0.1387749
+0808N: GDP per capita  (current US$) - WDI - 5,0178: PPG; bilateral  (DOD; current US$) - WDI - 173,0.28664,0.28568688,0.10210998,0.26775,4.169925,0.03087229
+0808N: GDP per capita  (current US$) - WDI - 5,2774: Merchandise trade-Imports-Total merchandise (Unit value index - Prev. year = 100) - WTO - 1769,0.28604,0.21974146,0.037149996,0.27297,4.4594316,-0.25748503
+0808N: GDP per capita  (current US$) - WDI - 5,0126: PPG; multilateral concessional  (AMT; current US$) - WDI - 123,0.2852,0.28506756,0.105639994,0.25544,4.169925,0.011508861
+0808N: GDP per capita  (current US$) - WDI - 5,0540: Business extent of disclosure index  (0=less disclosure to 10=more disclosure) - WDI - 489,0.2852,0.222611,0.05115001,0.2798,4.5849624,0.25017795
+0808N: GDP per capita  (current US$) - WDI - 5,0179: PPG; bilateral concessional  (DOD; current US$) - WDI - 174,0.28511,0.2843017,0.06815,0.26622,4.169925,0.028430846
+0808N: GDP per capita  (current US$) - WDI - 5,0497: Cash surplus/deficit  (% of GDP) - WDI - 446,0.28503,0.24283428,0.029290006,0.28503,4.169925,0.20541596
+0808N: GDP per capita  (current US$) - WDI - 5,0569: Cost to import  (US$ per container) - WDI - 515,0.28496,0.2090661,0.039240003,0.28496,4.5849624,-0.2754885
+0808N: GDP per capita  (current US$) - WDI - 5,0484: Deposit interest rate  (%) - WDI - 433,0.28461,0.17916015,0.07021999,0.28461,4.169925,-0.32473043
+0808N: GDP per capita  (current US$) - WDI - 5,0150: Currency composition of PPG debt; Multiple currencies  (%) - WDI - 145,0.28442,0.25076896,0.098670006,0.26684,4.169925,-0.18344226
+0808N: GDP per capita  (current US$) - WDI - 5,0280: PNG; bonds  (NFL; current US$) - WDI - 272,0.28413,0.232637,0.107470006,0.27107,4.169925,0.22692071
+0808N: GDP per capita  (current US$) - WDI - 5,0310: PNG; bonds  (NTR; current US$) - WDI - 302,0.28413,0.23027943,0.07741,0.27107,4.169925,0.23205726
+0808N: GDP per capita  (current US$) - WDI - 5,1153: Employment to population ratio; 15+; total (%)  (national estimate) - WDI - 1066,0.28393,0.23394945,0.028630003,0.25705,4.169925,0.22356331
+0808N: GDP per capita  (current US$) - WDI - 5,0128: PPG; bonds  (AMT; current US$) - WDI - 125,0.28381,0.2458277,0.02473998,0.25883,4.169925,0.19489045
+0808N: GDP per capita  (current US$) - WDI - 5,0633: Liner shipping connectivity index  (maximum value in 2004 = 100) - WDI - 574,0.28353,0.19908357,0.02218999,0.28353,4.169925,0.2905967
+0808N: GDP per capita  (current US$) - WDI - 5,0312: PPG; other private creditors  (NTR; current US$) - WDI - 304,0.2827,0.26730198,0.015519999,0.26493,4.169925,-0.12408878
+0808N: GDP per capita  (current US$) - WDI - 5,0433: Population in the largest city  (% of urban population) - WDI - 397,0.28246,0.2823919,0.048669994,0.26717,4.4594316,-0.008251956
+0808N: GDP per capita  (current US$) - WDI - 5,0172: PNG; bonds  (DIS; current US$) - WDI - 167,0.28241,0.2342331,0.08405,0.26412,4.169925,0.21949236
+0808N: GDP per capita  (current US$) - WDI - 5,0181: Total change in external debt stocks  (current US$) - WDI - 176,0.28171,0.26420414,0.021710008,0.26576,4.169925,0.13230969
+0808N: GDP per capita  (current US$) - WDI - 5,0534: Other expense  (% of expense) - WDI - 483,0.28135,0.2775748,0.04333,0.25814,4.169925,0.0614425
+0808N: GDP per capita  (current US$) - WDI - 5,1389: Merchandise exports to high-income economies  (% of total merchandise exports) - WDI - 1294,0.28091,0.16753423,0.07765001,0.26636,4.5849624,0.33671317
+0808N: GDP per capita  (current US$) - WDI - 5,0282: PPG; other private creditors  (NFL; current US$) - WDI - 274,0.28082,0.2656547,0.017760001,0.25909,4.169925,-0.12314752
+0808N: GDP per capita  (current US$) - WDI - 5,0624: Source data assessment of statistical capacity  (scale 0 - 100) - WDI - 565,0.28074,0.24040225,0.1281,0.26199,4.321928,0.20084259
+0808N: GDP per capita  (current US$) - WDI - 5,0350: Undisbursed external debt; total  (UND; current US$) - WDI - 342,0.28067,0.2777126,0.027319998,0.24776,4.169925,0.054381613
+0808N: GDP per capita  (current US$) - WDI - 5,0799: Mineral rents  (% of GDP) - WDI - 731,0.28065,0.24608631,0.033559978,0.28065,4.5849624,-0.1859131
+0808N: GDP per capita  (current US$) - WDI - 5,0184: Use of IMF credit  (DOD; current US$) - WDI - 179,0.27963,0.2722608,0.02858001,0.25286,4.169925,0.085844174
+0808N: GDP per capita  (current US$) - WDI - 5,0360: Electricity production from hydroelectric sources  (% of total) - WDI - 349,0.27932,0.2488245,0.03750001,0.27932,4.321928,-0.17462961
+0808N: GDP per capita  (current US$) - WDI - 5,1310: Rural population - WDI - 1215,0.27932,0.26999024,0.07683,0.27932,4.5849624,-0.09659067
+0808N: GDP per capita  (current US$) - WDI - 5,0665: General government final consumption expenditure  (% of GDP) - WDI - 597,0.27901,0.26230118,0.02068001,0.26487,4.5849624,0.12926266
+0808N: GDP per capita  (current US$) - WDI - 5,1091: Tuberculosis treatment success rate  (% of new cases) - WDI - 1006,0.27885,0.21034524,0.062740006,0.2669,4.5849624,-0.26173413
+0808N: GDP per capita  (current US$) - WDI - 5,0141: Commitments; public and publicly guaranteed  (COM; current US$) - WDI - 138,0.27877,0.2674901,0.050119996,0.24412,4.169925,0.106206976
+0808N: GDP per capita  (current US$) - WDI - 5,0396: Total greenhouse gas emissions  (% change from 1990) - WDI - 382,0.27876,0.27190995,0.052169994,0.27876,4.5849624,-0.082764976
+0808N: GDP per capita  (current US$) - WDI - 5,0637: Fixed telephone subscriptions - WDI - 578,0.27867,0.27559403,0.03634,0.27867,4.5849624,0.05546152
+0808N: GDP per capita  (current US$) - WDI - 5,0878: Compulsory education; duration  (years) - WDI - 808,0.27866,0.22201663,0.108610004,0.26378,4.5849624,0.23799866
+0808N: GDP per capita  (current US$) - WDI - 5,1255: Unemployment; female (% of female labor force)  (modeled ILO estimate) - WDI - 1168,0.27864,0.24130964,0.06297,0.26179,4.5849624,-0.19321068
+0808N: GDP per capita  (current US$) - WDI - 5,0702: Exports of goods and services  (% of GDP) - WDI - 634,0.27817,0.12800558,0.033460006,0.26495,4.5849624,0.38751054
+0808N: GDP per capita  (current US$) - WDI - 5,1004: Law mandates nondiscrimination based on gender in hiring  (1=yes; 0=no) - WDI - 932,0.27801,0.20967752,0.21518001,0.27801,4.169925,0.26140484
+0808N: GDP per capita  (current US$) - WDI - 5,0005: Agricultural land  (% of land area) - WDI - 11,0.27787,0.22066143,0.102479994,0.27787,4.5849624,-0.23918314
+0808N: GDP per capita  (current US$) - WDI - 5,0682: Final consumption expenditure; etc.  (current LCU) - WDI - 614,0.27772,0.27390942,0.062690005,0.27772,4.321928,-0.061729893
+0808N: GDP per capita  (current US$) - WDI - 5,0214: Debt stock reduction  (current US$) - WDI - 206,0.2776,0.2745414,0.091079995,0.25268,4.169925,-0.055304553
+0808N: GDP per capita  (current US$) - WDI - 5,0347: PPG; other private creditors  (TDS; current US$) - WDI - 339,0.27758,0.2596614,0.024340004,0.25818,4.169925,0.13386029
+0808N: GDP per capita  (current US$) - WDI - 5,0551: Cost to export  (US$ per container) - WDI - 498,0.27747,0.21889435,0.040989995,0.27747,4.5849624,-0.24202405
+0808N: GDP per capita  (current US$) - WDI - 5,1305: Population; female  (% of total) - WDI - 1210,0.27673,0.2346574,0.033499986,0.27673,4.5849624,-0.20511605
+0808N: GDP per capita  (current US$) - WDI - 5,1390: Merchandise exports to low- and middle-income economies outside region  (% of total merchandise exports) - WDI - 1295,0.2752,0.27404624,0.052120015,0.2752,4.4594316,0.03396697
+0808N: GDP per capita  (current US$) - WDI - 5,0339: Multilateral debt service  (TDS; current US$) - WDI - 331,0.2749,0.25704443,0.04371001,0.25927,4.169925,0.13362466
+0808N: GDP per capita  (current US$) - WDI - 5,0508: Revenue; excluding grants  (current LCU) - WDI - 457,0.27485,0.27221107,0.079840004,0.24995,4.169925,-0.051370636
+0808N: GDP per capita  (current US$) - WDI - 5,0521: Tax revenue  (current LCU) - WDI - 470,0.27485,0.27231953,0.06321001,0.24995,4.169925,-0.050303947
+0808N: GDP per capita  (current US$) - WDI - 5,1377: Travel services  (% of commercial service imports) - WDI - 1282,0.27473,0.27362382,0.028939992,0.25638,4.5849624,0.033259384
+0808N: GDP per capita  (current US$) - WDI - 5,0040: Travel services  (% of service imports; BoP) - WDI - 37,0.27416,0.27029923,0.019990005,0.26125,4.5849624,0.06213514
+0808N: GDP per capita  (current US$) - WDI - 5,0735: Agriculture; value added  (constant LCU) - WDI - 667,0.27372,0.27008548,0.05275999,0.25491,4.4594316,-0.060287006
+0808N: GDP per capita  (current US$) - WDI - 5,0260: Net flows on external debt; total  (NFL; current US$) - WDI - 252,0.27328,0.2548703,0.049459994,0.248,4.169925,0.13568236
+0808N: GDP per capita  (current US$) - WDI - 5,0622: Overall level of statistical capacity  (scale 0 - 100) - WDI - 563,0.27312,0.22608124,0.06041999,0.25682,4.321928,0.21688418
+0808N: GDP per capita  (current US$) - WDI - 5,0410: Nitrous oxide emissions  (% change from 1990) - WDI - 386,0.2727,0.2204803,0.015889995,0.2727,4.5849624,-0.22851636
+0808N: GDP per capita  (current US$) - WDI - 5,2771: Merchandise trade-Exports-Total merchandise (Unit value index - Prev. year = 100) - WTO - 1766,0.27204,0.25936547,0.037990004,0.2499,4.4594316,-0.11258121
+0808N: GDP per capita  (current US$) - WDI - 5,0159: IMF purchases  (DIS; current US$) - WDI - 154,0.27198,0.26695764,0.041999996,0.25029,4.169925,0.070868544
+0808N: GDP per capita  (current US$) - WDI - 5,0130: PNG; bonds  (AMT; current US$) - WDI - 127,0.27179,0.24199118,0.09881,0.25641,4.169925,0.17262334
+0808N: GDP per capita  (current US$) - WDI - 5,0927: Primary education; teachers - WDI - 857,0.27159,0.26749933,0.08444999,0.27159,4.321928,-0.06395836
+0808N: GDP per capita  (current US$) - WDI - 5,0785: Adjusted net savings; including particulate emission damage  (% of GNI) - WDI - 717,0.27155,0.23158324,0.061199993,0.27155,4.321928,0.19991687
+0808N: GDP per capita  (current US$) - WDI - 5,0599: Trademark applications; total - WDI - 540,0.27153,0.2702425,0.062649995,0.25246,4.321928,-0.035881497
+0808N: GDP per capita  (current US$) - WDI - 5,2728: Merchandise trade-Imports-Fuels (US dollar at current prices) - WTO - 1723,0.27145,0.20129125,0.042439997,0.27145,4.321928,0.264875
+0808N: GDP per capita  (current US$) - WDI - 5,0777: Adjusted savings: net national savings  (% of GNI) - WDI - 709,0.27116,0.25598317,0.03194,0.25542,4.4594316,0.12319427
+0808N: GDP per capita  (current US$) - WDI - 5,0951: Secondary education; vocational pupils  (% female) - WDI - 881,0.27098,0.27031302,0.023570001,0.24938,4.321928,0.025825772
+0808N: GDP per capita  (current US$) - WDI - 5,0384: CO2 emissions  (kg per 2005 US$ of GDP) - WDI - 370,0.27041,0.20431131,0.047759995,0.27041,4.5849624,-0.25709665
+0808N: GDP per capita  (current US$) - WDI - 5,0826: GNI growth  (annual %) - WDI - 758,0.26954,0.26608497,0.029750004,0.25444,4.4594316,-0.05877955
+0808N: GDP per capita  (current US$) - WDI - 5,1367: Merchandise imports from low- and middle-income economies in Middle East & North Africa  (% of total merchandise imports) - WDI - 1272,0.26936,0.26573473,0.04189001,0.25569,4.5849624,-0.06021027
+0808N: GDP per capita  (current US$) - WDI - 5,2840: Public health expenditure as a percent of General Government Expenditure/ Total = Value (Units Percentage) - ILO - 1835,0.26926,0.20026195,0.07803999,0.26926,4.321928,0.26267478
+0808N: GDP per capita  (current US$) - WDI - 5,0468: Net domestic credit  (current LCU) - WDI - 417,0.26925,0.269183,0.046430007,0.26925,4.321928,-0.008185685
+0808N: GDP per capita  (current US$) - WDI - 5,0432: Population in largest city - WDI - 396,0.26891,0.2660099,0.057979986,0.26891,4.169925,0.053852603
+0808N: GDP per capita  (current US$) - WDI - 5,0787: Adjusted net savings; excluding particulate emission damage  (% of GNI) - WDI - 719,0.26874,0.2376644,0.06357001,0.26874,4.321928,0.1762827
+0808N: GDP per capita  (current US$) - WDI - 5,0634: Container port traffic  (TEU: 20 foot equivalent units) - WDI - 575,0.26866,0.26864418,0.03485,0.26866,4.169925,0.0039766533
+0808N: GDP per capita  (current US$) - WDI - 5,0363: Electricity production from nuclear sources  (% of total) - WDI - 352,0.26837,0.17690583,0.044609994,0.26837,4.321928,0.30243045
+0808N: GDP per capita  (current US$) - WDI - 5,1387: Merchandise exports to economies in the Arab World  (% of total merchandise exports) - WDI - 1292,0.2681,0.25992325,0.07386999,0.24805,4.5849624,-0.090425424
+0808N: GDP per capita  (current US$) - WDI - 5,0358: Electricity production from coal sources  (% of total) - WDI - 347,0.26775,0.26651737,0.041810006,0.26775,4.321928,-0.0351088
+0808N: GDP per capita  (current US$) - WDI - 5,1395: Merchandise exports to low- and middle-income economies in South Asia  (% of total merchandise exports) - WDI - 1300,0.26745,0.2516454,0.04976,0.25448,4.5849624,-0.12571642
+0808N: GDP per capita  (current US$) - WDI - 5,0670: Household final consumption expenditure; etc.  (constant LCU) - WDI - 602,0.26736,0.2637936,0.06242001,0.26736,4.169925,-0.059719354
+0808N: GDP per capita  (current US$) - WDI - 5,0412: PM2.5 air pollution; mean annual exposure  (micrograms per cubic meter) - WDI - 387,0.26727,0.2535613,0.03374,0.26727,4.5849624,-0.11708423
+0808N: GDP per capita  (current US$) - WDI - 5,0258: PPG; bilateral concessional  (NFL; current US$) - WDI - 250,0.26693,0.2595028,0.080019996,0.2507,4.169925,-0.08618138
+0808N: GDP per capita  (current US$) - WDI - 5,0306: PPG; multilateral concessional  (NTR; current US$) - WDI - 298,0.26691,0.2669003,0.07295999,0.23781,4.169925,0.0031119105
+0808N: GDP per capita  (current US$) - WDI - 5,0742: Manufacturing; value added  (% of GDP) - WDI - 674,0.26687,0.26677108,0.08739999,0.26687,4.4594316,-0.009944928
+0808N: GDP per capita  (current US$) - WDI - 5,1208: Labor force participation rate; male (% of male population ages 15-64)  (modeled ILO estimate) - WDI - 1121,0.26671,0.25428241,0.10195002,0.24867,4.5849624,0.111479074
+0808N: GDP per capita  (current US$) - WDI - 5,0276: PPG; official creditors  (NFL; current US$) - WDI - 268,0.26665,0.26664105,0.0792,0.24666,4.169925,0.0029900055
+0808N: GDP per capita  (current US$) - WDI - 5,0176: External debt stocks; concessional  (DOD; current US$) - WDI - 171,0.26633,0.26632932,0.07170001,0.23501,4.169925,8.227452E-4
+0808N: GDP per capita  (current US$) - WDI - 5,0833: GNI per capita growth  (annual %) - WDI - 765,0.2661,0.26315176,0.081489995,0.24522,4.4594316,-0.054297514
+0808N: GDP per capita  (current US$) - WDI - 5,0299: Net transfers on external debt; total  (NTR; current US$) - WDI - 291,0.26605,0.251606,0.07323,0.24272,4.169925,0.1201833
+0808N: GDP per capita  (current US$) - WDI - 5,1401: Computer; communications and other services  (% of commercial service exports) - WDI - 1306,0.26589,0.24161631,0.07717,0.25281,4.5849624,0.15580015
+0808N: GDP per capita  (current US$) - WDI - 5,1370: Merchandise imports by the reporting economy; residual  (% of total merchandise imports) - WDI - 1275,0.26535,0.22396936,0.026230007,0.2437,4.5849624,-0.20342237
+0808N: GDP per capita  (current US$) - WDI - 5,0093: Net bilateral aid flows from DAC donors; Germany  (current US$) - WDI - 90,0.26534,0.2650589,0.07641001,0.26534,4.321928,-0.016765762
+0808N: GDP per capita  (current US$) - WDI - 5,0811: GDP per capita growth  (annual %) - WDI - 743,0.26491,0.26244646,0.09091002,0.26491,4.5849624,-0.04963413
+0808N: GDP per capita  (current US$) - WDI - 5,1102: Health expenditure; public  (% of government expenditure) - WDI - 1017,0.26446,0.16082525,0.04529001,0.26446,4.4594316,0.32192352
+0808N: GDP per capita  (current US$) - WDI - 5,1320: International tourism; receipts  (% of total exports) - WDI - 1225,0.2644,0.25712633,0.040000007,0.24546,4.5849624,-0.08528588
+0808N: GDP per capita  (current US$) - WDI - 5,0375: Alternative and nuclear energy  (% of total energy use) - WDI - 361,0.26413,0.18722531,0.021290004,0.26413,4.321928,0.27731693
+0808N: GDP per capita  (current US$) - WDI - 5,0351: Undisbursed external debt; official creditors  (UND; current US$) - WDI - 343,0.26328,0.2614375,0.041130006,0.23821,4.169925,0.042924322
+0808N: GDP per capita  (current US$) - WDI - 5,0812: GDP per capita  (constant LCU) - WDI - 744,0.26328,0.26162115,0.012040004,0.26328,4.4594316,-0.04072899
+0808N: GDP per capita  (current US$) - WDI - 5,1256: Unemployment; male (% of male labor force)  (national estimate) - WDI - 1169,0.26301,0.21152729,0.059379995,0.23484,4.169925,-0.22689803
+0808N: GDP per capita  (current US$) - WDI - 5,0095: Net bilateral aid flows from DAC donors; Spain  (current US$) - WDI - 92,0.26288,0.26285166,0.09003,0.26288,4.169925,-0.005324291
+0808N: GDP per capita  (current US$) - WDI - 5,0387: CO2 emissions from liquid fuel consumption  (% of total) - WDI - 373,0.26274,0.22967653,0.0379,0.26274,4.5849624,-0.18183358
+0808N: GDP per capita  (current US$) - WDI - 5,0247: Net change in interest arrears  (current US$) - WDI - 239,0.26255,0.26141995,0.032549992,0.23273,4.169925,0.033616167
+0808N: GDP per capita  (current US$) - WDI - 5,0463: Total reserves  (% of total external debt) - WDI - 412,0.26236,0.25954008,0.05224,0.26236,4.169925,0.05310289
+0808N: GDP per capita  (current US$) - WDI - 5,0746: Industry; value added  (annual % growth) - WDI - 678,0.26228,0.22731622,0.02692999,0.2482,4.5849624,-0.18698601
+0808N: GDP per capita  (current US$) - WDI - 5,0257: Net financial flows; bilateral  (NFL; current US$) - WDI - 249,0.26224,0.2596063,0.05433999,0.24384,4.169925,-0.051319394
+0808N: GDP per capita  (current US$) - WDI - 5,0217: Average grace period on new external debt commitments; official  (years) - WDI - 209,0.26218,0.26176116,0.047429994,0.23668,4.169925,-0.02046542
+0808N: GDP per capita  (current US$) - WDI - 5,0719: Gross capital formation  (% of GDP) - WDI - 651,0.26203,0.22918126,0.038220003,0.24659,4.5849624,-0.18124221
+0808N: GDP per capita  (current US$) - WDI - 5,0717: Gross capital formation  (annual % growth) - WDI - 649,0.262,0.2616565,0.044719994,0.23939,4.4594316,-0.018533409
+0808N: GDP per capita  (current US$) - WDI - 5,0795: Gross value added at factor cost  (current LCU) - WDI - 727,0.26183,0.2598632,0.025700003,0.24257,4.321928,-0.044348672
+0808N: GDP per capita  (current US$) - WDI - 5,0157: PPG; bilateral  (DIS; current US$) - WDI - 152,0.26139,0.26044717,0.09422,0.24098,4.169925,0.030705716
+0808N: GDP per capita  (current US$) - WDI - 5,0731: Agriculture; value added  (current US$) - WDI - 663,0.26131,0.26079482,0.09503001,0.2467,4.5849624,-0.022697542
+0808N: GDP per capita  (current US$) - WDI - 5,0296: Net official flows from UN agencies; WHO  (current US$) - WDI - 288,0.26053,0.2601392,0.077470005,0.24196,4.169925,0.019768665
+0808N: GDP per capita  (current US$) - WDI - 5,0394: Other greenhouse gas emissions  (% change from 1990) - WDI - 380,0.2605,0.26047972,0.04115002,0.24203,4.5849624,0.004503698
+0808N: GDP per capita  (current US$) - WDI - 5,0422: CO2 emissions from other sectors; excluding residential buildings and commercial and public services  (% of total fuel combustion) - WDI - 393,0.2605,0.24762799,0.04720001,0.2605,4.321928,-0.11345495
+0808N: GDP per capita  (current US$) - WDI - 5,1400: Export value index  (2000 = 100) - WDI - 1305,0.25993,0.22387692,0.04654,0.25993,4.4594316,-0.18987653
+0808N: GDP per capita  (current US$) - WDI - 5,0487: Real interest rate  (%) - WDI - 436,0.25967,0.19676301,0.035480008,0.23596,4.169925,-0.25081262
+0808N: GDP per capita  (current US$) - WDI - 5,0471: Broad money  (current LCU) - WDI - 420,0.25964,0.25963977,0.032510012,0.23749,4.321928,4.9379043E-4
+0808N: GDP per capita  (current US$) - WDI - 5,0588: Time required to build a warehouse  (days) - WDI - 529,0.25944,0.25364625,0.09872,0.24628,4.5849624,-0.076116696
+0808N: GDP per capita  (current US$) - WDI - 5,2773: Merchandise trade-Exports-Total merchandise (Volume index - Previous year = 100) - WTO - 1768,0.25852,0.24799345,0.08959,0.24407,4.4594316,-0.10259899
+0808N: GDP per capita  (current US$) - WDI - 5,0842: Net income from abroad  (current LCU) - WDI - 774,0.25845,0.25339875,0.06395,0.25845,4.169925,0.07107226
+0808N: GDP per capita  (current US$) - WDI - 5,0113: Net bilateral aid flows from DAC donors; Sweden  (current US$) - WDI - 110,0.25841,0.25778928,0.08104001,0.24016,4.169925,-0.024914337
+0808N: GDP per capita  (current US$) - WDI - 5,0591: Investment in telecoms with private participation  (current US$) - WDI - 532,0.25839,0.24699664,0.080280006,0.22568,4.169925,0.10673969
+0808N: GDP per capita  (current US$) - WDI - 5,0700: Exports of goods and services  (annual % growth) - WDI - 632,0.25809,0.25562143,0.050689995,0.24426,4.4594316,-0.049684647
+0808N: GDP per capita  (current US$) - WDI - 5,0389: CO2 emissions  (kg per PPP $ of GDP) - WDI - 375,0.25782,0.25665966,0.03328,0.25782,4.5849624,-0.034063794
+0808N: GDP per capita  (current US$) - WDI - 5,0390: CO2 emissions  (kg per 2011 PPP $ of GDP) - WDI - 376,0.25782,0.2566597,0.03328,0.25782,4.5849624,-0.03406361
+0808N: GDP per capita  (current US$) - WDI - 5,0758: Services; etc.; value added  (constant LCU) - WDI - 690,0.25775,0.25621054,0.027030006,0.23769,4.4594316,-0.039236046
+0808N: GDP per capita  (current US$) - WDI - 5,0377: Energy use (kg of oil equivalent) per $1;000 GDP  (constant 2011 PPP) - WDI - 363,0.2573,0.2198565,0.04096,0.2573,4.321928,-0.19350322
+0808N: GDP per capita  (current US$) - WDI - 5,0505: Grants and other revenue  (% of revenue) - WDI - 454,0.25687,0.23589459,0.033339992,0.25687,4.169925,-0.14482889
+0808N: GDP per capita  (current US$) - WDI - 5,0297: PPG; bilateral  (NTR; current US$) - WDI - 289,0.25664,0.24147664,0.046879992,0.23744,4.169925,-0.12313957
+0808N: GDP per capita  (current US$) - WDI - 5,0520: Other taxes  (% of revenue) - WDI - 469,0.25653,0.23441838,0.088329986,0.22658,4.169925,0.14869975
+0808N: GDP per capita  (current US$) - WDI - 5,0097: Net bilateral aid flows from DAC donors; France  (current US$) - WDI - 94,0.25614,0.25575334,0.027600005,0.23534,4.321928,-0.019663343
+0808N: GDP per capita  (current US$) - WDI - 5,0147: Currency composition of PPG debt; Euro  (%) - WDI - 143,0.25598,0.22161955,0.04438001,0.22958,4.169925,0.18536575
+0808N: GDP per capita  (current US$) - WDI - 5,0420: CO2 emissions from electricity and heat production; total  (% of total fuel combustion) - WDI - 391,0.2557,0.23644108,0.046560004,0.2557,4.321928,0.1387765
+0808N: GDP per capita  (current US$) - WDI - 5,0685: Final consumption expenditure; etc.  (constant LCU) - WDI - 617,0.25566,0.25242198,0.041950002,0.22606,4.321928,-0.056903675
+0808N: GDP per capita  (current US$) - WDI - 5,1328: Import volume index  (2000 = 100) - WDI - 1233,0.25542,0.22187042,0.033130005,0.2401,4.4594316,-0.18316543
+0808N: GDP per capita  (current US$) - WDI - 5,0688: Final consumption expenditure  (current LCU) - WDI - 620,0.25541,0.25162515,0.04704999,0.25541,4.321928,-0.061521042
+0808N: GDP per capita  (current US$) - WDI - 5,0333: Debt service  (PPG and IMF only; % of exports of goods; services and primary income) - WDI - 325,0.25514,0.21929567,0.04629001,0.23159,4.169925,0.18932602
+0808N: GDP per capita  (current US$) - WDI - 5,1382: Fuel exports  (% of merchandise exports) - WDI - 1287,0.25501,0.250877,0.050860003,0.25501,4.321928,0.064288594
+0808N: GDP per capita  (current US$) - WDI - 5,0362: Electricity production from natural gas sources  (% of total) - WDI - 351,0.25494,0.22571065,0.029259995,0.25494,4.321928,0.17096597
+0808N: GDP per capita  (current US$) - WDI - 5,0710: Gross fixed capital formation  (% of GDP) - WDI - 642,0.25482,0.22561736,0.055650003,0.25482,4.4594316,-0.17088777
+0808N: GDP per capita  (current US$) - WDI - 5,0896: Primary education; pupils - WDI - 826,0.25454,0.24463142,0.026459992,0.25454,4.4594316,-0.099541806
+0808N: GDP per capita  (current US$) - WDI - 5,1259: Unemployment; total (% of total labor force)  (modeled ILO estimate) - WDI - 1172,0.2544,0.23074675,0.08567001,0.23784,4.5849624,-0.15379618
+0808N: GDP per capita  (current US$) - WDI - 5,0464: Total reserves in months of imports - WDI - 413,0.25439,0.25012097,0.071679994,0.24267,4.5849624,-0.065337844
+0808N: GDP per capita  (current US$) - WDI - 5,2738: Merchandise trade-Imports-Textiles (US dollar at current prices) - WTO - 1733,0.25374,0.20131128,0.028960004,0.25374,4.321928,0.22897322
+0808N: GDP per capita  (current US$) - WDI - 5,0676: Household final consumption expenditure  (constant LCU) - WDI - 608,0.25348,0.24979731,0.031679988,0.22772,4.321928,-0.060685076
+0808N: GDP per capita  (current US$) - WDI - 5,0769: Adjusted savings: mineral depletion  (% of GNI) - WDI - 701,0.2534,0.21366964,0.019880004,0.2534,4.5849624,-0.19932474
+0808N: GDP per capita  (current US$) - WDI - 5,0598: Trademark applications; direct resident - WDI - 539,0.25318,0.24917483,0.045279995,0.23498,4.169925,-0.06328642
+0808N: GDP per capita  (current US$) - WDI - 5,0971: Secondary education; teachers - WDI - 901,0.25317,0.25063318,0.010680005,0.25317,4.169925,-0.050366957
+0808N: GDP per capita  (current US$) - WDI - 5,0579: Start-up procedures to register a business  (number) - WDI - 523,0.25312,0.18490474,0.017269999,0.23886,4.5849624,-0.26118052
+0808N: GDP per capita  (current US$) - WDI - 5,0061: Communications; computer; etc.  (% of service exports; BoP) - WDI - 58,0.25249,0.24832562,0.05757001,0.23601,4.5849624,0.064532086
+0808N: GDP per capita  (current US$) - WDI - 5,0653: Arms imports  (SIPRI trend indicator values) - WDI - 585,0.25238,0.25022185,0.062440008,0.25238,4.169925,-0.04645605
+0808N: GDP per capita  (current US$) - WDI - 5,0690: Final consumption expenditure  (constant LCU) - WDI - 622,0.25232,0.24902219,0.026390001,0.22495,4.321928,-0.05742654
+0808N: GDP per capita  (current US$) - WDI - 5,0087: Net bilateral aid flows from DAC donors; Austria  (current US$) - WDI - 84,0.25212,0.24994433,0.07554999,0.25212,4.169925,0.04664393
+0808N: GDP per capita  (current US$) - WDI - 5,0006: Arable land  (hectares) - WDI - 12,0.25167,0.2510962,0.022019997,0.25167,4.4594316,0.023954332
+0808N: GDP per capita  (current US$) - WDI - 5,0550: Time required to get electricity  (days) - WDI - 497,0.25131,0.21737933,0.03177999,0.23272,4.5849624,-0.18420276
+0808N: GDP per capita  (current US$) - WDI - 5,1372: Merchandise imports from low- and middle-income economies within region  (% of total merchandise imports) - WDI - 1277,0.25108,0.16309187,0.055750012,0.25108,4.169925,-0.29662794
+0808N: GDP per capita  (current US$) - WDI - 5,0804: GDP  (constant LCU) - WDI - 736,0.24953,0.24744922,0.060389996,0.24953,4.4594316,-0.045615584
+0808N: GDP per capita  (current US$) - WDI - 5,0204: PPG; other private creditors  (DOD; current US$) - WDI - 199,0.24928,0.24171054,0.018550001,0.22031,4.169925,0.08700266
+0808N: GDP per capita  (current US$) - WDI - 5,0824: GNI  (current LCU) - WDI - 756,0.24901,0.24642597,0.027679995,0.24901,4.4594316,-0.0508333
+0808N: GDP per capita  (current US$) - WDI - 5,0834: GNI per capita  (constant LCU) - WDI - 766,0.24872,0.24591137,0.02725,0.22964,4.321928,-0.05299658
+0808N: GDP per capita  (current US$) - WDI - 5,0137: Principal forgiven  (current US$) - WDI - 134,0.24862,0.24848823,0.010370001,0.22286,4.169925,-0.011479137
+0808N: GDP per capita  (current US$) - WDI - 5,0701: Exports of goods and services  (constant LCU) - WDI - 633,0.24821,0.2443445,0.040240005,0.2221,4.321928,-0.06217316
+0808N: GDP per capita  (current US$) - WDI - 5,1357: Insurance and financial services  (% of commercial service imports) - WDI - 1262,0.24818,0.20154956,0.03159,0.23237,4.5849624,0.21594082
+0808N: GDP per capita  (current US$) - WDI - 5,1378: Net barter terms of trade index  (2000 = 100) - WDI - 1283,0.24769,0.2435646,0.065239996,0.234,4.4594316,-0.064229295
+0808N: GDP per capita  (current US$) - WDI - 5,0369: GDP per unit of energy use  (PPP $ per kg of oil equivalent) - WDI - 358,0.2475,0.2021153,0.030809999,0.2475,4.321928,0.21303685
+0808N: GDP per capita  (current US$) - WDI - 5,0370: GDP per unit of energy use  (constant 2011 PPP $ per kg of oil equivalent) - WDI - 359,0.2475,0.2021153,0.030809999,0.2475,4.321928,0.21303685
+0808N: GDP per capita  (current US$) - WDI - 5,0730: Trade  (% of GDP) - WDI - 662,0.24727,0.18531021,0.027829997,0.23061,4.5849624,0.24891722
+0808N: GDP per capita  (current US$) - WDI - 5,0775: Adjusted savings: gross savings  (% of GNI) - WDI - 707,0.247,0.15598005,0.043630004,0.247,4.4594316,0.3016951
+0808N: GDP per capita  (current US$) - WDI - 5,0839: Gross savings  (% of GNI) - WDI - 771,0.247,0.1559799,0.043630004,0.247,4.4594316,0.30169535
+0808N: GDP per capita  (current US$) - WDI - 5,0846: Net taxes on products  (constant LCU) - WDI - 778,0.24688,0.24674803,0.022719994,0.22092,4.321928,-0.01148756
+0808N: GDP per capita  (current US$) - WDI - 5,0174: PPG; other private creditors  (DIS; current US$) - WDI - 169,0.24591,0.21833615,0.012630001,0.22716,4.169925,0.16605379
+0808N: GDP per capita  (current US$) - WDI - 5,0107: Net bilateral aid flows from DAC donors; Norway  (current US$) - WDI - 104,0.24587,0.24455446,0.0070799887,0.24587,4.169925,-0.03627036
+0808N: GDP per capita  (current US$) - WDI - 5,0783: Adjusted net national income per capita  (annual % growth) - WDI - 715,0.24585,0.24548665,0.06716,0.24585,4.321928,0.019061802
+0808N: GDP per capita  (current US$) - WDI - 5,0589: Procedures to build a warehouse  (number) - WDI - 530,0.24584,0.20059931,0.10176,0.23185,4.5849624,-0.21269858
+0808N: GDP per capita  (current US$) - WDI - 5,0075: Secondary income receipts  (BoP; current US$) - WDI - 72,0.2455,0.2376863,0.03961,0.22653,4.5849624,0.08839507
+0808N: GDP per capita  (current US$) - WDI - 5,1364: Merchandise imports from low- and middle-income economies in East Asia & Pacific  (% of total merchandise imports) - WDI - 1269,0.2455,0.23272674,0.028830007,0.23053,4.4594316,-0.113018855
+0808N: GDP per capita  (current US$) - WDI - 5,0153: Currency composition of PPG debt; Swiss franc  (%) - WDI - 148,0.2453,0.24114892,0.06803,0.21907,4.169925,-0.06442881
+0808N: GDP per capita  (current US$) - WDI - 5,1391: Merchandise exports to low- and middle-income economies in East Asia & Pacific  (% of total merchandise exports) - WDI - 1296,0.24509,0.24478263,0.030700006,0.21971,4.321928,-0.017532017
+0808N: GDP per capita  (current US$) - WDI - 5,0792: Discrepancy in expenditure estimate of GDP  (current LCU) - WDI - 724,0.24497,0.24162802,0.056879997,0.24497,4.321928,-0.05780985
+0808N: GDP per capita  (current US$) - WDI - 5,0788: Exports as a capacity to import  (constant LCU) - WDI - 720,0.24445,0.24025619,0.044250004,0.2235,4.321928,-0.06475962
+0808N: GDP per capita  (current US$) - WDI - 5,2775: Merchandise trade-Imports-Total merchandise (Value index - Previous year = 100) - WTO - 1770,0.24445,0.23275805,0.051080003,0.24445,4.4594316,-0.10812932
+0808N: GDP per capita  (current US$) - WDI - 5,0403: Methane emissions  (% change from 1990) - WDI - 384,0.24434,0.23972559,0.03187999,0.24434,4.5849624,0.06792951
+0808N: GDP per capita  (current US$) - WDI - 5,0478: Money and quasi money  to total reserves ratio (M2) - WDI - 427,0.24427,0.24420874,0.04986,0.22321,4.321928,0.007826922
+0808N: GDP per capita  (current US$) - WDI - 5,0168: PPG; multilateral concessional  (DIS; current US$) - WDI - 163,0.24422,0.24418357,0.042679995,0.23077,4.169925,0.0060364925
+0808N: GDP per capita  (current US$) - WDI - 5,0708: Gross fixed capital formation  (annual % growth) - WDI - 640,0.24405,0.24142733,0.035259992,0.2298,4.4594316,-0.05121195
+0808N: GDP per capita  (current US$) - WDI - 5,0199: PPG; official creditors  (DOD; current US$) - WDI - 194,0.24398,0.24162589,0.03749001,0.21313,4.169925,0.048519246
+0808N: GDP per capita  (current US$) - WDI - 5,0474: Broad money growth  (annual %) - WDI - 423,0.24365,0.22394155,0.041599996,0.22185,4.321928,-0.14038679
+0808N: GDP per capita  (current US$) - WDI - 5,0693: Gross national expenditure  (current LCU) - WDI - 625,0.2433,0.24001247,0.025970012,0.21997,4.4594316,-0.05733711
+0808N: GDP per capita  (current US$) - WDI - 5,0740: Manufacturing; value added  (annual % growth) - WDI - 672,0.24329,0.22051227,0.018090002,0.24329,4.4594316,-0.15092297
+0808N: GDP per capita  (current US$) - WDI - 5,0439: Aquaculture production  (metric tons) - WDI - 400,0.2429,0.23836136,0.04593,0.22743,4.5849624,-0.06736947
+0808N: GDP per capita  (current US$) - WDI - 5,0623: Periodicity and timeliness assessment of statistical capacity  (scale 0 - 100) - WDI - 564,0.24282,0.23681182,0.13525,0.22384,4.321928,-0.07751241
+0808N: GDP per capita  (current US$) - WDI - 5,1771: Primary energy supply - TOT (TOE_1000USD) - OECD - 1567,0.24257,0.22700109,0.03288,0.22389,4.169925,-0.12477547
+0808N: GDP per capita  (current US$) - WDI - 5,0797: Gross value added at factor cost  (constant LCU) - WDI - 729,0.24224,0.24104555,0.047849998,0.22113,4.321928,-0.034560863
+0808N: GDP per capita  (current US$) - WDI - 5,0755: Services; etc.; value added  (current LCU) - WDI - 687,0.24209,0.2397897,0.027400002,0.22361,4.4594316,-0.047961593
+0808N: GDP per capita  (current US$) - WDI - 5,0391: CO2 emissions from solid fuel consumption  (kt) - WDI - 377,0.24206,0.241892,0.030000001,0.22913,4.5849624,-0.012961841
+0808N: GDP per capita  (current US$) - WDI - 5,0364: Electricity production from oil sources  (% of total) - WDI - 353,0.24151,0.20423122,0.04954,0.24151,4.321928,-0.19307716
+0808N: GDP per capita  (current US$) - WDI - 5,1366: Merchandise imports from low- and middle-income economies in Latin America & the Caribbean  (% of total merchandise imports) - WDI - 1271,0.24063,0.22387046,0.0343,0.24063,4.4594316,-0.12945865
+0808N: GDP per capita  (current US$) - WDI - 5,0657: Military expenditure  (% of GDP) - WDI - 589,0.2399,0.2384963,0.038499996,0.22526,4.4594316,0.037465815
+0808N: GDP per capita  (current US$) - WDI - 5,0096: Net bilateral aid flows from DAC donors; Finland  (current US$) - WDI - 93,0.23974,0.23829669,0.076000005,0.23974,4.169925,-0.037990876
+0808N: GDP per capita  (current US$) - WDI - 5,0216: Average grace period on new external debt commitments  (years) - WDI - 208,0.23965,0.19054723,0.049669996,0.2157,4.169925,0.22159143
+0808N: GDP per capita  (current US$) - WDI - 5,0945: Secondary education; general pupils - WDI - 875,0.23957,0.23815033,0.03475,0.22499,4.321928,-0.037678655
+0808N: GDP per capita  (current US$) - WDI - 5,0698: Exports of goods and services  (current LCU) - WDI - 630,0.23942,0.23524745,0.022609994,0.22162,4.4594316,-0.064595245
+0808N: GDP per capita  (current US$) - WDI - 5,1392: Merchandise exports to low- and middle-income economies in Europe & Central Asia  (% of total merchandise exports) - WDI - 1297,0.23929,0.20845065,0.076110005,0.23929,4.321928,-0.17561139
+0808N: GDP per capita  (current US$) - WDI - 5,0712: Changes in inventories  (current LCU) - WDI - 644,0.23927,0.23725682,0.077130005,0.23927,4.321928,-0.04486846
+0808N: GDP per capita  (current US$) - WDI - 5,0413: PM2.5 air pollution; population exposed to levels exceeding WHO guideline value  (% of total) - WDI - 388,0.23912,0.23493382,0.03678,0.23912,4.5849624,-0.064700685
+0808N: GDP per capita  (current US$) - WDI - 5,0305: PPG; multilateral  (NTR; current US$) - WDI - 297,0.23884,0.23793033,0.05759999,0.21352,4.169925,-0.030160874
+0808N: GDP per capita  (current US$) - WDI - 5,0475: Money  (current LCU) - WDI - 424,0.23875,0.2379799,0.037649997,0.22091,4.321928,0.027750608
+0808N: GDP per capita  (current US$) - WDI - 5,0139: Principal rescheduled; official  (current US$) - WDI - 136,0.23862,0.22839077,0.14943999,0.21292,4.169925,-0.10113969
+0808N: GDP per capita  (current US$) - WDI - 5,0850: Terms of trade adjustment  (constant LCU) - WDI - 782,0.23843,0.23626158,0.034279987,0.21808,4.321928,-0.046566267
+0808N: GDP per capita  (current US$) - WDI - 5,0578: Time required to start a business  (days) - WDI - 522,0.23837,0.22331999,0.014150001,0.22644,4.5849624,-0.12267846
+0808N: GDP per capita  (current US$) - WDI - 5,0419: CO2 emissions from residential buildings and commercial and public services  (% of total fuel combustion) - WDI - 390,0.23785,0.22687952,0.034370005,0.23785,4.321928,0.10474004
+0808N: GDP per capita  (current US$) - WDI - 5,0725: Imports of goods and services  (% of GDP) - WDI - 657,0.23767,0.2337024,0.039279997,0.22185,4.5849624,0.062988825
+0808N: GDP per capita  (current US$) - WDI - 5,0077: Personal remittances; received  (current US$) - WDI - 74,0.23764,0.23762573,0.024989992,0.22087,4.5849624,-0.0037756427
+0808N: GDP per capita  (current US$) - WDI - 5,1100: Health expenditure; private  (% of GDP) - WDI - 1015,0.23744,0.22793548,0.022049993,0.23744,4.5849624,-0.097491175
+0808N: GDP per capita  (current US$) - WDI - 5,0654: Armed forces personnel; total - WDI - 586,0.23713,0.23518568,0.09443,0.23713,4.4594316,-0.044094387
+0808N: GDP per capita  (current US$) - WDI - 5,2772: Merchandise trade-Exports-Total merchandise (Value index - Previous year = 100) - WTO - 1767,0.23697,0.22123556,0.017429993,0.23697,4.4594316,-0.12543704
+0808N: GDP per capita  (current US$) - WDI - 5,0801: GDP  (current LCU) - WDI - 733,0.23563,0.2328852,0.018639997,0.23563,4.4594316,-0.052390914
+0808N: GDP per capita  (current US$) - WDI - 5,0780: Adjusted net national income  (annual % growth) - WDI - 712,0.23542,0.23511373,0.03203,0.23542,4.321928,0.017500734
+0808N: GDP per capita  (current US$) - WDI - 5,1363: Merchandise imports from low- and middle-income economies outside region  (% of total merchandise imports) - WDI - 1268,0.23528,0.23316395,0.044529997,0.23528,4.4594316,0.046000563
+0808N: GDP per capita  (current US$) - WDI - 5,0195: PPG; multilateral  (DOD; current US$) - WDI - 190,0.23498,0.2312616,0.076859996,0.20852,4.169925,0.060978793
+0808N: GDP per capita  (current US$) - WDI - 5,0840: Gross savings  (% of GDP) - WDI - 772,0.23495,0.21731654,0.021219999,0.22032,4.4594316,0.13279107
+0808N: GDP per capita  (current US$) - WDI - 5,0744: Industry; value added  (current LCU) - WDI - 676,0.23487,0.23212309,0.037829995,0.21662,4.4594316,-0.052410983
+0808N: GDP per capita  (current US$) - WDI - 5,0470: Claims on private sector  (annual growth as % of broad money) - WDI - 419,0.23477,0.2145135,0.013580002,0.21016,4.321928,-0.14232534
+0808N: GDP per capita  (current US$) - WDI - 5,0768: Adjusted savings: mineral depletion  (current US$) - WDI - 700,0.23442,0.23413523,0.031519994,0.23442,4.4594316,0.016875297
+0808N: GDP per capita  (current US$) - WDI - 5,0838: Gross savings  (current LCU) - WDI - 770,0.23408,0.23113461,0.041869998,0.2098,4.321928,-0.054271482
+0808N: GDP per capita  (current US$) - WDI - 5,0664: General government final consumption expenditure  (constant LCU) - WDI - 596,0.23388,0.23208338,0.020740002,0.20969,4.321928,-0.042386565
+0808N: GDP per capita  (current US$) - WDI - 5,0034: Insurance and financial services  (% of service imports; BoP) - WDI - 31,0.23351,0.18203117,0.039950002,0.21496,4.5849624,0.22688948
+0808N: GDP per capita  (current US$) - WDI - 5,0771: Adjusted savings: energy depletion  (% of GNI) - WDI - 703,0.23304,0.23293655,0.036270007,0.23304,4.5849624,-0.010171151
+0808N: GDP per capita  (current US$) - WDI - 5,0793: Discrepancy in expenditure estimate of GDP  (constant LCU) - WDI - 725,0.23288,0.23080838,0.024460003,0.23288,4.169925,-0.045515038
+0808N: GDP per capita  (current US$) - WDI - 5,0479: Money and quasi money growth  (annual %) - WDI - 428,0.23282,0.21364154,0.03581,0.21248,4.321928,-0.13848636
+0808N: GDP per capita  (current US$) - WDI - 5,0237: PPG; multilateral  (INT; current US$) - WDI - 229,0.23268,0.21907717,0.016289994,0.21295,4.169925,0.11663117
+0808N: GDP per capita  (current US$) - WDI - 5,0761: Adjusted savings: education expenditure  (% of GNI) - WDI - 693,0.23266,0.23166536,0.009720013,0.23266,4.5849624,0.031537924
+0808N: GDP per capita  (current US$) - WDI - 5,0845: Net taxes on products  (current LCU) - WDI - 777,0.23236,0.23104143,0.03588,0.21092,4.321928,-0.03631212
+0808N: GDP per capita  (current US$) - WDI - 5,0272: PPG; multilateral concessional  (NFL; current US$) - WDI - 264,0.23205,0.23203857,0.017520003,0.21145,4.169925,0.003380383
+0808N: GDP per capita  (current US$) - WDI - 5,0473: Broad money to total reserves ratio - WDI - 422,0.232,0.23194738,0.035069987,0.21382,4.321928,0.007254094
+0808N: GDP per capita  (current US$) - WDI - 5,0341: PPG; multilateral concessional  (TDS; current US$) - WDI - 333,0.23187,0.23177214,0.032629997,0.20321,4.169925,0.009891982
+0808N: GDP per capita  (current US$) - WDI - 5,0030: Trade in services  (% of GDP) - WDI - 27,0.2318,0.17684177,0.023960002,0.21289,4.5849624,0.23443174
+0808N: GDP per capita  (current US$) - WDI - 5,0476: Money and quasi money (M2)  (current LCU) - WDI - 425,0.23168,0.23167866,0.026070006,0.20786,4.321928,0.0011597818
+0808N: GDP per capita  (current US$) - WDI - 5,0359: Electricity production from oil; gas and coal sources  (% of total) - WDI - 348,0.23165,0.2314559,0.06345999,0.23165,4.321928,-0.013931463
+0808N: GDP per capita  (current US$) - WDI - 5,0724: Imports of goods and services  (constant LCU) - WDI - 656,0.23056,0.22640705,0.048899993,0.21341,4.321928,-0.064443424
+0808N: GDP per capita  (current US$) - WDI - 5,0169: PPG; official creditors  (DIS; current US$) - WDI - 164,0.22956,0.22440775,0.028290004,0.2024,4.169925,0.07177922
+0808N: GDP per capita  (current US$) - WDI - 5,0721: Imports of goods and services  (current LCU) - WDI - 653,0.22906,0.22484641,0.022579998,0.20978,4.4594316,-0.064912155
+0808N: GDP per capita  (current US$) - WDI - 5,0734: Agriculture; value added  (annual % growth) - WDI - 666,0.22903,0.21587929,0.059640005,0.21113,4.5849624,-0.11467653
+0808N: GDP per capita  (current US$) - WDI - 5,1353: Agricultural raw materials imports  (% of merchandise imports) - WDI - 1258,0.22899,0.22124138,0.025550008,0.20946,4.4594316,-0.08802621
+0808N: GDP per capita  (current US$) - WDI - 5,0136: Principal arrears; private creditors  (current US$) - WDI - 133,0.22897,0.22848138,0.0979,0.201,4.169925,-0.022104954
+0808N: GDP per capita  (current US$) - WDI - 5,0268: Net financial flows; IMF nonconcessional  (NFL; current US$) - WDI - 260,0.22886,0.21457724,0.076330006,0.22886,4.169925,-0.11951052
+0808N: GDP per capita  (current US$) - WDI - 5,0004: Agricultural land  (sq. km) - WDI - 10,0.22813,0.22736458,0.026199996,0.22813,4.5849624,-0.027666042
+0808N: GDP per capita  (current US$) - WDI - 5,0402: Methane emissions  (kt of CO2 equivalent) - WDI - 383,0.22795,0.22660373,0.049480006,0.22795,4.5849624,-0.036691576
+0808N: GDP per capita  (current US$) - WDI - 5,1326: International tourism; expenditures  (% of total imports) - WDI - 1231,0.22792,0.16856293,0.049209997,0.21336,4.5849624,0.24363305
+0808N: GDP per capita  (current US$) - WDI - 5,0395: Total greenhouse gas emissions  (kt of CO2 equivalent) - WDI - 381,0.22712,0.22701393,0.023490004,0.22712,4.5849624,0.010299084
+0808N: GDP per capita  (current US$) - WDI - 5,1379: Export volume index  (2000 = 100) - WDI - 1284,0.227,0.20344217,0.032969996,0.227,4.4594316,-0.15348558
+0808N: GDP per capita  (current US$) - WDI - 5,0365: Renewable electricity output  (% of total electricity output) - WDI - 354,0.22696,0.20682028,0.032859996,0.21426,4.5849624,-0.14191452
+0808N: GDP per capita  (current US$) - WDI - 5,0958: School enrollment; secondary; private  (% of total secondary) - WDI - 888,0.22685,0.22205068,0.050300002,0.22685,4.321928,0.069277145
+0808N: GDP per capita  (current US$) - WDI - 5,0440: Capture fisheries production  (metric tons) - WDI - 401,0.22678,0.22669813,0.030739993,0.22678,4.5849624,-0.009048332
+0808N: GDP per capita  (current US$) - WDI - 5,1360: Merchandise imports from economies in the Arab World  (% of total merchandise imports) - WDI - 1265,0.22659,0.21844111,0.025829993,0.22659,4.4594316,-0.09027115
+0808N: GDP per capita  (current US$) - WDI - 5,0158: PPG; bilateral concessional  (DIS; current US$) - WDI - 153,0.22577,0.22543615,0.05743,0.20042,4.169925,0.01827148
+0808N: GDP per capita  (current US$) - WDI - 5,0271: Net financial flows; multilateral  (NFL; current US$) - WDI - 263,0.22574,0.22526398,0.05121,0.2049,4.169925,0.02181777
+0808N: GDP per capita  (current US$) - WDI - 5,0072: Foreign direct investment; net inflows  (% of GDP) - WDI - 69,0.22554,0.22552612,0.055150002,0.22554,4.5849624,0.003724515
+0808N: GDP per capita  (current US$) - WDI - 5,0427: Population density  (people per sq. km of land area) - WDI - 395,0.2253,0.16347985,0.05843,0.2253,4.5849624,0.24863659
+0808N: GDP per capita  (current US$) - WDI - 5,0249: Interest arrears; private creditors  (current US$) - WDI - 241,0.22504,0.22491749,0.09809001,0.19936,4.169925,-0.011068758
+0808N: GDP per capita  (current US$) - WDI - 5,0371: Energy imports; net  (% of energy use) - WDI - 360,0.22501,0.21127237,0.071090005,0.22501,4.321928,-0.117207564
+0808N: GDP per capita  (current US$) - WDI - 5,0421: CO2 emissions from manufacturing industries and construction  (% of total fuel combustion) - WDI - 392,0.22501,0.20749801,0.03199,0.22501,4.321928,-0.1323328
+0808N: GDP per capita  (current US$) - WDI - 5,1386: Ores and metals exports  (% of merchandise exports) - WDI - 1291,0.22469,0.20975502,0.05068,0.21144,4.4594316,-0.12220881
+0808N: GDP per capita  (current US$) - WDI - 5,0741: Manufacturing; value added  (constant LCU) - WDI - 673,0.22438,0.2225387,0.046770006,0.22438,4.321928,-0.042910483
+0808N: GDP per capita  (current US$) - WDI - 5,0938: Lower secondary school starting age  (years) - WDI - 868,0.22308,0.22162287,0.15944,0.22308,4.4594316,0.038172252
+0808N: GDP per capita  (current US$) - WDI - 5,0330: IMF repurchases and charges  (TDS; current US$) - WDI - 322,0.2222,0.20020638,0.023479998,0.19994,4.169925,0.14830245
+0808N: GDP per capita  (current US$) - WDI - 5,0076: Personal transfers; receipts  (BoP; current US$) - WDI - 73,0.22198,0.21685308,0.062539995,0.22198,4.321928,-0.07160255
+0808N: GDP per capita  (current US$) - WDI - 5,0574: Time required to enforce a contract  (days) - WDI - 518,0.22139,0.17008725,0.06283,0.20796,4.5849624,-0.22650108
+0808N: GDP per capita  (current US$) - WDI - 5,0883: Preprimary education; duration  (years) - WDI - 813,0.22135,0.2174021,0.17993,0.22135,4.5849624,-0.06283236
+0808N: GDP per capita  (current US$) - WDI - 5,1355: Fuel imports  (% of merchandise imports) - WDI - 1260,0.22122,0.20025343,0.051260002,0.20641,4.4594316,-0.14479837
+0808N: GDP per capita  (current US$) - WDI - 5,0252: Interest rescheduled; official  (current US$) - WDI - 244,0.22046,0.20615608,0.113019995,0.19345,4.169925,-0.11959901
+0808N: GDP per capita  (current US$) - WDI - 5,0656: Military expenditure  (current LCU) - WDI - 588,0.22044,0.21770057,0.022750005,0.20183,4.321928,-0.052339584
+0808N: GDP per capita  (current US$) - WDI - 5,0827: GNI  (constant LCU) - WDI - 759,0.22038,0.21753244,0.05069,0.19743,4.321928,-0.05336251
+0808N: GDP per capita  (current US$) - WDI - 5,1399: Merchandise exports to low- and middle-income economies within region  (% of total merchandise exports) - WDI - 1304,0.2196,0.1322718,0.024769992,0.2196,4.169925,-0.29551348
+0808N: GDP per capita  (current US$) - WDI - 5,0807: Natural gas rents  (% of GDP) - WDI - 739,0.21901,0.21580163,0.028609991,0.21901,4.5849624,0.056642465
+0808N: GDP per capita  (current US$) - WDI - 5,0024: Cereal production  (metric tons) - WDI - 21,0.218,0.21708314,0.02567999,0.19954,4.5849624,0.030279487
+0808N: GDP per capita  (current US$) - WDI - 5,0392: CO2 emissions from solid fuel consumption  (% of total) - WDI - 378,0.21768,0.21724464,0.027840003,0.21768,4.5849624,-0.02086535
+0808N: GDP per capita  (current US$) - WDI - 5,0138: Principal rescheduled  (current US$) - WDI - 135,0.21767,0.20765677,0.121999994,0.18525,4.169925,-0.100066125
+0808N: GDP per capita  (current US$) - WDI - 5,0713: Changes in inventories  (constant LCU) - WDI - 645,0.21674,0.21236834,0.021390006,0.21674,4.169925,-0.06611848
+0808N: GDP per capita  (current US$) - WDI - 5,0738: Manufacturing; value added  (current LCU) - WDI - 670,0.21673,0.21408102,0.01923,0.21673,4.321928,-0.051468223
+0808N: GDP per capita  (current US$) - WDI - 5,1258: Unemployment; total (% of total labor force)  (national estimate) - WDI - 1171,0.21666,0.1529516,0.040700004,0.21666,4.169925,-0.25240523
+0808N: GDP per capita  (current US$) - WDI - 5,0747: Industry; value added  (constant LCU) - WDI - 679,0.21532,0.2130262,0.027009994,0.19525,4.4594316,-0.047893673
+0808N: GDP per capita  (current US$) - WDI - 5,0587: Total tax rate  (% of commercial profits) - WDI - 528,0.2148,0.18601868,0.04152,0.19814,4.5849624,-0.1696506
+0808N: GDP per capita  (current US$) - WDI - 5,1397: Merchandise exports by the reporting economy; residual  (% of total merchandise exports) - WDI - 1302,0.21406,0.20360376,0.013890006,0.19799,4.5849624,-0.10225576
+0808N: GDP per capita  (current US$) - WDI - 5,0715: Gross capital formation  (current LCU) - WDI - 647,0.21385,0.21033153,0.027350008,0.21385,4.321928,-0.059316747
+0808N: GDP per capita  (current US$) - WDI - 5,0943: Secondary education; pupils - WDI - 873,0.21351,0.20676053,0.019810006,0.19642,4.4594316,-0.08215526
+0808N: GDP per capita  (current US$) - WDI - 5,2751: Merchandise trade-Exports-Clothing (US dollar at current prices) - WTO - 1746,0.21276,0.21267042,0.009020001,0.21276,4.321928,0.009465134
+0808N: GDP per capita  (current US$) - WDI - 5,0661: General government final consumption expenditure  (current LCU) - WDI - 593,0.21268,0.2101617,0.051049992,0.21268,4.321928,-0.05018263
+0808N: GDP per capita  (current US$) - WDI - 5,0275: IFC; private nonguaranteed  (NFL; current US$) - WDI - 267,0.2126,0.21259762,0.042380005,0.19783,4.169925,0.0015372223
+0808N: GDP per capita  (current US$) - WDI - 5,1232: Labor force; total - WDI - 1145,0.21197,0.20942296,0.013049997,0.19617,4.5849624,-0.050468232
+0808N: GDP per capita  (current US$) - WDI - 5,0695: Gross national expenditure  (constant LCU) - WDI - 627,0.21183,0.20857775,0.02606,0.19526,4.321928,-0.057028525
+0808N: GDP per capita  (current US$) - WDI - 5,1405: Transport services  (% of commercial service exports) - WDI - 1310,0.21156,0.21064585,0.025989994,0.19936,4.5849624,0.03023481
+0808N: GDP per capita  (current US$) - WDI - 5,0409: Nitrous oxide emissions  (thousand metric tons of CO2 equivalent) - WDI - 385,0.21083,0.20956853,0.02606,0.21083,4.5849624,-0.035517238
+0808N: GDP per capita  (current US$) - WDI - 5,0706: Gross fixed capital formation  (current LCU) - WDI - 638,0.21079,0.20731747,0.033639997,0.21079,4.321928,-0.05892805
+0808N: GDP per capita  (current US$) - WDI - 5,2776: Merchandise trade-Imports-Total merchandise (Volume index - Previous year = 100) - WTO - 1771,0.2107,0.2069646,0.04857,0.19442,4.4594316,-0.06111802
+0808N: GDP per capita  (current US$) - WDI - 5,0815: Oil rents  (% of GDP) - WDI - 747,0.21035,0.21013038,0.027950004,0.21035,4.5849624,0.014819942
+0808N: GDP per capita  (current US$) - WDI - 5,0007: Arable land  (hectares per person) - WDI - 13,0.21026,0.20754169,0.03311,0.21026,4.5849624,0.052137498
+0808N: GDP per capita  (current US$) - WDI - 5,1097: Out-of-pocket health expenditure  (% of private expenditure on health) - WDI - 1012,0.21023,0.18811645,0.028129995,0.21023,4.5849624,-0.14870623
+0808N: GDP per capita  (current US$) - WDI - 5,0213: Debt buyback  (current US$) - WDI - 205,0.20959,0.1879364,0.13292,0.17901,4.169925,0.14715165
+0808N: GDP per capita  (current US$) - WDI - 5,0469: Net foreign assets  (current LCU) - WDI - 418,0.20927,0.20763001,0.02397,0.20927,4.321928,-0.040496778
+0808N: GDP per capita  (current US$) - WDI - 5,0167: PPG; multilateral  (DIS; current US$) - WDI - 162,0.20926,0.20074208,0.023339987,0.19117,4.169925,0.09229259
+0808N: GDP per capita  (current US$) - WDI - 5,0489: Claims on central government; etc.  (% GDP) - WDI - 438,0.20923,0.20922688,0.034,0.20923,4.4594316,0.001767014
+0808N: GDP per capita  (current US$) - WDI - 5,0016: Forest area  (sq. km) - WDI - 17,0.20752,0.20736085,0.034050003,0.20752,4.5849624,0.012615469
+0808N: GDP per capita  (current US$) - WDI - 5,1327: Merchandise trade  (% of GDP) - WDI - 1232,0.20703,0.19998962,0.01845,0.20703,4.5849624,0.08390702
+0808N: GDP per capita  (current US$) - WDI - 5,0821: Gross domestic income  (constant LCU) - WDI - 753,0.20698,0.20377328,0.032189995,0.18456,4.321928,-0.056628004
+0808N: GDP per capita  (current US$) - WDI - 5,0770: Adjusted savings: energy depletion  (current US$) - WDI - 702,0.20682,0.19793361,0.021630004,0.20682,4.4594316,0.09426757
+0808N: GDP per capita  (current US$) - WDI - 5,0999: Proportion of seats held by women in national parliaments  (%) - WDI - 929,0.20651,0.14335395,0.027060002,0.19404,4.5849624,0.25130868
+0808N: GDP per capita  (current US$) - WDI - 5,0198: IBRD loans and IDA credits  (DOD; current US$) - WDI - 193,0.20584,0.20547591,0.054840013,0.18592,4.169925,0.019081349
+0808N: GDP per capita  (current US$) - WDI - 5,0891: Primary school starting age  (years) - WDI - 821,0.20529,0.20280549,0.17725,0.20529,4.4594316,-0.04984496
+0808N: GDP per capita  (current US$) - WDI - 5,0020: Land area  (sq. km) - WDI - 20,0.20436,0.20427595,0.014219999,0.20436,4.5849624,-0.009167243
+0808N: GDP per capita  (current US$) - WDI - 5,0008: Arable land  (% of land area) - WDI - 14,0.20347,0.2007009,0.030370004,0.20347,4.5849624,-0.052622404
+0808N: GDP per capita  (current US$) - WDI - 5,1304: Population; total - WDI - 1209,0.20298,0.19914906,0.016319998,0.20298,4.5849624,-0.06189455
+0808N: GDP per capita  (current US$) - WDI - 5,0069: Transport services  (% of service exports; BoP) - WDI - 66,0.20266,0.19813831,0.020159997,0.18723,4.5849624,0.067243494
+0808N: GDP per capita  (current US$) - WDI - 5,0154: Currency composition of PPG debt; Pound sterling  (%) - WDI - 149,0.20246,0.1934184,0.043259993,0.18316,4.169925,-0.09508736
+0808N: GDP per capita  (current US$) - WDI - 5,0513: Taxes on goods and services  (% of revenue) - WDI - 462,0.2023,0.20167059,0.03977999,0.2023,4.169925,0.025087925
+0808N: GDP per capita  (current US$) - WDI - 5,0718: Gross capital formation  (constant LCU) - WDI - 650,0.20211,0.19855005,0.03222,0.1858,4.321928,-0.059665356
+0808N: GDP per capita  (current US$) - WDI - 5,0104: Net bilateral aid flows from DAC donors; Korea; Rep.  (current US$) - WDI - 101,0.20126,0.20085828,0.018549997,0.17711,4.321928,-0.020042809
+0808N: GDP per capita  (current US$) - WDI - 5,0028: Surface area  (sq. km) - WDI - 25,0.20077,0.20073833,0.022690006,0.20077,4.5849624,-0.0056285053
+0808N: GDP per capita  (current US$) - WDI - 5,0009: Land under cereal production  (hectares) - WDI - 15,0.20035,0.20001015,0.012020007,0.18508,4.5849624,-0.018435078
+0808N: GDP per capita  (current US$) - WDI - 5,0393: Other greenhouse gas emissions; HFC; PFC and SF6  (thousand metric tons of CO2 equivalent) - WDI - 379,0.20033,0.19284955,0.044529997,0.20033,4.5849624,-0.08648963
+0808N: GDP per capita  (current US$) - WDI - 5,0441: Total fisheries production  (metric tons) - WDI - 402,0.19968,0.19804138,0.0378,0.19968,4.5849624,-0.040479805
+0808N: GDP per capita  (current US$) - WDI - 5,1006: Mothers are guaranteed an equivalent position after maternity leave  (1=yes; 0=no) - WDI - 933,0.19921,0.19875336,0.18236001,0.19921,4.169925,0.021369418
+0808N: GDP per capita  (current US$) - WDI - 5,0140: Principal rescheduled; private  (current US$) - WDI - 137,0.19896,0.19891354,0.10830001,0.17599,4.169925,0.0068165488
+0808N: GDP per capita  (current US$) - WDI - 5,0253: Interest rescheduled; private  (current US$) - WDI - 245,0.19896,0.19791251,0.10830001,0.17599,4.169925,0.03236487
+0808N: GDP per capita  (current US$) - WDI - 5,0349: Total amount of debt rescheduled  (current US$) - WDI - 341,0.19886,0.1872896,0.10142001,0.17784,4.169925,-0.10756585
+0808N: GDP per capita  (current US$) - WDI - 5,0576: Procedures to register property  (number) - WDI - 520,0.19754,0.14514667,0.044829994,0.18034,4.5849624,-0.22889589
+0808N: GDP per capita  (current US$) - WDI - 5,0238: PPG; multilateral concessional  (INT; current US$) - WDI - 230,0.19579,0.19576333,0.024430007,0.17324,4.169925,0.0051626028
+0808N: GDP per capita  (current US$) - WDI - 5,0914: School enrollment; primary; private  (% of total primary) - WDI - 844,0.19416,0.17670397,0.02503001,0.17931,4.4594316,0.13212125
+0808N: GDP per capita  (current US$) - WDI - 5,0733: Agriculture; value added  (constant 2005 US$) - WDI - 665,0.1933,0.19315784,0.02053,0.1933,4.4594316,0.011923024
+0808N: GDP per capita  (current US$) - WDI - 5,0017: Forest area  (% of land area) - WDI - 18,0.1929,0.1920651,0.047590002,0.1929,4.5849624,-0.0288947
+0808N: GDP per capita  (current US$) - WDI - 5,0709: Gross fixed capital formation  (constant LCU) - WDI - 641,0.19233,0.18907085,0.036030002,0.1771,4.321928,-0.05708904
+0808N: GDP per capita  (current US$) - WDI - 5,1314: Urban population - WDI - 1219,0.1919,0.19123647,0.00908,0.1919,4.5849624,-0.025759183
+0808N: GDP per capita  (current US$) - WDI - 5,0192: Debt forgiveness grants  (current US$) - WDI - 187,0.19155,0.18492329,0.0981,0.16651,4.169925,-0.08140459
+0808N: GDP per capita  (current US$) - WDI - 5,0942: Secondary education; duration  (years) - WDI - 872,0.18891,0.18697102,0.119789995,0.18891,4.5849624,0.044033743
+0808N: GDP per capita  (current US$) - WDI - 5,0895: Primary education; duration  (years) - WDI - 825,0.18732,0.18261053,0.15926999,0.18732,4.5849624,0.06862551
+0808N: GDP per capita  (current US$) - WDI - 5,1003: Law mandates paid or unpaid maternity leave  (1=yes; 0=no) - WDI - 931,0.18717,0.008742154,0.11512,0.18717,4.0,-0.4224072
+0808N: GDP per capita  (current US$) - WDI - 5,0144: Commitments; official creditors  (COM; current US$) - WDI - 141,0.18593,0.18366876,0.0120600015,0.16463,4.169925,0.04755241
+0808N: GDP per capita  (current US$) - WDI - 5,0251: Interest rescheduled (capitalized)  (current US$) - WDI - 243,0.18342,0.16926733,0.064550005,0.16201,4.169925,-0.11896503
+0808N: GDP per capita  (current US$) - WDI - 5,0635: Mobile cellular subscriptions - WDI - 576,0.18248,0.18117572,0.01574,0.18248,4.5849624,-0.03611494
+0808N: GDP per capita  (current US$) - WDI - 5,0789: Coal rents  (% of GDP) - WDI - 721,0.18123,0.17407477,0.028009996,0.18123,4.5849624,-0.08458853
+0808N: GDP per capita  (current US$) - WDI - 5,1394: Merchandise exports to low- and middle-income economies in Middle East & North Africa  (% of total merchandise exports) - WDI - 1299,0.17878,0.17062582,0.015130002,0.16581,4.5849624,-0.090300545
+0808N: GDP per capita  (current US$) - WDI - 5,0215: Debt stock rescheduled  (current US$) - WDI - 207,0.16668,0.16414927,0.085889995,0.15388,4.169925,-0.05030637

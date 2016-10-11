@@ -1,0 +1,649 @@
+@relation MINE-Indicator-2006TO2013-2707_clustered
+
+@attribute Instance_number numeric
+@attribute XVar string
+@attribute YVar string
+@attribute MIC numeric
+@attribute MIC-p2 numeric
+@attribute MAS numeric
+@attribute MEV numeric
+@attribute MCN numeric
+@attribute p numeric
+@attribute Cluster {cluster0,cluster1,cluster2,cluster3,cluster4,cluster5,cluster6,cluster7,cluster8,cluster9,cluster10,cluster11,cluster12}
+
+@data
+0,'2707N: Failed States Index Total - Fund for Peace','2707: Failed States Index Total - Fund for Peace',0.92998,-0.06378,0.02127,0.92988,6.247928,0.996875,cluster10
+1,'2707N: Failed States Index Total - Fund for Peace','2706: Failed States Index Rank - Fund for Peace',0.91389,-0.010087,0.0248,0.91348,6.247928,-0.961237,cluster1
+2,'2707N: Failed States Index Total - Fund for Peace','0677: Household final consumption expenditure per capita  (constant 2005 US$) - WDI',0.68993,0.006139,0.07043,0.68787,6.044394,-0.826917,cluster1
+3,'2707N: Failed States Index Total - Fund for Peace','0782: Adjusted net national income per capita  (constant 2005 US$) - WDI',0.68958,0.01696,0.0428,0.68703,6,-0.820134,cluster1
+4,'2707N: Failed States Index Total - Fund for Peace','2714: Public Services - Fund for Peace',0.67941,-0.160648,0.05567,0.67941,5.954197,0.916547,cluster10
+5,'2707N: Failed States Index Total - Fund for Peace','2716: Security Apparatus - Fund for Peace',0.67854,-0.191512,0.05806,0.67854,6.209454,0.932766,cluster10
+6,'2707N: Failed States Index Total - Fund for Peace','2713: Legitimacy of the State - Fund for Peace',0.66766,-0.206907,0.03467,0.66635,6.247928,0.935183,cluster10
+7,'2707N: Failed States Index Total - Fund for Peace','0642: Secure Internet servers  (per 1 million people) - WDI',0.65439,0.237265,0.05162,0.65439,6.209454,-0.645852,cluster1
+8,'2707N: Failed States Index Total - Fund for Peace','2708: Demographic Pressures - Fund for Peace',0.65419,-0.175085,0.03508,0.65419,6.129283,0.910645,cluster10
+9,'2707N: Failed States Index Total - Fund for Peace','0832: GNI per capita  (constant 2005 US$) - WDI',0.64486,-0.023893,0.03572,0.64486,6,-0.817774,cluster1
+10,'2707N: Failed States Index Total - Fund for Peace','2715: Human Rights - Fund for Peace',0.64425,-0.173415,0.04794,0.64425,5.584962,0.904248,cluster10
+11,'2707N: Failed States Index Total - Fund for Peace','0810: GDP per capita  (constant 2005 US$) - WDI',0.6366,0.01258,0.05776,0.63504,6.247928,-0.78995,cluster1
+12,'2707N: Failed States Index Total - Fund for Peace','2717: Factionalized Elites - Fund for Peace',0.62554,-0.195473,0.04657,0.62371,6.247928,0.906098,cluster10
+13,'2707N: Failed States Index Total - Fund for Peace','0454: Automated teller machines (ATMs)  (per 100;000 adults) - WDI',0.61499,0.100977,0.06836,0.61307,6.169925,-0.716947,cluster1
+14,'2707N: Failed States Index Total - Fund for Peace','0781: Adjusted net national income per capita  (current US$) - WDI',0.6133,-0.039857,0.03282,0.6133,6.169925,-0.808181,cluster1
+15,'2707N: Failed States Index Total - Fund for Peace','2711: Uneven Development - Fund for Peace',0.60768,-0.139889,0.03372,0.60768,6.129283,0.864621,cluster10
+16,'2707N: Failed States Index Total - Fund for Peace','0379: Electric power consumption  (kWh per capita) - WDI',0.60713,0.218599,0.05187,0.60383,6.044394,-0.623323,cluster1
+17,'2707N: Failed States Index Total - Fund for Peace','0830: GNI per capita; Atlas method  (current US$) - WDI',0.60182,-0.023505,0.02832,0.60182,6.209454,-0.790775,cluster1
+18,'2707N: Failed States Index Total - Fund for Peace','0836: GNI per capita; PPP  (constant 2011 international $) - WDI',0.59669,0.057896,0.04415,0.59473,6.087463,-0.734026,cluster1
+19,'2707N: Failed States Index Total - Fund for Peace','1098: Health expenditure per capita  (current US$) - WDI',0.58819,0.001019,0.03407,0.58819,6.247928,-0.766271,cluster1
+20,'2707N: Failed States Index Total - Fund for Peace','0808: GDP per capita  (current US$) - WDI',0.5832,-0.013658,0.02831,0.58146,6.247928,-0.772566,cluster1
+21,'2707N: Failed States Index Total - Fund for Peace','2718: External Intervention - Fund for Peace',0.58115,-0.180422,0.03708,0.57923,6.247928,0.872681,cluster10
+22,'2707N: Failed States Index Total - Fund for Peace','0353: Agriculture value added per worker  (constant 2005 US$) - WDI',0.57816,0.128148,0.04414,0.57527,6.129283,-0.67083,cluster1
+23,'2707N: Failed States Index Total - Fund for Peace','0813: GDP per capita; PPP  (current international $) - WDI',0.57568,0.091757,0.05124,0.57401,6.247928,-0.695646,cluster1
+24,'2707N: Failed States Index Total - Fund for Peace','0952: School enrollment; secondary  (\% gross) - WDI',0.57408,0.013983,0.04877,0.57198,6,-0.748396,cluster1
+25,'2707N: Failed States Index Total - Fund for Peace','0835: GNI per capita; PPP  (current international $) - WDI',0.57366,0.075299,0.04488,0.57366,6.209454,-0.705947,cluster1
+26,'2707N: Failed States Index Total - Fund for Peace','0953: School enrollment; secondary; female  (\% gross) - WDI',0.57343,0.019728,0.03695,0.57343,5.954197,-0.744111,cluster1
+27,'2707N: Failed States Index Total - Fund for Peace','1035: Improved water source  (\% of population with access) - WDI',0.57299,0.153801,0.05903,0.57101,6.247928,-0.647448,cluster1
+28,'2707N: Failed States Index Total - Fund for Peace','0814: GDP per capita; PPP  (constant 2011 international $) - WDI',0.56968,0.080764,0.03634,0.5679,6.247928,-0.699226,cluster1
+29,'2707N: Failed States Index Total - Fund for Peace','1167: GDP per person employed  (constant 2011 PPP $) - WDI',0.56707,0.14737,0.06247,0.56707,6.209454,-0.647843,cluster1
+30,'2707N: Failed States Index Total - Fund for Peace','1899: Percentage of Individuals using the Internet (\%) - ITU',0.56696,-0.142524,0.0585,0.56517,6.247928,-0.842309,cluster1
+31,'2707N: Failed States Index Total - Fund for Peace','2712: Poverty and Economic Decline - Fund for Peace',0.56687,-0.120145,0.08186,0.56503,6.247928,0.828864,cluster10
+32,'2707N: Failed States Index Total - Fund for Peace','1099: Health expenditure per capita; PPP  (constant 2011 international $) - WDI',0.56478,-0.097626,0.06184,0.56478,6.247928,-0.813883,cluster1
+33,'2707N: Failed States Index Total - Fund for Peace','1028: Mortality rate; under-5  (per 1;000 live births) - WDI',0.56274,0.120116,0.05862,0.56274,6.247928,0.6653,cluster12
+34,'2707N: Failed States Index Total - Fund for Peace','1901: Fixed-broadband subscriptions per 100 inhabitants - ITU',0.55972,-0.125308,0.05003,0.55972,6.169925,-0.827664,cluster1
+35,'2707N: Failed States Index Total - Fund for Peace','1283: Mortality rate; infant  (per 1;000 live births) - WDI',0.55738,0.062889,0.05669,0.55738,6.247928,0.703201,cluster12
+36,'2707N: Failed States Index Total - Fund for Peace','2704: Corruption perceptions index - Transparency',0.55584,-0.212026,0.03817,0.55584,6.209454,-0.876279,cluster1
+37,'2707N: Failed States Index Total - Fund for Peace','1031: Mortality rate; neonatal  (per 1;000 live births) - WDI',0.55534,0.01807,0.07162,0.55534,6.247928,0.732987,cluster12
+38,'2707N: Failed States Index Total - Fund for Peace','0640: Fixed broadband subscriptions  (per 100 people) - WDI',0.55511,-0.129187,0.04187,0.55338,6.209454,-0.827223,cluster1
+39,'2707N: Failed States Index Total - Fund for Peace','0643: Internet users  (per 100 people) - WDI',0.54905,-0.161776,0.04158,0.54905,6.247928,-0.843105,cluster1
+40,'2707N: Failed States Index Total - Fund for Peace','2709: Refugees and IDPs - Fund for Peace',0.54396,-0.126807,0.03203,0.54226,6.247928,0.819004,cluster10
+41,'2707N: Failed States Index Total - Fund for Peace','1295: Population ages 0-14  (\% of total) - WDI',0.54074,-0.013933,0.07233,0.54074,6.247928,0.744764,cluster12
+42,'2707N: Failed States Index Total - Fund for Peace','1289: Survival to age 65; female  (\% of cohort) - WDI',0.54066,0.079371,0.06274,0.54066,6.247928,-0.679182,cluster1
+43,'2707N: Failed States Index Total - Fund for Peace','0638: Fixed telephone subscriptions  (per 100 people) - WDI',0.54034,-0.10314,0.04172,0.54034,6.247928,-0.802172,cluster1
+44,'2707N: Failed States Index Total - Fund for Peace','1898: Fixed-telephone subscriptions per 100 inhabitants - ITU',0.53843,-0.104238,0.03692,0.53597,6.247928,-0.801666,cluster1
+45,'2707N: Failed States Index Total - Fund for Peace','0954: School enrollment; secondary; male  (\% gross) - WDI',0.53821,-0.015265,0.03055,0.53821,5.954197,-0.743959,cluster1
+46,'2707N: Failed States Index Total - Fund for Peace','1285: Life expectancy at birth; female  (years) - WDI',0.53645,0.006365,0.04451,0.53645,6.247928,-0.72807,cluster1
+47,'2707N: Failed States Index Total - Fund for Peace','1299: Age dependency ratio; old  (\% of working-age population) - WDI',0.53402,0.014415,0.10886,0.53402,6.044394,-0.720837,cluster1
+48,'2707N: Failed States Index Total - Fund for Peace','1300: Age dependency ratio; young  (\% of working-age population) - WDI',0.533,0.025089,0.07373,0.533,6.247928,0.712679,cluster12
+49,'2707N: Failed States Index Total - Fund for Peace','1286: Life expectancy at birth; total  (years) - WDI',0.53155,-0.013288,0.05007,0.53155,6.247928,-0.738131,cluster1
+50,'2707N: Failed States Index Total - Fund for Peace','0736: Agriculture; value added  (\% of GDP) - WDI',0.5306,0.07679,0.03936,0.52844,6.169925,0.673654,cluster12
+51,'2707N: Failed States Index Total - Fund for Peace','0380: Energy use  (kg of oil equivalent per capita) - WDI',0.52777,0.234924,0.03317,0.52479,6.087463,-0.541152,cluster1
+52,'2707N: Failed States Index Total - Fund for Peace','2710: Group Grievance - Fund for Peace',0.52653,-0.17144,0.0352,0.52492,6.247928,0.835446,cluster10
+53,'2707N: Failed States Index Total - Fund for Peace','1049: Number of maternal deaths - WDI',0.51805,0.453206,0.05905,0.51805,6.247928,0.254644,cluster5
+54,'2707N: Failed States Index Total - Fund for Peace','1433: Air and GHG emissions - CO2 (TONNE_CAP) - OECD',0.516,0.245935,0.04644,0.516,6,-0.519678,cluster1
+55,'2707N: Failed States Index Total - Fund for Peace','1297: Population ages 65 and above  (\% of total) - WDI',0.51475,-0.023922,0.08481,0.51475,6.209454,-0.733943,cluster1
+56,'2707N: Failed States Index Total - Fund for Peace','1050: Lifetime risk of maternal death  (1 in: rate varies by country) - WDI',0.51394,0.030619,0.02828,0.51394,6.247928,-0.695213,cluster1
+57,'2707N: Failed States Index Total - Fund for Peace','1051: Lifetime risk of maternal death  (\%) - WDI',0.51374,0.200357,0.03012,0.51374,6.247928,0.559807,cluster12
+58,'2707N: Failed States Index Total - Fund for Peace','1025: Number of neonatal deaths - WDI',0.51161,0.485009,0.04295,0.51161,6.247928,0.163098,cluster5
+59,'2707N: Failed States Index Total - Fund for Peace','1021: Number of infant deaths - WDI',0.50334,0.464052,0.03109,0.50334,6.247928,0.198211,cluster5
+60,'2707N: Failed States Index Total - Fund for Peace','1060: Improved sanitation facilities; urban  (\% of urban population with access) - WDI',0.50162,0.111488,0.0823,0.49992,6.247928,-0.624606,cluster11
+61,'2707N: Failed States Index Total - Fund for Peace','1023: Number of under-five deaths - WDI',0.50056,0.456719,0.02858,0.50056,6.247928,0.209382,cluster5
+62,'2707N: Failed States Index Total - Fund for Peace','1058: Improved sanitation facilities  (\% of population with access) - WDI',0.49976,0.057854,0.05655,0.49793,6.247928,-0.66476,cluster11
+63,'2707N: Failed States Index Total - Fund for Peace','0456: Commercial bank branches  (per 100;000 adults) - WDI',0.49806,0.196613,0.07908,0.49806,6.209454,-0.549042,cluster11
+64,'2707N: Failed States Index Total - Fund for Peace','2719: Human Flight - Fund for Peace',0.49779,-0.147871,0.05523,0.49779,5.523562,0.803531,cluster10
+65,'2707N: Failed States Index Total - Fund for Peace','1278: Birth rate; crude  (per 1;000 people) - WDI',0.4933,-0.015016,0.06356,0.4933,6.247928,0.712963,cluster12
+66,'2707N: Failed States Index Total - Fund for Peace','0020: Land area  (sq. km) - WDI',0.49258,0.490303,0.29411,0.49258,6.247928,-0.047714,cluster5
+67,'2707N: Failed States Index Total - Fund for Peace','1287: Life expectancy at birth; male  (years) - WDI',0.48431,-0.060995,0.04989,0.48431,6.247928,-0.738448,cluster1
+68,'2707N: Failed States Index Total - Fund for Peace','0571: Time to import  (days) - WDI',0.48383,0.089297,0.05209,0.48383,6.209454,0.628118,cluster12
+69,'2707N: Failed States Index Total - Fund for Peace','1071: Maternal mortality ratio  (modeled estimate; per 100;000 live births) - WDI',0.48332,0.126085,0.03392,0.48332,6.044394,0.597691,cluster12
+70,'2707N: Failed States Index Total - Fund for Peace','1034: Improved water source; urban  (\% of urban population with access) - WDI',0.48322,0.187053,0.04502,0.48104,6.247928,-0.544212,cluster11
+71,'2707N: Failed States Index Total - Fund for Peace','0773: Adjusted savings: particulate emission damage  (\% of GNI) - WDI',0.48196,0.135098,0.06968,0.48011,6.209454,0.58895,cluster12
+72,'2707N: Failed States Index Total - Fund for Peace','0460: Domestic credit to private sector by banks  (\% of GDP) - WDI',0.48002,0.464246,0.07964,0.48002,6.169925,-0.125593,cluster5
+73,'2707N: Failed States Index Total - Fund for Peace','1059: Improved sanitation facilities; rural  (\% of rural population with access) - WDI',0.47879,0.037294,0.07513,0.47692,6.247928,-0.664452,cluster11
+74,'2707N: Failed States Index Total - Fund for Peace','0898: Pupil-teacher ratio; primary - WDI',0.47781,0.08134,0.0279,0.47781,5.954197,0.629659,cluster12
+75,'2707N: Failed States Index Total - Fund for Peace','1276: Mortality rate; adult; female  (per 1;000 female adults) - WDI',0.47726,0.136375,0.05479,0.47726,6.209454,0.583854,cluster12
+76,'2707N: Failed States Index Total - Fund for Peace','1288: Fertility rate; total  (births per woman) - WDI',0.47708,0.05289,0.05764,0.47708,6.247928,0.651299,cluster12
+77,'2707N: Failed States Index Total - Fund for Peace','0552: Documents to export  (number) - WDI',0.47128,0.023812,0.09319,0.47128,6.209454,0.668931,cluster12
+78,'2707N: Failed States Index Total - Fund for Peace','0641: Secure Internet servers - WDI',0.46974,0.406421,0.05399,0.46974,6.209454,-0.251632,cluster5
+79,'2707N: Failed States Index Total - Fund for Peace','0028: Surface area  (sq. km) - WDI',0.46714,0.464435,0.26919,0.46714,6.247928,-0.052005,cluster5
+80,'2707N: Failed States Index Total - Fund for Peace','1895: Mobile-cellular telephone subscriptions - ITU',0.46407,0.077818,0.06712,0.46407,6.247928,-0.621492,cluster11
+81,'2707N: Failed States Index Total - Fund for Peace','1896: Mobile-cellular telephone subscriptions per 100 inhabitants - ITU',0.46407,0.077818,0.06712,0.46407,6.247928,-0.621492,cluster11
+82,'2707N: Failed States Index Total - Fund for Peace','0636: Mobile cellular subscriptions  (per 100 people) - WDI',0.46151,0.07814,0.07225,0.46151,6.247928,-0.619169,cluster11
+83,'2707N: Failed States Index Total - Fund for Peace','1033: Improved water source; rural  (\% of rural population with access) - WDI',0.45789,0.027685,0.04865,0.45617,6.247928,-0.6559,cluster11
+84,'2707N: Failed States Index Total - Fund for Peace','1952: Number of neonatal deaths (thousands) - WHO',0.45659,0.429869,0.09679,0.45475,6.247928,0.163466,cluster5
+85,'2707N: Failed States Index Total - Fund for Peace','0490: Claims on other sectors of the domestic economy  (\% of GDP) - WDI',0.45524,-0.049217,0.07131,0.45524,5.954197,-0.710252,cluster1
+86,'2707N: Failed States Index Total - Fund for Peace','0577: Cost of business start-up procedures  (\% of GNI per capita) - WDI',0.45497,0.277618,0.03622,0.45497,6.169925,0.421132,cluster12
+87,'2707N: Failed States Index Total - Fund for Peace','0553: Time to export  (days) - WDI',0.45485,0.091431,0.05763,0.45485,6.209454,0.602842,cluster12
+88,'2707N: Failed States Index Total - Fund for Peace','0855: Price level ratio of PPP conversion factor  to market exchange rate (GDP) - WDI',0.4539,-0.169031,0.03402,0.4539,6.209454,-0.78926,cluster1
+89,'2707N: Failed States Index Total - Fund for Peace','1290: Survival to age 65; male  (\% of cohort) - WDI',0.4508,-0.031025,0.0841,0.4508,6.247928,-0.694136,cluster11
+90,'2707N: Failed States Index Total - Fund for Peace','0004: Agricultural land  (sq. km) - WDI',0.44639,0.444996,0.25113,0.44639,6.247928,-0.037333,cluster5
+91,'2707N: Failed States Index Total - Fund for Peace','1093: Incidence of tuberculosis  (per 100;000 people) - WDI',0.44525,0.283095,0.03698,0.44525,6.247928,0.402685,cluster12
+92,'2707N: Failed States Index Total - Fund for Peace','1312: Rural population  (\% of total population) - WDI',0.44518,0.032409,0.08247,0.44518,6.247928,0.642472,cluster12
+93,'2707N: Failed States Index Total - Fund for Peace','1315: Urban population  (\% of total) - WDI',0.44518,0.032402,0.08234,0.44518,6.247928,-0.642478,cluster11
+94,'2707N: Failed States Index Total - Fund for Peace','0492: Domestic credit to private sector  (\% of GDP) - WDI',0.44386,-0.007159,0.07096,0.44386,6.169925,-0.67158,cluster11
+95,'2707N: Failed States Index Total - Fund for Peace','0289: Net official flows from UN agencies; UNDP  (current US$) - WDI',0.44373,0.160494,0.06948,0.44373,5.954197,0.532199,cluster12
+96,'2707N: Failed States Index Total - Fund for Peace','0366: Electricity production from renewable sources; excluding hydroelectric  (kWh) - WDI',0.44,0.377474,0.09779,0.43731,6.044394,-0.250052,cluster4
+97,'2707N: Failed States Index Total - Fund for Peace','0759: Services; etc.; value added  (\% of GDP) - WDI',0.43373,0.116932,0.09169,0.43164,6.169925,-0.562848,cluster11
+98,'2707N: Failed States Index Total - Fund for Peace','1298: Age dependency ratio  (\% of working-age population) - WDI',0.42407,0.070128,0.06831,0.42407,6.247928,0.594931,cluster12
+99,'2707N: Failed States Index Total - Fund for Peace','1310: Rural population - WDI',0.424,0.415019,0.12351,0.424,6.247928,0.094766,cluster5
+100,'2707N: Failed States Index Total - Fund for Peace','0059: ICT service exports  (BoP; current US$) - WDI',0.42217,0.232742,0.06423,0.41975,6.044394,-0.435234,cluster9
+101,'2707N: Failed States Index Total - Fund for Peace','1296: Population ages 15-64  (\% of total) - WDI',0.42191,0.080446,0.06878,0.42191,6.247928,-0.584349,cluster11
+102,'2707N: Failed States Index Total - Fund for Peace','0885: School enrollment; preprimary  (\% gross) - WDI',0.4203,0.01235,0.05598,0.4203,5.954197,-0.63871,cluster1
+103,'2707N: Failed States Index Total - Fund for Peace','0570: Documents to import  (number) - WDI',0.41561,-0.01045,0.06915,0.41561,6.209454,0.652733,cluster12
+104,'2707N: Failed States Index Total - Fund for Peace','1075: People practicing open defecation  (\% of population) - WDI',0.41473,0.189848,0.05228,0.41473,6.209454,0.474218,cluster12
+105,'2707N: Failed States Index Total - Fund for Peace','0378: Combustible renewables and waste  (\% of total energy) - WDI',0.40892,0.17488,0.13918,0.40488,6.044394,0.483777,cluster4
+106,'2707N: Failed States Index Total - Fund for Peace','0844: Net taxes on products  (current US$) - WDI',0.40479,0.3015,0.05148,0.40479,6.044394,-0.321388,cluster9
+107,'2707N: Failed States Index Total - Fund for Peace','0574: Time required to enforce a contract  (days) - WDI',0.40347,0.343773,0.19936,0.40347,6.169925,0.244329,cluster4
+108,'2707N: Failed States Index Total - Fund for Peace','0016: Forest area  (sq. km) - WDI',0.40232,0.400198,0.26853,0.40232,6.247928,-0.04607,cluster5
+109,'2707N: Failed States Index Total - Fund for Peace','0062: Primary income receipts  (BoP; current US$) - WDI',0.40153,0.240178,0.05391,0.40153,5.90689,-0.401687,cluster9
+110,'2707N: Failed States Index Total - Fund for Peace','0017: Forest area  (\% of land area) - WDI',0.40026,0.393457,0.26566,0.40026,6.247928,-0.08248,cluster5
+111,'2707N: Failed States Index Total - Fund for Peace','1403: High-technology exports  (current US$) - WDI',0.39855,0.345895,0.06567,0.39855,6.044394,-0.229467,cluster4
+112,'2707N: Failed States Index Total - Fund for Peace','1073: People practicing open defecation; rural  (\% of rural population) - WDI',0.39785,0.161058,0.06299,0.39572,6.209454,0.486613,cluster12
+113,'2707N: Failed States Index Total - Fund for Peace','2743: Merchandise trade-Exports-Pharmaceuticals (US dollar at current prices) - WTO',0.39646,0.20618,0.03309,0.39646,6.087463,-0.436211,cluster9
+114,'2707N: Failed States Index Total - Fund for Peace','0361: Electric power transmission and distribution losses  (\% of output) - WDI',0.39586,0.207728,0.07061,0.39312,6.044394,0.433742,cluster12
+115,'2707N: Failed States Index Total - Fund for Peace','2785: Balance of Payments-Exports-Commercial services (US dollar at current prices) - WTO',0.3955,0.206109,0.05081,0.3955,6.209454,-0.435191,cluster9
+116,'2707N: Failed States Index Total - Fund for Peace','2795: Balance of Payments-Exports-Other business services (US dollar at current prices) - WTO',0.39174,0.212496,0.05479,0.38937,6.087463,-0.423372,cluster9
+117,'2707N: Failed States Index Total - Fund for Peace','1402: Commercial service exports  (current US$) - WDI',0.38986,0.19412,0.04194,0.38748,6.169925,-0.442425,cluster9
+118,'2707N: Failed States Index Total - Fund for Peace','0851: DEC alternative conversion factor  (LCU per US$) - WDI',0.38947,0.366183,0.08167,0.38947,6.247928,0.1526,cluster4
+119,'2707N: Failed States Index Total - Fund for Peace','0856: PPP conversion factor; private consumption  (LCU per international $) - WDI',0.38869,0.366149,0.08069,0.38869,6.169925,0.150136,cluster4
+120,'2707N: Failed States Index Total - Fund for Peace','1277: Mortality rate; adult; male  (per 1;000 male adults) - WDI',0.38432,0.025489,0.08022,0.38432,6.169925,0.599025,cluster12
+121,'2707N: Failed States Index Total - Fund for Peace','0767: Adjusted savings: consumption of fixed capital  (\% of GNI) - WDI',0.38291,0.011527,0.04697,0.38088,6.247928,-0.609412,cluster11
+122,'2707N: Failed States Index Total - Fund for Peace','1323: International tourism; receipts for travel items  (current US$) - WDI',0.38289,0.249258,0.0846,0.38289,6.169925,-0.365557,cluster9
+123,'2707N: Failed States Index Total - Fund for Peace','2797: Balance of Payments-Exports-Services (US dollar at current prices) - WTO',0.38268,0.192543,0.03678,0.38268,6.209454,-0.436047,cluster9
+124,'2707N: Failed States Index Total - Fund for Peace','0491: Domestic credit provided by financial sector  (\% of GDP) - WDI',0.38219,-0.025732,0.06588,0.38219,6.169925,-0.638688,cluster11
+125,'2707N: Failed States Index Total - Fund for Peace','1092: Tuberculosis case detection rate  (\%; all forms) - WDI',0.38213,0.098759,0.1003,0.38213,6.247928,-0.532326,cluster11
+126,'2707N: Failed States Index Total - Fund for Peace','1273: Adolescent fertility rate  (births per 1;000 women ages 15-19) - WDI',0.3818,0.030518,0.05677,0.3818,6.247928,0.592691,cluster12
+127,'2707N: Failed States Index Total - Fund for Peace','0796: Gross value added at factor cost  (constant 2005 US$) - WDI',0.38095,0.300036,0.05591,0.37655,6.044394,-0.284455,cluster9
+128,'2707N: Failed States Index Total - Fund for Peace','0037: Charges for the use of intellectual property; payments  (BoP; current US$) - WDI',0.38059,0.196732,0.04158,0.38059,5.90689,-0.428787,cluster9
+129,'2707N: Failed States Index Total - Fund for Peace','0066: Service exports  (BoP; current US$) - WDI',0.38021,0.188169,0.03693,0.37822,6.169925,-0.438225,cluster9
+130,'2707N: Failed States Index Total - Fund for Peace','2745: Merchandise trade-Exports-Office and telecom equipment (US dollar at current prices) - WTO',0.3801,0.35936,0.06208,0.3801,6.087463,-0.144015,cluster4
+131,'2707N: Failed States Index Total - Fund for Peace','2788: Balance of Payments-Exports-Travel (US dollar at current prices) - WTO',0.37821,0.236706,0.09432,0.37626,6.169925,-0.37617,cluster9
+132,'2707N: Failed States Index Total - Fund for Peace','2744: Merchandise trade-Exports-Machinery and transport equipment (US dollar at current prices) - WTO',0.37596,0.288004,0.03793,0.37349,6.129283,-0.296573,cluster9
+133,'2707N: Failed States Index Total - Fund for Peace','0029: Cereal yield  (kg per hectare) - WDI',0.37525,0.258178,0.03789,0.37326,6.247928,-0.342158,cluster9
+134,'2707N: Failed States Index Total - Fund for Peace','0006: Arable land  (hectares) - WDI',0.3733,0.371495,0.20222,0.3733,6.247928,-0.04248,cluster4
+135,'2707N: Failed States Index Total - Fund for Peace','2747: Merchandise trade-Exports-Telecommunications equipment (US dollar at current prices) - WTO',0.37317,0.35909,0.06717,0.37317,6.087463,-0.118659,cluster4
+136,'2707N: Failed States Index Total - Fund for Peace','0367: Electricity production from renewable sources; excluding hydroelectric  (\% of total) - WDI',0.37287,0.217399,0.09025,0.37016,6.044394,-0.394299,cluster9
+137,'2707N: Failed States Index Total - Fund for Peace','2739: Merchandise trade-Imports-Clothing (US dollar at current prices) - WTO',0.37225,0.247719,0.04455,0.37225,5.754888,-0.352889,cluster9
+138,'2707N: Failed States Index Total - Fund for Peace','1362: Merchandise imports from high-income economies  (\% of total merchandise imports) - WDI',0.37083,-0.009177,0.0212,0.37083,6.209454,-0.616447,cluster11
+139,'2707N: Failed States Index Total - Fund for Peace','2816: Balance of Payments-Imports-Financial services (US dollar at current prices) - WTO',0.36913,0.177602,0.04933,0.36648,6,-0.437639,cluster9
+140,'2707N: Failed States Index Total - Fund for Peace','1319: International tourism; receipts  (current US$) - WDI',0.36898,0.237428,0.0718,0.36686,6.209454,-0.362702,cluster9
+141,'2707N: Failed States Index Total - Fund for Peace','2817: Balance of Payments-Imports-Charges for the use of intellectual property n.i.e. (US dollar at current prices) - WTO',0.36768,0.202031,0.04625,0.36768,5.954197,-0.407,cluster9
+142,'2707N: Failed States Index Total - Fund for Peace','0588: Time required to build a warehouse  (days) - WDI',0.36751,0.348009,0.19774,0.36189,6.169925,0.139645,cluster4
+143,'2707N: Failed States Index Total - Fund for Peace','1266: Refugee population by country or territory of origin - WDI',0.3659,0.289407,0.042,0.3659,6.247928,0.276574,cluster4
+144,'2707N: Failed States Index Total - Fund for Peace','1095: External resources for health  (\% of total expenditure on health) - WDI',0.36581,0.195503,0.02539,0.36581,6.087463,0.412682,cluster6
+145,'2707N: Failed States Index Total - Fund for Peace','1304: Population; total - WDI',0.36495,0.362772,0.11932,0.36495,6.247928,0.046665,cluster4
+146,'2707N: Failed States Index Total - Fund for Peace','0032: Primary income payments  (BoP; current US$) - WDI',0.36451,0.187227,0.04903,0.36451,5.523562,-0.42105,cluster9
+147,'2707N: Failed States Index Total - Fund for Peace','0735: Agriculture; value added  (constant LCU) - WDI',0.36239,0.35912,0.1079,0.35867,6.169925,0.057187,cluster4
+148,'2707N: Failed States Index Total - Fund for Peace','1383: ICT goods exports  (\% of total goods exports) - WDI',0.3616,0.2911,0.08256,0.35892,6.044394,-0.265519,cluster4
+149,'2707N: Failed States Index Total - Fund for Peace','2746: Merchandise trade-Exports-Electronic data processing and office equipment (US dollar at current prices) - WTO',0.36147,0.351388,0.03774,0.36147,6.087463,-0.100411,cluster4
+150,'2707N: Failed States Index Total - Fund for Peace','1301: Population growth  (annual \%) - WDI',0.36143,0.295297,0.07678,0.36143,6.247928,0.257164,cluster4
+151,'2707N: Failed States Index Total - Fund for Peace','0699: Exports of goods and services  (constant 2005 US$) - WDI',0.36036,0.221033,0.03443,0.36036,6.044394,-0.373266,cluster9
+152,'2707N: Failed States Index Total - Fund for Peace','0853: PPP conversion factor; GDP  (LCU per international $) - WDI',0.3597,0.338179,0.06234,0.35718,6.247928,0.146701,cluster4
+153,'2707N: Failed States Index Total - Fund for Peace','2789: Balance of Payments-Exports-Other commercial services (US dollar at current prices) - WTO',0.3572,0.195774,0.03501,0.35494,6.169925,-0.401778,cluster9
+154,'2707N: Failed States Index Total - Fund for Peace','0477: Money and quasi money  as \% of GDP (M2) - WDI',0.35705,0.149925,0.06915,0.35705,6.087463,-0.455109,cluster9
+155,'2707N: Failed States Index Total - Fund for Peace','2750: Merchandise trade-Exports-Automotive products (US dollar at current prices) - WTO',0.35688,0.234028,0.06422,0.35688,6.087463,-0.350502,cluster9
+156,'2707N: Failed States Index Total - Fund for Peace','1324: International tourism; expenditures for travel items  (current US$) - WDI',0.35651,0.203979,0.05138,0.35651,6.169925,-0.390552,cluster9
+157,'2707N: Failed States Index Total - Fund for Peace','1900: Fixed-broadband subscriptions - ITU',0.35521,0.328137,0.09638,0.35521,6.169925,-0.164539,cluster4
+158,'2707N: Failed States Index Total - Fund for Peace','0946: Secondary education; general pupils  (\% female) - WDI',0.35503,0.119285,0.03812,0.35245,6.087463,-0.485536,cluster9
+159,'2707N: Failed States Index Total - Fund for Peace','2818: Balance of Payments-Imports-Telecommunications; computer; and information services (US dollar at current prices) - WTO',0.35419,0.157621,0.03589,0.35419,6.044394,-0.443362,cluster9
+160,'2707N: Failed States Index Total - Fund for Peace','2742: Merchandise trade-Exports-Chemicals (US dollar at current prices) - WTO',0.35369,0.169553,0.03619,0.35369,6.129283,-0.429112,cluster9
+161,'2707N: Failed States Index Total - Fund for Peace','2787: Balance of Payments-Exports-Transport (US dollar at current prices) - WTO',0.35365,0.099969,0.04964,0.35365,6.087463,-0.503668,cluster9
+162,'2707N: Failed States Index Total - Fund for Peace','1103: Health expenditure; public  (\% of GDP) - WDI',0.35271,-0.074793,0.05197,0.35271,6.169925,-0.653837,cluster11
+163,'2707N: Failed States Index Total - Fund for Peace','0639: Fixed broadband subscriptions - WDI',0.35204,0.324587,0.0901,0.35006,6.209454,-0.165691,cluster4
+164,'2707N: Failed States Index Total - Fund for Peace','1074: People practicing open defecation; urban  (\% of urban population) - WDI',0.35201,0.247872,0.04473,0.35201,6.209454,0.322705,cluster4
+165,'2707N: Failed States Index Total - Fund for Peace','0847: Net current transfers from abroad  (current US$) - WDI',0.35117,0.273168,0.03215,0.35117,6.087463,0.279288,cluster4
+166,'2707N: Failed States Index Total - Fund for Peace','2748: Merchandise trade-Exports-Integrated circuits and electronic components (US dollar at current prices) - WTO',0.34977,0.307627,0.05618,0.34977,6.044394,-0.205287,cluster4
+167,'2707N: Failed States Index Total - Fund for Peace','0761: Adjusted savings: education expenditure  (\% of GNI) - WDI',0.34976,0.276805,0.11634,0.34976,6.209454,-0.270102,cluster4
+168,'2707N: Failed States Index Total - Fund for Peace','1213: Ratio of female to male labor force participation rate (\%)  (modeled ILO estimate) - WDI',0.3494,0.33251,0.13023,0.34643,6.247928,-0.129962,cluster4
+169,'2707N: Failed States Index Total - Fund for Peace','0848: Net current transfers from abroad  (current LCU) - WDI',0.3488,0.345329,0.04162,0.3488,6.087463,0.058911,cluster4
+170,'2707N: Failed States Index Total - Fund for Peace','0739: Manufacturing; value added  (constant 2005 US$) - WDI',0.34793,0.254632,0.0451,0.3451,6.087463,-0.305447,cluster9
+171,'2707N: Failed States Index Total - Fund for Peace','0897: Primary education; pupils  (\% female) - WDI',0.34739,0.218402,0.10749,0.34443,6.129283,-0.359149,cluster4
+172,'2707N: Failed States Index Total - Fund for Peace','0041: Foreign direct investment; net outflows  (BoP; current US$) - WDI',0.34736,0.214898,0.07308,0.34736,6.087463,-0.363953,cluster9
+173,'2707N: Failed States Index Total - Fund for Peace','0825: GNI  (constant 2005 US$) - WDI',0.34731,0.268177,0.0424,0.34731,6,-0.281305,cluster9
+174,'2707N: Failed States Index Total - Fund for Peace','2798: Balance of Payments-Exports-Other services (US dollar at current prices) - WTO',0.34667,0.188951,0.05006,0.34433,6.169925,-0.397138,cluster9
+175,'2707N: Failed States Index Total - Fund for Peace','0812: GDP per capita  (constant LCU) - WDI',0.34659,0.346048,0.1638,0.34331,6.247928,0.023272,cluster4
+176,'2707N: Failed States Index Total - Fund for Peace','2794: Balance of Payments-Exports-Telecommunications; computer; and information services (US dollar at current prices) - WTO',0.34516,0.220863,0.03815,0.34274,6.129283,-0.352557,cluster9
+177,'2707N: Failed States Index Total - Fund for Peace','0662: General government final consumption expenditure  (constant 2005 US$) - WDI',0.34283,0.250254,0.03611,0.34021,6.044394,-0.304263,cluster8
+178,'2707N: Failed States Index Total - Fund for Peace','1311: Rural population growth  (annual \%) - WDI',0.34117,0.177401,0.02365,0.34117,6.247928,0.404684,cluster6
+179,'2707N: Failed States Index Total - Fund for Peace','0691: Gross national expenditure deflator  (base year varies by country) - WDI',0.34057,0.31035,0.07058,0.33788,6.129283,0.173839,cluster4
+180,'2707N: Failed States Index Total - Fund for Peace','0585: Tax payments  (number) - WDI',0.33926,0.136524,0.04251,0.33926,6.129283,0.450262,cluster6
+181,'2707N: Failed States Index Total - Fund for Peace','0043: Secondary income; other sectors; payments  (BoP; current US$) - WDI',0.33898,0.241393,0.03335,0.33349,6.129283,-0.31239,cluster8
+182,'2707N: Failed States Index Total - Fund for Peace','0923: Repeaters; primary; total  (\% of total enrollment) - WDI',0.33895,0.074658,0.04076,0.33895,5.954197,0.514094,cluster6
+183,'2707N: Failed States Index Total - Fund for Peace','0697: Exports of goods and services  (current US$) - WDI',0.33876,0.185078,0.05001,0.33648,6.209454,-0.392023,cluster8
+184,'2707N: Failed States Index Total - Fund for Peace','2723: Merchandise trade-Exports-Manufactures (US dollar at current prices) - WTO',0.33869,0.242861,0.05354,0.33752,6.169925,-0.309563,cluster8
+185,'2707N: Failed States Index Total - Fund for Peace','0068: Exports of goods; services and primary income  (BoP; current US$) - WDI',0.33752,0.172526,0.03389,0.33505,6.169925,-0.406195,cluster8
+186,'2707N: Failed States Index Total - Fund for Peace','0485: Lending interest rate  (\%) - WDI',0.3375,0.129615,0.05178,0.3375,5.954197,0.455944,cluster6
+187,'2707N: Failed States Index Total - Fund for Peace','1325: International tourism; expenditures  (current US$) - WDI',0.3373,0.184586,0.04968,0.33488,6.209454,-0.390786,cluster8
+188,'2707N: Failed States Index Total - Fund for Peace','0472: Broad money  (\% of GDP) - WDI',0.33728,0.127555,0.04583,0.33455,6.087463,-0.457957,cluster8
+189,'2707N: Failed States Index Total - Fund for Peace','0852: Official exchange rate  (LCU per US$; period average) - WDI',0.33675,0.333698,0.0382,0.33675,6.129283,0.055246,cluster4
+190,'2707N: Failed States Index Total - Fund for Peace','0427: Population density  (people per sq. km of land area) - WDI',0.33638,0.316456,0.14686,0.33638,6.247928,-0.141152,cluster4
+191,'2707N: Failed States Index Total - Fund for Peace','1101: Health expenditure; public  (\% of total health expenditure) - WDI',0.33634,0.026802,0.03559,0.33634,6.247928,-0.556361,cluster11
+192,'2707N: Failed States Index Total - Fund for Peace','2749: Merchandise trade-Exports-Transport equipment (US dollar at current prices) - WTO',0.33609,0.214045,0.02806,0.33609,6.087463,-0.34935,cluster8
+193,'2707N: Failed States Index Total - Fund for Peace','1313: Urban population growth  (annual \%) - WDI',0.33541,0.19517,0.01933,0.33541,6.247928,0.374486,cluster6
+194,'2707N: Failed States Index Total - Fund for Peace','0063: Exports of goods and services  (BoP; current US$) - WDI',0.33519,0.184172,0.04444,0.33262,6.169925,-0.388611,cluster8
+195,'2707N: Failed States Index Total - Fund for Peace','0834: GNI per capita  (constant LCU) - WDI',0.33462,0.333584,0.12558,0.33121,6.087463,0.032188,cluster4
+196,'2707N: Failed States Index Total - Fund for Peace','0580: Time to prepare and pay taxes  (hours) - WDI',0.3332,0.267897,0.07928,0.3332,6.169925,0.255544,cluster4
+197,'2707N: Failed States Index Total - Fund for Peace','2803: Balance of Payments-Imports-Travel (US dollar at current prices) - WTO',0.33315,0.174373,0.05511,0.33041,6.169925,-0.398468,cluster8
+198,'2707N: Failed States Index Total - Fund for Peace','0053: Portfolio Investment; net  (BoP; current US$) - WDI',0.33233,0.315756,0.19673,0.32511,6.087463,0.128739,cluster4
+199,'2707N: Failed States Index Total - Fund for Peace','0036: Service imports  (BoP; current US$) - WDI',0.33197,0.134991,0.033,0.32912,6.169925,-0.443823,cluster8
+200,'2707N: Failed States Index Total - Fund for Peace','1096: Out-of-pocket health expenditure  (\% of total expenditure on health) - WDI',0.33178,0.053738,0.06249,0.33178,6.247928,0.527297,cluster6
+201,'2707N: Failed States Index Total - Fund for Peace','0737: Manufacturing; value added  (current US$) - WDI',0.33124,0.288882,0.06787,0.33124,6.129283,-0.205811,cluster4
+202,'2707N: Failed States Index Total - Fund for Peace','2734: Merchandise trade-Imports-Office and telecom equipment (US dollar at current prices) - WTO',0.33011,0.269386,0.05065,0.33011,6.129283,-0.246422,cluster8
+203,'2707N: Failed States Index Total - Fund for Peace','0798: Forest rents  (\% of GDP) - WDI',0.32986,0.173966,0.03928,0.32706,6.247928,0.394834,cluster6
+204,'2707N: Failed States Index Total - Fund for Peace','0720: Imports of goods and services  (current US$) - WDI',0.32952,0.18773,0.04265,0.32706,6.209454,-0.37655,cluster8
+205,'2707N: Failed States Index Total - Fund for Peace','1375: Commercial service imports  (current US$) - WDI',0.32894,0.124801,0.02757,0.32635,6.169925,-0.451817,cluster8
+206,'2707N: Failed States Index Total - Fund for Peace','0005: Agricultural land  (\% of land area) - WDI',0.32879,0.309114,0.18294,0.32879,6.247928,0.140271,cluster4
+207,'2707N: Failed States Index Total - Fund for Peace','0722: Imports of goods and services  (constant 2005 US$) - WDI',0.32837,0.193278,0.02763,0.32837,6.044394,-0.367549,cluster8
+208,'2707N: Failed States Index Total - Fund for Peace','2752: Merchandise trade-Imports-Electronic data processing and office equipment (US dollar at current prices) - WTO',0.32727,0.230911,0.05864,0.32727,6.129283,-0.310418,cluster8
+209,'2707N: Failed States Index Total - Fund for Peace','0038: Imports of goods; services and primary income  (BoP; current US$) - WDI',0.32709,0.171482,0.03837,0.32709,5,-0.394471,cluster9
+210,'2707N: Failed States Index Total - Fund for Peace','2822: Balance of Payments-Imports-Other business services (US dollar at current prices) - WTO',0.32666,0.10448,0.05259,0.32451,6.129283,-0.47136,cluster8
+211,'2707N: Failed States Index Total - Fund for Peace','0903: Gross intake ratio in first grade of primary education; male  (\% of relevant age group) - WDI',0.32659,0.253496,0.10728,0.32268,6,0.27036,cluster4
+212,'2707N: Failed States Index Total - Fund for Peace','2741: Merchandise trade-Exports-Iron and steel (US dollar at current prices) - WTO',0.32625,0.234096,0.07994,0.32625,6.087463,-0.303568,cluster8
+213,'2707N: Failed States Index Total - Fund for Peace','0779: Adjusted net national income  (constant 2005 US$) - WDI',0.32604,0.253995,0.03991,0.32303,6,-0.268411,cluster8
+214,'2707N: Failed States Index Total - Fund for Peace','2753: Merchandise trade-Imports-Integrated circuits and electronic components (US dollar at current prices) - WTO',0.32593,0.319475,0.03507,0.32593,6.087463,-0.080343,cluster4
+215,'2707N: Failed States Index Total - Fund for Peace','0766: Adjusted savings: consumption of fixed capital  (current US$) - WDI',0.32571,0.241188,0.03926,0.32319,6.247928,-0.290727,cluster8
+216,'2707N: Failed States Index Total - Fund for Peace','0879: School enrollment; primary (gross); gender parity index  (GPI) - WDI',0.3254,0.136328,0.06888,0.3254,6.087463,-0.434824,cluster8
+217,'2707N: Failed States Index Total - Fund for Peace','0003: Fertilizer consumption  (kilograms per hectare of arable land) - WDI',0.32387,0.292328,0.05655,0.32387,6.129283,-0.177601,cluster8
+218,'2707N: Failed States Index Total - Fund for Peace','1317: International tourism; number of arrivals - WDI',0.32234,0.201703,0.05559,0.32047,6.209454,-0.347328,cluster8
+219,'2707N: Failed States Index Total - Fund for Peace','1321: International tourism; receipts for passenger transport items  (current US$) - WDI',0.32219,0.184319,0.03802,0.32219,6,-0.371311,cluster8
+220,'2707N: Failed States Index Total - Fund for Peace','0575: Time required to register property  (days) - WDI',0.32164,0.268808,0.09781,0.31703,6.169925,0.229851,cluster4
+221,'2707N: Failed States Index Total - Fund for Peace','0896: Primary education; pupils - WDI',0.32143,0.31005,0.04975,0.32143,6.129283,0.106679,cluster4
+222,'2707N: Failed States Index Total - Fund for Peace','0944: Secondary education; pupils  (\% female) - WDI',0.32091,0.185033,0.0547,0.32091,6,-0.368615,cluster8
+223,'2707N: Failed States Index Total - Fund for Peace','0794: Gross value added at factor cost  (current US$) - WDI',0.32044,0.238596,0.04036,0.3177,6.087463,-0.286084,cluster8
+224,'2707N: Failed States Index Total - Fund for Peace','1211: Labor force participation rate; female (\% of female population ages 15+)  (modeled ILO estimate) - WDI',0.31975,0.318881,0.10927,0.31764,6.247928,0.029482,cluster4
+225,'2707N: Failed States Index Total - Fund for Peace','1404: High-technology exports  (\% of manufactured exports) - WDI',0.3193,0.202187,0.06535,0.31696,6.044394,-0.342217,cluster8
+226,'2707N: Failed States Index Total - Fund for Peace','0376: Fossil fuel energy consumption  (\% of total) - WDI',0.31911,0.240625,0.11382,0.31911,6.044394,-0.280152,cluster4
+227,'2707N: Failed States Index Total - Fund for Peace','0756: Services; etc.; value added  (constant 2005 US$) - WDI',0.31888,0.248397,0.03941,0.31888,6.044394,-0.265486,cluster8
+228,'2707N: Failed States Index Total - Fund for Peace','0784: Adjusted net savings; including particulate emission damage  (current US$) - WDI',0.31804,0.305892,0.09028,0.31552,6.044394,-0.110218,cluster4
+229,'2707N: Failed States Index Total - Fund for Peace','2733: Merchandise trade-Imports-Machinery and transport equipment (US dollar at current prices) - WTO',0.3177,0.215009,0.04431,0.31516,6.169925,-0.320455,cluster8
+230,'2707N: Failed States Index Total - Fund for Peace','1368: Merchandise imports from low- and middle-income economies in South Asia  (\% of total merchandise imports) - WDI',0.31731,0.240814,0.06073,0.31484,6.209454,0.276579,cluster4
+231,'2707N: Failed States Index Total - Fund for Peace','0902: Gross intake ratio in first grade of primary education; female  (\% of relevant age group) - WDI',0.31715,0.294577,0.12619,0.31401,6,0.150242,cluster4
+232,'2707N: Failed States Index Total - Fund for Peace','0754: Services; etc.; value added  (current US$) - WDI',0.31584,0.245068,0.05147,0.31584,6.169925,-0.26603,cluster8
+233,'2707N: Failed States Index Total - Fund for Peace','1376: Transport services  (\% of commercial service imports) - WDI',0.31563,0.069453,0.06578,0.31563,6.129283,0.496162,cluster6
+234,'2707N: Failed States Index Total - Fund for Peace','0786: Adjusted net savings; excluding particulate emission damage  (current US$) - WDI',0.31493,0.302748,0.08728,0.31189,6.044394,-0.11037,cluster4
+235,'2707N: Failed States Index Total - Fund for Peace','0065: Goods exports  (BoP; current US$) - WDI',0.31422,0.18836,0.03885,0.31149,6.169925,-0.354768,cluster8
+236,'2707N: Failed States Index Total - Fund for Peace','0716: Gross capital formation  (constant 2005 US$) - WDI',0.31396,0.258749,0.04328,0.31098,6.044394,-0.23497,cluster8
+237,'2707N: Failed States Index Total - Fund for Peace','2804: Balance of Payments-Imports-Other commercial services (US dollar at current prices) - WTO',0.31371,0.112403,0.03655,0.31153,6.169925,-0.448673,cluster8
+238,'2707N: Failed States Index Total - Fund for Peace','0033: Imports of goods and services  (BoP; current US$) - WDI',0.3136,0.172938,0.03045,0.31108,6.169925,-0.375049,cluster8
+239,'2707N: Failed States Index Total - Fund for Peace','2729: Merchandise trade-Imports-Manufactures (US dollar at current prices) - WTO',0.31357,0.191078,0.03321,0.31116,6.169925,-0.349989,cluster8
+240,'2707N: Failed States Index Total - Fund for Peace','0654: Armed forces personnel; total - WDI',0.31346,0.305024,0.10261,0.30778,6.209454,0.091847,cluster4
+241,'2707N: Failed States Index Total - Fund for Peace','0594: Scientific and technical journal articles - WDI',0.3134,0.251849,0.05584,0.3134,6.247928,-0.248095,cluster8
+242,'2707N: Failed States Index Total - Fund for Peace','2791: Balance of Payments-Exports-Insurance and pension services (US dollar at current prices) - WTO',0.31305,0.188788,0.03519,0.31305,6.044394,-0.352508,cluster8
+243,'2707N: Failed States Index Total - Fund for Peace','0010: Permanent cropland  (\% of land area) - WDI',0.31296,0.293262,0.08248,0.31296,6.247928,0.140349,cluster4
+244,'2707N: Failed States Index Total - Fund for Peace','0927: Primary education; teachers - WDI',0.31265,0.311707,0.08694,0.31265,5.954197,0.030703,cluster4
+245,'2707N: Failed States Index Total - Fund for Peace','0760: Adjusted savings: education expenditure  (current US$) - WDI',0.31251,0.230634,0.04513,0.31251,6.209454,-0.28614,cluster8
+246,'2707N: Failed States Index Total - Fund for Peace','1361: Merchandise imports  (current US$) - WDI',0.31175,0.182857,0.02431,0.31175,6.247928,-0.359017,cluster8
+247,'2707N: Failed States Index Total - Fund for Peace','2781: Merchandise trade-Imports-Total merchandise (US dollar at current prices) - WTO',0.31175,0.182806,0.02381,0.31175,6.247928,-0.359088,cluster8
+248,'2707N: Failed States Index Total - Fund for Peace','1398: Merchandise exports by the reporting economy  (current US$) - WDI',0.31158,0.183475,0.04611,0.31158,6.209454,-0.357918,cluster8
+249,'2707N: Failed States Index Total - Fund for Peace','0707: Gross fixed capital formation  (constant 2005 US$) - WDI',0.31104,0.254697,0.03707,0.31104,6,-0.237367,cluster8
+250,'2707N: Failed States Index Total - Fund for Peace','2735: Merchandise trade-Imports-Telecommunications equipment (US dollar at current prices) - WTO',0.31055,0.222179,0.05352,0.31055,6.129283,-0.297272,cluster8
+251,'2707N: Failed States Index Total - Fund for Peace','0660: General government final consumption expenditure  (current US$) - WDI',0.31047,0.221368,0.0535,0.30776,6.169925,-0.2985,cluster8
+252,'2707N: Failed States Index Total - Fund for Peace','0689: Final consumption expenditure  (constant 2005 US$) - WDI',0.309,0.241818,0.05109,0.309,6,-0.259195,cluster8
+253,'2707N: Failed States Index Total - Fund for Peace','2805: Balance of Payments-Imports-Services (US dollar at current prices) - WTO',0.30888,0.113698,0.04245,0.30888,6.209454,-0.441794,cluster8
+254,'2707N: Failed States Index Total - Fund for Peace','0035: Goods imports  (BoP; current US$) - WDI',0.30887,0.185205,0.02525,0.30633,6.169925,-0.35166,cluster8
+255,'2707N: Failed States Index Total - Fund for Peace','0732: Agriculture; value added  (current LCU) - WDI',0.30871,0.304193,0.0353,0.30871,6.169925,0.06721,cluster4
+256,'2707N: Failed States Index Total - Fund for Peace','1232: Labor force; total - WDI',0.30861,0.307701,0.10138,0.3051,6.247928,0.030142,cluster4
+257,'2707N: Failed States Index Total - Fund for Peace','0674: Household final consumption expenditure  (constant 2005 US$) - WDI',0.30852,0.247238,0.05058,0.30388,6.044394,-0.247551,cluster8
+258,'2707N: Failed States Index Total - Fund for Peace','0683: Final consumption expenditure; etc.  (constant 2005 US$) - WDI',0.30799,0.23869,0.05104,0.30799,5.90689,-0.26325,cluster8
+259,'2707N: Failed States Index Total - Fund for Peace','2720: Merchandise trade-Exports-Agricultural products (US dollar at current prices) - WTO',0.30797,0.150507,0.04191,0.30587,6.169925,-0.396816,cluster8
+260,'2707N: Failed States Index Total - Fund for Peace','0055: Net secondary income  (BoP; current US$) - WDI',0.30756,0.181656,0.03335,0.3049,6.169925,0.35483,cluster6
+261,'2707N: Failed States Index Total - Fund for Peace','0671: Household final consumption expenditure; etc.  (\% of GDP) - WDI',0.30738,0.155071,0.052,0.30506,6.169925,0.390268,cluster6
+262,'2707N: Failed States Index Total - Fund for Peace','2737: Merchandise trade-Imports-Automotive products (US dollar at current prices) - WTO',0.3073,0.189031,0.03654,0.3073,6.129283,-0.343903,cluster8
+263,'2707N: Failed States Index Total - Fund for Peace','0778: Adjusted net national income  (current US$) - WDI',0.30695,0.236594,0.05541,0.30695,6.169925,-0.265248,cluster8
+264,'2707N: Failed States Index Total - Fund for Peace','0837: Gross savings  (current US$) - WDI',0.30693,0.26822,0.0763,0.30409,6.087463,-0.196748,cluster8
+265,'2707N: Failed States Index Total - Fund for Peace','0039: Transport services  (\% of service imports; BoP) - WDI',0.30664,0.105072,0.06371,0.30664,6.129283,0.448963,cluster6
+266,'2707N: Failed States Index Total - Fund for Peace','2724: Merchandise trade-Exports-Textiles (US dollar at current prices) - WTO',0.30604,0.300487,0.0512,0.30368,6.129283,-0.074519,cluster4
+267,'2707N: Failed States Index Total - Fund for Peace','0791: GDP deflator  (base year varies by country) - WDI',0.30555,0.282196,0.05253,0.30342,6.247928,0.152822,cluster4
+268,'2707N: Failed States Index Total - Fund for Peace','0817: Gross domestic savings  (current US$) - WDI',0.30494,0.260026,0.05484,0.30494,6.169925,-0.211928,cluster8
+269,'2707N: Failed States Index Total - Fund for Peace','2800: Balance of Payments-Imports-Commercial services (US dollar at current prices) - WTO',0.30385,0.104629,0.04764,0.30385,6.209454,-0.446342,cluster8
+270,'2707N: Failed States Index Total - Fund for Peace','0797: Gross value added at factor cost  (constant LCU) - WDI',0.30339,0.302764,0.08922,0.29923,6.087463,0.025022,cluster4
+271,'2707N: Failed States Index Total - Fund for Peace','2721: Merchandise trade-Exports-Food (US dollar at current prices) - WTO',0.303,0.148049,0.04621,0.30094,6.169925,-0.393638,cluster8
+272,'2707N: Failed States Index Total - Fund for Peace','0904: Gross intake ratio in first grade of primary education; total  (\% of relevant age group) - WDI',0.30269,0.256912,0.11115,0.30269,6,0.213958,cluster4
+273,'2707N: Failed States Index Total - Fund for Peace','0714: Gross capital formation  (current US$) - WDI',0.30257,0.259721,0.06751,0.30257,6.169925,-0.207001,cluster8
+274,'2707N: Failed States Index Total - Fund for Peace','2736: Merchandise trade-Imports-Transport equipment (US dollar at current prices) - WTO',0.30133,0.169033,0.04867,0.30133,6.129283,-0.363727,cluster8
+275,'2707N: Failed States Index Total - Fund for Peace','2727: Merchandise trade-Imports-Fuels and mining products (US dollar at current prices) - WTO',0.30126,0.212408,0.04367,0.29866,6.169925,-0.29808,cluster8
+276,'2707N: Failed States Index Total - Fund for Peace','0880: School enrollment; primary and secondary (gross); gender parity index  (GPI) - WDI',0.30098,0.113099,0.03348,0.30098,5.954197,-0.433453,cluster8
+277,'2707N: Failed States Index Total - Fund for Peace','2732: Merchandise trade-Imports-Pharmaceuticals (US dollar at current prices) - WTO',0.30097,0.126847,0.0366,0.30097,6.129283,-0.417281,cluster8
+278,'2707N: Failed States Index Total - Fund for Peace','1388: Merchandise exports  (current US$) - WDI',0.30093,0.168681,0.02992,0.30093,6.247928,-0.363661,cluster8
+279,'2707N: Failed States Index Total - Fund for Peace','2780: Merchandise trade-Exports-Total merchandise (US dollar at current prices) - WTO',0.30093,0.168669,0.03025,0.30093,6.247928,-0.363677,cluster8
+280,'2707N: Failed States Index Total - Fund for Peace','0802: GDP  (constant 2005 US$) - WDI',0.30041,0.226874,0.05342,0.30041,6.129283,-0.271176,cluster8
+281,'2707N: Failed States Index Total - Fund for Peace','0881: School enrollment; secondary (gross); gender parity index  (GPI) - WDI',0.30036,0.145781,0.05012,0.30036,5.954197,-0.393166,cluster8
+282,'2707N: Failed States Index Total - Fund for Peace','0371: Energy imports; net  (\% of energy use) - WDI',0.29981,0.279223,0.03848,0.29645,6.044394,-0.143481,cluster8
+283,'2707N: Failed States Index Total - Fund for Peace','0687: Final consumption expenditure  (current US$) - WDI',0.29925,0.23147,0.07248,0.29672,6.169925,-0.260347,cluster8
+284,'2707N: Failed States Index Total - Fund for Peace','2731: Merchandise trade-Imports-Chemicals (US dollar at current prices) - WTO',0.29916,0.158452,0.01901,0.29916,6.129283,-0.375111,cluster8
+285,'2707N: Failed States Index Total - Fund for Peace','0569: Cost to import  (US$ per container) - WDI',0.29912,0.115869,0.0445,0.29912,6.209454,0.428078,cluster6
+286,'2707N: Failed States Index Total - Fund for Peace','0705: Gross fixed capital formation  (current US$) - WDI',0.29894,0.254412,0.05528,0.29608,6.169925,-0.211017,cluster8
+287,'2707N: Failed States Index Total - Fund for Peace','1217: Labor force participation rate; total (\% of total population ages 15+)  (modeled ILO estimate) - WDI',0.29842,0.277273,0.09572,0.29634,6.247928,0.14542,cluster4
+288,'2707N: Failed States Index Total - Fund for Peace','1371: Merchandise imports by the reporting economy  (current US$) - WDI',0.29822,0.171719,0.02269,0.29822,6.209454,-0.355669,cluster8
+289,'2707N: Failed States Index Total - Fund for Peace','2806: Balance of Payments-Imports-Other services (US dollar at current prices) - WTO',0.29813,0.111241,0.03533,0.29597,6.169925,-0.432307,cluster8
+290,'2707N: Failed States Index Total - Fund for Peace','0696: Gross national expenditure  (\% of GDP) - WDI',0.29743,0.193303,0.08578,0.29743,6.169925,0.322688,cluster6
+291,'2707N: Failed States Index Total - Fund for Peace','1150: Employment to population ratio; 15+; female (\%)  (modeled ILO estimate) - WDI',0.29712,0.29649,0.08936,0.29712,6.209454,0.025105,cluster4
+292,'2707N: Failed States Index Total - Fund for Peace','2725: Merchandise trade-Imports-Agricultural products (US dollar at current prices) - WTO',0.29703,0.168708,0.05729,0.29446,6.169925,-0.358221,cluster8
+293,'2707N: Failed States Index Total - Fund for Peace','0587: Total tax rate  (\% of commercial profits) - WDI',0.29696,0.254425,0.16163,0.29696,6.169925,0.206239,cluster4
+294,'2707N: Failed States Index Total - Fund for Peace','0729: External balance on goods and services  (\% of GDP) - WDI',0.29552,0.193449,0.08743,0.29333,6.209454,-0.319486,cluster8
+295,'2707N: Failed States Index Total - Fund for Peace','1040: Immunization; DPT  (\% of children ages 12-23 months) - WDI',0.29551,0.057115,0.09645,0.29551,6.247928,-0.488257,cluster3
+296,'2707N: Failed States Index Total - Fund for Peace','0694: Gross national expenditure  (constant 2005 US$) - WDI',0.29547,0.22748,0.05625,0.29547,6.044394,-0.260749,cluster8
+297,'2707N: Failed States Index Total - Fund for Peace','0829: GNI; PPP  (constant 2011 international $) - WDI',0.29534,0.262878,0.05479,0.29216,6.087463,-0.180171,cluster8
+298,'2707N: Failed States Index Total - Fund for Peace','0627: Air transport; registered carrier departures worldwide - WDI',0.29489,0.245397,0.05922,0.29207,6.087463,-0.222471,cluster8
+299,'2707N: Failed States Index Total - Fund for Peace','0551: Cost to export  (US$ per container) - WDI',0.29455,0.13644,0.08942,0.29455,6.209454,0.39763,cluster6
+300,'2707N: Failed States Index Total - Fund for Peace','0745: Industry; value added  (constant 2005 US$) - WDI',0.29431,0.235018,0.05679,0.29431,6.129283,-0.243499,cluster8
+301,'2707N: Failed States Index Total - Fund for Peace','1396: Merchandise exports to low- and middle-income economies in Sub-Saharan Africa  (\% of total merchandise exports) - WDI',0.29376,0.203419,0.12353,0.29064,6.129283,0.300568,cluster4
+302,'2707N: Failed States Index Total - Fund for Peace','0822: GNI; Atlas method  (current US$) - WDI',0.29354,0.224022,0.05277,0.29354,6.209454,-0.263663,cluster8
+303,'2707N: Failed States Index Total - Fund for Peace','0320: Net ODA received  (\% of GNI) - WDI',0.2934,0.216689,0.03254,0.2934,5.954197,0.276967,cluster6
+304,'2707N: Failed States Index Total - Fund for Peace','0668: Household final consumption expenditure; etc.  (constant 2005 US$) - WDI',0.29269,0.230584,0.04644,0.29269,5.807355,-0.24921,cluster8
+305,'2707N: Failed States Index Total - Fund for Peace','2728: Merchandise trade-Imports-Fuels (US dollar at current prices) - WTO',0.2924,0.192815,0.04074,0.28972,6.169925,-0.315571,cluster8
+306,'2707N: Failed States Index Total - Fund for Peace','2726: Merchandise trade-Imports-Food (US dollar at current prices) - WTO',0.29238,0.14269,0.05893,0.28999,6.169925,-0.386898,cluster8
+307,'2707N: Failed States Index Total - Fund for Peace','1897: Fixed-telephone subscriptions - ITU',0.29222,0.279622,0.02864,0.28863,6.247928,-0.112241,cluster7
+308,'2707N: Failed States Index Total - Fund for Peace','0765: Adjusted savings: net forest depletion  (\% of GNI) - WDI',0.28882,0.167703,0.04364,0.28882,6.169925,0.348019,cluster6
+309,'2707N: Failed States Index Total - Fund for Peace','0008: Arable land  (\% of land area) - WDI',0.28846,0.284777,0.09505,0.28846,6.247928,-0.060687,cluster7
+310,'2707N: Failed States Index Total - Fund for Peace','0899: School enrollment; primary  (\% gross) - WDI',0.28679,0.284621,0.09889,0.28679,6.087463,-0.046574,cluster7
+311,'2707N: Failed States Index Total - Fund for Peace','0692: Gross national expenditure  (current US$) - WDI',0.28661,0.221333,0.04874,0.28417,6.209454,-0.255493,cluster8
+312,'2707N: Failed States Index Total - Fund for Peace','1354: Food imports  (\% of merchandise imports) - WDI',0.28655,0.123356,0.06513,0.28416,6.087463,0.403973,cluster6
+313,'2707N: Failed States Index Total - Fund for Peace','0900: School enrollment; primary; female  (\% gross) - WDI',0.28647,0.267903,0.08063,0.28647,6.087463,-0.13626,cluster7
+314,'2707N: Failed States Index Total - Fund for Peace','0057: Grants; excluding technical cooperation  (BoP; current US$) - WDI',0.28598,0.142817,0.02466,0.28352,6,0.378369,cluster6
+315,'2707N: Failed States Index Total - Fund for Peace','0821: Gross domestic income  (constant LCU) - WDI',0.28531,0.283,0.07849,0.28095,6.129283,0.048062,cluster7
+316,'2707N: Failed States Index Total - Fund for Peace','0681: Final consumption expenditure; etc.  (current US$) - WDI',0.28496,0.217327,0.06135,0.28496,6.169925,-0.260064,cluster8
+317,'2707N: Failed States Index Total - Fund for Peace','0747: Industry; value added  (constant LCU) - WDI',0.28442,0.28228,0.08459,0.28135,6.169925,0.046258,cluster7
+318,'2707N: Failed States Index Total - Fund for Peace','0823: GNI  (current US$) - WDI',0.28422,0.215681,0.0464,0.28193,6.247928,-0.2618,cluster8
+319,'2707N: Failed States Index Total - Fund for Peace','0816: Total natural resources rents  (\% of GDP) - WDI',0.28405,0.189543,0.03252,0.28405,6.209454,0.30742,cluster6
+320,'2707N: Failed States Index Total - Fund for Peace','2809: Balance of Payments-Exports-Telecommunications services (US dollar at current prices) - WTO',0.28347,0.129489,0.04221,0.28347,5.954197,-0.392405,cluster8
+321,'2707N: Failed States Index Total - Fund for Peace','0637: Fixed telephone subscriptions - WDI',0.28295,0.270003,0.02688,0.28295,6.247928,-0.113783,cluster7
+322,'2707N: Failed States Index Total - Fund for Peace','0800: GDP  (current US$) - WDI',0.28255,0.213556,0.04202,0.28031,6.247928,-0.262667,cluster8
+323,'2707N: Failed States Index Total - Fund for Peace','2730: Merchandise trade-Imports-Iron and steel (US dollar at current prices) - WTO',0.28124,0.159618,0.07467,0.28124,6.129283,-0.348743,cluster3
+324,'2707N: Failed States Index Total - Fund for Peace','0743: Industry; value added  (current US$) - WDI',0.28028,0.232132,0.05516,0.28028,6.169925,-0.219427,cluster7
+325,'2707N: Failed States Index Total - Fund for Peace','0672: Household final consumption expenditure  (current US$) - WDI',0.28013,0.218015,0.05656,0.27759,6.169925,-0.249229,cluster8
+326,'2707N: Failed States Index Total - Fund for Peace','0763: Adjusted savings: carbon dioxide damage  (\% of GNI) - WDI',0.27954,0.25118,0.10767,0.27723,6.247928,0.168404,cluster7
+327,'2707N: Failed States Index Total - Fund for Peace','0727: External balance on goods and services  (current LCU) - WDI',0.27777,0.27648,0.06638,0.27484,6.209454,0.035921,cluster7
+328,'2707N: Failed States Index Total - Fund for Peace','0827: GNI  (constant LCU) - WDI',0.27776,0.275856,0.06556,0.2737,6.087463,0.043631,cluster7
+329,'2707N: Failed States Index Total - Fund for Peace','0818: Gross domestic savings  (current LCU) - WDI',0.27728,0.2739,0.08592,0.27728,6.169925,0.058135,cluster7
+330,'2707N: Failed States Index Total - Fund for Peace','0741: Manufacturing; value added  (constant LCU) - WDI',0.27722,0.276262,0.06068,0.27722,6.129283,0.030952,cluster7
+331,'2707N: Failed States Index Total - Fund for Peace','0804: GDP  (constant LCU) - WDI',0.27705,0.275835,0.07436,0.27423,6.247928,0.034861,cluster7
+332,'2707N: Failed States Index Total - Fund for Peace','0774: Adjusted savings: natural resources depletion  (\% of GNI) - WDI',0.27687,0.187756,0.02575,0.27687,6.169925,0.298519,cluster6
+333,'2707N: Failed States Index Total - Fund for Peace','0044: Personal remittances; paid  (current US$) - WDI',0.27583,0.175223,0.0176,0.27583,6.129283,-0.317186,cluster3
+334,'2707N: Failed States Index Total - Fund for Peace','0676: Household final consumption expenditure  (constant LCU) - WDI',0.27573,0.272923,0.07655,0.27256,6.087463,0.052978,cluster7
+335,'2707N: Failed States Index Total - Fund for Peace','1231: Labor force; female  (\% of total labor force) - WDI',0.27536,0.255669,0.08307,0.27192,6.247928,-0.140325,cluster7
+336,'2707N: Failed States Index Total - Fund for Peace','1207: Labor force participation rate; female (\% of female population ages 15-64)  (modeled ILO estimate) - WDI',0.27404,0.237211,0.08142,0.27165,6.247928,-0.19191,cluster7
+337,'2707N: Failed States Index Total - Fund for Peace','0433: Population in the largest city  (\% of urban population) - WDI',0.27402,0.238227,0.10089,0.27402,6.087463,0.18919,cluster7
+338,'2707N: Failed States Index Total - Fund for Peace','0758: Services; etc.; value added  (constant LCU) - WDI',0.27331,0.272211,0.0675,0.26962,6.169925,0.033149,cluster7
+339,'2707N: Failed States Index Total - Fund for Peace','0042: Foreign direct investment; net outflows  (\% of GDP) - WDI',0.27196,0.241028,0.02073,0.26919,6.169925,-0.175876,cluster7
+340,'2707N: Failed States Index Total - Fund for Peace','0432: Population in largest city - WDI',0.27172,0.267564,0.0677,0.27172,6.087463,-0.064467,cluster7
+341,'2707N: Failed States Index Total - Fund for Peace','1305: Population; female  (\% of total) - WDI',0.27156,0.27145,0.07388,0.27156,6.247928,0.010503,cluster7
+342,'2707N: Failed States Index Total - Fund for Peace','0052: Foreign direct investment; net  (BoP; current US$) - WDI',0.27079,0.244742,0.09103,0.27079,5.954197,-0.161394,cluster7
+343,'2707N: Failed States Index Total - Fund for Peace','2802: Balance of Payments-Imports-Transport (US dollar at current prices) - WTO',0.26838,0.106343,0.04037,0.26642,6.169925,-0.402539,cluster3
+344,'2707N: Failed States Index Total - Fund for Peace','0666: Household final consumption expenditure; etc.  (current US$) - WDI',0.26789,0.206264,0.05173,0.26554,6.169925,-0.248247,cluster3
+345,'2707N: Failed States Index Total - Fund for Peace','0846: Net taxes on products  (constant LCU) - WDI',0.26653,0.265077,0.08582,0.26243,6.044394,-0.038116,cluster7
+346,'2707N: Failed States Index Total - Fund for Peace','1104: Health expenditure; total  (\% of GDP) - WDI',0.26635,0.071143,0.04394,0.26635,6.247928,-0.441822,cluster3
+347,'2707N: Failed States Index Total - Fund for Peace','0901: School enrollment; primary; male  (\% gross) - WDI',0.26571,0.262638,0.07183,0.26571,6.087463,0.055424,cluster7
+348,'2707N: Failed States Index Total - Fund for Peace','0762: Adjusted savings: carbon dioxide damage  (current US$) - WDI',0.26552,0.257339,0.0658,0.26552,6.247928,-0.090447,cluster7
+349,'2707N: Failed States Index Total - Fund for Peace','0670: Household final consumption expenditure; etc.  (constant LCU) - WDI',0.26549,0.262652,0.07737,0.26549,6.044394,0.053277,cluster7
+350,'2707N: Failed States Index Total - Fund for Peace','2738: Merchandise trade-Imports-Textiles (US dollar at current prices) - WTO',0.26537,0.18562,0.07833,0.26537,6.129283,-0.2824,cluster3
+351,'2707N: Failed States Index Total - Fund for Peace','0078: Personal remittances; received  (\% of GDP) - WDI',0.26459,0.175352,0.04811,0.26459,6.129283,0.298728,cluster6
+352,'2707N: Failed States Index Total - Fund for Peace','1102: Health expenditure; public  (\% of government expenditure) - WDI',0.2645,0.059947,0.06779,0.2645,6.247928,-0.452276,cluster3
+353,'2707N: Failed States Index Total - Fund for Peace','0664: General government final consumption expenditure  (constant LCU) - WDI',0.26443,0.263417,0.06043,0.26119,6.087463,0.03183,cluster7
+354,'2707N: Failed States Index Total - Fund for Peace','0579: Start-up procedures to register a business  (number) - WDI',0.26436,0.091496,0.06384,0.26436,6.169925,0.415769,cluster6
+355,'2707N: Failed States Index Total - Fund for Peace','1385: Manufactures exports  (\% of merchandise exports) - WDI',0.26411,0.102272,0.04426,0.26126,6.087463,-0.402291,cluster3
+356,'2707N: Failed States Index Total - Fund for Peace','1369: Merchandise imports from low- and middle-income economies in Sub-Saharan Africa  (\% of total merchandise imports) - WDI',0.26404,0.123881,0.02495,0.26404,6.129283,0.374379,cluster6
+357,'2707N: Failed States Index Total - Fund for Peace','0633: Liner shipping connectivity index  (maximum value in 2004 = 100) - WDI',0.2631,0.112247,0.02703,0.2631,6,-0.388398,cluster3
+358,'2707N: Failed States Index Total - Fund for Peace','1041: Immunization; measles  (\% of children ages 12-23 months) - WDI',0.2624,0.035459,0.05916,0.2624,6.247928,-0.476383,cluster3
+359,'2707N: Failed States Index Total - Fund for Peace','0628: Air transport; freight  (million ton-km) - WDI',0.26163,0.170016,0.03829,0.26163,6,-0.302678,cluster3
+360,'2707N: Failed States Index Total - Fund for Peace','0578: Time required to start a business  (days) - WDI',0.26161,0.219142,0.04047,0.26161,6.169925,0.206078,cluster7
+361,'2707N: Failed States Index Total - Fund for Peace','0695: Gross national expenditure  (constant LCU) - WDI',0.26075,0.258439,0.06355,0.2572,6.129283,0.04807,cluster7
+362,'2707N: Failed States Index Total - Fund for Peace','0375: Alternative and nuclear energy  (\% of total energy use) - WDI',0.2607,0.132298,0.0515,0.25747,6.044394,-0.358332,cluster3
+363,'2707N: Failed States Index Total - Fund for Peace','0007: Arable land  (hectares per person) - WDI',0.25978,0.240936,0.13544,0.25978,6.247928,-0.137275,cluster7
+364,'2707N: Failed States Index Total - Fund for Peace','0690: Final consumption expenditure  (constant LCU) - WDI',0.25929,0.256965,0.05724,0.25929,6.087463,0.048221,cluster7
+365,'2707N: Failed States Index Total - Fund for Peace','0621: Methodology assessment of statistical capacity  (scale 0 - 100) - WDI',0.25928,-0.006589,0.12158,0.25928,6,-0.515625,cluster3
+366,'2707N: Failed States Index Total - Fund for Peace','0315: Net official development assistance and official aid received  (constant 2013 US$) - WDI',0.25739,0.1183,0.02,0.25504,6,0.372947,cluster6
+367,'2707N: Failed States Index Total - Fund for Peace','0321: Net official development assistance received  (constant 2013 US$) - WDI',0.2568,0.118162,0.02272,0.25416,6,0.372341,cluster6
+368,'2707N: Failed States Index Total - Fund for Peace','0482: Inflation; consumer prices  (annual \%) - WDI',0.2568,0.253734,0.0542,0.2568,6.209454,0.05537,cluster7
+369,'2707N: Failed States Index Total - Fund for Peace','1154: Employment to population ratio; 15+; total (\%)  (modeled ILO estimate) - WDI',0.2567,0.241435,0.07293,0.2567,6.209454,0.123553,cluster7
+370,'2707N: Failed States Index Total - Fund for Peace','1314: Urban population - WDI',0.25665,0.256199,0.06797,0.25665,6.247928,-0.021239,cluster7
+371,'2707N: Failed States Index Total - Fund for Peace','1215: Labor force participation rate; male (\% of male population ages 15+)  (modeled ILO estimate) - WDI',0.2565,0.141155,0.01982,0.2547,6.247928,0.339625,cluster6
+372,'2707N: Failed States Index Total - Fund for Peace','0314: Net official development assistance and official aid received  (current US$) - WDI',0.25642,0.116829,0.02966,0.25391,6,0.373618,cluster6
+373,'2707N: Failed States Index Total - Fund for Peace','0318: Net official development assistance received  (current US$) - WDI',0.2558,0.116665,0.03053,0.25334,6,0.373009,cluster6
+374,'2707N: Failed States Index Total - Fund for Peace','0943: Secondary education; pupils - WDI',0.25565,0.251814,0.04073,0.25223,6.044394,0.061937,cluster7
+375,'2707N: Failed States Index Total - Fund for Peace','0622: Overall level of statistical capacity  (scale 0 - 100) - WDI',0.25548,0.02122,0.08003,0.25548,6,-0.484004,cluster3
+376,'2707N: Failed States Index Total - Fund for Peace','0009: Land under cereal production  (hectares) - WDI',0.25487,0.254867,0.09559,0.25178,6.247928,-0.001754,cluster7
+377,'2707N: Failed States Index Total - Fund for Peace','0655: Armed forces personnel  (\% of total labor force) - WDI',0.25479,0.236414,0.07521,0.25479,6.169925,0.135558,cluster7
+378,'2707N: Failed States Index Total - Fund for Peace','0056: Net capital account  (BoP; current US$) - WDI',0.25476,0.252439,0.04843,0.25476,6.044394,0.048172,cluster7
+379,'2707N: Failed States Index Total - Fund for Peace','0680: Household final consumption expenditure; PPP  (constant 2011 international $) - WDI',0.25467,0.224128,0.06625,0.25119,6.087463,-0.174763,cluster7
+380,'2707N: Failed States Index Total - Fund for Peace','2815: Balance of Payments-Imports-Insurance and pension services (US dollar at current prices) - WTO',0.25419,0.208777,0.0449,0.25419,6.129283,-0.213103,cluster3
+381,'2707N: Failed States Index Total - Fund for Peace','0667: Household final consumption expenditure; etc.  (current LCU) - WDI',0.2526,0.249236,0.03934,0.24951,6.169925,0.058003,cluster7
+382,'2707N: Failed States Index Total - Fund for Peace','0701: Exports of goods and services  (constant LCU) - WDI',0.25254,0.25157,0.04934,0.24942,6.129283,0.03114,cluster7
+383,'2707N: Failed States Index Total - Fund for Peace','0686: Final consumption expenditure; etc.  (\% of GDP) - WDI',0.25238,0.154397,0.03126,0.25238,6.169925,0.313022,cluster6
+384,'2707N: Failed States Index Total - Fund for Peace','0819: Gross domestic savings  (\% of GDP) - WDI',0.25213,0.154093,0.03261,0.25213,6.169925,-0.313108,cluster3
+385,'2707N: Failed States Index Total - Fund for Peace','0806: GDP; PPP  (constant 2011 international $) - WDI',0.25202,0.22106,0.0375,0.24964,6.247928,-0.175953,cluster7
+386,'2707N: Failed States Index Total - Fund for Peace','0685: Final consumption expenditure; etc.  (constant LCU) - WDI',0.2518,0.249677,0.06054,0.2518,6.087463,0.046073,cluster7
+387,'2707N: Failed States Index Total - Fund for Peace','0064: Insurance and financial services  (\% of service exports; BoP) - WDI',0.25173,0.142177,0.04046,0.24887,6.087463,-0.330987,cluster3
+388,'2707N: Failed States Index Total - Fund for Peace','0545: Private credit bureau coverage  (\% of adults) - WDI',0.25171,-0.037839,0.02213,0.25171,6.169925,-0.538098,cluster3
+389,'2707N: Failed States Index Total - Fund for Peace','1384: Insurance and financial services  (\% of commercial service exports) - WDI',0.2514,0.164661,0.06686,0.24839,6.087463,-0.294516,cluster3
+390,'2707N: Failed States Index Total - Fund for Peace','0363: Electricity production from nuclear sources  (\% of total) - WDI',0.25034,0.085035,0.02693,0.24777,6.044394,-0.406578,cluster3
+391,'2707N: Failed States Index Total - Fund for Peace','0709: Gross fixed capital formation  (constant LCU) - WDI',0.24946,0.247007,0.04058,0.24639,6.087463,0.049525,cluster7
+392,'2707N: Failed States Index Total - Fund for Peace','0114: Net bilateral aid flows from DAC donors; Total  (current US$) - WDI',0.2494,0.133092,0.0468,0.24661,6,0.34104,cluster6
+393,'2707N: Failed States Index Total - Fund for Peace','0673: Household final consumption expenditure  (current LCU) - WDI',0.24893,0.245647,0.0464,0.24585,6.169925,0.057297,cluster7
+394,'2707N: Failed States Index Total - Fund for Peace','0071: Foreign direct investment; net inflows  (BoP; current US$) - WDI',0.24575,0.159933,0.02925,0.24575,6.247928,-0.292945,cluster3
+395,'2707N: Failed States Index Total - Fund for Peace','0945: Secondary education; general pupils - WDI',0.24439,0.242358,0.03775,0.24062,6.087463,0.045078,cluster2
+396,'2707N: Failed States Index Total - Fund for Peace','0805: GDP; PPP  (current international $) - WDI',0.24389,0.213456,0.03818,0.24155,6.247928,-0.174453,cluster2
+397,'2707N: Failed States Index Total - Fund for Peace','0718: Gross capital formation  (constant LCU) - WDI',0.24359,0.240762,0.03786,0.24359,6.087463,0.053182,cluster2
+398,'2707N: Failed States Index Total - Fund for Peace','1370: Merchandise imports by the reporting economy; residual  (\% of total merchandise imports) - WDI',0.24342,0.16595,0.06681,0.24342,6.209454,0.278335,cluster2
+399,'2707N: Failed States Index Total - Fund for Peace','0629: Air transport; passengers carried - WDI',0.24261,0.185842,0.03503,0.24014,6.087463,-0.238261,cluster2
+400,'2707N: Failed States Index Total - Fund for Peace','1139: Employment to population ratio; ages 15-24; male (\%)  (modeled ILO estimate) - WDI',0.24248,0.214075,0.05375,0.24248,6.209454,0.168538,cluster2
+401,'2707N: Failed States Index Total - Fund for Peace','0364: Electricity production from oil sources  (\% of total) - WDI',0.24222,0.167168,0.0284,0.23889,6.044394,0.273956,cluster2
+402,'2707N: Failed States Index Total - Fund for Peace','1364: Merchandise imports from low- and middle-income economies in East Asia & Pacific  (\% of total merchandise imports) - WDI',0.23989,0.197049,0.02555,0.23989,6.044394,0.206981,cluster2
+403,'2707N: Failed States Index Total - Fund for Peace','0624: Source data assessment of statistical capacity  (scale 0 - 100) - WDI',0.23984,0.061167,0.12665,0.23984,6,-0.422697,cluster3
+404,'2707N: Failed States Index Total - Fund for Peace','0788: Exports as a capacity to import  (constant LCU) - WDI',0.23968,0.238418,0.0611,0.23675,6.129283,0.03552,cluster2
+405,'2707N: Failed States Index Total - Fund for Peace','0828: GNI; PPP  (current international $) - WDI',0.23951,0.208906,0.03537,0.23951,6.209454,-0.17494,cluster2
+406,'2707N: Failed States Index Total - Fund for Peace','1279: Death rate; crude  (per 1;000 people) - WDI',0.23921,0.212712,0.04967,0.23921,6.247928,0.162782,cluster2
+407,'2707N: Failed States Index Total - Fund for Peace','1152: Employment to population ratio; 15+; male (\%)  (modeled ILO estimate) - WDI',0.23805,0.164147,0.06777,0.23805,6.209454,0.271852,cluster2
+408,'2707N: Failed States Index Total - Fund for Peace','1432: Air and GHG emissions - CO2 (MLN_TONNE) - OECD',0.23801,0.232442,0.04907,0.23054,5.97728,-0.074617,cluster2
+409,'2707N: Failed States Index Total - Fund for Peace','1783: Renewable energy - TOT (KTOE) - OECD',0.23789,0.229428,0.04833,0.23789,6,-0.091991,cluster2
+410,'2707N: Failed States Index Total - Fund for Peace','0999: Proportion of seats held by women in national parliaments  (\%) - WDI',0.23771,0.149071,0.03545,0.23383,6.247928,-0.297723,cluster3
+411,'2707N: Failed States Index Total - Fund for Peace','0795: Gross value added at factor cost  (current LCU) - WDI',0.23746,0.234949,0.05205,0.23422,6.087463,0.050107,cluster2
+412,'2707N: Failed States Index Total - Fund for Peace','1202: Labor force participation rate for ages 15-24; female (\%)  (modeled ILO estimate) - WDI',0.23723,0.236091,0.0354,0.23467,6.247928,-0.033745,cluster2
+413,'2707N: Failed States Index Total - Fund for Peace','1393: Merchandise exports to low- and middle-income economies in Latin America & the Caribbean  (\% of total merchandise exports) - WDI',0.23701,0.235995,0.06078,0.23437,6.129283,-0.031863,cluster2
+414,'2707N: Failed States Index Total - Fund for Peace','2751: Merchandise trade-Exports-Clothing (US dollar at current prices) - WTO',0.23619,0.236076,0.04293,0.23365,6.129283,-0.010681,cluster2
+415,'2707N: Failed States Index Total - Fund for Peace','0024: Cereal production  (metric tons) - WDI',0.23601,0.231437,0.07032,0.23317,6.247928,-0.067623,cluster2
+416,'2707N: Failed States Index Total - Fund for Peace','0688: Final consumption expenditure  (current LCU) - WDI',0.23573,0.232702,0.0357,0.23286,6.169925,0.055032,cluster2
+417,'2707N: Failed States Index Total - Fund for Peace','1356: ICT goods imports  (\% total goods imports) - WDI',0.2357,0.155035,0.03706,0.23328,6.087463,-0.284016,cluster3
+418,'2707N: Failed States Index Total - Fund for Peace','0027: Livestock production index  (2004-2006 = 100) - WDI',0.23528,0.174453,0.06512,0.23528,6.247928,0.246631,cluster2
+419,'2707N: Failed States Index Total - Fund for Peace','1770: Primary energy supply - TOT (MLN_TOE) - OECD',0.23504,0.226578,0.04897,0.23504,6,-0.091991,cluster2
+420,'2707N: Failed States Index Total - Fund for Peace','1733: Crude oil production - TOT (KTOE) - OECD',0.23447,0.23278,0.07274,0.23447,6,0.041104,cluster2
+421,'2707N: Failed States Index Total - Fund for Peace','1206: Labor force participation rate for ages 15-24; total (\%)  (modeled ILO estimate) - WDI',0.23218,0.22969,0.04085,0.23019,6.247928,0.049899,cluster2
+422,'2707N: Failed States Index Total - Fund for Peace','1389: Merchandise exports to high-income economies  (\% of total merchandise exports) - WDI',0.23218,0.049025,0.03213,0.23218,6.209454,-0.427967,cluster3
+423,'2707N: Failed States Index Total - Fund for Peace','1236: Unemployment; youth male (\% of male labor force ages 15-24)  (modeled ILO estimate) - WDI',0.23193,0.216168,0.06071,0.23193,6.209454,-0.125548,cluster2
+424,'2707N: Failed States Index Total - Fund for Peace','0090: Net bilateral aid flows from DAC donors; European Union institutions  (current US$) - WDI',0.23148,0.220819,0.04713,0.229,6,0.103254,cluster2
+425,'2707N: Failed States Index Total - Fund for Peace','2807: Balance of Payments-Imports-Government goods and services n.i.e. (US dollar at current prices) - WTO',0.23108,0.212227,0.08228,0.22885,6.129283,-0.137307,cluster2
+426,'2707N: Failed States Index Total - Fund for Peace','1322: International tourism; expenditures for passenger transport items  (current US$) - WDI',0.23072,0.079886,0.02853,0.22874,6.087463,-0.388374,cluster3
+427,'2707N: Failed States Index Total - Fund for Peace','0679: Household final consumption expenditure; PPP  (current international $) - WDI',0.23024,0.197257,0.04926,0.23024,6.087463,-0.181613,cluster2
+428,'2707N: Failed States Index Total - Fund for Peace','0359: Electricity production from oil; gas and coal sources  (\% of total) - WDI',0.23006,0.222632,0.06181,0.22671,6.044394,0.086185,cluster2
+429,'2707N: Failed States Index Total - Fund for Peace','0103: Net bilateral aid flows from DAC donors; Japan  (current US$) - WDI',0.22998,0.212458,0.02568,0.22696,6,0.13237,cluster2
+430,'2707N: Failed States Index Total - Fund for Peace','0757: Services; etc.; value added  (annual \% growth) - WDI',0.22942,0.15937,0.03982,0.22676,6.169925,0.264669,cluster2
+431,'2707N: Failed States Index Total - Fund for Peace','1328: Import volume index  (2000 = 100) - WDI',0.22896,0.157858,0.06769,0.22896,6.247928,0.26665,cluster2
+432,'2707N: Failed States Index Total - Fund for Peace','0656: Military expenditure  (current LCU) - WDI',0.22841,0.224456,0.04616,0.22533,6.129283,0.06288,cluster2
+433,'2707N: Failed States Index Total - Fund for Peace','0048: Net primary income  (BoP; current US$) - WDI',0.22834,0.205221,0.08892,0.22834,6.129283,-0.152048,cluster2
+434,'2707N: Failed States Index Total - Fund for Peace','0115: Net bilateral aid flows from DAC donors; United States  (current US$) - WDI',0.22823,0.108912,0.03065,0.22577,6,0.345425,cluster6
+435,'2707N: Failed States Index Total - Fund for Peace','0733: Agriculture; value added  (constant 2005 US$) - WDI',0.22823,0.22665,0.05134,0.22823,6.129283,-0.039749,cluster2
+436,'2707N: Failed States Index Total - Fund for Peace','0682: Final consumption expenditure; etc.  (current LCU) - WDI',0.22796,0.224897,0.03948,0.22796,6.169925,0.05534,cluster2
+437,'2707N: Failed States Index Total - Fund for Peace','1137: Employment to population ratio; ages 15-24; female (\%)  (modeled ILO estimate) - WDI',0.22796,0.227935,0.05854,0.22796,6.209454,-0.004982,cluster2
+438,'2707N: Failed States Index Total - Fund for Peace','2722: Merchandise trade-Exports-Fuels and mining products (US dollar at current prices) - WTO',0.22794,0.184612,0.026,0.22538,6.169925,-0.208154,cluster2
+439,'2707N: Failed States Index Total - Fund for Peace','1209: Labor force participation rate; total (\% of total population ages 15-64)  (modeled ILO estimate) - WDI',0.22752,0.19098,0.07598,0.21104,6.228819,-0.191156,cluster2
+440,'2707N: Failed States Index Total - Fund for Peace','0755: Services; etc.; value added  (current LCU) - WDI',0.22733,0.224907,0.04164,0.22733,6.169925,0.049225,cluster2
+441,'2707N: Failed States Index Total - Fund for Peace','0724: Imports of goods and services  (constant LCU) - WDI',0.22728,0.226118,0.03648,0.2241,6.129283,0.034089,cluster2
+442,'2707N: Failed States Index Total - Fund for Peace','0462: Total reserves  (includes gold; current US$) - WDI',0.22675,0.219484,0.04916,0.22675,6.209454,-0.085243,cluster2
+443,'2707N: Failed States Index Total - Fund for Peace','0075: Secondary income receipts  (BoP; current US$) - WDI',0.22643,0.175746,0.06074,0.22643,6.129283,-0.22513,cluster2
+444,'2707N: Failed States Index Total - Fund for Peace','0358: Electricity production from coal sources  (\% of total) - WDI',0.22576,0.194581,0.02618,0.22251,6.044394,-0.176575,cluster2
+445,'2707N: Failed States Index Total - Fund for Peace','2799: Balance of Payments-Exports-Government goods and services n.i.e. (US dollar at current prices) - WTO',0.2252,0.162582,0.04017,0.2252,6.087463,-0.250236,cluster2
+446,'2707N: Failed States Index Total - Fund for Peace','0599: Trademark applications; total - WDI',0.22336,0.22183,0.0456,0.2204,5.954197,-0.03911,cluster2
+447,'2707N: Failed States Index Total - Fund for Peace','0776: Adjusted savings: net national savings  (current US$) - WDI',0.22304,0.222726,0.03991,0.22021,6.087463,-0.017731,cluster2
+448,'2707N: Failed States Index Total - Fund for Peace','1204: Labor force participation rate for ages 15-24; male (\%)  (modeled ILO estimate) - WDI',0.22262,0.19798,0.03024,0.2205,6.247928,0.156971,cluster2
+449,'2707N: Failed States Index Total - Fund for Peace','0744: Industry; value added  (current LCU) - WDI',0.22155,0.217888,0.04492,0.22155,6.169925,0.060518,cluster2
+450,'2707N: Failed States Index Total - Fund for Peace','1265: Refugee population by country or territory of asylum - WDI',0.22141,0.203203,0.04849,0.22141,6.129283,0.134933,cluster2
+451,'2707N: Failed States Index Total - Fund for Peace','0842: Net income from abroad  (current LCU) - WDI',0.22128,0.21865,0.07003,0.21783,6.209454,-0.051284,cluster2
+452,'2707N: Failed States Index Total - Fund for Peace','0475: Money  (current LCU) - WDI',0.22027,0.214185,0.0814,0.21711,6.087463,-0.078004,cluster2
+453,'2707N: Failed States Index Total - Fund for Peace','1373: Import value index  (2000 = 100) - WDI',0.22022,0.146846,0.0613,0.22022,6.247928,0.270876,cluster2
+454,'2707N: Failed States Index Total - Fund for Peace','0706: Gross fixed capital formation  (current LCU) - WDI',0.21965,0.216583,0.03156,0.21619,6.169925,0.055376,cluster2
+455,'2707N: Failed States Index Total - Fund for Peace','0665: General government final consumption expenditure  (\% of GDP) - WDI',0.21951,0.19142,0.01563,0.21951,6.169925,-0.167602,cluster2
+456,'2707N: Failed States Index Total - Fund for Peace','0792: Discrepancy in expenditure estimate of GDP  (current LCU) - WDI',0.21918,0.217709,0.07555,0.21639,6.169925,0.038353,cluster2
+457,'2707N: Failed States Index Total - Fund for Peace','0049: Net trade in goods and services  (BoP; current US$) - WDI',0.21831,0.2181,0.06222,0.21527,6.169925,0.014478,cluster2
+458,'2707N: Failed States Index Total - Fund for Peace','0801: GDP  (current LCU) - WDI',0.21782,0.215319,0.04405,0.21531,6.247928,0.050012,cluster2
+459,'2707N: Failed States Index Total - Fund for Peace','0422: CO2 emissions from other sectors; excluding residential buildings and commercial and public services  (\% of total fuel combustion) - WDI',0.21779,0.199457,0.05953,0.2144,6.044394,0.135399,cluster2
+460,'2707N: Failed States Index Total - Fund for Peace','0473: Broad money to total reserves ratio - WDI',0.21731,0.217298,0.038,0.21444,6.087463,-0.00346,cluster2
+461,'2707N: Failed States Index Total - Fund for Peace','0546: Public credit registry coverage  (\% of adults) - WDI',0.21695,0.164546,0.04457,0.21695,6.169925,-0.22892,cluster2
+462,'2707N: Failed States Index Total - Fund for Peace','0702: Exports of goods and services  (\% of GDP) - WDI',0.21646,0.09414,0.01734,0.21407,6.209454,-0.349742,cluster3
+463,'2707N: Failed States Index Total - Fund for Peace','1359: Ores and metals imports  (\% of merchandise imports) - WDI',0.21591,0.168102,0.02068,0.21319,6.087463,-0.218651,cluster2
+464,'2707N: Failed States Index Total - Fund for Peace','1395: Merchandise exports to low- and middle-income economies in South Asia  (\% of total merchandise exports) - WDI',0.21572,0.137408,0.02485,0.21572,6.169925,0.279843,cluster2
+465,'2707N: Failed States Index Total - Fund for Peace','0465: Total reserves minus gold  (current US$) - WDI',0.21493,0.211581,0.0316,0.21493,6.209454,-0.057873,cluster2
+466,'2707N: Failed States Index Total - Fund for Peace','1381: Food exports  (\% of merchandise exports) - WDI',0.21453,0.169163,0.03837,0.21169,6.087463,0.212996,cluster2
+467,'2707N: Failed States Index Total - Fund for Peace','1238: Unemployment; youth total (\% of total labor force ages 15-24)  (modeled ILO estimate) - WDI',0.21421,0.207799,0.05226,0.21421,6.209454,-0.080068,cluster2
+468,'2707N: Failed States Index Total - Fund for Peace','0675: Household final consumption expenditure  (annual \% growth) - WDI',0.21359,0.192345,0.04995,0.21087,6.087463,0.145757,cluster2
+469,'2707N: Failed States Index Total - Fund for Peace','1374: Computer; communications and other services  (\% of commercial service imports) - WDI',0.21313,0.113093,0.02919,0.21313,6.129283,-0.316286,cluster3
+470,'2707N: Failed States Index Total - Fund for Peace','0715: Gross capital formation  (current LCU) - WDI',0.21285,0.209629,0.04199,0.21285,6.169925,0.05675,cluster2
+471,'2707N: Failed States Index Total - Fund for Peace','0730: Trade  (\% of GDP) - WDI',0.21181,0.149661,0.04813,0.20955,6.209454,-0.249297,cluster2
+472,'2707N: Failed States Index Total - Fund for Peace','0663: General government final consumption expenditure  (annual \% growth) - WDI',0.21164,0.197794,0.03222,0.20817,6.087463,0.11767,cluster2
+473,'2707N: Failed States Index Total - Fund for Peace','0742: Manufacturing; value added  (\% of GDP) - WDI',0.21157,0.165061,0.04565,0.2091,6.129283,-0.21566,cluster2
+474,'2707N: Failed States Index Total - Fund for Peace','0824: GNI  (current LCU) - WDI',0.2114,0.208897,0.03976,0.20856,6.247928,0.050029,cluster2
+475,'2707N: Failed States Index Total - Fund for Peace','0439: Aquaculture production  (metric tons) - WDI',0.21121,0.210078,0.03941,0.20804,6.209454,0.033652,cluster2
+476,'2707N: Failed States Index Total - Fund for Peace','0478: Money and quasi money  to total reserves ratio (M2) - WDI',0.21117,0.211136,0.02928,0.20825,6.087463,-0.005804,cluster2
+477,'2707N: Failed States Index Total - Fund for Peace','1360: Merchandise imports from economies in the Arab World  (\% of total merchandise imports) - WDI',0.21088,0.143519,0.03108,0.21088,6.169925,0.259541,cluster2
+478,'2707N: Failed States Index Total - Fund for Peace','0738: Manufacturing; value added  (current LCU) - WDI',0.21086,0.20921,0.04967,0.21086,6.129283,0.04062,cluster2
+479,'2707N: Failed States Index Total - Fund for Peace','0669: Household final consumption expenditure; etc.  (annual \% growth) - WDI',0.21069,0.197228,0.04693,0.21069,6.044394,0.116025,cluster2
+480,'2707N: Failed States Index Total - Fund for Peace','1382: Fuel exports  (\% of merchandise exports) - WDI',0.21067,0.186489,0.06602,0.21067,6.044394,0.155502,cluster2
+481,'2707N: Failed States Index Total - Fund for Peace','0441: Total fisheries production  (metric tons) - WDI',0.21055,0.210545,0.04314,0.21055,6.247928,0.002186,cluster2
+482,'2707N: Failed States Index Total - Fund for Peace','0693: Gross national expenditure  (current LCU) - WDI',0.2095,0.206585,0.0371,0.20661,6.209454,0.053991,cluster2
+483,'2707N: Failed States Index Total - Fund for Peace','0793: Discrepancy in expenditure estimate of GDP  (constant LCU) - WDI',0.20942,0.206288,0.07223,0.20942,6,0.055968,cluster2
+484,'2707N: Failed States Index Total - Fund for Peace','0420: CO2 emissions from electricity and heat production; total  (\% of total fuel combustion) - WDI',0.2094,0.17217,0.02125,0.20568,6.044394,-0.192952,cluster2
+485,'2707N: Failed States Index Total - Fund for Peace','0484: Deposit interest rate  (\%) - WDI',0.20862,0.149601,0.05409,0.20512,6.044394,0.242938,cluster2
+486,'2707N: Failed States Index Total - Fund for Peace','0790: Inflation; GDP deflator  (annual \%) - WDI',0.20848,0.139324,0.0347,0.20653,6.247928,0.262976,cluster2
+487,'2707N: Failed States Index Total - Fund for Peace','0360: Electricity production from hydroelectric sources  (\% of total) - WDI',0.20838,0.170203,0.01479,0.20443,6.044394,0.195391,cluster2
+488,'2707N: Failed States Index Total - Fund for Peace','0841: Net income from abroad  (current US$) - WDI',0.20737,0.187901,0.07243,0.20737,6.129283,-0.139531,cluster2
+489,'2707N: Failed States Index Total - Fund for Peace','0711: Changes in inventories  (current US$) - WDI',0.20636,0.206359,0.06189,0.20339,6.129283,0.000793,cluster2
+490,'2707N: Failed States Index Total - Fund for Peace','0726: External balance on goods and services  (current US$) - WDI',0.2053,0.204898,0.06606,0.2053,5.954197,0.020056,cluster2
+491,'2707N: Failed States Index Total - Fund for Peace','0698: Exports of goods and services  (current LCU) - WDI',0.20492,0.203133,0.03249,0.20198,6.209454,0.042272,cluster2
+492,'2707N: Failed States Index Total - Fund for Peace','0684: Final consumption expenditure; etc.  (annual \% growth) - WDI',0.20476,0.17278,0.03515,0.20224,6.087463,0.178831,cluster2
+493,'2707N: Failed States Index Total - Fund for Peace','0440: Capture fisheries production  (metric tons) - WDI',0.20475,0.200768,0.03963,0.20475,6.247928,-0.063099,cluster2
+494,'2707N: Failed States Index Total - Fund for Peace','0060: ICT service exports  (\% of service exports; BoP) - WDI',0.20461,0.185003,0.03521,0.20213,6.044394,-0.140027,cluster2
+495,'2707N: Failed States Index Total - Fund for Peace','0476: Money and quasi money (M2)  (current LCU) - WDI',0.20453,0.203191,0.05715,0.20453,6.087463,-0.036587,cluster2
+496,'2707N: Failed States Index Total - Fund for Peace','2740: Merchandise trade-Exports-Fuels (US dollar at current prices) - WTO',0.20368,0.187449,0.02499,0.20368,6.129283,-0.1274,cluster2
+497,'2707N: Failed States Index Total - Fund for Peace','0731: Agriculture; value added  (current US$) - WDI',0.2035,0.203498,0.05487,0.2035,6.169925,-0.001265,cluster2
+498,'2707N: Failed States Index Total - Fund for Peace','1141: Employment to population ratio; ages 15-24; total (\%)  (modeled ILO estimate) - WDI',0.20334,0.19771,0.02711,0.20334,6.209454,0.075032,cluster2
+499,'2707N: Failed States Index Total - Fund for Peace','0845: Net taxes on products  (current LCU) - WDI',0.20271,0.202613,0.04349,0.20271,6.044394,-0.009845,cluster2
+500,'2707N: Failed States Index Total - Fund for Peace','0809: GDP per capita  (current LCU) - WDI',0.20258,0.198951,0.0365,0.19987,6.247928,0.060241,cluster2
+501,'2707N: Failed States Index Total - Fund for Peace','0589: Procedures to build a warehouse  (number) - WDI',0.20231,0.179897,0.07938,0.20004,6.169925,0.149711,cluster2
+502,'2707N: Failed States Index Total - Fund for Peace','0661: General government final consumption expenditure  (current LCU) - WDI',0.20211,0.199622,0.02655,0.20211,6.169925,0.049882,cluster2
+503,'2707N: Failed States Index Total - Fund for Peace','0362: Electricity production from natural gas sources  (\% of total) - WDI',0.20127,0.201269,0.04558,0.19805,6.044394,-0.001139,cluster2
+504,'2707N: Failed States Index Total - Fund for Peace','1234: Unemployment; youth female (\% of female labor force ages 15-24)  (modeled ILO estimate) - WDI',0.20093,0.200843,0.03361,0.20093,6.209454,0.009339,cluster2
+505,'2707N: Failed States Index Total - Fund for Peace','0914: School enrollment; primary; private  (\% of total primary) - WDI',0.2009,0.200833,0.05098,0.2009,6,0.008161,cluster2
+506,'2707N: Failed States Index Total - Fund for Peace','0070: Travel services  (\% of service exports; BoP) - WDI',0.20045,0.172295,0.05537,0.20045,6.129283,0.167796,cluster2
+507,'2707N: Failed States Index Total - Fund for Peace','0471: Broad money  (current LCU) - WDI',0.19981,0.196996,0.04916,0.19981,6.087463,-0.053049,cluster2
+508,'2707N: Failed States Index Total - Fund for Peace','0838: Gross savings  (current LCU) - WDI',0.19979,0.198876,0.02421,0.19696,6.087463,0.030236,cluster2
+509,'2707N: Failed States Index Total - Fund for Peace','0468: Net domestic credit  (current LCU) - WDI',0.19967,0.196895,0.03415,0.19967,6.169925,-0.052681,cluster2
+510,'2707N: Failed States Index Total - Fund for Peace','0785: Adjusted net savings; including particulate emission damage  (\% of GNI) - WDI',0.19946,0.145194,0.03676,0.197,6.044394,-0.23295,cluster2
+511,'2707N: Failed States Index Total - Fund for Peace','1367: Merchandise imports from low- and middle-income economies in Middle East & North Africa  (\% of total merchandise imports) - WDI',0.19909,0.150224,0.04482,0.19653,6.209454,0.221056,cluster2
+512,'2707N: Failed States Index Total - Fund for Peace','0764: Adjusted savings: net forest depletion  (current US$) - WDI',0.19901,0.18613,0.01864,0.19901,6.209454,0.113488,cluster2
+513,'2707N: Failed States Index Total - Fund for Peace','0050: Net trade in goods  (BoP; current US$) - WDI',0.19809,0.194642,0.0327,0.19522,6.169925,0.058718,cluster2
+514,'2707N: Failed States Index Total - Fund for Peace','1406: Travel services  (\% of commercial service exports) - WDI',0.1975,0.141264,0.02998,0.1975,6.129283,0.237141,cluster2
+515,'2707N: Failed States Index Total - Fund for Peace','0787: Adjusted net savings; excluding particulate emission damage  (\% of GNI) - WDI',0.19736,0.153053,0.03299,0.19482,6.044394,-0.210491,cluster2
+516,'2707N: Failed States Index Total - Fund for Peace','0031: Communications; computer; etc.  (\% of service imports; BoP) - WDI',0.19651,0.130344,0.01835,0.19651,6.129283,-0.257228,cluster2
+517,'2707N: Failed States Index Total - Fund for Peace','1401: Computer; communications and other services  (\% of commercial service exports) - WDI',0.19617,0.167538,0.03656,0.19379,6.169925,-0.169209,cluster2
+518,'2707N: Failed States Index Total - Fund for Peace','0045: Current account balance  (BoP; current US$) - WDI',0.19549,0.193903,0.06729,0.19269,6.169925,0.039838,cluster2
+519,'2707N: Failed States Index Total - Fund for Peace','0030: Trade in services  (\% of GDP) - WDI',0.19486,0.169091,0.04293,0.19193,6.169925,-0.160527,cluster2
+520,'2707N: Failed States Index Total - Fund for Peace','0803: GDP growth  (annual \%) - WDI',0.19433,0.157649,0.02665,0.19219,6.247928,0.191523,cluster2
+521,'2707N: Failed States Index Total - Fund for Peace','0878: Compulsory education; duration  (years) - WDI',0.19431,0.063064,0.05473,0.19431,6.129283,-0.362279,cluster3
+522,'2707N: Failed States Index Total - Fund for Peace','0721: Imports of goods and services  (current LCU) - WDI',0.19428,0.192735,0.02915,0.19159,6.209454,0.03931,cluster2
+523,'2707N: Failed States Index Total - Fund for Peace','0026: Food production index  (2004-2006 = 100) - WDI',0.19317,0.12101,0.02056,0.19317,6.247928,0.268626,cluster0
+524,'2707N: Failed States Index Total - Fund for Peace','1097: Out-of-pocket health expenditure  (\% of private expenditure on health) - WDI',0.19284,0.1685,0.02969,0.19284,6.247928,0.156012,cluster2
+525,'2707N: Failed States Index Total - Fund for Peace','1397: Merchandise exports by the reporting economy; residual  (\% of total merchandise exports) - WDI',0.19262,0.176447,0.04025,0.19262,6.209454,0.127174,cluster2
+526,'2707N: Failed States Index Total - Fund for Peace','0831: GNI per capita  (current LCU) - WDI',0.1925,0.189041,0.04105,0.18993,6.247928,0.058814,cluster2
+527,'2707N: Failed States Index Total - Fund for Peace','1392: Merchandise exports to low- and middle-income economies in Europe & Central Asia  (\% of total merchandise exports) - WDI',0.19205,0.174717,0.05626,0.18858,6,0.131653,cluster2
+528,'2707N: Failed States Index Total - Fund for Peace','1400: Export value index  (2000 = 100) - WDI',0.19178,0.176011,0.06538,0.19178,6.247928,0.125574,cluster2
+529,'2707N: Failed States Index Total - Fund for Peace','1365: Merchandise imports from low- and middle-income economies in Europe & Central Asia  (\% of total merchandise imports) - WDI',0.19082,0.138661,0.0256,0.19082,5.954197,0.228383,cluster0
+530,'2707N: Failed States Index Total - Fund for Peace','1255: Unemployment; female (\% of female labor force)  (modeled ILO estimate) - WDI',0.18962,0.17827,0.03663,0.18962,6.209454,0.106539,cluster2
+531,'2707N: Failed States Index Total - Fund for Peace','1379: Export volume index  (2000 = 100) - WDI',0.18904,0.183685,0.04819,0.18904,6.247928,0.07318,cluster2
+532,'2707N: Failed States Index Total - Fund for Peace','1100: Health expenditure; private  (\% of GDP) - WDI',0.18871,0.148096,0.05219,0.18871,6.247928,0.20153,cluster2
+533,'2707N: Failed States Index Total - Fund for Peace','0040: Travel services  (\% of service imports; BoP) - WDI',0.18819,0.171456,0.0308,0.18819,6.129283,-0.129359,cluster2
+534,'2707N: Failed States Index Total - Fund for Peace','0576: Procedures to register property  (number) - WDI',0.18806,0.099875,0.09727,0.18579,6.169925,0.29696,cluster2
+535,'2707N: Failed States Index Total - Fund for Peace','0826: GNI growth  (annual \%) - WDI',0.18804,0.155875,0.02138,0.1853,6.087463,0.179345,cluster0
+536,'2707N: Failed States Index Total - Fund for Peace','0423: CO2 emissions from transport  (\% of total fuel combustion) - WDI',0.18803,0.16541,0.01899,0.18455,6.044394,0.150401,cluster0
+537,'2707N: Failed States Index Total - Fund for Peace','0748: Industry; value added  (\% of GDP) - WDI',0.18784,0.184511,0.02849,0.18477,6.169925,-0.0577,cluster2
+538,'2707N: Failed States Index Total - Fund for Peace','0469: Net foreign assets  (current LCU) - WDI',0.1873,0.186357,0.02299,0.1846,6.209454,0.030714,cluster2
+539,'2707N: Failed States Index Total - Fund for Peace','1377: Travel services  (\% of commercial service imports) - WDI',0.18706,0.178581,0.03553,0.18706,6.129283,-0.092081,cluster2
+540,'2707N: Failed States Index Total - Fund for Peace','1363: Merchandise imports from low- and middle-income economies outside region  (\% of total merchandise imports) - WDI',0.18548,0.177993,0.0319,0.18548,6.129283,0.086525,cluster2
+541,'2707N: Failed States Index Total - Fund for Peace','1390: Merchandise exports to low- and middle-income economies outside region  (\% of total merchandise exports) - WDI',0.18534,0.183034,0.02534,0.18237,6.129283,0.048025,cluster2
+542,'2707N: Failed States Index Total - Fund for Peace','0769: Adjusted savings: mineral depletion  (\% of GNI) - WDI',0.18447,0.163551,0.02964,0.18209,6.247928,0.144634,cluster0
+543,'2707N: Failed States Index Total - Fund for Peace','1320: International tourism; receipts  (\% of total exports) - WDI',0.18439,0.180416,0.02662,0.18176,6.169925,0.063043,cluster0
+544,'2707N: Failed States Index Total - Fund for Peace','0061: Communications; computer; etc.  (\% of service exports; BoP) - WDI',0.18359,0.183583,0.04698,0.18359,6.129283,0.002736,cluster2
+545,'2707N: Failed States Index Total - Fund for Peace','0710: Gross fixed capital formation  (\% of GDP) - WDI',0.18337,0.182098,0.03199,0.18073,6.169925,-0.03567,cluster2
+546,'2707N: Failed States Index Total - Fund for Peace','0047: Net financial account  (BoP; current US$) - WDI',0.1832,0.181012,0.07841,0.18019,6.169925,0.046777,cluster2
+547,'2707N: Failed States Index Total - Fund for Peace','0419: CO2 emissions from residential buildings and commercial and public services  (\% of total fuel combustion) - WDI',0.18314,0.171958,0.03197,0.17993,6.044394,-0.105747,cluster0
+548,'2707N: Failed States Index Total - Fund for Peace','0850: Terms of trade adjustment  (constant LCU) - WDI',0.18285,0.178876,0.06486,0.17952,6.129283,0.063041,cluster2
+549,'2707N: Failed States Index Total - Fund for Peace','1358: Manufactures imports  (\% of merchandise imports) - WDI',0.18152,0.115513,0.0323,0.17864,6.087463,-0.256919,cluster0
+550,'2707N: Failed States Index Total - Fund for Peace','0678: Household final consumption expenditure per capita growth  (annual \%) - WDI',0.18059,0.168916,0.03499,0.17778,6.044394,0.108047,cluster0
+551,'2707N: Failed States Index Total - Fund for Peace','1353: Agricultural raw materials imports  (\% of merchandise imports) - WDI',0.18044,0.174843,0.03651,0.17794,6.087463,0.074813,cluster0
+552,'2707N: Failed States Index Total - Fund for Peace','1257: Unemployment; male (\% of male labor force)  (modeled ILO estimate) - WDI',0.18025,0.180244,0.06067,0.18025,6.209454,-0.002503,cluster2
+553,'2707N: Failed States Index Total - Fund for Peace','1380: Agricultural raw materials exports  (\% of merchandise exports) - WDI',0.18014,0.137471,0.02628,0.17735,6.087463,0.206564,cluster0
+554,'2707N: Failed States Index Total - Fund for Peace','0815: Oil rents  (\% of GDP) - WDI',0.17968,0.152012,0.07832,0.17968,6.169925,0.166337,cluster2
+555,'2707N: Failed States Index Total - Fund for Peace','0657: Military expenditure  (\% of GDP) - WDI',0.1796,0.16282,0.02947,0.17718,6.129283,0.129538,cluster0
+556,'2707N: Failed States Index Total - Fund for Peace','0540: Business extent of disclosure index  (0=less disclosure to 10=more disclosure) - WDI',0.17926,0.124705,0.07207,0.17926,6.169925,-0.233571,cluster2
+557,'2707N: Failed States Index Total - Fund for Peace','1386: Ores and metals exports  (\% of merchandise exports) - WDI',0.17891,0.16328,0.0541,0.17251,6.044394,0.125019,cluster2
+558,'2707N: Failed States Index Total - Fund for Peace','1387: Merchandise exports to economies in the Arab World  (\% of total merchandise exports) - WDI',0.17882,0.140864,0.06087,0.17616,6.209454,0.194822,cluster2
+559,'2707N: Failed States Index Total - Fund for Peace','0479: Money and quasi money growth  (annual \%) - WDI',0.17843,0.101631,0.00889,0.17843,6.087463,0.277126,cluster0
+560,'2707N: Failed States Index Total - Fund for Peace','0772: Adjusted savings: particulate emission damage  (current US$) - WDI',0.17814,0.164115,0.02032,0.17814,6.209454,-0.118426,cluster0
+561,'2707N: Failed States Index Total - Fund for Peace','1327: Merchandise trade  (\% of GDP) - WDI',0.17809,0.127702,0.04,0.17606,6.247928,-0.224474,cluster0
+562,'2707N: Failed States Index Total - Fund for Peace','0076: Personal transfers; receipts  (BoP; current US$) - WDI',0.178,0.167167,0.03098,0.178,5.954197,0.104083,cluster0
+563,'2707N: Failed States Index Total - Fund for Peace','0474: Broad money growth  (annual \%) - WDI',0.17749,0.098742,0.00782,0.17749,6.087463,0.280621,cluster0
+564,'2707N: Failed States Index Total - Fund for Peace','1378: Net barter terms of trade index  (2000 = 100) - WDI',0.17733,0.14522,0.02029,0.17733,6.247928,0.179194,cluster0
+565,'2707N: Failed States Index Total - Fund for Peace','0046: Current account balance  (\% of GDP) - WDI',0.17724,0.175262,0.03901,0.17454,6.169925,-0.044473,cluster0
+566,'2707N: Failed States Index Total - Fund for Peace','0799: Mineral rents  (\% of GDP) - WDI',0.17721,0.159737,0.02421,0.17489,6.247928,0.132186,cluster0
+567,'2707N: Failed States Index Total - Fund for Peace','0891: Primary school starting age  (years) - WDI',0.17721,0.166511,0.1422,0.17721,6.247928,0.103434,cluster2
+568,'2707N: Failed States Index Total - Fund for Peace','0712: Changes in inventories  (current LCU) - WDI',0.17706,0.17217,0.03874,0.17415,6.129283,0.069931,cluster0
+569,'2707N: Failed States Index Total - Fund for Peace','1355: Fuel imports  (\% of merchandise imports) - WDI',0.17702,0.173904,0.0193,0.17413,6.087463,0.055822,cluster0
+570,'2707N: Failed States Index Total - Fund for Peace','0051: Net errors and omissions  (BoP; current US$) - WDI',0.17638,0.175703,0.08714,0.17638,6.044394,0.026023,cluster2
+571,'2707N: Failed States Index Total - Fund for Peace','0777: Adjusted savings: net national savings  (\% of GNI) - WDI',0.17638,0.163249,0.02637,0.17353,6.087463,0.114592,cluster0
+572,'2707N: Failed States Index Total - Fund for Peace','0481: Consumer price index  (2010 = 100) - WDI',0.17478,0.17478,0.06782,0.17478,6.169925,-0.000305,cluster2
+573,'2707N: Failed States Index Total - Fund for Peace','0780: Adjusted net national income  (annual \% growth) - WDI',0.17425,0.159419,0.02485,0.17425,6.044394,0.121784,cluster0
+574,'2707N: Failed States Index Total - Fund for Peace','0464: Total reserves in months of imports - WDI',0.17376,0.142855,0.03286,0.17326,6.169925,0.175798,cluster0
+575,'2707N: Failed States Index Total - Fund for Peace','0058: Technical cooperation grants  (BoP; current US$) - WDI',0.17345,0.141144,0.01935,0.17009,6,0.179739,cluster0
+576,'2707N: Failed States Index Total - Fund for Peace','0093: Net bilateral aid flows from DAC donors; Germany  (current US$) - WDI',0.17311,0.145031,0.02983,0.17311,5.954197,0.167567,cluster0
+577,'2707N: Failed States Index Total - Fund for Peace','0811: GDP per capita growth  (annual \%) - WDI',0.17265,0.158346,0.03877,0.1707,6.247928,0.119598,cluster0
+578,'2707N: Failed States Index Total - Fund for Peace','0725: Imports of goods and services  (\% of GDP) - WDI',0.17097,0.160008,0.0194,0.1686,6.209454,-0.104699,cluster0
+579,'2707N: Failed States Index Total - Fund for Peace','0771: Adjusted savings: energy depletion  (\% of GNI) - WDI',0.17049,0.149925,0.03681,0.17049,6.209454,0.143406,cluster0
+580,'2707N: Failed States Index Total - Fund for Peace','0377: Energy use (kg of oil equivalent) per $1;000 GDP  (constant 2011 PPP) - WDI',0.17047,0.114207,0.03576,0.16752,6.044394,0.237199,cluster0
+581,'2707N: Failed States Index Total - Fund for Peace','0370: GDP per unit of energy use  (constant 2011 PPP $ per kg of oil equivalent) - WDI',0.16911,0.167864,0.03342,0.1661,6.044394,-0.035295,cluster0
+582,'2707N: Failed States Index Total - Fund for Peace','0734: Agriculture; value added  (annual \% growth) - WDI',0.16893,0.161399,0.04276,0.16622,6.169925,0.086784,cluster0
+583,'2707N: Failed States Index Total - Fund for Peace','0421: CO2 emissions from manufacturing industries and construction  (\% of total fuel combustion) - WDI',0.16824,0.162992,0.02793,0.16543,6.044394,0.072444,cluster0
+584,'2707N: Failed States Index Total - Fund for Peace','0077: Personal remittances; received  (current US$) - WDI',0.16817,0.168049,0.02245,0.16817,6.129283,-0.010998,cluster0
+585,'2707N: Failed States Index Total - Fund for Peace','0746: Industry; value added  (annual \% growth) - WDI',0.16806,0.134819,0.02053,0.16525,6.169925,0.182322,cluster0
+586,'2707N: Failed States Index Total - Fund for Peace','0097: Net bilateral aid flows from DAC donors; France  (current US$) - WDI',0.16782,0.157006,0.01994,0.16782,5.954197,0.103992,cluster0
+587,'2707N: Failed States Index Total - Fund for Peace','0775: Adjusted savings: gross savings  (\% of GNI) - WDI',0.16759,0.150967,0.02957,0.16479,6.087463,-0.12893,cluster0
+588,'2707N: Failed States Index Total - Fund for Peace','0839: Gross savings  (\% of GNI) - WDI',0.16759,0.150967,0.02957,0.16479,6.087463,-0.12893,cluster0
+589,'2707N: Failed States Index Total - Fund for Peace','1366: Merchandise imports from low- and middle-income economies in Latin America & the Caribbean  (\% of total merchandise imports) - WDI',0.16645,0.164956,0.01499,0.16327,6.129283,0.038647,cluster0
+590,'2707N: Failed States Index Total - Fund for Peace','0713: Changes in inventories  (constant LCU) - WDI',0.16573,0.165571,0.02223,0.16573,6,-0.012623,cluster0
+591,'2707N: Failed States Index Total - Fund for Peace','0635: Mobile cellular subscriptions - WDI',0.16557,0.165227,0.04016,0.16557,6.247928,-0.018531,cluster0
+592,'2707N: Failed States Index Total - Fund for Peace','1326: International tourism; expenditures  (\% of total imports) - WDI',0.16537,0.161458,0.01947,0.16249,6.169925,-0.06255,cluster0
+593,'2707N: Failed States Index Total - Fund for Peace','0938: Lower secondary school starting age  (years) - WDI',0.16521,0.164661,0.09615,0.14889,6.228819,0.023427,cluster2
+594,'2707N: Failed States Index Total - Fund for Peace','1259: Unemployment; total (\% of total labor force)  (modeled ILO estimate) - WDI',0.16422,0.163001,0.02268,0.16422,6.209454,0.034921,cluster0
+595,'2707N: Failed States Index Total - Fund for Peace','0323: Net ODA received per capita  (current US$) - WDI',0.16401,0.16271,0.0247,0.16115,6,-0.036059,cluster0
+596,'2707N: Failed States Index Total - Fund for Peace','0369: GDP per unit of energy use  (PPP $ per kg of oil equivalent) - WDI',0.1628,0.161558,0.02515,0.15984,6.044394,-0.035244,cluster0
+597,'2707N: Failed States Index Total - Fund for Peace','0768: Adjusted savings: mineral depletion  (current US$) - WDI',0.16213,0.159492,0.04681,0.16213,6.247928,-0.051359,cluster0
+598,'2707N: Failed States Index Total - Fund for Peace','0840: Gross savings  (\% of GDP) - WDI',0.16203,0.161933,0.01869,0.15939,6.087463,-0.009864,cluster0
+599,'2707N: Failed States Index Total - Fund for Peace','0025: Crop production index  (2004-2006 = 100) - WDI',0.16182,0.122099,0.00854,0.16182,6.247928,0.1993,cluster0
+600,'2707N: Failed States Index Total - Fund for Peace','0034: Insurance and financial services  (\% of service imports; BoP) - WDI',0.16136,0.126096,0.01768,0.16136,6.129283,-0.187787,cluster0
+601,'2707N: Failed States Index Total - Fund for Peace','0487: Real interest rate  (\%) - WDI',0.16066,0.138519,0.02598,0.15766,5.954197,0.1488,cluster0
+602,'2707N: Failed States Index Total - Fund for Peace','0719: Gross capital formation  (\% of GDP) - WDI',0.15994,0.159754,0.01348,0.15994,6.169925,-0.013657,cluster0
+603,'2707N: Failed States Index Total - Fund for Peace','0069: Transport services  (\% of service exports; BoP) - WDI',0.15943,0.15297,0.02767,0.15943,6.129283,-0.080376,cluster0
+604,'2707N: Failed States Index Total - Fund for Peace','0623: Periodicity and timeliness assessment of statistical capacity  (scale 0 - 100) - WDI',0.15831,0.122315,0.09186,0.15831,6,-0.189724,cluster2
+605,'2707N: Failed States Index Total - Fund for Peace','0708: Gross fixed capital formation  (annual \% growth) - WDI',0.15796,0.130673,0.02112,0.155,6.087463,0.165188,cluster0
+606,'2707N: Failed States Index Total - Fund for Peace','1405: Transport services  (\% of commercial service exports) - WDI',0.15539,0.155362,0.02727,0.15539,6.129283,0.00526,cluster0
+607,'2707N: Failed States Index Total - Fund for Peace','0717: Gross capital formation  (annual \% growth) - WDI',0.15482,0.129689,0.02929,0.15151,6.087463,0.158526,cluster0
+608,'2707N: Failed States Index Total - Fund for Peace','1357: Insurance and financial services  (\% of commercial service imports) - WDI',0.15435,0.124696,0.01355,0.15435,6.129283,-0.172202,cluster0
+609,'2707N: Failed States Index Total - Fund for Peace','0833: GNI per capita growth  (annual \%) - WDI',0.15338,0.139103,0.02531,0.15113,6.087463,0.119485,cluster0
+610,'2707N: Failed States Index Total - Fund for Peace','0466: Claims on central government  (annual growth as \% of broad money) - WDI',0.15332,0.153043,0.03258,0.1505,6.087463,0.016645,cluster0
+611,'2707N: Failed States Index Total - Fund for Peace','0054: Reserves and related items  (BoP; current US$) - WDI',0.15293,0.152921,0.02616,0.14996,6.169925,-0.002967,cluster0
+612,'2707N: Failed States Index Total - Fund for Peace','1208: Labor force participation rate; male (\% of male population ages 15-64)  (modeled ILO estimate) - WDI',0.15283,0.151156,0.01886,0.15109,6.247928,-0.040909,cluster0
+613,'2707N: Failed States Index Total - Fund for Peace','0807: Natural gas rents  (\% of GDP) - WDI',0.15056,0.148406,0.03423,0.15056,6.169925,0.046415,cluster0
+614,'2707N: Failed States Index Total - Fund for Peace','0072: Foreign direct investment; net inflows  (\% of GDP) - WDI',0.14782,0.131991,0.03269,0.14585,6.247928,-0.125815,cluster0
+615,'2707N: Failed States Index Total - Fund for Peace','0895: Primary education; duration  (years) - WDI',0.14679,0.145026,0.10415,0.14679,6.247928,-0.042004,cluster2
+616,'2707N: Failed States Index Total - Fund for Peace','1771: Primary energy supply - TOT (TOE_1000USD) - OECD',0.1467,0.10404,0.03256,0.1467,6,0.206542,cluster0
+617,'2707N: Failed States Index Total - Fund for Peace','0489: Claims on central government; etc.  (\% GDP) - WDI',0.14611,0.14591,0.03031,0.14611,6.169925,-0.014148,cluster0
+618,'2707N: Failed States Index Total - Fund for Peace','0883: Preprimary education; duration  (years) - WDI',0.14388,0.143858,0.10442,0.1318,6.228819,-0.004693,cluster2
+619,'2707N: Failed States Index Total - Fund for Peace','0700: Exports of goods and services  (annual \% growth) - WDI',0.14377,0.135238,0.03579,0.14377,6.087463,0.092368,cluster0
+620,'2707N: Failed States Index Total - Fund for Peace','0783: Adjusted net national income per capita  (annual \% growth) - WDI',0.14329,0.135244,0.01321,0.14329,6.044394,0.089701,cluster0
+621,'2707N: Failed States Index Total - Fund for Peace','1394: Merchandise exports to low- and middle-income economies in Middle East & North Africa  (\% of total merchandise exports) - WDI',0.1421,0.119813,0.02932,0.13939,6.209454,0.149288,cluster0
+622,'2707N: Failed States Index Total - Fund for Peace','0770: Adjusted savings: energy depletion  (current US$) - WDI',0.13762,0.135537,0.00549,0.13762,6.247928,-0.045644,cluster0
+623,'2707N: Failed States Index Total - Fund for Peace','0723: Imports of goods and services  (annual \% growth) - WDI',0.13647,0.125395,0.03265,0.13647,6.087463,0.105237,cluster0
+624,'2707N: Failed States Index Total - Fund for Peace','2774: Merchandise trade-Imports-Total merchandise (Unit value index - Prev. year = 100) - WTO',0.1356,0.130947,0.04555,0.13367,6.247928,0.068212,cluster0
+625,'2707N: Failed States Index Total - Fund for Peace','0740: Manufacturing; value added  (annual \% growth) - WDI',0.12853,0.112479,0.01075,0.12588,6.129283,0.126693,cluster0
+626,'2707N: Failed States Index Total - Fund for Peace','2773: Merchandise trade-Exports-Total merchandise (Volume index - Previous year = 100) - WTO',0.1276,0.126294,0.0214,0.1258,6.247928,0.036135,cluster0
+627,'2707N: Failed States Index Total - Fund for Peace','0942: Secondary education; duration  (years) - WDI',0.12683,0.122637,0.05316,0.12683,6.247928,-0.064753,cluster0
+628,'2707N: Failed States Index Total - Fund for Peace','2776: Merchandise trade-Imports-Total merchandise (Volume index - Previous year = 100) - WTO',0.12541,0.106848,0.01734,0.12319,6.247928,0.136243,cluster0
+629,'2707N: Failed States Index Total - Fund for Peace','1091: Tuberculosis treatment success rate  (\% of new cases) - WDI',0.12478,0.09582,0.0533,0.12478,6.209454,0.170177,cluster0
+630,'2707N: Failed States Index Total - Fund for Peace','0470: Claims on private sector  (annual growth as \% of broad money) - WDI',0.1215,0.121252,0.01204,0.1215,6.087463,0.015757,cluster0
+631,'2707N: Failed States Index Total - Fund for Peace','2771: Merchandise trade-Exports-Total merchandise (Unit value index - Prev. year = 100) - WTO',0.11786,0.109392,0.02747,0.11786,6.247928,0.092023,cluster0
+632,'2707N: Failed States Index Total - Fund for Peace','2775: Merchandise trade-Imports-Total merchandise (Value index - Previous year = 100) - WTO',0.11418,0.097096,0.01203,0.11418,6.247928,0.130706,cluster0
+633,'2707N: Failed States Index Total - Fund for Peace','0789: Coal rents  (\% of GDP) - WDI',0.11326,0.113216,0.01356,0.11129,6.247928,0.006602,cluster0
+634,'2707N: Failed States Index Total - Fund for Peace','2772: Merchandise trade-Exports-Total merchandise (Value index - Previous year = 100) - WTO',0.11233,0.109972,0.01862,0.11233,6.247928,0.04856,cluster0

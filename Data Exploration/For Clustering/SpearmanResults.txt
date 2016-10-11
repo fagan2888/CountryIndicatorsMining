@@ -1,0 +1,39 @@
+MINE-Indicator-2011-0808.csv - Spearman = 0.505078, pvalue = 0.000000
+MINE-Indicator-2011-0811.csv - Spearman = 0.160415, pvalue = 0.000000
+MINE-Indicator-2011-1954.csv - Spearman = 0.630357, pvalue = 0.000000
+MINE-Indicator-2011-2704.csv - Spearman = 0.458533, pvalue = 0.000000
+MINE-Indicator-2011-2707.csv - Spearman = 0.128644, pvalue = 0.000700
+MINE-Indicator-2011-2713.csv - Spearman = 0.150454, pvalue = 0.000072
+MINE-Indicator-2011-2716.csv - Spearman = 0.096712, pvalue = 0.010971
+MINE-Indicator-2011-2718.csv - Spearman = 0.067862, pvalue = 0.074634
+MINE-Indicator-2006TO2013-0808.csv - Spearman = 0.442241, pvalue = 0.000000
+MINE-Indicator-2006TO2013-0811.csv - Spearman = 0.198409, pvalue = 0.000000
+MINE-Indicator-2006TO2013-0835.csv - Spearman = 0.495246, pvalue = 0.000000
+MINE-Indicator-2006TO2013-2704.csv - Spearman = 0.428323, pvalue = 0.000000
+MINE-Indicator-2006TO2013-2707.csv - Spearman = 0.120866, pvalue = 0.002281
+MINE-Indicator-2006TO2013-2713.csv - Spearman = 0.047044, pvalue = 0.236498
+MINE-Indicator-2006TO2013-2716.csv - Spearman = 0.097559, pvalue = 0.013916
+MINE-Indicator-2006TO2013-2718.csv - Spearman = -0.005283, pvalue = 0.894305
+
+Spearman between MIC 2011 and 2006TO2013
+0808
+919
+0808 - Spearman = 0.862001, pvalue = 0.000000
+0811
+911
+0811 - Spearman = 0.359254, pvalue = 0.000000
+2704
+615
+2704 - Spearman = 0.785139, pvalue = 0.000000
+2707
+630
+2707 - Spearman = 0.859479, pvalue = 0.000000
+2713
+630
+2713 - Spearman = 0.740322, pvalue = 0.000000
+2716
+630
+2716 - Spearman = 0.748643, pvalue = 0.000000
+2718
+630
+2718 - Spearman = 0.841769, pvalue = 0.000000

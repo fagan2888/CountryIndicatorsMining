@@ -1,0 +1,916 @@
+@relation MINE-Indicator-2006TO2013-0835
+
+@attribute XVar string
+@attribute YVar string
+@attribute MIC numeric
+@attribute MIC-p2 numeric
+@attribute MAS numeric
+@attribute MEV numeric
+@attribute MCN numeric
+@attribute p numeric
+
+@data
+'0835N: GNI per capita; PPP  (current international $) - WDI','0836: GNI per capita; PPP  (constant 2011 international $) - WDI',0.99714,0.009086907,0.013559997,0.99714,5.857981,0.9940086
+'0835N: GNI per capita; PPP  (current international $) - WDI','0835: GNI per capita; PPP  (current international $) - WDI',0.99305,-5.130768E-4,0.019829988,0.99305,5.643856,0.99677634
+'0835N: GNI per capita; PPP  (current international $) - WDI','0813: GDP per capita; PPP  (current international $) - WDI',0.99219,0.01604426,0.015859962,0.99219,6.129283,0.98800087
+'0835N: GNI per capita; PPP  (current international $) - WDI','0814: GDP per capita; PPP  (constant 2011 international $) - WDI',0.98856,0.016374111,0.007849991,0.98856,6.426265,0.9859949
+'0835N: GNI per capita; PPP  (current international $) - WDI','0808: GDP per capita  (current US$) - WDI',0.91176,0.10945803,0.042540014,0.91176,6.426265,0.8957131
+'0835N: GNI per capita; PPP  (current international $) - WDI','1167: GDP per person employed  (constant 2011 PPP $) - WDI',0.90319,0.01749301,0.034229994,0.90186,6.357552,0.9411148
+'0835N: GNI per capita; PPP  (current international $) - WDI','0832: GNI per capita  (constant 2005 US$) - WDI',0.89384,0.12088889,0.041970015,0.89217,6.2094536,0.8791764
+'0835N: GNI per capita; PPP  (current international $) - WDI','0830: GNI per capita; Atlas method  (current US$) - WDI',0.88215,0.09422648,0.025319993,0.88215,6.426265,0.88765055
+'0835N: GNI per capita; PPP  (current international $) - WDI','0781: Adjusted net national income per capita  (current US$) - WDI',0.86284,0.094622314,0.04119003,0.86115,6.357552,0.8764803
+'0835N: GNI per capita; PPP  (current international $) - WDI','0782: Adjusted net national income per capita  (constant 2005 US$) - WDI',0.86194,0.07648116,0.040360034,0.85977,6.169925,0.88626117
+'0835N: GNI per capita; PPP  (current international $) - WDI','1099: Health expenditure per capita; PPP  (constant 2011 international $) - WDI',0.85304,0.2141906,0.027620018,0.85131,6.426265,0.7992805
+'0835N: GNI per capita; PPP  (current international $) - WDI','0810: GDP per capita  (constant 2005 US$) - WDI',0.84414,0.08281964,0.047550023,0.84414,6.426265,0.8725367
+'0835N: GNI per capita; PPP  (current international $) - WDI','0677: Household final consumption expenditure per capita  (constant 2005 US$) - WDI',0.81582,0.22889537,0.0711,0.81582,6.2094536,0.76611006
+'0835N: GNI per capita; PPP  (current international $) - WDI','1098: Health expenditure per capita  (current US$) - WDI',0.78896,0.26330286,0.02315998,0.78701,6.426265,0.72502214
+'0835N: GNI per capita; PPP  (current international $) - WDI','0736: Agriculture; value added  (% of GDP) - WDI',0.77949,0.4106605,0.09911001,0.77771,6.3923173,-0.60731333
+'0835N: GNI per capita; PPP  (current international $) - WDI','0379: Electric power consumption  (kWh per capita) - WDI',0.76655,0.25620955,0.05931002,0.76445,6.169925,0.71438116
+'0835N: GNI per capita; PPP  (current international $) - WDI','0380: Energy use  (kg of oil equivalent per capita) - WDI',0.72856,0.07399386,0.029569983,0.72856,6.2094536,0.8090526
+'0835N: GNI per capita; PPP  (current international $) - WDI','1433: Air and GHG emissions - CO2 (TONNE_CAP) - OECD',0.69906,0.0015788078,0.063960016,0.69906,5.9541965,0.8351534
+'0835N: GNI per capita; PPP  (current international $) - WDI','0454: Automated teller machines (ATMs)  (per 100;000 adults) - WDI',0.68263,0.2923128,0.06857997,0.68043,6.357552,0.6247537
+'0835N: GNI per capita; PPP  (current international $) - WDI','2714: Public Services - Fund for Peace',0.66688,0.061387897,0.086870015,0.66474,6.2094536,-0.77813375
+'0835N: GNI per capita; PPP  (current international $) - WDI','1058: Improved sanitation facilities  (% of population with access) - WDI',0.64844,0.26449093,0.06717998,0.64844,6.3923173,0.61963624
+'0835N: GNI per capita; PPP  (current international $) - WDI','0638: Fixed telephone subscriptions  (per 100 people) - WDI',0.64627,0.18884847,0.036960006,0.64459,6.426265,0.67632943
+'0835N: GNI per capita; PPP  (current international $) - WDI','1899: Percentage of Individuals using the Internet (%) - ITU',0.64604,0.10663295,0.076270044,0.64604,6.2479277,0.73444337
+'0835N: GNI per capita; PPP  (current international $) - WDI','1028: Mortality rate; under-5  (per 1;000 live births) - WDI',0.64426,0.33010852,0.057169974,0.64286,6.426265,-0.56049216
+'0835N: GNI per capita; PPP  (current international $) - WDI','1283: Mortality rate; infant  (per 1;000 live births) - WDI',0.64415,0.28843904,0.056010008,0.64262,6.426265,-0.5964151
+'0835N: GNI per capita; PPP  (current international $) - WDI','1295: Population ages 0-14  (% of total) - WDI',0.64285,0.21893394,0.05208999,0.64121,6.426265,-0.65108836
+'0835N: GNI per capita; PPP  (current international $) - WDI','1095: External resources for health  (% of total expenditure on health) - WDI',0.63983,0.48756832,0.045329988,0.63765,6.2479277,-0.39020723
+'0835N: GNI per capita; PPP  (current international $) - WDI','1901: Fixed-broadband subscriptions per 100 inhabitants - ITU',0.63867,0.19495958,0.0643,0.63867,6.2094536,0.66611594
+'0835N: GNI per capita; PPP  (current international $) - WDI','1898: Fixed-telephone subscriptions per 100 inhabitants - ITU',0.63732,0.22020128,0.037289977,0.63732,6.2479277,0.64584726
+'0835N: GNI per capita; PPP  (current international $) - WDI','0643: Internet users  (per 100 people) - WDI',0.63647,0.06939858,0.06173998,0.63481,6.426265,0.75304145
+'0835N: GNI per capita; PPP  (current international $) - WDI','1051: Lifetime risk of maternal death  (%) - WDI',0.6336,0.43295985,0.054120004,0.6336,6.3923173,-0.44792873
+'0835N: GNI per capita; PPP  (current international $) - WDI','0898: Pupil-teacher ratio; primary - WDI',0.63284,0.3176462,0.034880012,0.63284,6.169925,-0.5614212
+'0835N: GNI per capita; PPP  (current international $) - WDI','1300: Age dependency ratio; young  (% of working-age population) - WDI',0.63147,0.2353799,0.041230023,0.62954,6.426265,-0.6293569
+'0835N: GNI per capita; PPP  (current international $) - WDI','1289: Survival to age 65; female  (% of cohort) - WDI',0.62953,0.28871292,0.04539001,0.62787,6.426265,0.5837954
+'0835N: GNI per capita; PPP  (current international $) - WDI','2712: Poverty and Economic Decline - Fund for Peace',0.62585,0.07227832,0.058099985,0.62357,6.2094536,-0.744024
+'0835N: GNI per capita; PPP  (current international $) - WDI','0322: Net ODA received  (% of imports of goods; services and primary income) - WDI',0.62571,0.40181774,0.030110002,0.62339,6.129283,-0.47317258
+'0835N: GNI per capita; PPP  (current international $) - WDI','0640: Fixed broadband subscriptions  (per 100 people) - WDI',0.6243,0.14326873,0.05234003,0.6243,6.357552,0.6935642
+'0835N: GNI per capita; PPP  (current international $) - WDI','0353: Agriculture value added per worker  (constant 2005 US$) - WDI',0.62349,0.16450688,0.05026996,0.62349,6.321928,0.6774829
+'0835N: GNI per capita; PPP  (current international $) - WDI','1031: Mortality rate; neonatal  (per 1;000 live births) - WDI',0.62334,0.2239877,0.049699992,0.6215,6.426265,-0.6319433
+'0835N: GNI per capita; PPP  (current international $) - WDI','1035: Improved water source  (% of population with access) - WDI',0.62161,0.3285562,0.058420002,0.62161,6.3923173,0.5413444
+'0835N: GNI per capita; PPP  (current international $) - WDI','0773: Adjusted savings: particulate emission damage  (% of GNI) - WDI',0.61659,0.35652828,0.080550015,0.61485,6.357552,-0.5099625
+'0835N: GNI per capita; PPP  (current international $) - WDI','1050: Lifetime risk of maternal death  (1 in: rate varies by country) - WDI',0.61571,0.25832486,0.030260026,0.61571,6.3923173,0.597817
+'0835N: GNI per capita; PPP  (current international $) - WDI','1315: Urban population  (% of total) - WDI',0.61468,0.13990757,0.088530004,0.61468,6.426265,0.6890373
+'0835N: GNI per capita; PPP  (current international $) - WDI','1071: Maternal mortality ratio  (modeled estimate; per 100;000 live births) - WDI',0.61399,0.37006778,0.04991001,0.61399,6.3923173,-0.49388483
+'0835N: GNI per capita; PPP  (current international $) - WDI','1333: Tariff rate; most favored nation; simple mean; manufactured products  (%) - WDI',0.6107,0.37163207,0.08661002,0.60609,6.044394,-0.48894575
+'0835N: GNI per capita; PPP  (current international $) - WDI','1312: Rural population  (% of total population) - WDI',0.61059,0.13585329,0.08535999,0.61059,6.426265,-0.6890114
+'0835N: GNI per capita; PPP  (current international $) - WDI','1285: Life expectancy at birth; female  (years) - WDI',0.60798,0.23911527,0.035780013,0.60635,6.426265,0.60734236
+'0835N: GNI per capita; PPP  (current international $) - WDI','1276: Mortality rate; adult; female  (per 1;000 female adults) - WDI',0.6028,0.3443555,0.029820025,0.6028,6.357552,-0.5083744
+'0835N: GNI per capita; PPP  (current international $) - WDI','0979: School enrollment; tertiary; female  (% gross) - WDI',0.60244,0.32189158,0.05166,0.60244,5.523562,0.5296682
+'0835N: GNI per capita; PPP  (current international $) - WDI','2708: Demographic Pressures - Fund for Peace',0.60203,0.08556527,0.08366996,0.59952,6.2094536,-0.7186548
+'0835N: GNI per capita; PPP  (current international $) - WDI','0978: School enrollment; tertiary  (% gross) - WDI',0.59987,0.33325964,0.053680032,0.59691,6.129283,0.5163433
+'0835N: GNI per capita; PPP  (current international $) - WDI','1286: Life expectancy at birth; total  (years) - WDI',0.59837,0.1988512,0.038829982,0.59675,6.426265,0.632075
+'0835N: GNI per capita; PPP  (current international $) - WDI','1060: Improved sanitation facilities; urban  (% of urban population with access) - WDI',0.59749,0.26875028,0.05042997,0.59749,6.3923173,0.5733583
+'0835N: GNI per capita; PPP  (current international $) - WDI','1059: Improved sanitation facilities; rural  (% of rural population with access) - WDI',0.59278,0.18073934,0.051239967,0.59278,6.3923173,0.64190394
+'0835N: GNI per capita; PPP  (current international $) - WDI','1278: Birth rate; crude  (per 1;000 people) - WDI',0.58616,0.2444394,0.043879986,0.58445,6.426265,-0.58456874
+'0835N: GNI per capita; PPP  (current international $) - WDI','0642: Secure Internet servers  (per 1 million people) - WDI',0.5813,0.28221408,0.05618,0.57918,6.3923173,0.5468875
+'0835N: GNI per capita; PPP  (current international $) - WDI','0319: Net ODA received  (% of gross capital formation) - WDI',0.57823,0.44759303,0.046299994,0.57823,6.087463,-0.36143738
+'0835N: GNI per capita; PPP  (current international $) - WDI','1296: Population ages 15-64  (% of total) - WDI',0.57538,0.16714883,0.0282,0.57331,6.426265,0.6389297
+'0835N: GNI per capita; PPP  (current international $) - WDI','0320: Net ODA received  (% of GNI) - WDI',0.5751,0.43325043,0.030589968,0.5726,6.2094536,-0.3766292
+'0835N: GNI per capita; PPP  (current international $) - WDI','1298: Age dependency ratio  (% of working-age population) - WDI',0.57409,0.20896667,0.031920016,0.572,6.426265,-0.60425436
+'0835N: GNI per capita; PPP  (current international $) - WDI','0952: School enrollment; secondary  (% gross) - WDI',0.57197,0.21592861,0.05324,0.57197,5.5849624,0.596692
+'0835N: GNI per capita; PPP  (current international $) - WDI','0954: School enrollment; secondary; male  (% gross) - WDI',0.56502,0.19847772,0.032079995,0.56502,6.087463,0.6054274
+'0835N: GNI per capita; PPP  (current international $) - WDI','2792: Balance of Payments-Exports-Financial services (US dollar at current prices) - WTO',0.56432,0.40541017,0.06896001,0.56432,5.9541965,0.39863497
+'0835N: GNI per capita; PPP  (current international $) - WDI','0177: Concessional debt  (% of total external debt) - WDI',0.56431,0.05283922,0.05212003,0.56431,5.9541965,-0.7151719
+'0835N: GNI per capita; PPP  (current international $) - WDI','2707: Failed States Index Total - Fund for Peace',0.56366,0.04554981,0.043799996,0.56161,6.2094536,-0.71979874
+'0835N: GNI per capita; PPP  (current international $) - WDI','0953: School enrollment; secondary; female  (% gross) - WDI',0.5634,0.22095788,0.053550035,0.5634,5.2479277,0.5851855
+'0835N: GNI per capita; PPP  (current international $) - WDI','0980: School enrollment; tertiary; male  (% gross) - WDI',0.56258,0.32424566,0.102129966,0.56258,6.087463,0.48819497
+'0835N: GNI per capita; PPP  (current international $) - WDI','0337: PPG; IBRD  (TDS; current US$) - WDI',0.56024,0.5450534,0.062620014,0.55657,5.9541965,0.123233736
+'0835N: GNI per capita; PPP  (current international $) - WDI','1287: Life expectancy at birth; male  (years) - WDI',0.55777,0.13475981,0.039159983,0.55608,6.426265,0.65039235
+'0835N: GNI per capita; PPP  (current international $) - WDI','1332: Tariff rate; applied; simple mean; manufactured products  (%) - WDI',0.55749,0.2958767,0.042699993,0.55429,6.044394,-0.51148146
+'0835N: GNI per capita; PPP  (current international $) - WDI','2719: Human Flight - Fund for Peace',0.55367,0.036715448,0.070659995,0.55367,6.129283,-0.7189955
+'0835N: GNI per capita; PPP  (current international $) - WDI','1288: Fertility rate; total  (births per woman) - WDI',0.55328,0.27018148,0.040749997,0.55149,6.426265,-0.53207004
+'0835N: GNI per capita; PPP  (current international $) - WDI','1297: Population ages 65 and above  (% of total) - WDI',0.55313,0.32347935,0.048419982,0.55129,6.426265,0.47921875
+'0835N: GNI per capita; PPP  (current international $) - WDI','1299: Age dependency ratio; old  (% of working-age population) - WDI',0.54668,0.34193802,0.05675,0.54468,6.426265,0.4524842
+'0835N: GNI per capita; PPP  (current international $) - WDI','0948: Pupil-teacher ratio; secondary - WDI',0.54558,0.3109496,0.034280002,0.5421,6.0,-0.48438665
+'0835N: GNI per capita; PPP  (current international $) - WDI','0303: PPG; IBRD  (NTR; current US$) - WDI',0.54506,0.53672236,0.30942,0.54201,5.9541965,0.09131054
+'0835N: GNI per capita; PPP  (current international $) - WDI','1290: Survival to age 65; male  (% of cohort) - WDI',0.54394,0.13087624,0.077689976,0.54394,5.087463,0.6427004
+'0835N: GNI per capita; PPP  (current international $) - WDI','0165: PPG; IBRD  (DIS; current US$) - WDI',0.54103,0.5194193,0.07677004,0.53831,5.9541965,0.14700566
+'0835N: GNI per capita; PPP  (current international $) - WDI','1336: Tariff rate; most favored nation; weighted mean; manufactured products  (%) - WDI',0.54075,0.33829632,0.06598002,0.53795,6.044394,-0.44994855
+'0835N: GNI per capita; PPP  (current international $) - WDI','0940: Lower secondary completion rate; male  (% of relevant age group) - WDI',0.53676,0.2660527,0.07140997,0.53392,6.044394,0.5202954
+'0835N: GNI per capita; PPP  (current international $) - WDI','1340: Tariff rate; applied; simple mean; all products  (%) - WDI',0.53573,0.2627392,0.04594001,0.53235,6.044394,-0.5224852
+'0835N: GNI per capita; PPP  (current international $) - WDI','0235: PPG; IBRD  (INT; current US$) - WDI',0.53554,0.52385104,0.07170999,0.53288,5.9541965,0.108115405
+'0835N: GNI per capita; PPP  (current international $) - WDI','1075: People practicing open defecation  (% of population) - WDI',0.53505,0.3133806,0.0641,0.53505,6.357552,-0.47081777
+'0835N: GNI per capita; PPP  (current international $) - WDI','0798: Forest rents  (% of GDP) - WDI',0.53222,0.4142058,0.06360999,0.53222,6.044394,-0.343532
+'0835N: GNI per capita; PPP  (current international $) - WDI','1344: Tariff rate; most favored nation; weighted mean; all products  (%) - WDI',0.52829,0.32153893,0.042850018,0.52529,6.044394,-0.45469883
+'0835N: GNI per capita; PPP  (current international $) - WDI','0636: Mobile cellular subscriptions  (per 100 people) - WDI',0.52815,0.17712685,0.07975003,0.52567,6.426265,0.5924721
+'0835N: GNI per capita; PPP  (current international $) - WDI','1341: Tariff rate; most favored nation; simple mean; all products  (%) - WDI',0.52723,0.2885877,0.08148,0.52306,6.044394,-0.4885103
+'0835N: GNI per capita; PPP  (current international $) - WDI','1339: Share of tariff lines with international peaks; all products  (%) - WDI',0.52451,0.28723645,0.101500005,0.52182,6.044394,-0.48710737
+'0835N: GNI per capita; PPP  (current international $) - WDI','2704: Corruption perceptions index - Transparency',0.52425,0.020721972,0.06720996,0.52184,6.2094536,0.70959705
+'0835N: GNI per capita; PPP  (current international $) - WDI','1335: Tariff rate; applied; weighted mean; manufactured products  (%) - WDI',0.52391,0.369146,0.04321,0.5213,6.044394,-0.39340058
+'0835N: GNI per capita; PPP  (current international $) - WDI','0939: Lower secondary completion rate; female  (% of relevant age group) - WDI',0.52387,0.2632479,0.06136,0.52081,6.044394,0.5105116
+'0835N: GNI per capita; PPP  (current international $) - WDI','0553: Time to export  (days) - WDI',0.52175,0.29870507,0.07815999,0.52175,6.3923173,-0.4722763
+'0835N: GNI per capita; PPP  (current international $) - WDI','0193: PPG; IBRD  (DOD; current US$) - WDI',0.52149,0.5004769,0.056870013,0.51875,5.9541965,0.14495882
+'0835N: GNI per capita; PPP  (current international $) - WDI','0928: Primary education; teachers  (% female) - WDI',0.52146,0.28036594,0.058799982,0.52146,6.0,0.4910133
+'0835N: GNI per capita; PPP  (current international $) - WDI','0571: Time to import  (days) - WDI',0.52111,0.28634995,0.08449,0.52111,6.3923173,-0.48452044
+'0835N: GNI per capita; PPP  (current international $) - WDI','2706: Failed States Index Rank - Fund for Peace',0.51963,0.052835196,0.024769992,0.51963,6.044394,0.68322384
+'0835N: GNI per capita; PPP  (current international $) - WDI','1895: Mobile-cellular telephone subscriptions - ITU',0.51628,0.18036357,0.067770004,0.51628,6.2479277,0.579583
+'0835N: GNI per capita; PPP  (current international $) - WDI','1896: Mobile-cellular telephone subscriptions per 100 inhabitants - ITU',0.51628,0.18036357,0.067770004,0.51628,6.2479277,0.579583
+'0835N: GNI per capita; PPP  (current international $) - WDI','1331: Share of tariff lines with international peaks; manufactured products  (%) - WDI',0.51535,0.29029676,0.06676,0.51232,6.044394,-0.47439775
+'0835N: GNI per capita; PPP  (current international $) - WDI','2816: Balance of Payments-Imports-Financial services (US dollar at current prices) - WTO',0.51294,0.30625337,0.054019988,0.51294,6.0,0.45462802
+'0835N: GNI per capita; PPP  (current international $) - WDI','0882: School enrollment; tertiary (gross); gender parity index  (GPI) - WDI',0.50864,0.19383433,0.02974999,0.50864,5.5849624,0.56107545
+'0835N: GNI per capita; PPP  (current international $) - WDI','0123: PPG; IBRD  (AMT; current US$) - WDI',0.50764,0.491983,0.051019996,0.50455,5.9541965,0.12512797
+'0835N: GNI per capita; PPP  (current international $) - WDI','0577: Cost of business start-up procedures  (% of GNI per capita) - WDI',0.50397,0.39210373,0.07335001,0.50397,6.357552,-0.3344642
+'0835N: GNI per capita; PPP  (current international $) - WDI','0378: Combustible renewables and waste  (% of total energy) - WDI',0.50197,0.2639029,0.06636,0.50197,6.169925,-0.4879212
+'0835N: GNI per capita; PPP  (current international $) - WDI','0941: Lower secondary completion rate; total  (% of relevant age group) - WDI',0.50141,0.23695502,0.08822,0.50141,5.643856,0.5142519
+'0835N: GNI per capita; PPP  (current international $) - WDI','2817: Balance of Payments-Imports-Charges for the use of intellectual property n.i.e. (US dollar at current prices) - WTO',0.49913,0.3281891,0.09808999,0.4964,6.0,0.41345
+'0835N: GNI per capita; PPP  (current international $) - WDI','1033: Improved water source; rural  (% of rural population with access) - WDI',0.49847,0.1834284,0.048179984,0.49847,6.3923173,0.5612857
+'0835N: GNI per capita; PPP  (current international $) - WDI','0055: Net secondary income  (BoP; current US$) - WDI',0.49725,0.3762977,0.07854,0.49725,6.2094536,-0.34778193
+'0835N: GNI per capita; PPP  (current international $) - WDI','0892: Primary completion rate; female  (% of relevant age group) - WDI',0.49346,0.31857407,0.074090004,0.49346,6.0,0.41819367
+'0835N: GNI per capita; PPP  (current international $) - WDI','1349: Tariff rate; most favored nation; simple mean; primary products  (%) - WDI',0.49277,0.38655537,0.23562998,0.48806,6.044394,-0.32590586
+'0835N: GNI per capita; PPP  (current international $) - WDI','0456: Commercial bank branches  (per 100;000 adults) - WDI',0.49135,0.31526715,0.035740018,0.48934,6.3923173,0.41962227
+'0835N: GNI per capita; PPP  (current international $) - WDI','2788: Balance of Payments-Exports-Travel (US dollar at current prices) - WTO',0.48996,0.3550405,0.059700012,0.48996,6.169925,0.36731392
+'0835N: GNI per capita; PPP  (current international $) - WDI','2718: External Intervention - Fund for Peace',0.48977,0.07282138,0.06569001,0.48714,6.2094536,-0.6457156
+'0835N: GNI per capita; PPP  (current international $) - WDI','1343: Tariff rate; applied; weighted mean; all products  (%) - WDI',0.48786,0.33596796,0.031780005,0.48457,6.044394,-0.3897333
+'0835N: GNI per capita; PPP  (current international $) - WDI','2785: Balance of Payments-Exports-Commercial services (US dollar at current prices) - WTO',0.48675,0.33687207,0.03375998,0.48449,6.2479277,0.38714072
+'0835N: GNI per capita; PPP  (current international $) - WDI','1277: Mortality rate; adult; male  (per 1;000 male adults) - WDI',0.48422,0.16339168,0.059769988,0.48422,6.357552,-0.5664171
+'0835N: GNI per capita; PPP  (current international $) - WDI','1348: Tariff rate; applied; simple mean; primary products  (%) - WDI',0.48368,0.24925068,0.07075998,0.48053,6.044394,-0.48417902
+'0835N: GNI per capita; PPP  (current international $) - WDI','1034: Improved water source; urban  (% of urban population with access) - WDI',0.48216,0.29597327,0.024350017,0.48216,6.3923173,0.4314936
+'0835N: GNI per capita; PPP  (current international $) - WDI','2797: Balance of Payments-Exports-Services (US dollar at current prices) - WTO',0.47935,0.32968515,0.039959997,0.47708,6.2479277,0.3868654
+'0835N: GNI per capita; PPP  (current international $) - WDI','2803: Balance of Payments-Imports-Travel (US dollar at current prices) - WTO',0.4765,0.3419104,0.05596,0.4765,6.169925,0.36686456
+'0835N: GNI per capita; PPP  (current international $) - WDI','0269: Net financial flows; IBRD  (NFL; current US$) - WDI',0.47526,0.4662275,0.23932001,0.47218,6.087463,0.09503945
+'0835N: GNI per capita; PPP  (current international $) - WDI','0848: Net current transfers from abroad  (current LCU) - WDI',0.47432,0.47422576,0.07477,0.47274,6.169925,0.00970706
+'0835N: GNI per capita; PPP  (current international $) - WDI','0894: Primary completion rate; total  (% of relevant age group) - WDI',0.4719,0.2985437,0.04789999,0.4719,5.0,0.4163608
+'0835N: GNI per capita; PPP  (current international $) - WDI','0886: School enrollment; preprimary; female  (% gross) - WDI',0.46915,0.21481061,0.055219978,0.46655,6.169925,0.50432074
+'0835N: GNI per capita; PPP  (current international $) - WDI','0289: Net official flows from UN agencies; UNDP  (current US$) - WDI',0.46913,0.4605592,0.10751,0.46913,6.129283,-0.092578724
+'0835N: GNI per capita; PPP  (current international $) - WDI','1352: Tariff rate; most favored nation; weighted mean; primary products  (%) - WDI',0.46815,0.3191126,0.052439988,0.46473,6.044394,-0.38605362
+'0835N: GNI per capita; PPP  (current international $) - WDI','0020: Land area  (sq. km) - WDI',0.4666,0.4665998,0.30425,0.4666,6.426265,4.6873037E-4
+'0835N: GNI per capita; PPP  (current international $) - WDI','0152: Currency composition of PPG debt; SDR  (%) - WDI',0.46622,0.21807815,0.10399999,0.46622,5.9541965,-0.49813837
+'0835N: GNI per capita; PPP  (current international $) - WDI','1093: Incidence of tuberculosis  (per 100;000 people) - WDI',0.4661,0.33527133,0.027829975,0.46429,6.3923173,-0.36170247
+'0835N: GNI per capita; PPP  (current international $) - WDI','0887: School enrollment; preprimary; male  (% gross) - WDI',0.46423,0.20717353,0.058420002,0.46147,6.169925,0.50700736
+'0835N: GNI per capita; PPP  (current international $) - WDI','0053: Portfolio Investment; net  (BoP; current US$) - WDI',0.46372,0.44922847,0.29824,0.46372,6.129283,-0.12038082
+'0835N: GNI per capita; PPP  (current international $) - WDI','0028: Surface area  (sq. km) - WDI',0.46311,0.4630994,0.30475,0.46311,6.426265,0.0032591901
+'0835N: GNI per capita; PPP  (current international $) - WDI','0893: Primary completion rate; male  (% of relevant age group) - WDI',0.46306,0.29381403,0.039570004,0.46306,5.9068904,0.41139513
+'0835N: GNI per capita; PPP  (current international $) - WDI','1073: People practicing open defecation; rural  (% of rural population) - WDI',0.46202,0.21106356,0.023039997,0.46022,6.357552,-0.5009555
+'0835N: GNI per capita; PPP  (current international $) - WDI','0847: Net current transfers from abroad  (current US$) - WDI',0.46102,0.3773595,0.06912997,0.46102,5.523562,-0.2892412
+'0835N: GNI per capita; PPP  (current international $) - WDI','0923: Repeaters; primary; total  (% of total enrollment) - WDI',0.45928,0.27569696,0.074530005,0.45928,6.169925,-0.42846593
+'0835N: GNI per capita; PPP  (current international $) - WDI','2739: Merchandise trade-Imports-Clothing (US dollar at current prices) - WTO',0.45883,0.35990053,0.029460013,0.45883,6.169925,0.31453055
+'0835N: GNI per capita; PPP  (current international $) - WDI','0245: PPG; private creditors  (INT; current US$) - WDI',0.45697,0.42989975,0.028349996,0.45697,5.9541965,0.16453044
+'0835N: GNI per capita; PPP  (current international $) - WDI','0921: Repeaters; primary; female  (% of female enrollment) - WDI',0.45548,0.26710048,0.04743001,0.45247,6.169925,-0.4340271
+'0835N: GNI per capita; PPP  (current international $) - WDI','0240: PPG; bonds  (INT; current US$) - WDI',0.45547,0.42766997,0.06667,0.45547,5.9541965,0.16673338
+'0835N: GNI per capita; PPP  (current international $) - WDI','2744: Merchandise trade-Exports-Machinery and transport equipment (US dollar at current prices) - WTO',0.45533,0.38583457,0.060580015,0.45533,6.129283,0.2636199
+'0835N: GNI per capita; PPP  (current international $) - WDI','0059: ICT service exports  (BoP; current US$) - WDI',0.45393,0.41721317,0.029680014,0.45136,6.2094536,0.19161633
+'0835N: GNI per capita; PPP  (current international $) - WDI','2787: Balance of Payments-Exports-Transport (US dollar at current prices) - WTO',0.45368,0.26841044,0.03435999,0.45368,6.169925,0.43042952
+'0835N: GNI per capita; PPP  (current international $) - WDI','0361: Electric power transmission and distribution losses  (% of output) - WDI',0.45323,0.29246187,0.049030006,0.45323,6.169925,-0.400959
+'0835N: GNI per capita; PPP  (current international $) - WDI','2742: Merchandise trade-Exports-Chemicals (US dollar at current prices) - WTO',0.45289,0.31581116,0.059349984,0.45042,6.169925,0.37024164
+'0835N: GNI per capita; PPP  (current international $) - WDI','0885: School enrollment; preprimary  (% gross) - WDI',0.45238,0.2057248,0.04290998,0.45238,6.169925,0.49664393
+'0835N: GNI per capita; PPP  (current international $) - WDI','1273: Adolescent fertility rate  (births per 1;000 women ages 15-19) - WDI',0.45182,0.13571998,0.056250006,0.45013,6.426265,-0.5622277
+'0835N: GNI per capita; PPP  (current international $) - WDI','0922: Repeaters; primary; male  (% of male enrollment) - WDI',0.45171,0.26937503,0.06429997,0.44867,6.169925,-0.42700696
+'0835N: GNI per capita; PPP  (current international $) - WDI','2711: Uneven Development - Fund for Peace',0.45043,0.0065995753,0.03064999,0.45043,6.087463,-0.666206
+'0835N: GNI per capita; PPP  (current international $) - WDI','2780: Merchandise trade-Exports-Total merchandise (US dollar at current prices) - WTO',0.44981,0.3282295,0.073899984,0.44735,6.2854023,0.34868398
+'0835N: GNI per capita; PPP  (current international $) - WDI','1074: People practicing open defecation; urban  (% of urban population) - WDI',0.44907,0.31815946,0.023589998,0.44907,6.357552,-0.3618156
+'0835N: GNI per capita; PPP  (current international $) - WDI','2743: Merchandise trade-Exports-Pharmaceuticals (US dollar at current prices) - WTO',0.44519,0.32548967,0.044840008,0.44254,6.129283,0.34597737
+'0835N: GNI per capita; PPP  (current international $) - WDI','0552: Documents to export  (number) - WDI',0.44412,0.12762597,0.07159999,0.44412,6.2094536,-0.562578
+'0835N: GNI per capita; PPP  (current international $) - WDI','2795: Balance of Payments-Exports-Other business services (US dollar at current prices) - WTO',0.44283,0.2872622,0.053009987,0.44283,6.087463,0.39442086
+'0835N: GNI per capita; PPP  (current international $) - WDI','0348: PPG; private creditors  (TDS; current US$) - WDI',0.44192,0.41920638,0.02451998,0.44192,5.9541965,0.15071037
+'0835N: GNI per capita; PPP  (current international $) - WDI','0844: Net taxes on products  (current US$) - WDI',0.44157,0.32454455,0.04558,0.44157,6.129283,0.34208983
+'0835N: GNI per capita; PPP  (current international $) - WDI','2716: Security Apparatus - Fund for Peace',0.43954,0.029821604,0.037670016,0.43954,6.087463,-0.6400925
+'0835N: GNI per capita; PPP  (current international $) - WDI','1900: Fixed-broadband subscriptions - ITU',0.43799,0.41990545,0.075970024,0.43799,6.2094536,0.13447879
+'0835N: GNI per capita; PPP  (current international $) - WDI','0881: School enrollment; secondary (gross); gender parity index  (GPI) - WDI',0.43697,0.37283295,0.087740004,0.43697,6.129283,0.25325295
+'0835N: GNI per capita; PPP  (current international $) - WDI','0837: Gross savings  (current US$) - WDI',0.43675,0.39428538,0.050069988,0.43412,6.129283,0.20606945
+'0835N: GNI per capita; PPP  (current international $) - WDI','0490: Claims on other sectors of the domestic economy  (% of GDP) - WDI',0.43507,0.14439777,0.039499998,0.43507,6.044394,0.5391403
+'0835N: GNI per capita; PPP  (current international $) - WDI','1347: Share of tariff lines with international peaks; primary products  (%) - WDI',0.43324,0.16624549,0.07347,0.42984,6.044394,-0.5167151
+'0835N: GNI per capita; PPP  (current international $) - WDI','0766: Adjusted savings: consumption of fixed capital  (current US$) - WDI',0.4321,0.37061062,0.03114,0.4321,6.2854023,0.24797049
+'0835N: GNI per capita; PPP  (current international $) - WDI','0765: Adjusted savings: net forest depletion  (% of GNI) - WDI',0.43201,0.34415913,0.049569994,0.43072,6.357552,-0.29639646
+'0835N: GNI per capita; PPP  (current international $) - WDI','0460: Domestic credit to private sector by banks  (% of GDP) - WDI',0.43089,0.42379367,0.05351001,0.43089,6.357552,0.08423959
+'0835N: GNI per capita; PPP  (current international $) - WDI','0062: Primary income receipts  (BoP; current US$) - WDI',0.43082,0.38621587,0.04218,0.43082,6.357552,0.21119687
+'0835N: GNI per capita; PPP  (current international $) - WDI','2789: Balance of Payments-Exports-Other commercial services (US dollar at current prices) - WTO',0.43027,0.31746414,0.017870009,0.43027,6.169925,0.3358658
+'0835N: GNI per capita; PPP  (current international $) - WDI','1351: Tariff rate; applied; weighted mean; primary products  (%) - WDI',0.42998,0.3257548,0.042470008,0.42647,6.044394,-0.32283932
+'0835N: GNI per capita; PPP  (current international $) - WDI','2748: Merchandise trade-Exports-Integrated circuits and electronic components (US dollar at current prices) - WTO',0.42992,0.35737827,0.058,0.42686,6.087463,0.2693357
+'0835N: GNI per capita; PPP  (current international $) - WDI','2798: Balance of Payments-Exports-Other services (US dollar at current prices) - WTO',0.42894,0.31747854,0.03215,0.42894,6.169925,0.33385846
+'0835N: GNI per capita; PPP  (current international $) - WDI','0946: Secondary education; general pupils  (% female) - WDI',0.42834,0.33723202,0.11186999,0.42834,5.9068904,0.30184096
+'0835N: GNI per capita; PPP  (current international $) - WDI','2745: Merchandise trade-Exports-Office and telecom equipment (US dollar at current prices) - WTO',0.42712,0.39590698,0.035979986,0.4236,6.129283,0.17667203
+'0835N: GNI per capita; PPP  (current international $) - WDI','0435: Population in urban agglomerations of more than 1 million  (% of total population) - WDI',0.42626,0.12613341,0.11614001,0.42324,6.0,0.5478381
+'0835N: GNI per capita; PPP  (current international $) - WDI','0485: Lending interest rate  (%) - WDI',0.42573,0.2286924,0.039270014,0.42258,6.0,-0.44388917
+'0835N: GNI per capita; PPP  (current international $) - WDI','1342: Share of tariff lines with specific rates; all products  (%) - WDI',0.42539,0.3113029,0.0528,0.42231,6.044394,0.3377678
+'0835N: GNI per capita; PPP  (current international $) - WDI','2804: Balance of Payments-Imports-Other commercial services (US dollar at current prices) - WTO',0.42403,0.27058738,0.015870005,0.42403,6.169925,0.39171755
+'0835N: GNI per capita; PPP  (current international $) - WDI','0696: Gross national expenditure  (% of GDP) - WDI',0.42371,0.12793574,0.06114,0.42371,6.2094536,-0.5438513
+'0835N: GNI per capita; PPP  (current international $) - WDI','2746: Merchandise trade-Exports-Electronic data processing and office equipment (US dollar at current prices) - WTO',0.42351,0.40760362,0.02440998,0.42014,6.129283,0.12612042
+'0835N: GNI per capita; PPP  (current international $) - WDI','2818: Balance of Payments-Imports-Telecommunications; computer; and information services (US dollar at current prices) - WTO',0.42269,0.28029978,0.027349979,0.42269,6.129283,0.37734628
+'0835N: GNI per capita; PPP  (current international $) - WDI','2749: Merchandise trade-Exports-Transport equipment (US dollar at current prices) - WTO',0.42255,0.34752437,0.04166001,0.4195,6.129283,0.27390805
+'0835N: GNI per capita; PPP  (current international $) - WDI','2791: Balance of Payments-Exports-Insurance and pension services (US dollar at current prices) - WTO',0.4206,0.3378985,0.03961,0.4206,6.087463,0.28757867
+'0835N: GNI per capita; PPP  (current international $) - WDI','1350: Share of tariff lines with specific rates; primary products  (%) - WDI',0.4204,0.256841,0.06206,0.41719,6.044394,0.40442428
+'0835N: GNI per capita; PPP  (current international $) - WDI','0164: IDA grants  (current US$) - WDI',0.42016,0.40278837,0.047930002,0.42016,5.9541965,-0.13180143
+'0835N: GNI per capita; PPP  (current international $) - WDI','1313: Urban population growth  (annual %) - WDI',0.41936,0.4109247,0.04343,0.41936,6.426265,-0.091843896
+'0835N: GNI per capita; PPP  (current international $) - WDI','0762: Adjusted savings: carbon dioxide damage  (current US$) - WDI',0.418,0.40895075,0.06805998,0.41541,6.2854023,0.09512757
+'0835N: GNI per capita; PPP  (current international $) - WDI','0585: Tax payments  (number) - WDI',0.41646,0.1805302,0.033230007,0.41646,6.357552,-0.48572606
+'0835N: GNI per capita; PPP  (current international $) - WDI','2723: Merchandise trade-Exports-Manufactures (US dollar at current prices) - WTO',0.416,0.34117618,0.026670009,0.416,6.169925,0.27353942
+'0835N: GNI per capita; PPP  (current international $) - WDI','0671: Household final consumption expenditure; etc.  (% of GDP) - WDI',0.41591,0.12022936,0.030030012,0.41591,6.357552,-0.54376525
+'0835N: GNI per capita; PPP  (current international $) - WDI','0212: External debt stocks; variable rate  (DOD; current US$) - WDI',0.41553,0.3929703,0.05171001,0.41553,5.9541965,0.15019892
+'0835N: GNI per capita; PPP  (current international $) - WDI','2805: Balance of Payments-Imports-Services (US dollar at current prices) - WTO',0.41455,0.2486054,0.046580017,0.41185,6.2479277,0.407363
+'0835N: GNI per capita; PPP  (current international $) - WDI','0784: Adjusted net savings; including particulate emission damage  (current US$) - WDI',0.41429,0.39502433,0.04514,0.41429,6.0,0.1388009
+'0835N: GNI per capita; PPP  (current international $) - WDI','2715: Human Rights - Fund for Peace',0.41426,0.10809252,0.039580017,0.41426,6.129283,-0.55332404
+'0835N: GNI per capita; PPP  (current international $) - WDI','1092: Tuberculosis case detection rate  (%; all forms) - WDI',0.41324,0.19735931,0.092289984,0.41324,6.357552,0.46462962
+'0835N: GNI per capita; PPP  (current international $) - WDI','0227: Interest payments on external debt; total  (INT; current US$) - WDI',0.41241,0.38951764,0.036869988,0.41241,5.9541965,0.15130216
+'0835N: GNI per capita; PPP  (current international $) - WDI','2781: Merchandise trade-Imports-Total merchandise (US dollar at current prices) - WTO',0.41131,0.30782086,0.056950003,0.40908,6.2854023,0.32169726
+'0835N: GNI per capita; PPP  (current international $) - WDI','2741: Merchandise trade-Exports-Iron and steel (US dollar at current prices) - WTO',0.41125,0.3628369,0.061019987,0.40846,6.129283,0.22002977
+'0835N: GNI per capita; PPP  (current international $) - WDI','1402: Commercial service exports  (current US$) - WDI',0.41066,0.3759603,0.03396,0.41066,6.357552,0.1862786
+'0835N: GNI per capita; PPP  (current international $) - WDI','0756: Services; etc.; value added  (constant 2005 US$) - WDI',0.4099,0.36968368,0.060930014,0.40727,6.321928,0.20054013
+'0835N: GNI per capita; PPP  (current international $) - WDI','0200: PPG; bonds  (DOD; current US$) - WDI',0.40795,0.37831384,0.050070018,0.40795,5.9541965,0.17215158
+'0835N: GNI per capita; PPP  (current international $) - WDI','0052: Foreign direct investment; net  (BoP; current US$) - WDI',0.40774,0.38259473,0.15806,0.40774,6.2094536,0.15857257
+'0835N: GNI per capita; PPP  (current international $) - WDI','2806: Balance of Payments-Imports-Other services (US dollar at current prices) - WTO',0.40736,0.25571597,0.033769995,0.40736,6.169925,0.38941497
+'0835N: GNI per capita; PPP  (current international $) - WDI','0641: Secure Internet servers - WDI',0.40684,0.36911553,0.04367,0.40488,6.3923173,0.19422787
+'0835N: GNI per capita; PPP  (current international $) - WDI','2737: Merchandise trade-Imports-Automotive products (US dollar at current prices) - WTO',0.40655,0.31874102,0.042489976,0.40655,6.169925,0.2963258
+'0835N: GNI per capita; PPP  (current international $) - WDI','2800: Balance of Payments-Imports-Commercial services (US dollar at current prices) - WTO',0.40581,0.24031113,0.039539993,0.40341,6.2479277,0.40681553
+'0835N: GNI per capita; PPP  (current international $) - WDI','0699: Exports of goods and services  (constant 2005 US$) - WDI',0.40555,0.38312048,0.041510016,0.40555,6.2094536,0.14976487
+'0835N: GNI per capita; PPP  (current international $) - WDI','2822: Balance of Payments-Imports-Other business services (US dollar at current prices) - WTO',0.40543,0.21249598,0.03291002,0.40543,6.129283,0.43924254
+'0835N: GNI per capita; PPP  (current international $) - WDI','0037: Charges for the use of intellectual property; payments  (BoP; current US$) - WDI',0.40541,0.35052013,0.05944,0.40288,6.2094536,0.23428586
+'0835N: GNI per capita; PPP  (current international $) - WDI','2752: Merchandise trade-Imports-Electronic data processing and office equipment (US dollar at current prices) - WTO',0.40539,0.31618842,0.04442002,0.40275,6.169925,0.29866633
+'0835N: GNI per capita; PPP  (current international $) - WDI','1369: Merchandise imports from low- and middle-income economies in Sub-Saharan Africa  (% of total merchandise imports) - WDI',0.40511,0.30231667,0.056029975,0.40511,6.2094536,-0.320614
+'0835N: GNI per capita; PPP  (current international $) - WDI','2750: Merchandise trade-Exports-Automotive products (US dollar at current prices) - WTO',0.40441,0.33557916,0.064640015,0.40174,6.129283,0.26235634
+'0835N: GNI per capita; PPP  (current international $) - WDI','0739: Manufacturing; value added  (constant 2005 US$) - WDI',0.40435,0.36790723,0.06785002,0.40435,6.2854023,0.19089997
+'0835N: GNI per capita; PPP  (current international $) - WDI','0241: PPG; commercial banks  (INT; current US$) - WDI',0.40422,0.3839131,0.01891002,0.40422,5.9541965,0.14250228
+'0835N: GNI per capita; PPP  (current international $) - WDI','0344: PPG; commercial banks  (TDS; current US$) - WDI',0.40406,0.38213062,0.058960006,0.40406,5.9541965,0.14808574
+'0835N: GNI per capita; PPP  (current international $) - WDI','0343: PPG; bonds  (TDS; current US$) - WDI',0.4039,0.3805727,0.03075999,0.4039,5.9541965,0.15273273
+'0835N: GNI per capita; PPP  (current international $) - WDI','0944: Secondary education; pupils  (% female) - WDI',0.4039,0.35896575,0.11078,0.4039,6.129283,0.21197696
+'0835N: GNI per capita; PPP  (current international $) - WDI','0313: PPG; private creditors  (NTR; current US$) - WDI',0.40298,0.39577812,0.23453999,0.40298,5.9541965,0.084863886
+'0835N: GNI per capita; PPP  (current international $) - WDI','2729: Merchandise trade-Imports-Manufactures (US dollar at current prices) - WTO',0.4029,0.29979527,0.03697002,0.4029,6.169925,0.32109928
+'0835N: GNI per capita; PPP  (current international $) - WDI','0729: External balance on goods and services  (% of GDP) - WDI',0.40246,0.13866833,0.06183,0.40246,6.3923173,0.51360655
+'0835N: GNI per capita; PPP  (current international $) - WDI','0196: Multilateral debt  (% of total external debt) - WDI',0.40113,0.0601514,0.036199987,0.40113,5.9541965,-0.5839337
+'0835N: GNI per capita; PPP  (current international $) - WDI','2794: Balance of Payments-Exports-Telecommunications; computer; and information services (US dollar at current prices) - WTO',0.40106,0.32774597,0.057860017,0.40106,6.129283,0.27076563
+'0835N: GNI per capita; PPP  (current international $) - WDI','0067: Charges for the use of intellectual property; receipts  (BoP; current US$) - WDI',0.40002,0.31781617,0.06322001,0.40002,5.9068904,0.2867121
+'0835N: GNI per capita; PPP  (current international $) - WDI','0068: Exports of goods; services and primary income  (BoP; current US$) - WDI',0.39959,0.36962903,0.042490005,0.39959,6.357552,0.17309235
+'0835N: GNI per capita; PPP  (current international $) - WDI','1269: Prevalence of undernourishment  (% of population) - WDI',0.39892,0.24043694,0.05261001,0.39562,6.0,-0.3980993
+'0835N: GNI per capita; PPP  (current international $) - WDI','0016: Forest area  (sq. km) - WDI',0.39887,0.39815333,0.24788,0.39243,6.426265,0.026770614
+'0835N: GNI per capita; PPP  (current international $) - WDI','0786: Adjusted net savings; excluding particulate emission damage  (current US$) - WDI',0.39887,0.37854314,0.035080016,0.39529,6.044394,0.14257227
+'0835N: GNI per capita; PPP  (current international $) - WDI','2713: Legitimacy of the State - Fund for Peace',0.39859,0.024261117,0.034050018,0.39622,6.2094536,-0.6118242
+'0835N: GNI per capita; PPP  (current international $) - WDI','1403: High-technology exports  (current US$) - WDI',0.39833,0.38001728,0.067269996,0.39833,6.2094536,0.13532455
+'0835N: GNI per capita; PPP  (current international $) - WDI','0231: Interest payments on external debt; long-term  (INT; current US$) - WDI',0.39797,0.3747523,0.039490014,0.39797,5.9541965,0.15237346
+'0835N: GNI per capita; PPP  (current international $) - WDI','0884: Pupil-teacher ratio; preprimary - WDI',0.39788,0.24898267,0.06015998,0.39498,6.044394,-0.38587216
+'0835N: GNI per capita; PPP  (current international $) - WDI','2732: Merchandise trade-Imports-Pharmaceuticals (US dollar at current prices) - WTO',0.39771,0.28573695,0.040480018,0.39492,6.169925,0.33462375
+'0835N: GNI per capita; PPP  (current international $) - WDI','0492: Domestic credit to private sector  (% of GDP) - WDI',0.39593,0.13750723,0.052970022,0.39593,6.357552,0.508353
+'0835N: GNI per capita; PPP  (current international $) - WDI','0937: Children out of school  (% of primary school age) - WDI',0.39591,0.23151332,0.065349996,0.39281,6.129283,-0.4054586
+'0835N: GNI per capita; PPP  (current international $) - WDI','2734: Merchandise trade-Imports-Office and telecom equipment (US dollar at current prices) - WTO',0.39585,0.32757804,0.055899993,0.39585,6.169925,0.26128906
+'0835N: GNI per capita; PPP  (current international $) - WDI','0930: Adjusted net enrollment rate; primary; female  (% of primary school age children) - WDI',0.39491,0.21385607,0.03888002,0.39491,6.044394,0.42550433
+'0835N: GNI per capita; PPP  (current international $) - WDI','0934: Children out of school; female  (% of female primary school age) - WDI',0.39491,0.21383475,0.040630013,0.39491,6.044394,-0.4255294
+'0835N: GNI per capita; PPP  (current international $) - WDI','0760: Adjusted savings: education expenditure  (current US$) - WDI',0.39471,0.32848936,0.04755999,0.39471,6.2479277,0.2573337
+'0835N: GNI per capita; PPP  (current international $) - WDI','0929: Adjusted net enrollment rate; primary  (% of primary school age children) - WDI',0.39423,0.22981265,0.06876999,0.39108,6.129283,0.4054841
+'0835N: GNI per capita; PPP  (current international $) - WDI','2733: Merchandise trade-Imports-Machinery and transport equipment (US dollar at current prices) - WTO',0.39368,0.29960433,0.048470005,0.39368,6.169925,0.3067176
+'0835N: GNI per capita; PPP  (current international $) - WDI','2747: Merchandise trade-Exports-Telecommunications equipment (US dollar at current prices) - WTO',0.39361,0.3764089,0.029410005,0.39063,6.129283,0.13115293
+'0835N: GNI per capita; PPP  (current international $) - WDI','1334: Share of tariff lines with specific rates; manufactured products  (%) - WDI',0.39344,0.39065918,0.10503,0.38961,6.044394,0.052733444
+'0835N: GNI per capita; PPP  (current international $) - WDI','0309: PPG; commercial banks  (NTR; current US$) - WDI',0.39325,0.39203712,0.17444,0.39325,5.9541965,0.03482601
+'0835N: GNI per capita; PPP  (current international $) - WDI','0032: Primary income payments  (BoP; current US$) - WDI',0.3926,0.35418072,0.045519993,0.3926,6.357552,0.19600834
+'0835N: GNI per capita; PPP  (current international $) - WDI','1897: Fixed-telephone subscriptions - ITU',0.3925,0.38447735,0.05642,0.3925,6.2479277,0.08956938
+'0835N: GNI per capita; PPP  (current international $) - WDI','0796: Gross value added at factor cost  (constant 2005 US$) - WDI',0.39212,0.33085373,0.04502,0.38956,6.2479277,0.24752027
+'0835N: GNI per capita; PPP  (current international $) - WDI','0206: PPG; private creditors  (DOD; current US$) - WDI',0.39114,0.36439496,0.061310023,0.39114,5.9541965,0.16353917
+'0835N: GNI per capita; PPP  (current international $) - WDI','0003: Fertilizer consumption  (kilograms per hectare of arable land) - WDI',0.39076,0.2328703,0.08808997,0.39076,6.2479277,0.39735338
+'0835N: GNI per capita; PPP  (current international $) - WDI','2736: Merchandise trade-Imports-Transport equipment (US dollar at current prices) - WTO',0.38979,0.29209417,0.062189996,0.38979,6.169925,0.3125633
+'0835N: GNI per capita; PPP  (current international $) - WDI','0462: Total reserves  (includes gold; current US$) - WDI',0.38965,0.37625822,0.06817001,0.38728,6.2479277,0.11572274
+'0835N: GNI per capita; PPP  (current international $) - WDI','0066: Service exports  (BoP; current US$) - WDI',0.38925,0.35458243,0.030849993,0.38925,6.357552,0.1861923
+'0835N: GNI per capita; PPP  (current international $) - WDI','1023: Number of under-five deaths - WDI',0.38851,0.37682217,0.10079999,0.38851,6.321928,-0.10811026
+'0835N: GNI per capita; PPP  (current international $) - WDI','1021: Number of infant deaths - WDI',0.38803,0.3766457,0.109319985,0.38803,6.321928,-0.106697075
+'0835N: GNI per capita; PPP  (current international $) - WDI','0078: Personal remittances; received  (% of GDP) - WDI',0.38785,0.29986408,0.07806,0.38579,6.357552,-0.29662418
+'0835N: GNI per capita; PPP  (current international $) - WDI','0063: Exports of goods and services  (BoP; current US$) - WDI',0.38668,0.36028215,0.03779,0.38668,6.357552,0.16247414
+'0835N: GNI per capita; PPP  (current international $) - WDI','0662: General government final consumption expenditure  (constant 2005 US$) - WDI',0.38629,0.3568049,0.060930014,0.38317,6.2094536,0.17171228
+'0835N: GNI per capita; PPP  (current international $) - WDI','0906: School enrollment; primary; female  (% net) - WDI',0.38629,0.21551421,0.040939987,0.38629,6.044394,0.4132503
+'0835N: GNI per capita; PPP  (current international $) - WDI','0129: PPG; commercial banks  (AMT; current US$) - WDI',0.38552,0.3635642,0.030670002,0.38552,5.9541965,0.14817496
+'0835N: GNI per capita; PPP  (current international $) - WDI','0278: PPG; commercial banks  (NFL; current US$) - WDI',0.38527,0.38088953,0.17978002,0.38527,5.9541965,0.06618499
+'0835N: GNI per capita; PPP  (current international $) - WDI','0907: School enrollment; primary; male  (% net) - WDI',0.38496,0.23569344,0.05590999,0.38496,6.044394,0.3863503
+'0835N: GNI per capita; PPP  (current international $) - WDI','0465: Total reserves minus gold  (current US$) - WDI',0.38436,0.37527052,0.05885999,0.38203,6.2479277,0.09533878
+'0835N: GNI per capita; PPP  (current international $) - WDI','0779: Adjusted net national income  (constant 2005 US$) - WDI',0.38403,0.34883177,0.06152001,0.38104,6.169925,0.18761191
+'0835N: GNI per capita; PPP  (current international $) - WDI','0029: Cereal yield  (kg per hectare) - WDI',0.3837,0.21209061,0.045789987,0.3837,6.357552,0.41425765
+'0835N: GNI per capita; PPP  (current international $) - WDI','1398: Merchandise exports by the reporting economy  (current US$) - WDI',0.3825,0.36306468,0.053979993,0.38048,6.3923173,0.13941061
+'0835N: GNI per capita; PPP  (current international $) - WDI','0005: Agricultural land  (% of land area) - WDI',0.38203,0.29425484,0.21790001,0.38203,6.426265,-0.29626873
+'0835N: GNI per capita; PPP  (current international $) - WDI','0043: Secondary income; other sectors; payments  (BoP; current US$) - WDI',0.38153,0.3345472,0.030850008,0.38153,6.321928,0.21675517
+'0835N: GNI per capita; PPP  (current international $) - WDI','1319: International tourism; receipts  (current US$) - WDI',0.38038,0.35309812,0.028930008,0.38038,6.3923173,0.16517228
+'0835N: GNI per capita; PPP  (current international $) - WDI','0308: PPG; bonds  (NTR; current US$) - WDI',0.38003,0.36986157,0.13523999,0.38003,5.9541965,0.10083871
+'0835N: GNI per capita; PPP  (current international $) - WDI','0691: Gross national expenditure deflator  (base year varies by country) - WDI',0.37987,0.35724822,0.07721001,0.37721,6.129283,-0.1504054
+'0835N: GNI per capita; PPP  (current international $) - WDI','0045: Current account balance  (BoP; current US$) - WDI',0.37979,0.37849003,0.14494,0.37979,6.2094536,0.036055002
+'0835N: GNI per capita; PPP  (current international $) - WDI','1383: ICT goods exports  (% of total goods exports) - WDI',0.37966,0.32078487,0.08519,0.37966,6.2094536,0.24264203
+'0835N: GNI per capita; PPP  (current international $) - WDI','0825: GNI  (constant 2005 US$) - WDI',0.3793,0.3488968,0.057749987,0.37621,6.2094536,0.17436509
+'0835N: GNI per capita; PPP  (current international $) - WDI','0745: Industry; value added  (constant 2005 US$) - WDI',0.37896,0.3532703,0.057009995,0.37896,6.321928,0.16028017
+'0835N: GNI per capita; PPP  (current international $) - WDI','1362: Merchandise imports from high-income economies  (% of total merchandise imports) - WDI',0.37876,0.1854846,0.052739978,0.37693,6.3923173,0.439631
+'0835N: GNI per capita; PPP  (current international $) - WDI','0637: Fixed telephone subscriptions - WDI',0.37854,0.37451845,0.06405002,0.37548,6.426265,0.063415796
+'0835N: GNI per capita; PPP  (current international $) - WDI','0044: Personal remittances; paid  (current US$) - WDI',0.37827,0.33557993,0.047059983,0.37592,6.357552,0.20661572
+'0835N: GNI per capita; PPP  (current international $) - WDI','0697: Exports of goods and services  (current US$) - WDI',0.37755,0.3551043,0.06704998,0.37755,6.3923173,0.14981894
+'0835N: GNI per capita; PPP  (current international $) - WDI','0017: Forest area  (% of land area) - WDI',0.37741,0.3715855,0.23945999,0.37294,6.426265,-0.07631853
+'0835N: GNI per capita; PPP  (current international $) - WDI','0931: Adjusted net enrollment rate; primary; male  (% of primary school age children) - WDI',0.37701,0.21540663,0.04745999,0.37701,6.044394,0.4019992
+'0835N: GNI per capita; PPP  (current international $) - WDI','2731: Merchandise trade-Imports-Chemicals (US dollar at current prices) - WTO',0.37701,0.28286466,0.033529997,0.37701,6.169925,0.3068311
+'0835N: GNI per capita; PPP  (current international $) - WDI','0004: Agricultural land  (sq. km) - WDI',0.37665,0.37628427,0.22979,0.37665,6.426265,-0.019124383
+'0835N: GNI per capita; PPP  (current international $) - WDI','1324: International tourism; expenditures for travel items  (current US$) - WDI',0.37647,0.34684885,0.039430007,0.37464,6.3923173,0.17210796
+'0835N: GNI per capita; PPP  (current international $) - WDI','2722: Merchandise trade-Exports-Fuels and mining products (US dollar at current prices) - WTO',0.37567,0.215667,0.05914998,0.37322,6.169925,0.40000373
+'0835N: GNI per capita; PPP  (current international $) - WDI','2735: Merchandise trade-Imports-Telecommunications equipment (US dollar at current prices) - WTO',0.37567,0.2894332,0.062350005,0.37567,6.169925,0.29366097
+'0835N: GNI per capita; PPP  (current international $) - WDI','0486: Interest rate spread  (lending rate minus deposit rate; %) - WDI',0.37562,0.26075232,0.033230007,0.37562,6.087463,-0.33892137
+'0835N: GNI per capita; PPP  (current international $) - WDI','1952: Number of neonatal deaths (thousands) - WHO',0.37539,0.3574097,0.100109994,0.37539,6.2479277,-0.13409063
+'0835N: GNI per capita; PPP  (current international $) - WDI','0287: Net official flows from UN agencies; UNICEF  (current US$) - WDI',0.37526,0.36900836,0.08412002,0.37526,6.044394,-0.079067335
+'0835N: GNI per capita; PPP  (current international $) - WDI','0936: Children out of school; male  (% of male primary school age) - WDI',0.37482,0.21313298,0.0362,0.37482,6.044394,-0.40210325
+'0835N: GNI per capita; PPP  (current international $) - WDI','0142: Commitments; IBRD  (COM; current US$) - WDI',0.37465,0.35801876,0.056580007,0.37232,5.9541965,0.12896223
+'0835N: GNI per capita; PPP  (current international $) - WDI','1321: International tourism; receipts for passenger transport items  (current US$) - WDI',0.37453,0.33850676,0.073369995,0.37453,6.169925,0.18979788
+'0835N: GNI per capita; PPP  (current international $) - WDI','1375: Commercial service imports  (current US$) - WDI',0.37365,0.34327897,0.04185,0.37365,6.357552,0.1742729
+'0835N: GNI per capita; PPP  (current international $) - WDI','2726: Merchandise trade-Imports-Food (US dollar at current prices) - WTO',0.37357,0.25808093,0.04741001,0.37357,6.169925,0.3398368
+'0835N: GNI per capita; PPP  (current international $) - WDI','0327: Debt service on external debt; total  (TDS; current US$) - WDI',0.37355,0.35012224,0.05157,0.37355,5.9541965,0.15306132
+'0835N: GNI per capita; PPP  (current international $) - WDI','2725: Merchandise trade-Imports-Agricultural products (US dollar at current prices) - WTO',0.37329,0.27693582,0.061959997,0.37329,6.169925,0.31040972
+'0835N: GNI per capita; PPP  (current international $) - WDI','0036: Service imports  (BoP; current US$) - WDI',0.37263,0.34230208,0.044369996,0.37263,6.357552,0.17414911
+'0835N: GNI per capita; PPP  (current international $) - WDI','0038: Imports of goods; services and primary income  (BoP; current US$) - WDI',0.37212,0.34264663,0.04946001,0.37212,6.357552,0.17167807
+'0835N: GNI per capita; PPP  (current international $) - WDI','0855: Price level ratio of PPP conversion factor  to market exchange rate (GDP) - WDI',0.37164,0.039147943,0.06536001,0.37164,6.2854023,0.57662123
+'0835N: GNI per capita; PPP  (current international $) - WDI','1323: International tourism; receipts for travel items  (current US$) - WDI',0.37146,0.3433857,0.035510004,0.36924,6.3923173,0.16755384
+'0835N: GNI per capita; PPP  (current international $) - WDI','0041: Foreign direct investment; net outflows  (BoP; current US$) - WDI',0.37077,0.33656427,0.023939997,0.37077,6.357552,0.18494795
+'0835N: GNI per capita; PPP  (current international $) - WDI','0376: Fossil fuel energy consumption  (% of total) - WDI',0.37053,0.20658198,0.04818,0.37053,6.2094536,0.40490496
+'0835N: GNI per capita; PPP  (current international $) - WDI','0065: Goods exports  (BoP; current US$) - WDI',0.3701,0.34636492,0.055360004,0.3701,6.357552,0.15406191
+'0835N: GNI per capita; PPP  (current international $) - WDI','0904: Gross intake ratio in first grade of primary education; total  (% of relevant age group) - WDI',0.36886,0.3062955,0.11814001,0.36645,6.2094536,-0.25012892
+'0835N: GNI per capita; PPP  (current international $) - WDI','0047: Net financial account  (BoP; current US$) - WDI',0.36788,0.36727974,0.17023998,0.36788,6.2094536,0.02449976
+'0835N: GNI per capita; PPP  (current international $) - WDI','0817: Gross domestic savings  (current US$) - WDI',0.36761,0.3542935,0.05157,0.36761,6.357552,0.115397185
+'0835N: GNI per capita; PPP  (current international $) - WDI','2730: Merchandise trade-Imports-Iron and steel (US dollar at current prices) - WTO',0.36724,0.26861235,0.042439997,0.36724,6.169925,0.3140504
+'0835N: GNI per capita; PPP  (current international $) - WDI','0477: Money and quasi money  as % of GDP (M2) - WDI',0.36657,0.21486026,0.06993002,0.36443,6.2854023,0.38949934
+'0835N: GNI per capita; PPP  (current international $) - WDI','0687: Final consumption expenditure  (current US$) - WDI',0.36654,0.3148806,0.072129995,0.36383,6.2094536,0.22728704
+'0835N: GNI per capita; PPP  (current international $) - WDI','0229: Interest payments on external debt  (% of GNI) - WDI',0.36592,0.36146373,0.026289985,0.36279,5.9541965,0.06675543
+'0835N: GNI per capita; PPP  (current international $) - WDI','1388: Merchandise exports  (current US$) - WDI',0.36563,0.34481668,0.06260002,0.36391,6.426265,0.1442682
+'0835N: GNI per capita; PPP  (current international $) - WDI','1432: Air and GHG emissions - CO2 (MLN_TONNE) - OECD',0.36562,0.36559728,0.057870016,0.36562,5.9541965,-0.0047668633
+'0835N: GNI per capita; PPP  (current international $) - WDI','1025: Number of neonatal deaths - WDI',0.36546,0.35438883,0.105599985,0.36209,6.357552,-0.10521968
+'0835N: GNI per capita; PPP  (current international $) - WDI','0905: School enrollment; primary  (% net) - WDI',0.36535,0.21234898,0.056279987,0.36267,6.129283,0.39115345
+'0835N: GNI per capita; PPP  (current international $) - WDI','0903: Gross intake ratio in first grade of primary education; male  (% of relevant age group) - WDI',0.36515,0.28191987,0.098290026,0.36515,6.169925,-0.28849635
+'0835N: GNI per capita; PPP  (current international $) - WDI','0291: Net official flows from UN agencies; UNFPA  (current US$) - WDI',0.36492,0.36068785,0.11851001,0.36492,6.044394,-0.06505494
+'0835N: GNI per capita; PPP  (current international $) - WDI','1325: International tourism; expenditures  (current US$) - WDI',0.36476,0.33627295,0.049119994,0.36288,6.3923173,0.16878109
+'0835N: GNI per capita; PPP  (current international $) - WDI','0472: Broad money  (% of GDP) - WDI',0.36461,0.21835223,0.06301001,0.36461,6.2479277,0.3824366
+'0835N: GNI per capita; PPP  (current international $) - WDI','0331: Debt service on external debt; long-term  (TDS; current US$) - WDI',0.36323,0.33972126,0.060680002,0.36323,5.9541965,0.15332553
+'0835N: GNI per capita; PPP  (current international $) - WDI','0545: Private credit bureau coverage  (% of adults) - WDI',0.36194,0.16534394,0.071229994,0.36194,6.357552,0.44339153
+'0835N: GNI per capita; PPP  (current international $) - WDI','0233: Interest payments on external debt; public and publicly guaranteed (PPG)  (INT; current US$) - WDI',0.3614,0.3402649,0.022669986,0.3614,5.9541965,0.14537919
+'0835N: GNI per capita; PPP  (current international $) - WDI','0852: Official exchange rate  (LCU per US$; period average) - WDI',0.36068,0.3602387,0.079129994,0.35746,6.169925,-0.021007586
+'0835N: GNI per capita; PPP  (current international $) - WDI','2727: Merchandise trade-Imports-Fuels and mining products (US dollar at current prices) - WTO',0.36009,0.3005312,0.050300017,0.36009,6.169925,0.24404667
+'0835N: GNI per capita; PPP  (current international $) - WDI','0570: Documents to import  (number) - WDI',0.35999,0.11534153,0.030150011,0.35999,6.321928,-0.49461952
+'0835N: GNI per capita; PPP  (current international $) - WDI','2815: Balance of Payments-Imports-Insurance and pension services (US dollar at current prices) - WTO',0.35986,0.31427252,0.06570999,0.35727,6.169925,0.21351223
+'0835N: GNI per capita; PPP  (current international $) - WDI','0103: Net bilateral aid flows from DAC donors; Japan  (current US$) - WDI',0.35982,0.35576615,0.13876002,0.35707,6.2094536,-0.06366999
+'0835N: GNI per capita; PPP  (current international $) - WDI','0896: Primary education; pupils - WDI',0.35954,0.34960535,0.16685998,0.35954,6.321928,-0.099672586
+'0835N: GNI per capita; PPP  (current international $) - WDI','0219: Average grant element on new external debt commitments  (%) - WDI',0.35948,0.24097319,0.06944001,0.35948,5.9541965,-0.34424818
+'0835N: GNI per capita; PPP  (current international $) - WDI','1301: Population growth  (annual %) - WDI',0.3591,0.35034567,0.06095001,0.3591,6.426265,0.09356471
+'0835N: GNI per capita; PPP  (current international $) - WDI','0575: Time required to register property  (days) - WDI',0.35897,0.30686623,0.12573,0.3541,6.357552,-0.22826244
+'0835N: GNI per capita; PPP  (current international $) - WDI','0743: Industry; value added  (current US$) - WDI',0.35886,0.34173876,0.05539,0.35681,6.3923173,0.13084807
+'0835N: GNI per capita; PPP  (current international $) - WDI','0033: Imports of goods and services  (BoP; current US$) - WDI',0.35855,0.33131355,0.042550012,0.35855,6.357552,0.16503477
+'0835N: GNI per capita; PPP  (current international $) - WDI','0767: Adjusted savings: consumption of fixed capital  (% of GNI) - WDI',0.35853,0.20262976,0.027980015,0.35853,6.426265,0.39484206
+'0835N: GNI per capita; PPP  (current international $) - WDI','2709: Refugees and IDPs - Fund for Peace',0.35741,0.07236487,0.04866001,0.35524,6.2094536,-0.5338962
+'0835N: GNI per capita; PPP  (current international $) - WDI','2809: Balance of Payments-Exports-Telecommunications services (US dollar at current prices) - WTO',0.35728,0.1326215,0.021129996,0.35404,6.0,0.47398153
+'0835N: GNI per capita; PPP  (current international $) - WDI','0334: Debt service on external debt; public and publicly guaranteed (PPG)  (TDS; current US$) - WDI',0.35696,0.33993354,0.022129998,0.35696,5.9541965,0.13048546
+'0835N: GNI per capita; PPP  (current international $) - WDI','0120: Principal repayments on external debt; long-term  (AMT; current US$) - WDI',0.35654,0.33309206,0.051929995,0.35654,5.9541965,0.1531272
+'0835N: GNI per capita; PPP  (current international $) - WDI','0232: Interest payments on external debt; private nonguaranteed (PNG)  (INT; current US$) - WDI',0.3563,0.33182645,0.02881001,0.3563,5.9541965,0.15644021
+'0835N: GNI per capita; PPP  (current international $) - WDI','0686: Final consumption expenditure; etc.  (% of GDP) - WDI',0.35625,0.085795134,0.03374,0.35625,6.2094536,-0.52005273
+'0835N: GNI per capita; PPP  (current international $) - WDI','0639: Fixed broadband subscriptions - WDI',0.35522,0.3447154,0.054930016,0.35522,6.357552,0.10249197
+'0835N: GNI per capita; PPP  (current international $) - WDI','2753: Merchandise trade-Imports-Integrated circuits and electronic components (US dollar at current prices) - WTO',0.35412,0.33642256,0.036180004,0.35145,6.169925,0.13303165
+'0835N: GNI per capita; PPP  (current international $) - WDI','2740: Merchandise trade-Exports-Fuels (US dollar at current prices) - WTO',0.35404,0.21151651,0.0563,0.35147,6.169925,0.37752283
+'0835N: GNI per capita; PPP  (current international $) - WDI','0759: Services; etc.; value added  (% of GDP) - WDI',0.35396,0.24152713,0.035190016,0.35396,6.357552,0.33531013
+'0835N: GNI per capita; PPP  (current international $) - WDI','0035: Goods imports  (BoP; current US$) - WDI',0.35382,0.32783672,0.042380005,0.35382,6.357552,0.16119331
+'0835N: GNI per capita; PPP  (current international $) - WDI','0726: External balance on goods and services  (current US$) - WDI',0.35371,0.3487408,0.08383,0.35371,6.2479277,0.070492625
+'0835N: GNI per capita; PPP  (current international $) - WDI','1361: Merchandise imports  (current US$) - WDI',0.35354,0.3314416,0.058569998,0.3517,6.426265,0.14865524
+'0835N: GNI per capita; PPP  (current international $) - WDI','1376: Transport services  (% of commercial service imports) - WDI',0.35332,0.116972506,0.020019993,0.35332,6.321928,-0.48615584
+'0835N: GNI per capita; PPP  (current international $) - WDI','0491: Domestic credit provided by financial sector  (% of GDP) - WDI',0.35198,0.14724615,0.03485,0.34945,6.357552,0.45247525
+'0835N: GNI per capita; PPP  (current international $) - WDI','2802: Balance of Payments-Imports-Transport (US dollar at current prices) - WTO',0.35184,0.21082918,0.03189002,0.35184,6.169925,0.37551406
+'0835N: GNI per capita; PPP  (current international $) - WDI','1310: Rural population - WDI',0.35183,0.34263295,0.14444,0.35183,6.426265,-0.09590124
+'0835N: GNI per capita; PPP  (current international $) - WDI','0802: GDP  (constant 2005 US$) - WDI',0.35099,0.32391918,0.034899995,0.35099,6.426265,0.1645321
+'0835N: GNI per capita; PPP  (current international $) - WDI','0049: Net trade in goods and services  (BoP; current US$) - WDI',0.35031,0.34466997,0.090059996,0.35031,6.2094536,0.07510008
+'0835N: GNI per capita; PPP  (current international $) - WDI','0205: External debt stocks; long-term private sector  (DOD; current US$) - WDI',0.35005,0.32628125,0.03864999,0.35005,5.9541965,0.15417114
+'0835N: GNI per capita; PPP  (current international $) - WDI','0133: PPG; private creditors  (AMT; current US$) - WDI',0.34867,0.32993644,0.01891999,0.34867,5.9541965,0.13687062
+'0835N: GNI per capita; PPP  (current international $) - WDI','1270: Depth of the food deficit  (kilocalories per person per day) - WDI',0.34828,0.19192524,0.024739996,0.34828,6.0,-0.3954172
+'0835N: GNI per capita; PPP  (current international $) - WDI','0283: PPG; private creditors  (NFL; current US$) - WDI',0.34827,0.32904044,0.16603,0.34827,5.9541965,0.1386707
+'0835N: GNI per capita; PPP  (current international $) - WDI','0162: Disbursements on external debt; private nonguaranteed (PNG)  (DIS; current US$) - WDI',0.34789,0.32274505,0.034339994,0.34789,5.9541965,0.15857157
+'0835N: GNI per capita; PPP  (current international $) - WDI','0720: Imports of goods and services  (current US$) - WDI',0.34773,0.32473636,0.05612001,0.34773,6.3923173,0.15163657
+'0835N: GNI per capita; PPP  (current international $) - WDI','0042: Foreign direct investment; net outflows  (% of GDP) - WDI',0.34703,0.31310514,0.04212001,0.34703,6.357552,0.18418707
+'0835N: GNI per capita; PPP  (current international $) - WDI','0716: Gross capital formation  (constant 2005 US$) - WDI',0.34661,0.3277093,0.024730027,0.34661,6.2094536,0.13747986
+'0835N: GNI per capita; PPP  (current international $) - WDI','1371: Merchandise imports by the reporting economy  (current US$) - WDI',0.34661,0.32622266,0.03793001,0.34469,6.3923173,0.14278427
+'0835N: GNI per capita; PPP  (current international $) - WDI','0186: External debt stocks; private nonguaranteed (PNG)  (DOD; current US$) - WDI',0.34657,0.3227781,0.039349988,0.34657,5.9541965,0.15424621
+'0835N: GNI per capita; PPP  (current international $) - WDI','0050: Net trade in goods  (BoP; current US$) - WDI',0.34656,0.34634143,0.17187001,0.34656,6.2094536,0.014784029
+'0835N: GNI per capita; PPP  (current international $) - WDI','0119: Principal repayments on external debt; long-term + IMF  (AMT; current US$) - WDI',0.34557,0.32226145,0.05493,0.34557,5.9541965,0.1526714
+'0835N: GNI per capita; PPP  (current international $) - WDI','0048: Net primary income  (BoP; current US$) - WDI',0.34449,0.31851158,0.10201,0.34449,6.2094536,0.16117817
+'0835N: GNI per capita; PPP  (current international $) - WDI','2717: Factionalized Elites - Fund for Peace',0.3435,0.04666823,0.04620999,0.34324,6.2094536,-0.5448227
+'0835N: GNI per capita; PPP  (current international $) - WDI','0594: Scientific and technical journal articles - WDI',0.34338,0.31497923,0.039000005,0.34136,6.426265,0.16852531
+'0835N: GNI per capita; PPP  (current international $) - WDI','0794: Gross value added at factor cost  (current US$) - WDI',0.34274,0.29457268,0.06533001,0.34039,6.2854023,0.21947056
+'0835N: GNI per capita; PPP  (current international $) - WDI','0006: Arable land  (hectares) - WDI',0.34266,0.34114754,0.1464,0.33663,6.2854023,0.038890384
+'0835N: GNI per capita; PPP  (current international $) - WDI','0851: DEC alternative conversion factor  (LCU per US$) - WDI',0.34264,0.32130092,0.07970001,0.34264,6.2854023,-0.14607908
+'0835N: GNI per capita; PPP  (current international $) - WDI','0754: Services; etc.; value added  (current US$) - WDI',0.34255,0.31080025,0.044949993,0.34034,6.3923173,0.17818464
+'0835N: GNI per capita; PPP  (current international $) - WDI','0332: Debt service on external debt; private nonguaranteed (PNG)  (TDS; current US$) - WDI',0.34199,0.31540293,0.024829999,0.34199,5.9541965,0.16305539
+'0835N: GNI per capita; PPP  (current international $) - WDI','0707: Gross fixed capital formation  (constant 2005 US$) - WDI',0.34193,0.31550726,0.039200008,0.33899,6.2094536,0.16255076
+'0835N: GNI per capita; PPP  (current international $) - WDI','0122: Principal repayments on external debt; public and publicly guaranteed (PPG)  (AMT; current US$) - WDI',0.34192,0.3272364,0.03400001,0.34192,5.9541965,0.12117582
+'0835N: GNI per capita; PPP  (current international $) - WDI','0010: Permanent cropland  (% of land area) - WDI',0.34161,0.29798764,0.11645001,0.33653,6.426265,-0.20885967
+'0835N: GNI per capita; PPP  (current international $) - WDI','0279: Commercial banks and other lending (PPG + PNG)  (NFL; current US$) - WDI',0.34079,0.33196524,0.1463,0.33718,6.0,0.09394024
+'0835N: GNI per capita; PPP  (current international $) - WDI','2738: Merchandise trade-Imports-Textiles (US dollar at current prices) - WTO',0.33952,0.27543905,0.06556,0.33952,6.169925,0.25314215
+'0835N: GNI per capita; PPP  (current international $) - WDI','1304: Population; total - WDI',0.33951,0.33646965,0.17492,0.33951,6.426265,-0.05513928
+'0835N: GNI per capita; PPP  (current international $) - WDI','0829: GNI; PPP  (constant 2011 international $) - WDI',0.33947,0.32987827,0.049449995,0.33947,6.2479277,0.09793733
+'0835N: GNI per capita; PPP  (current international $) - WDI','0039: Transport services  (% of service imports; BoP) - WDI',0.33901,0.12869991,0.021600008,0.33901,6.321928,-0.45859578
+'0835N: GNI per capita; PPP  (current international $) - WDI','0778: Adjusted net national income  (current US$) - WDI',0.33894,0.30788076,0.03125,0.33691,6.357552,0.17623629
+'0835N: GNI per capita; PPP  (current international $) - WDI','0201: PPG; commercial banks  (DOD; current US$) - WDI',0.33885,0.31993803,0.047120005,0.33885,5.9541965,0.13752076
+'0835N: GNI per capita; PPP  (current international $) - WDI','0722: Imports of goods and services  (constant 2005 US$) - WDI',0.33884,0.31531975,0.032650024,0.33884,6.2094536,0.1533632
+'0835N: GNI per capita; PPP  (current international $) - WDI','0660: General government final consumption expenditure  (current US$) - WDI',0.33833,0.31296086,0.06401999,0.33833,6.357552,0.15927692
+'0835N: GNI per capita; PPP  (current international $) - WDI','1311: Rural population growth  (annual %) - WDI',0.33803,0.29886773,0.047419995,0.33628,6.426265,-0.19789459
+'0835N: GNI per capita; PPP  (current international $) - WDI','0135: Principal arrears; official creditors  (current US$) - WDI',0.338,0.33004647,0.06991999,0.338,5.9541965,-0.0891825
+'0835N: GNI per capita; PPP  (current international $) - WDI','0694: Gross national expenditure  (constant 2005 US$) - WDI',0.33754,0.31049898,0.036680013,0.33754,6.2094536,0.16444157
+'0835N: GNI per capita; PPP  (current international $) - WDI','0243: PNG; commercial banks and other creditors  (INT; current US$) - WDI',0.33696,0.31290817,0.025460005,0.33429,5.9541965,0.1550865
+'0835N: GNI per capita; PPP  (current international $) - WDI','2728: Merchandise trade-Imports-Fuels (US dollar at current prices) - WTO',0.33677,0.2698496,0.06365001,0.33677,6.169925,0.25868976
+'0835N: GNI per capita; PPP  (current international $) - WDI','2724: Merchandise trade-Exports-Textiles (US dollar at current prices) - WTO',0.33646,0.33048138,0.065359995,0.33646,6.129283,0.077321425
+'0835N: GNI per capita; PPP  (current international $) - WDI','2814: Balance of Payments-Imports-Construction (US dollar at current prices) - WTO',0.33576,0.24959251,0.06665999,0.33201,5.9541965,0.29354298
+'0835N: GNI per capita; PPP  (current international $) - WDI','0254: Average maturity on new external debt commitments  (years) - WDI',0.33574,0.21536599,0.07161,0.33574,5.9541965,-0.34694958
+'0835N: GNI per capita; PPP  (current international $) - WDI','0346: PNG; commercial banks and other creditors  (TDS; current US$) - WDI',0.33572,0.3068968,0.025290012,0.33254,5.9541965,0.16977398
+'0835N: GNI per capita; PPP  (current international $) - WDI','0270: Net financial flows; IDA  (NFL; current US$) - WDI',0.33484,0.31713167,0.05223,0.33092,6.087463,-0.13307263
+'0835N: GNI per capita; PPP  (current international $) - WDI','0856: PPP conversion factor; private consumption  (LCU per international $) - WDI',0.33408,0.3121012,0.0844,0.33408,6.2094536,-0.14825259
+'0835N: GNI per capita; PPP  (current international $) - WDI','0056: Net capital account  (BoP; current US$) - WDI',0.33363,0.33357856,0.10167,0.3306,6.129283,-0.0071728476
+'0835N: GNI per capita; PPP  (current international $) - WDI','0800: GDP  (current US$) - WDI',0.33354,0.3099692,0.04557,0.33354,6.426265,0.15352792
+'0835N: GNI per capita; PPP  (current international $) - WDI','0433: Population in the largest city  (% of urban population) - WDI',0.33261,0.32745707,0.10234,0.33261,6.2094536,0.07178397
+'0835N: GNI per capita; PPP  (current international $) - WDI','1215: Labor force participation rate; male (% of male population ages 15+)  (modeled ILO estimate) - WDI',0.33238,0.30129853,0.03492999,0.33034,6.3923173,-0.17629933
+'0835N: GNI per capita; PPP  (current international $) - WDI','0668: Household final consumption expenditure; etc.  (constant 2005 US$) - WDI',0.33191,0.30253363,0.019500002,0.33191,6.169925,0.1713954
+'0835N: GNI per capita; PPP  (current international $) - WDI','0071: Foreign direct investment; net inflows  (BoP; current US$) - WDI',0.33173,0.30909437,0.023530006,0.33173,6.426265,0.15045145
+'0835N: GNI per capita; PPP  (current international $) - WDI','1317: International tourism; number of arrivals - WDI',0.33173,0.31604248,0.029609993,0.32963,6.3923173,0.1252499
+'0835N: GNI per capita; PPP  (current international $) - WDI','0776: Adjusted savings: net national savings  (current US$) - WDI',0.33161,0.32809725,0.023029998,0.32834,6.129283,0.059268262
+'0835N: GNI per capita; PPP  (current international $) - WDI','0202: PNG; bonds  (DOD; current US$) - WDI',0.33104,0.30000874,0.04362999,0.33104,5.9541965,0.17615691
+'0835N: GNI per capita; PPP  (current international $) - WDI','0683: Final consumption expenditure; etc.  (constant 2005 US$) - WDI',0.32979,0.30074903,0.032869995,0.32693,6.2094536,0.17041409
+'0835N: GNI per capita; PPP  (current international $) - WDI','1396: Merchandise exports to low- and middle-income economies in Sub-Saharan Africa  (% of total merchandise exports) - WDI',0.32913,0.23892984,0.04978998,0.32656,6.2854023,-0.3003334
+'0835N: GNI per capita; PPP  (current international $) - WDI','0185: External debt stocks; long-term  (DOD; current US$) - WDI',0.32886,0.3108504,0.050280005,0.32886,5.9541965,0.13419984
+'0835N: GNI per capita; PPP  (current international $) - WDI','0051: Net errors and omissions  (BoP; current US$) - WDI',0.32836,0.32350865,0.19584998,0.32836,6.2094536,-0.06965164
+'0835N: GNI per capita; PPP  (current international $) - WDI','2807: Balance of Payments-Imports-Government goods and services n.i.e. (US dollar at current prices) - WTO',0.32814,0.2755338,0.075059995,0.32534,6.169925,0.2293604
+'0835N: GNI per capita; PPP  (current international $) - WDI','0727: External balance on goods and services  (current LCU) - WDI',0.32773,0.32751969,0.03363,0.32773,6.2479277,0.014501789
+'0835N: GNI per capita; PPP  (current international $) - WDI','0301: Net transfers on external debt; private nonguaranteed (PNG)  (NTR; current US$) - WDI',0.32751,0.3098637,0.06843001,0.32751,5.9541965,0.13283941
+'0835N: GNI per capita; PPP  (current international $) - WDI','1049: Number of maternal deaths - WDI',0.32741,0.304822,0.07303999,0.32741,6.3923173,-0.15029305
+'0835N: GNI per capita; PPP  (current international $) - WDI','0285: Net financial flows; RDB nonconcessional  (NFL; current US$) - WDI',0.3273,0.32153335,0.057390004,0.3273,5.9541965,0.07593862
+'0835N: GNI per capita; PPP  (current international $) - WDI','0345: PNG; bonds  (TDS; current US$) - WDI',0.32701,0.29657617,0.09113,0.32701,5.9541965,0.17445299
+'0835N: GNI per capita; PPP  (current international $) - WDI','0819: Gross domestic savings  (% of GDP) - WDI',0.32695,0.09178515,0.03644,0.32695,6.357552,0.484938
+'0835N: GNI per capita; PPP  (current international $) - WDI','0902: Gross intake ratio in first grade of primary education; female  (% of relevant age group) - WDI',0.32674,0.28584367,0.11159,0.32674,6.169925,-0.20222843
+'0835N: GNI per capita; PPP  (current international $) - WDI','0173: PNG; commercial banks and other creditors  (DIS; current US$) - WDI',0.32651,0.3017249,0.035679996,0.32348,5.9541965,0.15743281
+'0835N: GNI per capita; PPP  (current international $) - WDI','1381: Food exports  (% of merchandise exports) - WDI',0.32601,0.18457235,0.035540015,0.32601,6.2479277,-0.37608194
+'0835N: GNI per capita; PPP  (current international $) - WDI','0823: GNI  (current US$) - WDI',0.32525,0.3007792,0.036689997,0.32525,6.426265,0.15643147
+'0835N: GNI per capita; PPP  (current international $) - WDI','0121: Principal repayments on external debt; private nonguaranteed (PNG)  (AMT; current US$) - WDI',0.32498,0.29811835,0.024169996,0.32498,5.9541965,0.16389517
+'0835N: GNI per capita; PPP  (current international $) - WDI','0897: Primary education; pupils  (% female) - WDI',0.32474,0.2719881,0.09227,0.32254,6.321928,0.22967784
+'0835N: GNI per capita; PPP  (current international $) - WDI','0705: Gross fixed capital formation  (current US$) - WDI',0.32448,0.3092184,0.052070007,0.32224,6.357552,0.12353783
+'0835N: GNI per capita; PPP  (current international $) - WDI','0255: Average maturity on new external debt commitments; official  (years) - WDI',0.32437,0.22244203,0.050859988,0.32437,5.9541965,-0.3192616
+'0835N: GNI per capita; PPP  (current international $) - WDI','0822: GNI; Atlas method  (current US$) - WDI',0.32388,0.29865795,0.043450013,0.32388,6.426265,0.15881449
+'0835N: GNI per capita; PPP  (current international $) - WDI','0242: PNG; bonds  (INT; current US$) - WDI',0.32384,0.2933878,0.07791999,0.32384,5.9541965,0.17450556
+'0835N: GNI per capita; PPP  (current international $) - WDI','1217: Labor force participation rate; total (% of total population ages 15+)  (modeled ILO estimate) - WDI',0.32356,0.3177687,0.0458,0.32145,6.3923173,-0.07610065
+'0835N: GNI per capita; PPP  (current international $) - WDI','0180: External debt stocks; total  (DOD; current US$) - WDI',0.32344,0.3044953,0.034779996,0.32344,5.9541965,0.13763963
+'0835N: GNI per capita; PPP  (current international $) - WDI','0797: Gross value added at factor cost  (constant LCU) - WDI',0.32328,0.32327658,0.099649996,0.32328,6.129283,0.001849958
+'0835N: GNI per capita; PPP  (current international $) - WDI','0203: PNG; commercial banks and other creditors  (DOD; current US$) - WDI',0.32235,0.2984245,0.03956999,0.31906,5.9541965,0.15467861
+'0835N: GNI per capita; PPP  (current international $) - WDI','0234: Interest payments on external debt; short-term  (INT; current US$) - WDI',0.32229,0.30628186,0.033299997,0.32229,5.9541965,0.12652329
+'0835N: GNI per capita; PPP  (current international $) - WDI','0188: External debt stocks; short-term  (DOD; current US$) - WDI',0.32215,0.30185565,0.03351,0.32215,5.9541965,0.14245816
+'0835N: GNI per capita; PPP  (current international $) - WDI','1101: Health expenditure; public  (% of total health expenditure) - WDI',0.32158,0.14565402,0.0246,0.31945,6.426265,0.4194353
+'0835N: GNI per capita; PPP  (current international $) - WDI','0714: Gross capital formation  (current US$) - WDI',0.32004,0.30620152,0.059739992,0.32004,6.357552,0.11763707
+'0835N: GNI per capita; PPP  (current international $) - WDI','0161: Disbursements on external debt; long-term  (DIS; current US$) - WDI',0.31972,0.2970906,0.05279,0.31972,5.9541965,0.15043077
+'0835N: GNI per capita; PPP  (current international $) - WDI','0806: GDP; PPP  (constant 2011 international $) - WDI',0.31935,0.3101188,0.044599995,0.31935,6.426265,0.09607924
+'0835N: GNI per capita; PPP  (current international $) - WDI','0628: Air transport; freight  (million ton-km) - WDI',0.31919,0.29082453,0.06459999,0.31919,6.2094536,0.16842054
+'0835N: GNI per capita; PPP  (current international $) - WDI','0580: Time to prepare and pay taxes  (hours) - WDI',0.31902,0.22645211,0.073809996,0.31902,6.357552,-0.3042497
+'0835N: GNI per capita; PPP  (current international $) - WDI','0267: Net financial flows; IMF concessional  (NFL; current US$) - WDI',0.31868,0.30880874,0.032999992,0.31575,6.0,-0.099354185
+'0835N: GNI per capita; PPP  (current international $) - WDI','0927: Primary education; teachers - WDI',0.31783,0.31488088,0.13073,0.31783,6.169925,-0.054305784
+'0835N: GNI per capita; PPP  (current international $) - WDI','1322: International tourism; expenditures for passenger transport items  (current US$) - WDI',0.31693,0.2810304,0.051939994,0.31693,6.2479277,0.18947195
+'0835N: GNI per capita; PPP  (current international $) - WDI','0689: Final consumption expenditure  (constant 2005 US$) - WDI',0.31662,0.28830275,0.034429997,0.31346,6.2094536,0.16827726
+'0835N: GNI per capita; PPP  (current international $) - WDI','0574: Time required to enforce a contract  (days) - WDI',0.31639,0.2759259,0.12942001,0.31639,6.357552,-0.20115694
+'0835N: GNI per capita; PPP  (current international $) - WDI','2721: Merchandise trade-Exports-Food (US dollar at current prices) - WTO',0.31579,0.23020159,0.05145,0.31579,6.169925,0.29255497
+'0835N: GNI per capita; PPP  (current international $) - WDI','1207: Labor force participation rate; female (% of female population ages 15-64)  (modeled ILO estimate) - WDI',0.31465,0.30992836,0.106879994,0.31276,6.3923173,0.068714105
+'0835N: GNI per capita; PPP  (current international $) - WDI','2720: Merchandise trade-Exports-Agricultural products (US dollar at current prices) - WTO',0.31442,0.22657788,0.029819995,0.31442,6.169925,0.29638174
+'0835N: GNI per capita; PPP  (current international $) - WDI','1137: Employment to population ratio; ages 15-24; female (%)  (modeled ILO estimate) - WDI',0.3141,0.31364214,0.07052,0.31175,6.357552,-0.021397235
+'0835N: GNI per capita; PPP  (current international $) - WDI','0222: Average interest on new external debt commitments  (%) - WDI',0.31356,0.09853177,0.03322999,0.31356,5.9541965,0.46371138
+'0835N: GNI per capita; PPP  (current international $) - WDI','0131: PNG; commercial banks and other creditors  (AMT; current US$) - WDI',0.31246,0.28301618,0.024739996,0.30929,5.9541965,0.17159204
+'0835N: GNI per capita; PPP  (current international $) - WDI','0262: Net flows on external debt; private nonguaranteed (PNG)  (NFL; current US$) - WDI',0.31222,0.29183072,0.040250003,0.31222,5.9541965,0.14279108
+'0835N: GNI per capita; PPP  (current international $) - WDI','0841: Net income from abroad  (current US$) - WDI',0.31212,0.29277802,0.10223,0.31212,6.2479277,0.13907544
+'0835N: GNI per capita; PPP  (current international $) - WDI','0008: Arable land  (% of land area) - WDI',0.31111,0.30549738,0.14866999,0.30669,6.426265,-0.07491741
+'0835N: GNI per capita; PPP  (current international $) - WDI','0680: Household final consumption expenditure; PPP  (constant 2011 international $) - WDI',0.31024,0.30054745,0.06233999,0.31024,6.2479277,0.0984507
+'0835N: GNI per capita; PPP  (current international $) - WDI','0737: Manufacturing; value added  (current US$) - WDI',0.31011,0.2934477,0.037669986,0.31011,6.357552,0.12908256
+'0835N: GNI per capita; PPP  (current international $) - WDI','0329: Total debt service  (% of GNI) - WDI',0.30963,0.26707044,0.022799999,0.30638,6.0,0.20629969
+'0835N: GNI per capita; PPP  (current international $) - WDI','1154: Employment to population ratio; 15+; total (%)  (modeled ILO estimate) - WDI',0.30895,0.30872,0.055690005,0.307,6.357552,-0.015165895
+'0835N: GNI per capita; PPP  (current international $) - WDI','1096: Out-of-pocket health expenditure  (% of total expenditure on health) - WDI',0.30841,0.15383439,0.052010015,0.30607,6.426265,-0.39316103
+'0835N: GNI per capita; PPP  (current international $) - WDI','0692: Gross national expenditure  (current US$) - WDI',0.30834,0.2854251,0.046279997,0.30834,6.3923173,0.15137672
+'0835N: GNI per capita; PPP  (current international $) - WDI','0160: Disbursements on external debt; long-term + IMF  (DIS; current US$) - WDI',0.30821,0.28576887,0.04265,0.30821,5.9541965,0.14980364
+'0835N: GNI per capita; PPP  (current international $) - WDI','1211: Labor force participation rate; female (% of female population ages 15+)  (modeled ILO estimate) - WDI',0.30818,0.29992807,0.046279997,0.30281,6.3923173,-0.09084015
+'0835N: GNI per capita; PPP  (current international $) - WDI','0674: Household final consumption expenditure  (constant 2005 US$) - WDI',0.30738,0.27941084,0.028840005,0.30738,6.2094536,0.16723979
+'0835N: GNI per capita; PPP  (current international $) - WDI','0342: PPG; official creditors  (TDS; current US$) - WDI',0.30733,0.29828724,0.03125,0.30733,5.9541965,0.0950935
+'0835N: GNI per capita; PPP  (current international $) - WDI','1040: Immunization; DPT  (% of children ages 12-23 months) - WDI',0.30659,0.17195636,0.04791999,0.30437,6.426265,0.36692455
+'0835N: GNI per capita; PPP  (current international $) - WDI','0900: School enrollment; primary; female  (% gross) - WDI',0.30636,0.3062835,0.10728999,0.304,6.2854023,-0.008747339
+'0835N: GNI per capita; PPP  (current international $) - WDI','0311: PNG; commercial banks and other creditors  (NTR; current US$) - WDI',0.3063,0.29656726,0.06654002,0.30288,5.9541965,0.09865474
+'0835N: GNI per capita; PPP  (current international $) - WDI','0879: School enrollment; primary (gross); gender parity index  (GPI) - WDI',0.30597,0.20328572,0.048849985,0.3033,6.2854023,0.3204439
+'0835N: GNI per capita; PPP  (current international $) - WDI','1103: Health expenditure; public  (% of GDP) - WDI',0.30526,0.19733526,0.019759998,0.30316,6.426265,0.32851902
+'0835N: GNI per capita; PPP  (current international $) - WDI','0681: Final consumption expenditure; etc.  (current US$) - WDI',0.3042,0.28007162,0.062000006,0.3042,6.357552,0.15533313
+'0835N: GNI per capita; PPP  (current international $) - WDI','0654: Armed forces personnel; total - WDI',0.30359,0.30192178,0.123040006,0.29842,6.321928,-0.040843725
+'0835N: GNI per capita; PPP  (current international $) - WDI','0834: GNI per capita  (constant LCU) - WDI',0.30356,0.30285406,0.13282,0.30356,6.087463,-0.026569352
+'0835N: GNI per capita; PPP  (current international $) - WDI','0340: Multilateral debt service  (% of public and publicly guaranteed debt service) - WDI',0.30273,0.029691875,0.018570006,0.29944,6.0,-0.5225305
+'0835N: GNI per capita; PPP  (current international $) - WDI','0239: PPG; official creditors  (INT; current US$) - WDI',0.3027,0.29499787,0.03602001,0.3027,5.9541965,0.087761775
+'0835N: GNI per capita; PPP  (current international $) - WDI','0125: PPG; multilateral  (AMT; current US$) - WDI',0.30166,0.28936678,0.03757,0.30166,5.9541965,0.11087478
+'0835N: GNI per capita; PPP  (current international $) - WDI','0629: Air transport; passengers carried - WDI',0.30139,0.28069183,0.05743,0.30139,6.2094536,0.14386858
+'0835N: GNI per capita; PPP  (current international $) - WDI','0880: School enrollment; primary and secondary (gross); gender parity index  (GPI) - WDI',0.3011,0.211573,0.06523,0.3011,6.169925,0.2992106
+'0835N: GNI per capita; PPP  (current international $) - WDI','0633: Liner shipping connectivity index  (maximum value in 2004 = 100) - WDI',0.30087,0.16236147,0.032130003,0.29751,6.044394,0.37216735
+'0835N: GNI per capita; PPP  (current international $) - WDI','1041: Immunization; measles  (% of children ages 12-23 months) - WDI',0.29986,0.16443534,0.028420001,0.29785,6.426265,0.3680009
+'0835N: GNI per capita; PPP  (current international $) - WDI','0597: Trademark applications; direct nonresident - WDI',0.2992,0.29886055,0.09377,0.29596,6.044394,0.018423876
+'0835N: GNI per capita; PPP  (current international $) - WDI','2710: Group Grievance - Fund for Peace',0.299,0.052001953,0.030860007,0.29636,6.2094536,-0.49698898
+'0835N: GNI per capita; PPP  (current international $) - WDI','0127: PPG; official creditors  (AMT; current US$) - WDI',0.29871,0.28931165,0.029280007,0.29871,5.9541965,0.096945055
+'0835N: GNI per capita; PPP  (current international $) - WDI','0828: GNI; PPP  (current international $) - WDI',0.29831,0.28845167,0.043339998,0.29831,6.426265,0.099289134
+'0835N: GNI per capita; PPP  (current international $) - WDI','0805: GDP; PPP  (current international $) - WDI',0.29828,0.2890222,0.03825,0.29828,6.426265,0.096217394
+'0835N: GNI per capita; PPP  (current international $) - WDI','0315: Net official development assistance and official aid received  (constant 2013 US$) - WDI',0.29805,0.29434812,0.08726999,0.2952,6.2094536,-0.06084304
+'0835N: GNI per capita; PPP  (current international $) - WDI','0074: Portfolio equity; net inflows  (BoP; current US$) - WDI',0.2975,0.26227778,0.05411999,0.29465,6.169925,0.18767591
+'0835N: GNI per capita; PPP  (current international $) - WDI','1150: Employment to population ratio; 15+; female (%)  (modeled ILO estimate) - WDI',0.29702,0.29380342,0.035109997,0.29482,6.357552,-0.05671478
+'0835N: GNI per capita; PPP  (current international $) - WDI','0853: PPP conversion factor; GDP  (LCU per international $) - WDI',0.29543,0.27603102,0.06914002,0.29543,6.2854023,-0.13928027
+'0835N: GNI per capita; PPP  (current international $) - WDI','0339: Multilateral debt service  (TDS; current US$) - WDI',0.29427,0.28251135,0.028919995,0.29427,5.9541965,0.108437374
+'0835N: GNI per capita; PPP  (current international $) - WDI','0057: Grants; excluding technical cooperation  (BoP; current US$) - WDI',0.29402,0.29258338,0.022689998,0.29402,6.0,-0.037902698
+'0835N: GNI per capita; PPP  (current international $) - WDI','1404: High-technology exports  (% of manufactured exports) - WDI',0.29388,0.23385373,0.041429996,0.29388,6.2094536,0.24500258
+'0835N: GNI per capita; PPP  (current international $) - WDI','0116: PPG; bilateral  (AMT; current US$) - WDI',0.29355,0.28738502,0.041250005,0.29355,5.9541965,0.07851743
+'0835N: GNI per capita; PPP  (current international $) - WDI','0899: School enrollment; primary  (% gross) - WDI',0.29327,0.28472736,0.09210001,0.29327,6.2854023,-0.09242629
+'0835N: GNI per capita; PPP  (current international $) - WDI','0666: Household final consumption expenditure; etc.  (current US$) - WDI',0.29295,0.2695431,0.053660005,0.29295,6.357552,0.15299313
+'0835N: GNI per capita; PPP  (current international $) - WDI','0321: Net official development assistance received  (constant 2013 US$) - WDI',0.29279,0.28996536,0.093980014,0.29017,6.2094536,-0.053147316
+'0835N: GNI per capita; PPP  (current international $) - WDI','0711: Changes in inventories  (current US$) - WDI',0.29242,0.2914712,0.08214,0.28943,6.169925,0.030802388
+'0835N: GNI per capita; PPP  (current international $) - WDI','0791: GDP deflator  (base year varies by country) - WDI',0.29226,0.27694535,0.058759987,0.29226,6.2854023,-0.1237523
+'0835N: GNI per capita; PPP  (current international $) - WDI','0281: PNG; commercial banks and other creditors  (NFL; current US$) - WDI',0.29218,0.27811345,0.046310008,0.28863,5.9541965,0.11860253
+'0835N: GNI per capita; PPP  (current international $) - WDI','0323: Net ODA received per capita  (current US$) - WDI',0.29199,0.278234,0.068,0.28922,6.2094536,-0.11728595
+'0835N: GNI per capita; PPP  (current international $) - WDI','0073: Primary income on FDI; payments  (current US$) - WDI',0.2919,0.27444142,0.035860002,0.2919,5.9541965,0.13213092
+'0835N: GNI per capita; PPP  (current international $) - WDI','0812: GDP per capita  (constant LCU) - WDI',0.2915,0.2911423,0.124630004,0.2915,6.2854023,-0.018912712
+'0835N: GNI per capita; PPP  (current international $) - WDI','0672: Household final consumption expenditure  (current US$) - WDI',0.29117,0.2676055,0.05103001,0.28931,6.357552,0.15350725
+'0835N: GNI per capita; PPP  (current international $) - WDI','0325: PPG; bilateral  (TDS; current US$) - WDI',0.29115,0.28515765,0.040260002,0.29115,5.9541965,0.07741026
+'0835N: GNI per capita; PPP  (current international $) - WDI','1213: Ratio of female to male labor force participation rate (%)  (modeled ILO estimate) - WDI',0.29057,0.29054612,0.041240007,0.28792,6.3923173,-0.0048849764
+'0835N: GNI per capita; PPP  (current international $) - WDI','0220: Average grant element on new external debt commitments; official  (%) - WDI',0.29051,0.22156262,0.06443,0.29051,5.9541965,-0.2625783
+'0835N: GNI per capita; PPP  (current international $) - WDI','1783: Renewable energy - TOT (KTOE) - OECD',0.29037,0.2903594,0.04535,0.29037,5.9541965,-0.003254131
+'0835N: GNI per capita; PPP  (current international $) - WDI','1770: Primary energy supply - TOT (MLN_TOE) - OECD',0.28966,0.28964943,0.04356,0.28966,5.9541965,-0.0032541435
+'0835N: GNI per capita; PPP  (current international $) - WDI','1354: Food imports  (% of merchandise imports) - WDI',0.28921,0.15479933,0.024980009,0.28921,6.2479277,-0.3666206
+'0835N: GNI per capita; PPP  (current international $) - WDI','1234: Unemployment; youth female (% of female labor force ages 15-24)  (modeled ILO estimate) - WDI',0.28885,0.28282106,0.10199,0.28667,6.357552,-0.077646255
+'0835N: GNI per capita; PPP  (current international $) - WDI','1305: Population; female  (% of total) - WDI',0.2878,0.1636321,0.09035002,0.28527,6.426265,-0.35237467
+'0835N: GNI per capita; PPP  (current international $) - WDI','0046: Current account balance  (% of GDP) - WDI',0.28777,0.19689769,0.085070014,0.28504,6.2094536,0.30145034
+'0835N: GNI per capita; PPP  (current international $) - WDI','0901: School enrollment; primary; male  (% gross) - WDI',0.28706,0.25628954,0.06455,0.28489,6.2854023,-0.17541504
+'0835N: GNI per capita; PPP  (current international $) - WDI','0679: Household final consumption expenditure; PPP  (current international $) - WDI',0.28689,0.27623293,0.058639996,0.28689,6.2854023,0.103233114
+'0835N: GNI per capita; PPP  (current international $) - WDI','1141: Employment to population ratio; ages 15-24; total (%)  (modeled ILO estimate) - WDI',0.28658,0.2848746,0.062039986,0.28658,6.2854023,-0.041296523
+'0835N: GNI per capita; PPP  (current international $) - WDI','0134: Principal arrears; long-term DOD  (US$) - WDI',0.28592,0.2827096,0.024769992,0.28592,5.9541965,-0.056660403
+'0835N: GNI per capita; PPP  (current international $) - WDI','0259: Portfolio investment; bonds (PPG + PNG)  (NFL; current US$) - WDI',0.28583,0.26626363,0.026009992,0.28343,6.0,0.1398798
+'0835N: GNI per capita; PPP  (current international $) - WDI','1231: Labor force; female  (% of total labor force) - WDI',0.28554,0.276549,0.06492999,0.28346,6.3923173,-0.09482091
+'0835N: GNI per capita; PPP  (current international $) - WDI','0299: Net transfers on external debt; total  (NTR; current US$) - WDI',0.28524,0.2680512,0.10602999,0.28524,5.9541965,0.13110606
+'0835N: GNI per capita; PPP  (current international $) - WDI','0314: Net official development assistance and official aid received  (current US$) - WDI',0.28502,0.28144652,0.08312999,0.28254,6.2094536,-0.05977853
+'0835N: GNI per capita; PPP  (current international $) - WDI','0197: PPG; multilateral concessional  (DOD; current US$) - WDI',0.28448,0.28407297,0.10693,0.28448,5.9541965,-0.020174898
+'0835N: GNI per capita; PPP  (current international $) - WDI','0264: Net flows on external debt; short-term  (NFL; current US$) - WDI',0.28405,0.26854026,0.122820005,0.28405,5.9541965,0.12453809
+'0835N: GNI per capita; PPP  (current international $) - WDI','0114: Net bilateral aid flows from DAC donors; Total  (current US$) - WDI',0.28327,0.28050923,0.08709,0.28011,6.2094536,-0.052542996
+'0835N: GNI per capita; PPP  (current international $) - WDI','0818: Gross domestic savings  (current LCU) - WDI',0.28304,0.28218853,0.102099985,0.28304,6.2094536,-0.029179826
+'0835N: GNI per capita; PPP  (current international $) - WDI','1385: Manufactures exports  (% of merchandise exports) - WDI',0.28199,0.21222138,0.047290005,0.27956,6.2479277,0.26413748
+'0835N: GNI per capita; PPP  (current international $) - WDI','0540: Business extent of disclosure index  (0=less disclosure to 10=more disclosure) - WDI',0.28162,0.20680812,0.077810004,0.28162,6.357552,0.2735176
+'0835N: GNI per capita; PPP  (current international $) - WDI','0326: PPG; bilateral concessional  (TDS; current US$) - WDI',0.28151,0.2761684,0.023080006,0.28151,5.9541965,0.07308617
+'0835N: GNI per capita; PPP  (current international $) - WDI','0627: Air transport; registered carrier departures worldwide - WDI',0.28104,0.25733137,0.03745,0.28104,6.2094536,0.15397611
+'0835N: GNI per capita; PPP  (current international $) - WDI','0172: PNG; bonds  (DIS; current US$) - WDI',0.27988,0.2502156,0.08760999,0.27988,5.9541965,0.17223357
+'0835N: GNI per capita; PPP  (current international $) - WDI','0482: Inflation; consumer prices  (annual %) - WDI',0.27829,0.2776791,0.06333001,0.27628,6.3923173,-0.024716765
+'0835N: GNI per capita; PPP  (current international $) - WDI','0175: PPG; private creditors  (DIS; current US$) - WDI',0.27786,0.25394636,0.018210009,0.27786,5.9541965,0.15464035
+'0835N: GNI per capita; PPP  (current international $) - WDI','0599: Trademark applications; total - WDI',0.27765,0.27763426,0.05821,0.27507,6.087463,-0.003965753
+'0835N: GNI per capita; PPP  (current international $) - WDI','0054: Reserves and related items  (BoP; current US$) - WDI',0.27762,0.2749042,0.08003999,0.27762,6.2094536,0.052113224
+'0835N: GNI per capita; PPP  (current international $) - WDI','0932: Children out of school; primary - WDI',0.27758,0.24609342,0.051990002,0.27454,6.129283,-0.17744458
+'0835N: GNI per capita; PPP  (current international $) - WDI','1374: Computer; communications and other services  (% of commercial service imports) - WDI',0.27733,0.17483692,0.018940002,0.27501,6.357552,0.32014543
+'0835N: GNI per capita; PPP  (current international $) - WDI','1279: Death rate; crude  (per 1;000 people) - WDI',0.27724,0.20361581,0.084070005,0.27546,6.426265,-0.27133778
+'0835N: GNI per capita; PPP  (current international $) - WDI','0427: Population density  (people per sq. km of land area) - WDI',0.27717,0.13172126,0.11840001,0.27717,6.426265,0.38137743
+'0835N: GNI per capita; PPP  (current international $) - WDI','0170: PPG; bonds  (DIS; current US$) - WDI',0.27704,0.25098884,0.04636,0.27704,5.9541965,0.1614037
+'0835N: GNI per capita; PPP  (current international $) - WDI','0302: Net transfers on external debt; public and publicly guaranteed (PPG)  (NTR; current US$) - WDI',0.27703,0.2729109,0.105939984,0.27703,5.9541965,0.06418025
+'0835N: GNI per capita; PPP  (current international $) - WDI','0171: PPG; commercial banks  (DIS; current US$) - WDI',0.27675,0.26058108,0.028610006,0.27675,5.9541965,0.12715705
+'0835N: GNI per capita; PPP  (current international $) - WDI','1202: Labor force participation rate for ages 15-24; female (%)  (modeled ILO estimate) - WDI',0.27668,0.27529648,0.049860016,0.27461,6.3923173,-0.03719553
+'0835N: GNI per capita; PPP  (current international $) - WDI','1232: Labor force; total - WDI',0.2764,0.2738067,0.13304,0.27346,6.3923173,-0.050924506
+'0835N: GNI per capita; PPP  (current international $) - WDI','0318: Net official development assistance received  (current US$) - WDI',0.27639,0.273679,0.082839996,0.27368,6.2094536,-0.052067183
+'0835N: GNI per capita; PPP  (current international $) - WDI','0933: Children out of school; primary; female - WDI',0.27597,0.2416445,0.047179997,0.27597,6.044394,-0.18527143
+'0835N: GNI per capita; PPP  (current international $) - WDI','0935: Children out of school; primary; male - WDI',0.27585,0.24316207,0.053419992,0.27585,6.044394,-0.18079805
+'0835N: GNI per capita; PPP  (current international $) - WDI','0455: Bank capital to assets ratio  (%) - WDI',0.2758,0.15142399,0.048640013,0.2758,5.087463,-0.3526698
+'0835N: GNI per capita; PPP  (current international $) - WDI','0277: PPG; bonds  (NFL; current US$) - WDI',0.27553,0.25300834,0.03283,0.27553,5.9541965,0.1500722
+'0835N: GNI per capita; PPP  (current international $) - WDI','0260: Net flows on external debt; total  (NFL; current US$) - WDI',0.27544,0.25559503,0.054230005,0.27544,5.9541965,0.14087218
+'0835N: GNI per capita; PPP  (current international $) - WDI','0363: Electricity production from nuclear sources  (% of total) - WDI',0.27509,0.20820114,0.031240001,0.27509,6.169925,0.25862885
+'0835N: GNI per capita; PPP  (current international $) - WDI','0064: Insurance and financial services  (% of service exports; BoP) - WDI',0.27508,0.11170018,0.052559987,0.2729,6.2854023,0.4042027
+'0835N: GNI per capita; PPP  (current international $) - WDI','0225: PPG; bilateral  (INT; current US$) - WDI',0.27451,0.26940116,0.03938,0.27451,5.9541965,0.07147604
+'0835N: GNI per capita; PPP  (current international $) - WDI','0151: Currency composition of PPG debt; all other currencies  (%) - WDI',0.27418,0.24799617,0.049490005,0.27418,5.9541965,-0.16181418
+'0835N: GNI per capita; PPP  (current international $) - WDI','1380: Agricultural raw materials exports  (% of merchandise exports) - WDI',0.27392,0.22430204,0.081009984,0.27161,6.2479277,-0.2227509
+'0835N: GNI per capita; PPP  (current international $) - WDI','0423: CO2 emissions from transport  (% of total fuel combustion) - WDI',0.27275,0.22906809,0.085899994,0.27275,6.169925,-0.20900215
+'0835N: GNI per capita; PPP  (current international $) - WDI','0088: Net bilateral aid flows from DAC donors; Belgium  (current US$) - WDI',0.2726,0.26432836,0.07939999,0.2726,5.9541965,-0.090948544
+'0835N: GNI per capita; PPP  (current international $) - WDI','1238: Unemployment; youth total (% of total labor force ages 15-24)  (modeled ILO estimate) - WDI',0.27247,0.26989114,0.07945,0.27032,6.357552,-0.05078255
+'0835N: GNI per capita; PPP  (current international $) - WDI','0764: Adjusted savings: net forest depletion  (current US$) - WDI',0.27209,0.25708723,0.07885,0.26982,6.2094536,-0.12248571
+'0835N: GNI per capita; PPP  (current international $) - WDI','0676: Household final consumption expenditure  (constant LCU) - WDI',0.27205,0.2697787,0.10336,0.27205,6.087463,-0.04765815
+'0835N: GNI per capita; PPP  (current international $) - WDI','2799: Balance of Payments-Exports-Government goods and services n.i.e. (US dollar at current prices) - WTO',0.27205,0.1985364,0.056160003,0.26936,6.129283,0.27113393
+'0835N: GNI per capita; PPP  (current international $) - WDI','0117: PPG; bilateral concessional  (AMT; current US$) - WDI',0.27204,0.2663869,0.025739998,0.27204,5.9541965,0.07518727
+'0835N: GNI per capita; PPP  (current international $) - WDI','0971: Secondary education; teachers - WDI',0.27172,0.2693444,0.05846,0.26638,6.0,-0.048740003
+'0835N: GNI per capita; PPP  (current international $) - WDI','1209: Labor force participation rate; total (% of total population ages 15-64)  (modeled ILO estimate) - WDI',0.27133,0.24383667,0.09401001,0.26905,6.3923173,0.16581112
+'0835N: GNI per capita; PPP  (current international $) - WDI','0588: Time required to build a warehouse  (days) - WDI',0.27096,0.25564978,0.11689,0.27096,6.357552,-0.12373448
+'0835N: GNI per capita; PPP  (current international $) - WDI','0371: Energy imports; net  (% of energy use) - WDI',0.26937,0.23625624,0.109319985,0.26937,6.169925,-0.18197183
+'0835N: GNI per capita; PPP  (current international $) - WDI','1204: Labor force participation rate for ages 15-24; male (%)  (modeled ILO estimate) - WDI',0.26854,0.24624778,0.051819995,0.26637,6.3923173,-0.14930576
+'0835N: GNI per capita; PPP  (current international $) - WDI','0358: Electricity production from coal sources  (% of total) - WDI',0.26826,0.26801276,0.06526,0.26826,6.169925,-0.015723405
+'0835N: GNI per capita; PPP  (current international $) - WDI','0366: Electricity production from renewable sources; excluding hydroelectric  (kWh) - WDI',0.26775,0.24621296,0.058420002,0.26775,6.169925,0.146755
+'0835N: GNI per capita; PPP  (current international $) - WDI','0551: Cost to export  (US$ per container) - WDI',0.2677,0.18878692,0.05434999,0.2677,6.3923173,-0.2809147
+'0835N: GNI per capita; PPP  (current international $) - WDI','0761: Adjusted savings: education expenditure  (% of GNI) - WDI',0.26738,0.26582715,0.038519993,0.26738,6.3923173,0.039406307
+'0835N: GNI per capita; PPP  (current international $) - WDI','0191: Short-term debt  (% of total external debt) - WDI',0.26672,0.10190958,0.027819991,0.26672,5.9541965,0.4059685
+'0835N: GNI per capita; PPP  (current international $) - WDI','0621: Methodology assessment of statistical capacity  (scale 0 - 100) - WDI',0.26653,0.11191429,0.05155,0.26403,6.129283,0.39321205
+'0835N: GNI per capita; PPP  (current international $) - WDI','0187: External debt stocks; public and publicly guaranteed (PPG)  (DOD; current US$) - WDI',0.26633,0.2534589,0.026830003,0.26633,5.9541965,0.113450974
+'0835N: GNI per capita; PPP  (current international $) - WDI','0670: Household final consumption expenditure; etc.  (constant LCU) - WDI',0.26626,0.26409015,0.09317,0.26271,6.087463,-0.046581477
+'0835N: GNI per capita; PPP  (current international $) - WDI','0132: PPG; other private creditors  (AMT; current US$) - WDI',0.26613,0.25440872,0.033409998,0.26613,5.9541965,0.10826486
+'0835N: GNI per capita; PPP  (current international $) - WDI','0009: Land under cereal production  (hectares) - WDI',0.26611,0.26581952,0.11224,0.26611,6.357552,-0.017043786
+'0835N: GNI per capita; PPP  (current international $) - WDI','0211: Residual; debt stock-flow reconciliation  (current US$) - WDI',0.26611,0.25219345,0.07643001,0.26611,5.9541965,0.11796847
+'0835N: GNI per capita; PPP  (current international $) - WDI','0758: Services; etc.; value added  (constant LCU) - WDI',0.2661,0.26563781,0.07105999,0.2661,6.2094536,-0.021498503
+'0835N: GNI per capita; PPP  (current international $) - WDI','0763: Adjusted savings: carbon dioxide damage  (% of GNI) - WDI',0.26509,0.24313723,0.12068999,0.26311,6.426265,-0.14816464
+'0835N: GNI per capita; PPP  (current international $) - WDI','0735: Agriculture; value added  (constant LCU) - WDI',0.26489,0.2622054,0.043630004,0.26133,6.2479277,-0.051813196
+'0835N: GNI per capita; PPP  (current international $) - WDI','1372: Merchandise imports from low- and middle-income economies within region  (% of total merchandise imports) - WDI',0.26457,0.14181429,0.057160005,0.26156,6.044394,-0.3503651
+'0835N: GNI per capita; PPP  (current international $) - WDI','0943: Secondary education; pupils - WDI',0.26451,0.25814274,0.076230004,0.26064,6.2479277,-0.07979524
+'0835N: GNI per capita; PPP  (current international $) - WDI','0360: Electricity production from hydroelectric sources  (% of total) - WDI',0.26397,0.18038201,0.047849998,0.26397,6.169925,-0.28911585
+'0835N: GNI per capita; PPP  (current international $) - WDI','0155: Currency composition of PPG debt; U.S. dollars  (%) - WDI',0.26396,0.26014727,0.111430004,0.26396,5.9541965,0.061747313
+'0835N: GNI per capita; PPP  (current international $) - WDI','0218: Average grace period on new external debt commitments; private  (years) - WDI',0.2631,0.08765131,0.020710006,0.2631,5.9541965,0.41886595
+'0835N: GNI per capita; PPP  (current international $) - WDI','0244: PPG; other private creditors  (INT; current US$) - WDI',0.26279,0.25365284,0.017340004,0.26279,5.9541965,0.0955884
+'0835N: GNI per capita; PPP  (current international $) - WDI','0224: Average interest on new external debt commitments; private  (%) - WDI',0.26274,0.09444457,0.021809995,0.26274,5.9541965,0.41023824
+'0835N: GNI per capita; PPP  (current international $) - WDI','0031: Communications; computer; etc.  (% of service imports; BoP) - WDI',0.26221,0.18032457,0.040340006,0.26221,6.321928,0.28615633
+'0835N: GNI per capita; PPP  (current international $) - WDI','1152: Employment to population ratio; 15+; male (%)  (modeled ILO estimate) - WDI',0.26206,0.25526235,0.03333001,0.26014,6.357552,-0.082447894
+'0835N: GNI per capita; PPP  (current international $) - WDI','0128: PPG; bonds  (AMT; current US$) - WDI',0.26199,0.2457033,0.032490015,0.25872,5.9541965,0.12761943
+'0835N: GNI per capita; PPP  (current international $) - WDI','2751: Merchandise trade-Exports-Clothing (US dollar at current prices) - WTO',0.26128,0.2605083,0.045970008,0.26128,6.129283,0.027779385
+'0835N: GNI per capita; PPP  (current international $) - WDI','0362: Electricity production from natural gas sources  (% of total) - WDI',0.26117,0.1746209,0.025519997,0.26117,6.169925,0.29419228
+'0835N: GNI per capita; PPP  (current international $) - WDI','0347: PPG; other private creditors  (TDS; current US$) - WDI',0.26113,0.24960314,0.028860003,0.26113,5.9541965,0.10736326
+'0835N: GNI per capita; PPP  (current international $) - WDI','0312: PPG; other private creditors  (NTR; current US$) - WDI',0.2609,0.2608949,0.046579987,0.2609,5.9541965,0.0022590389
+'0835N: GNI per capita; PPP  (current international $) - WDI','0195: PPG; multilateral  (DOD; current US$) - WDI',0.25999,0.2551859,0.10444,0.25999,5.9541965,0.06931163
+'0835N: GNI per capita; PPP  (current international $) - WDI','0664: General government final consumption expenditure  (constant LCU) - WDI',0.25886,0.25809193,0.078629985,0.25886,6.087463,-0.027713984
+'0835N: GNI per capita; PPP  (current international $) - WDI','0207: External debt stocks; long-term public sector  (DOD; current US$) - WDI',0.25879,0.24601673,0.026899993,0.25879,5.9541965,0.113018855
+'0835N: GNI per capita; PPP  (current international $) - WDI','1733: Crude oil production - TOT (KTOE) - OECD',0.25875,0.2585702,0.057389997,0.25875,5.9541965,0.013409111
+'0835N: GNI per capita; PPP  (current international $) - WDI','0248: Interest arrears; official creditors  (current US$) - WDI',0.25874,0.2511249,0.036019996,0.25874,5.9541965,-0.08726465
+'0835N: GNI per capita; PPP  (current international $) - WDI','0091: Net bilateral aid flows from DAC donors; Switzerland  (current US$) - WDI',0.2581,0.2580667,0.027809992,0.2581,6.0,-0.0057701953
+'0835N: GNI per capita; PPP  (current international $) - WDI','0569: Cost to import  (US$ per container) - WDI',0.258,0.15912795,0.04925999,0.258,6.3923173,-0.31443924
+'0835N: GNI per capita; PPP  (current international $) - WDI','0598: Trademark applications; direct resident - WDI',0.25791,0.25673115,0.04649,0.25385,5.9541965,-0.034334708
+'0835N: GNI per capita; PPP  (current international $) - WDI','0432: Population in largest city - WDI',0.25779,0.25555223,0.08066,0.25779,6.044394,0.047304973
+'0835N: GNI per capita; PPP  (current international $) - WDI','1236: Unemployment; youth male (% of male labor force ages 15-24)  (modeled ILO estimate) - WDI',0.25734,0.25725415,0.05042,0.2553,6.357552,-0.009266518
+'0835N: GNI per capita; PPP  (current international $) - WDI','0226: PPG; bilateral concessional  (INT; current US$) - WDI',0.25717,0.25281322,0.035030007,0.25717,5.9541965,0.0660058
+'0835N: GNI per capita; PPP  (current international $) - WDI','1139: Employment to population ratio; ages 15-24; male (%)  (modeled ILO estimate) - WDI',0.25707,0.24433199,0.052410007,0.25385,6.357552,-0.11286285
+'0835N: GNI per capita; PPP  (current international $) - WDI','0257: Net financial flows; bilateral  (NFL; current US$) - WDI',0.25675,0.25648615,0.08840999,0.25675,5.9541965,-0.01624336
+'0835N: GNI per capita; PPP  (current international $) - WDI','0733: Agriculture; value added  (constant 2005 US$) - WDI',0.25601,0.2555818,0.05111,0.25306,6.357552,0.020693198
+'0835N: GNI per capita; PPP  (current international $) - WDI','0280: PNG; bonds  (NFL; current US$) - WDI',0.25573,0.22807652,0.042469993,0.25573,5.9541965,0.16629335
+'0835N: GNI per capita; PPP  (current international $) - WDI','0282: PPG; other private creditors  (NFL; current US$) - WDI',0.25544,0.25494805,0.04179001,0.25544,5.9541965,0.02217972
+'0835N: GNI per capita; PPP  (current international $) - WDI','0237: PPG; multilateral  (INT; current US$) - WDI',0.25498,0.24539839,0.018000007,0.25498,5.9541965,0.09788572
+'0835N: GNI per capita; PPP  (current international $) - WDI','0741: Manufacturing; value added  (constant LCU) - WDI',0.25479,0.25403726,0.06808001,0.25189,6.2094536,-0.027436044
+'0835N: GNI per capita; PPP  (current international $) - WDI','0685: Final consumption expenditure; etc.  (constant LCU) - WDI',0.25468,0.25279224,0.09521,0.25145,6.129283,-0.04344834
+'0835N: GNI per capita; PPP  (current international $) - WDI','1266: Refugee population by country or territory of origin - WDI',0.25431,0.23795824,0.040250003,0.25199,6.426265,-0.12787405
+'0835N: GNI per capita; PPP  (current international $) - WDI','1359: Ores and metals imports  (% of merchandise imports) - WDI',0.25354,0.21956986,0.026690006,0.25354,6.2479277,0.18430991
+'0835N: GNI per capita; PPP  (current international $) - WDI','0690: Final consumption expenditure  (constant LCU) - WDI',0.25343,0.25148842,0.100750014,0.25013,6.1085243,-0.044063568
+'0835N: GNI per capita; PPP  (current international $) - WDI','1314: Urban population - WDI',0.25287,0.25273776,0.082609996,0.25287,6.426265,-0.011498931
+'0835N: GNI per capita; PPP  (current international $) - WDI','0258: PPG; bilateral concessional  (NFL; current US$) - WDI',0.25273,0.25271916,0.08696002,0.25273,5.9541965,-0.003293763
+'0835N: GNI per capita; PPP  (current international $) - WDI','0655: Armed forces personnel  (% of total labor force) - WDI',0.2526,0.24493322,0.04407999,0.2526,6.2854023,0.08756027
+'0835N: GNI per capita; PPP  (current international $) - WDI','0076: Personal transfers; receipts  (BoP; current US$) - WDI',0.25236,0.24896151,0.062069997,0.24962,6.169925,-0.058296476
+'0835N: GNI per capita; PPP  (current international $) - WDI','0181: Total change in external debt stocks  (current US$) - WDI',0.25178,0.23303263,0.02786,0.25178,5.9541965,0.13692105
+'0835N: GNI per capita; PPP  (current international $) - WDI','0246: Interest arrears; long-term DOD  (US$) - WDI',0.25145,0.2460798,0.037249997,0.25145,5.9541965,-0.073281676
+'0835N: GNI per capita; PPP  (current international $) - WDI','0300: Net transfers on external debt; long-term  (NTR; current US$) - WDI',0.25133,0.23460254,0.088829994,0.25133,5.9541965,0.12933466
+'0835N: GNI per capita; PPP  (current international $) - WDI','1104: Health expenditure; total  (% of GDP) - WDI',0.25115,0.21074967,0.034999996,0.2491,6.426265,0.20099835
+'0835N: GNI per capita; PPP  (current international $) - WDI','0816: Total natural resources rents  (% of GDP) - WDI',0.25074,0.25073776,0.03497,0.24826,6.3923173,-0.0014952344
+'0835N: GNI per capita; PPP  (current international $) - WDI','0113: Net bilateral aid flows from DAC donors; Sweden  (current US$) - WDI',0.25062,0.24929611,0.083000004,0.25062,6.0,-0.03638531
+'0835N: GNI per capita; PPP  (current international $) - WDI','0665: General government final consumption expenditure  (% of GDP) - WDI',0.25014,0.24516179,0.055000007,0.25014,6.357552,0.0705565
+'0835N: GNI per capita; PPP  (current international $) - WDI','1384: Insurance and financial services  (% of commercial service exports) - WDI',0.24986,0.11805919,0.06660001,0.24739,6.2854023,0.3630438
+'0835N: GNI per capita; PPP  (current international $) - WDI','0821: Gross domestic income  (constant LCU) - WDI',0.24941,0.24769753,0.089420006,0.24548,6.129283,-0.041382045
+'0835N: GNI per capita; PPP  (current international $) - WDI','0578: Time required to start a business  (days) - WDI',0.24906,0.22522007,0.028149992,0.24906,6.357552,-0.15440185
+'0835N: GNI per capita; PPP  (current international $) - WDI','0367: Electricity production from renewable sources; excluding hydroelectric  (% of total) - WDI',0.24836,0.22009644,0.025969997,0.24836,6.169925,0.16811769
+'0835N: GNI per capita; PPP  (current international $) - WDI','0420: CO2 emissions from electricity and heat production; total  (% of total fuel combustion) - WDI',0.24808,0.16310997,0.032910004,0.24808,6.169925,0.2914962
+'0835N: GNI per capita; PPP  (current international $) - WDI','0375: Alternative and nuclear energy  (% of total energy use) - WDI',0.24805,0.22599548,0.046440005,0.24805,6.169925,0.14850764
+'0835N: GNI per capita; PPP  (current international $) - WDI','1206: Labor force participation rate for ages 15-24; total (%)  (modeled ILO estimate) - WDI',0.24798,0.24343792,0.034629986,0.24798,6.2479277,-0.06739499
+'0835N: GNI per capita; PPP  (current international $) - WDI','0589: Procedures to build a warehouse  (number) - WDI',0.24791,0.2308816,0.09629999,0.24791,6.357552,-0.13049288
+'0835N: GNI per capita; PPP  (current international $) - WDI','0145: Commitments; private creditors  (COM; current US$) - WDI',0.24667,0.22044669,0.022100002,0.24667,5.9541965,0.16193612
+'0835N: GNI per capita; PPP  (current international $) - WDI','0256: Average maturity on new external debt commitments; private  (years) - WDI',0.24667,0.12568781,0.047690004,0.24667,5.9541965,0.34782493
+'0835N: GNI per capita; PPP  (current international $) - WDI','0587: Total tax rate  (% of commercial profits) - WDI',0.24622,0.19094476,0.07254,0.24622,6.357552,-0.23510687
+'0835N: GNI per capita; PPP  (current international $) - WDI','0732: Agriculture; value added  (current LCU) - WDI',0.24605,0.2434878,0.058180004,0.24365,6.2479277,-0.050618142
+'0835N: GNI per capita; PPP  (current international $) - WDI','0702: Exports of goods and services  (% of GDP) - WDI',0.2447,0.03500101,0.030139998,0.2447,6.3923173,0.45792902
+'0835N: GNI per capita; PPP  (current international $) - WDI','1356: ICT goods imports  (% total goods imports) - WDI',0.24463,0.16850394,0.021359995,0.24226,6.2854023,0.27590948
+'0835N: GNI per capita; PPP  (current international $) - WDI','0663: General government final consumption expenditure  (annual % growth) - WDI',0.24447,0.24087639,0.024629995,0.24194,6.2479277,-0.059946764
+'0835N: GNI per capita; PPP  (current international $) - WDI','0163: Disbursements on external debt; public and publicly guaranteed (PPG)  (DIS; current US$) - WDI',0.24436,0.22748923,0.017930001,0.24436,5.9541965,0.12988754
+'0835N: GNI per capita; PPP  (current international $) - WDI','0184: Use of IMF credit  (DOD; current US$) - WDI',0.24424,0.23363942,0.077769995,0.24424,5.9541965,0.10295909
+'0835N: GNI per capita; PPP  (current international $) - WDI','0310: PNG; bonds  (NTR; current US$) - WDI',0.24375,0.21873753,0.054869995,0.24375,5.9541965,0.15815333
+'0835N: GNI per capita; PPP  (current international $) - WDI','0223: Average interest on new external debt commitments; official  (%) - WDI',0.24317,0.192251,0.060739994,0.24317,5.9541965,0.22565237
+'0835N: GNI per capita; PPP  (current international $) - WDI','0221: Average grant element on new external debt commitments; private  (%) - WDI',0.2424,0.15321845,0.051390007,0.2424,5.9541965,0.29863283
+'0835N: GNI per capita; PPP  (current international $) - WDI','0804: GDP  (constant LCU) - WDI',0.24223,0.24126013,0.061089993,0.24223,6.2854023,-0.031142682
+'0835N: GNI per capita; PPP  (current international $) - WDI','0772: Adjusted savings: particulate emission damage  (current US$) - WDI',0.24214,0.22973406,0.03711,0.24214,6.2094536,0.11138191
+'0835N: GNI per capita; PPP  (current international $) - WDI','0261: Net flows on external debt; long-term  (NFL; current US$) - WDI',0.24161,0.22149436,0.01884,0.24161,5.9541965,0.14182961
+'0835N: GNI per capita; PPP  (current international $) - WDI','0204: PPG; other private creditors  (DOD; current US$) - WDI',0.24109,0.23098467,0.067210004,0.24109,5.9541965,0.10052524
+'0835N: GNI per capita; PPP  (current international $) - WDI','0701: Exports of goods and services  (constant LCU) - WDI',0.24065,0.23822133,0.06194,0.23752,6.129283,-0.049281508
+'0835N: GNI per capita; PPP  (current international $) - WDI','0070: Travel services  (% of service exports; BoP) - WDI',0.24032,0.18239431,0.05482001,0.24032,6.321928,-0.24067757
+'0835N: GNI per capita; PPP  (current international $) - WDI','0150: Currency composition of PPG debt; Multiple currencies  (%) - WDI',0.2402,0.18036997,0.06487,0.2402,5.9541965,-0.24460179
+'0835N: GNI per capita; PPP  (current international $) - WDI','1368: Merchandise imports from low- and middle-income economies in South Asia  (% of total merchandise imports) - WDI',0.24014,0.21913192,0.04098001,0.24014,6.357552,-0.14494169
+'0835N: GNI per capita; PPP  (current international $) - WDI','0217: Average grace period on new external debt commitments; official  (years) - WDI',0.24005,0.18378054,0.050329998,0.24005,5.9541965,-0.23721185
+'0835N: GNI per capita; PPP  (current international $) - WDI','0999: Proportion of seats held by women in national parliaments  (%) - WDI',0.23967,0.21169004,0.04644999,0.23967,6.3923173,0.16727209
+'0835N: GNI per capita; PPP  (current international $) - WDI','0747: Industry; value added  (constant LCU) - WDI',0.2386,0.23757526,0.06161,0.23534,6.2479277,-0.032011632
+'0835N: GNI per capita; PPP  (current international $) - WDI','0846: Net taxes on products  (constant LCU) - WDI',0.23856,0.2372457,0.03564,0.23856,6.087463,0.036253527
+'0835N: GNI per capita; PPP  (current international $) - WDI','0075: Secondary income receipts  (BoP; current US$) - WDI',0.23848,0.22614992,0.060899995,0.23613,6.357552,0.11104089
+'0835N: GNI per capita; PPP  (current international $) - WDI','0149: Currency composition of PPG debt; Japanese yen  (%) - WDI',0.2384,0.21176788,0.027369991,0.2384,5.9541965,0.1631935
+'0835N: GNI per capita; PPP  (current international $) - WDI','0827: GNI  (constant LCU) - WDI',0.23758,0.23607372,0.06599,0.23758,6.087463,-0.0388109
+'0835N: GNI per capita; PPP  (current international $) - WDI','1406: Travel services  (% of commercial service exports) - WDI',0.23758,0.15597469,0.050170004,0.23758,6.321928,-0.28566644
+'0835N: GNI per capita; PPP  (current international $) - WDI','0130: PNG; bonds  (AMT; current US$) - WDI',0.2375,0.2081227,0.07034999,0.2375,5.9541965,0.17139806
+'0835N: GNI per capita; PPP  (current international $) - WDI','1358: Manufactures imports  (% of merchandise imports) - WDI',0.23748,0.12978235,0.017190002,0.23748,6.2479277,0.3281732
+'0835N: GNI per capita; PPP  (current international $) - WDI','0307: PPG; official creditors  (NTR; current US$) - WDI',0.23732,0.23722824,0.06559001,0.23732,5.9541965,0.009579088
+'0835N: GNI per capita; PPP  (current international $) - WDI','0795: Gross value added at factor cost  (current LCU) - WDI',0.23682,0.23681068,0.036130004,0.23682,6.129283,-0.0030505892
+'0835N: GNI per capita; PPP  (current international $) - WDI','0352: Undisbursed external debt; private creditors  (UND; current US$) - WDI',0.23503,0.2159059,0.019379996,0.23503,5.9541965,0.1382899
+'0835N: GNI per capita; PPP  (current international $) - WDI','1370: Merchandise imports by the reporting economy; residual  (% of total merchandise imports) - WDI',0.23475,0.17577225,0.035940006,0.23277,6.3923173,-0.24285336
+'0835N: GNI per capita; PPP  (current international $) - WDI','0335: Public and publicly guaranteed debt service  (% of GNI) - WDI',0.23412,0.22488242,0.03801,0.23412,6.0,0.096112266
+'0835N: GNI per capita; PPP  (current international $) - WDI','0238: PPG; multilateral concessional  (INT; current US$) - WDI',0.23393,0.233272,0.06751001,0.23393,5.9541965,0.025651699
+'0835N: GNI per capita; PPP  (current international $) - WDI','0748: Industry; value added  (% of GDP) - WDI',0.23263,0.19503847,0.041889995,0.23083,6.3923173,0.19388534
+'0835N: GNI per capita; PPP  (current international $) - WDI','0007: Arable land  (hectares per person) - WDI',0.2322,0.23176719,0.07225999,0.22992,6.426265,0.020803943
+'0835N: GNI per capita; PPP  (current international $) - WDI','0831: GNI per capita  (current LCU) - WDI',0.23215,0.2310757,0.050229996,0.23215,6.2854023,-0.032776594
+'0835N: GNI per capita; PPP  (current international $) - WDI','0439: Aquaculture production  (metric tons) - WDI',0.231,0.22765076,0.045840003,0.22839,6.3923173,-0.05787269
+'0835N: GNI per capita; PPP  (current international $) - WDI','1393: Merchandise exports to low- and middle-income economies in Latin America & the Caribbean  (% of total merchandise exports) - WDI',0.23094,0.22115009,0.052550003,0.23094,6.2854023,-0.098944016
+'0835N: GNI per capita; PPP  (current international $) - WDI','0695: Gross national expenditure  (constant LCU) - WDI',0.23062,0.22880541,0.07451999,0.22754,6.129283,-0.04259798
+'0835N: GNI per capita; PPP  (current international $) - WDI','0179: PPG; bilateral concessional  (DOD; current US$) - WDI',0.23002,0.22760485,0.041360006,0.23002,5.9541965,0.049144145
+'0835N: GNI per capita; PPP  (current international $) - WDI','0815: Oil rents  (% of GDP) - WDI',0.22995,0.20456922,0.06552,0.22794,6.3923173,0.15931346
+'0835N: GNI per capita; PPP  (current international $) - WDI','0273: Net financial flows; others  (NFL; current US$) - WDI',0.22991,0.2172302,0.088259995,0.22991,5.9541965,0.112604596
+'0835N: GNI per capita; PPP  (current international $) - WDI','0945: Secondary education; general pupils - WDI',0.22951,0.22743051,0.03888999,0.22951,6.087463,-0.045601387
+'0835N: GNI per capita; PPP  (current international $) - WDI','0684: Final consumption expenditure; etc.  (annual % growth) - WDI',0.22809,0.22280584,0.039560005,0.22809,6.2479277,-0.072692215
+'0835N: GNI per capita; PPP  (current international $) - WDI','0440: Capture fisheries production  (metric tons) - WDI',0.22698,0.22693847,0.061289996,0.22698,6.426265,-0.006444851
+'0835N: GNI per capita; PPP  (current international $) - WDI','0774: Adjusted savings: natural resources depletion  (% of GNI) - WDI',0.22695,0.22584306,0.02809,0.22485,6.357552,-0.033270907
+'0835N: GNI per capita; PPP  (current international $) - WDI','0809: GDP per capita  (current LCU) - WDI',0.22561,0.22445677,0.04716,0.22561,6.2854023,-0.033959243
+'0835N: GNI per capita; PPP  (current international $) - WDI','1382: Fuel exports  (% of merchandise exports) - WDI',0.22504,0.20496808,0.063030005,0.22504,6.2094536,0.14167543
+'0835N: GNI per capita; PPP  (current international $) - WDI','0579: Start-up procedures to register a business  (number) - WDI',0.22433,0.16064239,0.05626999,0.22433,6.357552,-0.25236404
+'0835N: GNI per capita; PPP  (current international $) - WDI','0090: Net bilateral aid flows from DAC donors; European Union institutions  (current US$) - WDI',0.22406,0.22402517,0.052040003,0.22112,6.2094536,0.0059017837
+'0835N: GNI per capita; PPP  (current international $) - WDI','0678: Household final consumption expenditure per capita growth  (annual %) - WDI',0.22265,0.21077459,0.07191999,0.22265,6.2094536,-0.10897439
+'0835N: GNI per capita; PPP  (current international $) - WDI','0484: Deposit interest rate  (%) - WDI',0.22249,0.1462751,0.05601999,0.22249,6.044394,-0.27607045
+'0835N: GNI per capita; PPP  (current international $) - WDI','0263: Net flows on external debt; public and publicly guaranteed (PPG)  (NFL; current US$) - WDI',0.22231,0.20899288,0.071040004,0.22231,5.9541965,0.11539987
+'0835N: GNI per capita; PPP  (current international $) - WDI','0306: PPG; multilateral concessional  (NTR; current US$) - WDI',0.2218,0.22149968,0.047529995,0.2218,5.9541965,-0.017329562
+'0835N: GNI per capita; PPP  (current international $) - WDI','0757: Services; etc.; value added  (annual % growth) - WDI',0.2213,0.20010439,0.05023001,0.2213,6.357552,-0.14558715
+'0835N: GNI per capita; PPP  (current international $) - WDI','1389: Merchandise exports to high-income economies  (% of total merchandise exports) - WDI',0.22122,0.1300241,0.031460002,0.21914,6.3923173,0.30198658
+'0835N: GNI per capita; PPP  (current international $) - WDI','0878: Compulsory education; duration  (years) - WDI',0.22079,0.1706722,0.069570005,0.22079,6.321928,0.22387007
+'0835N: GNI per capita; PPP  (current international $) - WDI','0790: Inflation; GDP deflator  (annual %) - WDI',0.22027,0.1884039,0.052479997,0.22027,6.426265,-0.17851074
+'0835N: GNI per capita; PPP  (current international $) - WDI','0422: CO2 emissions from other sectors; excluding residential buildings and commercial and public services  (% of total fuel combustion) - WDI',0.22004,0.18960266,0.031089991,0.22004,6.169925,-0.17446297
+'0835N: GNI per capita; PPP  (current international $) - WDI','0622: Overall level of statistical capacity  (scale 0 - 100) - WDI',0.21953,0.121212214,0.013429999,0.21679,6.129283,0.31355667
+'0835N: GNI per capita; PPP  (current international $) - WDI','0198: IBRD loans and IDA credits  (DOD; current US$) - WDI',0.21948,0.21833268,0.083069995,0.21948,5.9541965,0.0338721
+'0835N: GNI per capita; PPP  (current international $) - WDI','0478: Money and quasi money  to total reserves ratio (M2) - WDI',0.21899,0.19116338,0.016330004,0.21595,6.129283,0.16681315
+'0835N: GNI per capita; PPP  (current international $) - WDI','0178: PPG; bilateral  (DOD; current US$) - WDI',0.21839,0.21603528,0.030280009,0.21839,5.9541965,0.048525497
+'0835N: GNI per capita; PPP  (current international $) - WDI','0137: Principal forgiven  (current US$) - WDI',0.2183,0.21526802,0.028520003,0.21507,5.9541965,-0.055063486
+'0835N: GNI per capita; PPP  (current international $) - WDI','0826: GNI growth  (annual %) - WDI',0.21761,0.21310243,0.031770006,0.21509,6.2479277,-0.0671384
+'0835N: GNI per capita; PPP  (current international $) - WDI','1102: Health expenditure; public  (% of government expenditure) - WDI',0.21753,0.18553129,0.061450005,0.21753,6.321928,0.17888185
+'0835N: GNI per capita; PPP  (current international $) - WDI','0788: Exports as a capacity to import  (constant LCU) - WDI',0.21725,0.21478957,0.046890005,0.21379,6.129283,-0.049602773
+'0835N: GNI per capita; PPP  (current international $) - WDI','0951: Secondary education; vocational pupils  (% female) - WDI',0.21718,0.21068272,0.02155,0.21402,6.087463,-0.08060571
+'0835N: GNI per capita; PPP  (current international $) - WDI','0709: Gross fixed capital formation  (constant LCU) - WDI',0.21703,0.21533504,0.076110005,0.21703,6.087463,-0.041169897
+'0835N: GNI per capita; PPP  (current international $) - WDI','0298: PPG; bilateral concessional  (NTR; current US$) - WDI',0.21697,0.21423851,0.045599997,0.21697,5.9541965,-0.052263618
+'0835N: GNI per capita; PPP  (current international $) - WDI','0724: Imports of goods and services  (constant LCU) - WDI',0.21669,0.2139566,0.036,0.21308,6.129283,-0.05228202
+'0835N: GNI per capita; PPP  (current international $) - WDI','1328: Import volume index  (2000 = 100) - WDI',0.21621,0.21063863,0.064559996,0.21621,6.2479277,-0.074641615
+'0835N: GNI per capita; PPP  (current international $) - WDI','0669: Household final consumption expenditure; etc.  (annual % growth) - WDI',0.21614,0.21314189,0.034040004,0.21614,6.2094536,-0.05475502
+'0835N: GNI per capita; PPP  (current international $) - WDI','1216: Labor force participation rate; total (% of total population ages 15+)  (national estimate) - WDI',0.21508,0.17437494,0.024320006,0.21151,6.0,0.20175494
+'0835N: GNI per capita; PPP  (current international $) - WDI','0077: Personal remittances; received  (current US$) - WDI',0.21505,0.21486941,0.03519,0.21287,6.357552,0.0134384595
+'0835N: GNI per capita; PPP  (current international $) - WDI','0840: Gross savings  (% of GDP) - WDI',0.21488,0.17286816,0.043580003,0.21191,6.2854023,0.20496792
+'0835N: GNI per capita; PPP  (current international $) - WDI','0364: Electricity production from oil sources  (% of total) - WDI',0.21481,0.18636627,0.028889999,0.21481,6.169925,-0.16865265
+'0835N: GNI per capita; PPP  (current international $) - WDI','0230: IMF charges  (INT; current US$) - WDI',0.21451,0.20287485,0.014569998,0.21451,5.9541965,0.10786632
+'0835N: GNI per capita; PPP  (current international $) - WDI','1392: Merchandise exports to low- and middle-income economies in Europe & Central Asia  (% of total merchandise exports) - WDI',0.21433,0.19096263,0.052149996,0.21433,6.169925,-0.15286392
+'0835N: GNI per capita; PPP  (current international $) - WDI','0675: Household final consumption expenditure  (annual % growth) - WDI',0.21413,0.20982796,0.034380004,0.21413,6.2479277,-0.06558997
+'0835N: GNI per capita; PPP  (current international $) - WDI','0461: Bank liquid reserves to bank assets ratio  (%) - WDI',0.21409,0.17529477,0.01331,0.21409,5.9541965,-0.19696507
+'0835N: GNI per capita; PPP  (current international $) - WDI','0115: Net bilateral aid flows from DAC donors; United States  (current US$) - WDI',0.21406,0.21107975,0.025230005,0.21406,6.169925,-0.054591652
+'0835N: GNI per capita; PPP  (current international $) - WDI','0199: PPG; official creditors  (DOD; current US$) - WDI',0.21394,0.21024585,0.021389991,0.21394,5.9541965,0.060779523
+'0835N: GNI per capita; PPP  (current international $) - WDI','0473: Broad money to total reserves ratio - WDI',0.21391,0.18860506,0.013080001,0.21391,6.087463,0.15907526
+'0835N: GNI per capita; PPP  (current international $) - WDI','0546: Public credit registry coverage  (% of adults) - WDI',0.21371,0.20037887,0.061410002,0.21371,6.2479277,0.11546049
+'0835N: GNI per capita; PPP  (current international $) - WDI','0453: Bank nonperforming loans to total gross loans  (%) - WDI',0.21368,0.14977738,0.014540002,0.21368,6.044394,-0.25278968
+'0835N: GNI per capita; PPP  (current international $) - WDI','0842: Net income from abroad  (current LCU) - WDI',0.21246,0.20931573,0.058429994,0.21246,6.2479277,0.056073796
+'0835N: GNI per capita; PPP  (current international $) - WDI','1373: Import value index  (2000 = 100) - WDI',0.2121,0.19792451,0.074200004,0.2121,6.2479277,-0.119060844
+'0835N: GNI per capita; PPP  (current international $) - WDI','0775: Adjusted savings: gross savings  (% of GNI) - WDI',0.21143,0.07023698,0.0586,0.20898,6.2854023,0.3757566
+'0835N: GNI per capita; PPP  (current international $) - WDI','0839: Gross savings  (% of GNI) - WDI',0.21143,0.07023707,0.0586,0.20898,6.2854023,0.37575647
+'0835N: GNI per capita; PPP  (current international $) - WDI','0475: Money  (current LCU) - WDI',0.21093,0.21020727,0.050040007,0.21093,6.087463,0.026883787
+'0835N: GNI per capita; PPP  (current international $) - WDI','0667: Household final consumption expenditure; etc.  (current LCU) - WDI',0.21081,0.20916414,0.045670003,0.19518,6.169925,-0.040569227
+'0835N: GNI per capita; PPP  (current international $) - WDI','1364: Merchandise imports from low- and middle-income economies in East Asia & Pacific  (% of total merchandise imports) - WDI',0.21072,0.20912288,0.04952,0.21072,6.2479277,-0.039963976
+'0835N: GNI per capita; PPP  (current international $) - WDI','0715: Gross capital formation  (current LCU) - WDI',0.21055,0.20952542,0.03842999,0.21055,6.2094536,-0.032008935
+'0835N: GNI per capita; PPP  (current international $) - WDI','0297: PPG; bilateral  (NTR; current US$) - WDI',0.2104,0.20794997,0.03757,0.2104,5.9541965,-0.049497835
+'0835N: GNI per capita; PPP  (current international $) - WDI','0958: School enrollment; secondary; private  (% of total secondary) - WDI',0.20999,0.19445276,0.025919989,0.20999,6.087463,0.124648415
+'0835N: GNI per capita; PPP  (current international $) - WDI','0098: Net bilateral aid flows from DAC donors; United Kingdom  (current US$) - WDI',0.20937,0.20254089,0.029420003,0.20633,6.129283,-0.08263844
+'0835N: GNI per capita; PPP  (current international $) - WDI','0027: Livestock production index  (2004-2006 = 100) - WDI',0.20874,0.17945978,0.07088001,0.20674,6.426265,-0.17111464
+'0835N: GNI per capita; PPP  (current international $) - WDI','0487: Real interest rate  (%) - WDI',0.20865,0.16007267,0.025429994,0.20553,6.0,-0.22040264
+'0835N: GNI per capita; PPP  (current international $) - WDI','0706: Gross fixed capital formation  (current LCU) - WDI',0.20849,0.2073559,0.039169997,0.20563,6.2094536,-0.033676375
+'0835N: GNI per capita; PPP  (current international $) - WDI','0147: Currency composition of PPG debt; Euro  (%) - WDI',0.20838,0.12332515,0.037320003,0.20838,5.9541965,0.29164165
+'0835N: GNI per capita; PPP  (current international $) - WDI','0777: Adjusted savings: net national savings  (% of GNI) - WDI',0.20804,0.16684134,0.058319997,0.20561,6.2854023,0.20297453
+'0835N: GNI per capita; PPP  (current international $) - WDI','0755: Services; etc.; value added  (current LCU) - WDI',0.20753,0.20716111,0.036170006,0.20466,6.2479277,-0.019206481
+'0835N: GNI per capita; PPP  (current international $) - WDI','0176: External debt stocks; concessional  (DOD; current US$) - WDI',0.20751,0.20700823,0.044129997,0.20751,5.9541965,0.022400126
+'0835N: GNI per capita; PPP  (current international $) - WDI','0673: Household final consumption expenditure  (current LCU) - WDI',0.20628,0.20463754,0.045519993,0.19076,6.169925,-0.040527195
+'0835N: GNI per capita; PPP  (current international $) - WDI','0656: Military expenditure  (current LCU) - WDI',0.20619,0.20571417,0.06683001,0.20619,6.087463,-0.021813583
+'0835N: GNI per capita; PPP  (current international $) - WDI','1255: Unemployment; female (% of female labor force)  (modeled ILO estimate) - WDI',0.20615,0.17697935,0.06723,0.20396,6.357552,-0.17079417
+'0835N: GNI per capita; PPP  (current international $) - WDI','0838: Gross savings  (current LCU) - WDI',0.20607,0.20455235,0.051599994,0.20287,6.129283,-0.03895707
+'0835N: GNI per capita; PPP  (current international $) - WDI','0272: PPG; multilateral concessional  (NFL; current US$) - WDI',0.20602,0.20592476,0.039230004,0.20602,5.9541965,-0.00975841
+'0835N: GNI per capita; PPP  (current international $) - WDI','1391: Merchandise exports to low- and middle-income economies in East Asia & Pacific  (% of total merchandise exports) - WDI',0.20595,0.19856119,0.044759996,0.20595,6.129283,0.085958235
+'0835N: GNI per capita; PPP  (current international $) - WDI','0653: Arms imports  (SIPRI trend indicator values) - WDI',0.20592,0.20579371,0.053339995,0.20592,6.0,-0.011237884
+'0835N: GNI per capita; PPP  (current international $) - WDI','0914: School enrollment; primary; private  (% of total primary) - WDI',0.20582,0.13800558,0.053519994,0.20582,6.2094536,0.260412
+'0835N: GNI per capita; PPP  (current international $) - WDI','1097: Out-of-pocket health expenditure  (% of private expenditure on health) - WDI',0.20569,0.19535764,0.060050003,0.20353,6.426265,-0.101648234
+'0835N: GNI per capita; PPP  (current international $) - WDI','0156: Debt forgiveness or reduction  (current US$) - WDI',0.20531,0.20277554,0.01691001,0.2021,5.9541965,0.050343476
+'0835N: GNI per capita; PPP  (current international $) - WDI','0189: Short-term debt  (% of total reserves) - WDI',0.20499,0.20357451,0.019760005,0.20499,5.9541965,-0.037622973
+'0835N: GNI per capita; PPP  (current international $) - WDI','0276: PPG; official creditors  (NFL; current US$) - WDI',0.20498,0.20296143,0.051919997,0.20498,5.9541965,0.044928446
+'0835N: GNI per capita; PPP  (current international $) - WDI','1265: Refugee population by country or territory of asylum - WDI',0.2046,0.19830942,0.057570003,0.2046,6.2854023,-0.07931325
+'0835N: GNI per capita; PPP  (current international $) - WDI','1208: Labor force participation rate; male (% of male population ages 15-64)  (modeled ILO estimate) - WDI',0.20452,0.1907435,0.048020005,0.20241,6.3923173,0.11737331
+'0835N: GNI per capita; PPP  (current international $) - WDI','0850: Terms of trade adjustment  (constant LCU) - WDI',0.20433,0.2042079,0.068169996,0.20121,6.129283,-0.011049949
+'0835N: GNI per capita; PPP  (current international $) - WDI','0286: Net official flows from UN agencies; UNAIDS  (current US$) - WDI',0.20427,0.20424755,0.057019994,0.20192,6.0,0.0047390787
+'0835N: GNI per capita; PPP  (current international $) - WDI','0102: Net bilateral aid flows from DAC donors; Italy  (current US$) - WDI',0.20379,0.20274524,0.03685999,0.20379,6.0,-0.032322634
+'0835N: GNI per capita; PPP  (current international $) - WDI','0086: Net bilateral aid flows from DAC donors; Australia  (current US$) - WDI',0.20377,0.20360334,0.026,0.20017,5.9541965,-0.012909447
+'0835N: GNI per capita; PPP  (current international $) - WDI','0624: Source data assessment of statistical capacity  (scale 0 - 100) - WDI',0.20366,0.12184938,0.038770005,0.20083,6.129283,0.28602555
+'0835N: GNI per capita; PPP  (current international $) - WDI','0058: Technical cooperation grants  (BoP; current US$) - WDI',0.20349,0.20302488,0.017700002,0.20349,6.0,-0.021566633
+'0835N: GNI per capita; PPP  (current international $) - WDI','0141: Commitments; public and publicly guaranteed  (COM; current US$) - WDI',0.20298,0.18788666,0.01997,0.20298,5.9541965,0.122854985
+'0835N: GNI per capita; PPP  (current international $) - WDI','0824: GNI  (current LCU) - WDI',0.20277,0.20210159,0.030550003,0.20277,6.2854023,-0.025853662
+'0835N: GNI per capita; PPP  (current international $) - WDI','0742: Manufacturing; value added  (% of GDP) - WDI',0.20234,0.20075594,0.06431,0.20007,6.357552,0.03980032
+'0835N: GNI per capita; PPP  (current international $) - WDI','0089: Net bilateral aid flows from DAC donors; Canada  (current US$) - WDI',0.20173,0.196899,0.013279997,0.20173,6.129283,-0.069505416
+'0835N: GNI per capita; PPP  (current international $) - WDI','0441: Total fisheries production  (metric tons) - WDI',0.20151,0.20038585,0.055360004,0.20151,6.426265,-0.033528287
+'0835N: GNI per capita; PPP  (current international $) - WDI','0463: Total reserves  (% of total external debt) - WDI',0.20133,0.18588261,0.06151001,0.20133,6.0,0.12428752
+'0835N: GNI per capita; PPP  (current international $) - WDI','0801: GDP  (current LCU) - WDI',0.20106,0.20031936,0.02944,0.20106,6.2854023,-0.027214633
+'0835N: GNI per capita; PPP  (current international $) - WDI','1257: Unemployment; male (% of male labor force)  (modeled ILO estimate) - WDI',0.20092,0.18245223,0.057830006,0.19868,6.357552,-0.13589615
+'0835N: GNI per capita; PPP  (current international $) - WDI','0060: ICT service exports  (% of service exports; BoP) - WDI',0.20091,0.17818706,0.041050002,0.20091,6.2094536,0.15074132
+'0835N: GNI per capita; PPP  (current international $) - WDI','0216: Average grace period on new external debt commitments  (years) - WDI',0.20081,0.19116205,0.07754,0.20081,5.9541965,0.098223984
+'0835N: GNI per capita; PPP  (current international $) - WDI','0770: Adjusted savings: energy depletion  (current US$) - WDI',0.20081,0.16119659,0.04306999,0.20081,6.2854023,0.19903116
+'0835N: GNI per capita; PPP  (current international $) - WDI','0744: Industry; value added  (current LCU) - WDI',0.20068,0.19988087,0.02696,0.19784,6.2479277,-0.028268933
+'0835N: GNI per capita; PPP  (current international $) - WDI','1363: Merchandise imports from low- and middle-income economies outside region  (% of total merchandise imports) - WDI',0.20026,0.1849383,0.029070005,0.20026,6.2854023,0.12378087
+'0835N: GNI per capita; PPP  (current international $) - WDI','0350: Undisbursed external debt; total  (UND; current US$) - WDI',0.20003,0.19398354,0.021279998,0.20003,5.9541965,0.077758946
+'0835N: GNI per capita; PPP  (current international $) - WDI','0803: GDP growth  (annual %) - WDI',0.19951,0.19404188,0.04232,0.19951,6.426265,-0.07394666
+'0835N: GNI per capita; PPP  (current international $) - WDI','0718: Gross capital formation  (constant LCU) - WDI',0.19946,0.19764698,0.044060007,0.19641,6.129283,-0.042579614
+'0835N: GNI per capita; PPP  (current international $) - WDI','0096: Net bilateral aid flows from DAC donors; Finland  (current US$) - WDI',0.19901,0.19518909,0.025690004,0.19597,6.044394,-0.061813492
+'0835N: GNI per capita; PPP  (current international $) - WDI','0107: Net bilateral aid flows from DAC donors; Norway  (current US$) - WDI',0.19874,0.19700602,0.03988,0.19585,6.044394,-0.041641105
+'0835N: GNI per capita; PPP  (current international $) - WDI','0799: Mineral rents  (% of GDP) - WDI',0.19808,0.16161406,0.02865,0.19808,6.426265,-0.19096057
+'0835N: GNI per capita; PPP  (current international $) - WDI','1395: Merchandise exports to low- and middle-income economies in South Asia  (% of total merchandise exports) - WDI',0.19767,0.18808705,0.02222,0.19497,6.357552,-0.097892515
+'0835N: GNI per capita; PPP  (current international $) - WDI','0738: Manufacturing; value added  (current LCU) - WDI',0.1963,0.19552018,0.031100005,0.19303,6.2094536,-0.027925337
+'0835N: GNI per capita; PPP  (current international $) - WDI','0126: PPG; multilateral concessional  (AMT; current US$) - WDI',0.19584,0.19508313,0.037310004,0.19584,5.9541965,0.027511451
+'0835N: GNI per capita; PPP  (current international $) - WDI','0785: Adjusted net savings; including particulate emission damage  (% of GNI) - WDI',0.19574,0.14269707,0.039780006,0.19574,6.169925,0.23031053
+'0835N: GNI per capita; PPP  (current international $) - WDI','0479: Money and quasi money growth  (annual %) - WDI',0.19572,0.17845614,0.02939,0.19292,6.129283,-0.13139202
+'0835N: GNI per capita; PPP  (current international $) - WDI','1401: Computer; communications and other services  (% of commercial service exports) - WDI',0.19566,0.17551042,0.035160005,0.19343,6.357552,0.14194918
+'0835N: GNI per capita; PPP  (current international $) - WDI','1259: Unemployment; total (% of total labor force)  (modeled ILO estimate) - WDI',0.19538,0.16644175,0.05973001,0.19297,6.357552,-0.17011246
+'0835N: GNI per capita; PPP  (current international $) - WDI','0731: Agriculture; value added  (current US$) - WDI',0.19534,0.19528657,0.04432,0.19534,6.3923173,-0.007309175
+'0835N: GNI per capita; PPP  (current international $) - WDI','0093: Net bilateral aid flows from DAC donors; Germany  (current US$) - WDI',0.19498,0.19432236,0.035929997,0.19239,6.169925,-0.025644239
+'0835N: GNI per capita; PPP  (current international $) - WDI','0419: CO2 emissions from residential buildings and commercial and public services  (% of total fuel combustion) - WDI',0.19495,0.19488436,0.037769996,0.19495,6.169925,0.008101694
+'0835N: GNI per capita; PPP  (current international $) - WDI','0780: Adjusted net national income  (annual % growth) - WDI',0.19465,0.19334853,0.03762,0.19202,6.2094536,-0.036075827
+'0835N: GNI per capita; PPP  (current international $) - WDI','0471: Broad money  (current LCU) - WDI',0.19446,0.19429338,0.0392,0.1916,6.129283,0.012908175
+'0835N: GNI per capita; PPP  (current international $) - WDI','1365: Merchandise imports from low- and middle-income economies in Europe & Central Asia  (% of total merchandise imports) - WDI',0.19437,0.16044769,0.049319997,0.16903,6.169925,-0.1841801
+'0835N: GNI per capita; PPP  (current international $) - WDI','0468: Net domestic credit  (current LCU) - WDI',0.19413,0.19412957,0.029450003,0.19413,6.2094536,-6.5858016E-4
+'0835N: GNI per capita; PPP  (current international $) - WDI','0024: Cereal production  (metric tons) - WDI',0.19406,0.19280617,0.03246,0.19406,6.357552,0.035409544
+'0835N: GNI per capita; PPP  (current international $) - WDI','0938: Lower secondary school starting age  (years) - WDI',0.194,0.19022332,0.1115,0.194,6.2854023,-0.061454765
+'0835N: GNI per capita; PPP  (current international $) - WDI','0087: Net bilateral aid flows from DAC donors; Austria  (current US$) - WDI',0.19368,0.19362324,0.06515001,0.19081,6.044394,0.0075339274
+'0835N: GNI per capita; PPP  (current international $) - WDI','0359: Electricity production from oil; gas and coal sources  (% of total) - WDI',0.19363,0.17630562,0.036599994,0.19363,6.169925,0.1316221
+'0835N: GNI per capita; PPP  (current international $) - WDI','0040: Travel services  (% of service imports; BoP) - WDI',0.19354,0.18194619,0.022090003,0.19136,6.357552,0.10767459
+'0835N: GNI per capita; PPP  (current international $) - WDI','0333: Debt service  (PPG and IMF only; % of exports of goods; services and primary income) - WDI',0.19342,0.18731588,0.023180008,0.19342,5.9541965,0.07812885
+'0835N: GNI per capita; PPP  (current international $) - WDI','0305: PPG; multilateral  (NTR; current US$) - WDI',0.19337,0.19133319,0.058660008,0.19337,5.9541965,0.045131072
+'0835N: GNI per capita; PPP  (current international $) - WDI','0807: Natural gas rents  (% of GDP) - WDI',0.19307,0.17586742,0.04393,0.19104,6.3923173,0.13115859
+'0835N: GNI per capita; PPP  (current international $) - WDI','0769: Adjusted savings: mineral depletion  (% of GNI) - WDI',0.19293,0.15299678,0.022570007,0.19293,6.426265,-0.19983296
+'0835N: GNI per capita; PPP  (current international $) - WDI','0845: Net taxes on products  (current LCU) - WDI',0.19289,0.19248228,0.035520002,0.19289,6.129283,0.020192375
+'0835N: GNI per capita; PPP  (current international $) - WDI','0688: Final consumption expenditure  (current LCU) - WDI',0.19287,0.19144863,0.03412,0.18982,6.169925,-0.037701108
+'0835N: GNI per capita; PPP  (current international $) - WDI','1386: Ores and metals exports  (% of merchandise exports) - WDI',0.1928,0.15989415,0.048960004,0.1901,6.2479277,-0.18139969
+'0835N: GNI per capita; PPP  (current international $) - WDI','1367: Merchandise imports from low- and middle-income economies in Middle East & North Africa  (% of total merchandise imports) - WDI',0.19242,0.19058569,0.059290007,0.1904,6.357552,-0.042828854
+'0835N: GNI per capita; PPP  (current international $) - WDI','0661: General government final consumption expenditure  (current LCU) - WDI',0.19221,0.19170552,0.035370007,0.18907,6.2094536,-0.022460708
+'0835N: GNI per capita; PPP  (current international $) - WDI','0169: PPG; official creditors  (DIS; current US$) - WDI',0.1921,0.18515843,0.018800005,0.1921,5.9541965,0.083316065
+'0835N: GNI per capita; PPP  (current international $) - WDI','0104: Net bilateral aid flows from DAC donors; Korea; Rep.  (current US$) - WDI',0.1918,0.19148117,0.06599,0.1918,6.087463,-0.017855532
+'0835N: GNI per capita; PPP  (current international $) - WDI','0476: Money and quasi money (M2)  (current LCU) - WDI',0.191,0.19083492,0.041109994,0.18775,6.129283,0.012848322
+'0835N: GNI per capita; PPP  (current international $) - WDI','0576: Procedures to register property  (number) - WDI',0.19097,0.1438276,0.052600004,0.18913,6.357552,-0.217123
+'0835N: GNI per capita; PPP  (current international $) - WDI','0026: Food production index  (2004-2006 = 100) - WDI',0.19054,0.14165412,0.0361,0.19054,6.426265,-0.22110151
+'0835N: GNI per capita; PPP  (current international $) - WDI','1399: Merchandise exports to low- and middle-income economies within region  (% of total merchandise exports) - WDI',0.19027,0.1029065,0.022850007,0.19027,6.0,-0.29557317
+'0835N: GNI per capita; PPP  (current international $) - WDI','0167: PPG; multilateral  (DIS; current US$) - WDI',0.18915,0.18025371,0.018919997,0.18915,5.9541965,0.09432015
+'0835N: GNI per capita; PPP  (current international $) - WDI','0474: Broad money growth  (annual %) - WDI',0.1889,0.17225847,0.037259996,0.1889,6.087463,-0.12900206
+'0835N: GNI per capita; PPP  (current international $) - WDI','0682: Final consumption expenditure; etc.  (current LCU) - WDI',0.1887,0.18731464,0.033759996,0.1887,6.2094536,-0.037220385
+'0835N: GNI per capita; PPP  (current international $) - WDI','0721: Imports of goods and services  (current LCU) - WDI',0.18861,0.18681559,0.025629997,0.18861,6.2479277,-0.042360492
+'0835N: GNI per capita; PPP  (current international $) - WDI','0061: Communications; computer; etc.  (% of service exports; BoP) - WDI',0.18852,0.18794444,0.04094,0.18619,6.357552,0.02399091
+'0835N: GNI per capita; PPP  (current international $) - WDI','0771: Adjusted savings: energy depletion  (% of GNI) - WDI',0.18844,0.17626007,0.037339993,0.18844,6.426265,0.110362686
+'0835N: GNI per capita; PPP  (current international $) - WDI','0271: Net financial flows; multilateral  (NFL; current US$) - WDI',0.18819,0.18376565,0.04062,0.18819,5.9541965,0.06651581
+'0835N: GNI per capita; PPP  (current international $) - WDI','0635: Mobile cellular subscriptions - WDI',0.18777,0.18769722,0.03865,0.18568,6.426265,-0.008530676
+'0835N: GNI per capita; PPP  (current international $) - WDI','0341: PPG; multilateral concessional  (TDS; current US$) - WDI',0.18755,0.18681706,0.028079987,0.18755,5.9541965,0.027072685
+'0835N: GNI per capita; PPP  (current international $) - WDI','0787: Adjusted net savings; excluding particulate emission damage  (% of GNI) - WDI',0.18721,0.14569592,0.047330007,0.18721,6.2094536,0.20375
+'0835N: GNI per capita; PPP  (current international $) - WDI','0154: Currency composition of PPG debt; Pound sterling  (%) - WDI',0.18661,0.1838118,0.029549994,0.18661,5.9541965,-0.052897945
+'0835N: GNI per capita; PPP  (current international $) - WDI','0025: Crop production index  (2004-2006 = 100) - WDI',0.18649,0.14701246,0.029339999,0.18649,6.426265,-0.19868955
+'0835N: GNI per capita; PPP  (current international $) - WDI','0792: Discrepancy in expenditure estimate of GDP  (current LCU) - WDI',0.18631,0.18630528,0.059800006,0.18337,6.2094536,0.0021686824
+'0835N: GNI per capita; PPP  (current international $) - WDI','1397: Merchandise exports by the reporting economy; residual  (% of total merchandise exports) - WDI',0.18552,0.16990232,0.02697,0.18343,6.3923173,-0.12497065
+'0835N: GNI per capita; PPP  (current international $) - WDI','0730: Trade  (% of GDP) - WDI',0.18519,0.09793522,0.03537,0.18519,6.3923173,0.2953892
+'0835N: GNI per capita; PPP  (current international $) - WDI','1390: Merchandise exports to low- and middle-income economies outside region  (% of total merchandise exports) - WDI',0.1842,0.17062865,0.028720006,0.1842,6.2854023,0.11649616
+'0835N: GNI per capita; PPP  (current international $) - WDI','1258: Unemployment; total (% of total labor force)  (national estimate) - WDI',0.18348,0.108738475,0.05623,0.18348,6.0,-0.27338895
+'0835N: GNI per capita; PPP  (current international $) - WDI','1379: Export volume index  (2000 = 100) - WDI',0.18347,0.17803313,0.06565999,0.18347,6.2479277,-0.073735125
+'0835N: GNI per capita; PPP  (current international $) - WDI','0712: Changes in inventories  (current LCU) - WDI',0.18318,0.18284851,0.028760001,0.17999,6.169925,-0.018207029
+'0835N: GNI per capita; PPP  (current international $) - WDI','0351: Undisbursed external debt; official creditors  (UND; current US$) - WDI',0.18302,0.17840688,0.01354,0.18302,5.9541965,0.06791993
+'0835N: GNI per capita; PPP  (current international $) - WDI','1771: Primary energy supply - TOT (TOE_1000USD) - OECD',0.18204,0.16002473,0.054450005,0.17734,5.97728,-0.14837544
+'0835N: GNI per capita; PPP  (current international $) - WDI','0168: PPG; multilateral concessional  (DIS; current US$) - WDI',0.182,0.18199395,0.01799,0.182,5.9541965,0.0024584797
+'0835N: GNI per capita; PPP  (current international $) - WDI','1377: Travel services  (% of commercial service imports) - WDI',0.18195,0.1740472,0.013499998,0.17947,6.357552,0.08889766
+'0835N: GNI per capita; PPP  (current international $) - WDI','0377: Energy use (kg of oil equivalent) per $1;000 GDP  (constant 2011 PPP) - WDI',0.18137,0.14402989,0.02014,0.17877,6.2094536,-0.1932359
+'0835N: GNI per capita; PPP  (current international $) - WDI','1320: International tourism; receipts  (% of total exports) - WDI',0.18106,0.1738568,0.03942,0.17911,6.357552,-0.084871665
+'0835N: GNI per capita; PPP  (current international $) - WDI','1353: Agricultural raw materials imports  (% of merchandise imports) - WDI',0.18101,0.16760238,0.027519986,0.18101,6.2479277,-0.11579126
+'0835N: GNI per capita; PPP  (current international $) - WDI','0464: Total reserves in months of imports - WDI',0.18052,0.17978472,0.019769996,0.18052,6.321928,-0.027115999
+'0835N: GNI per capita; PPP  (current international $) - WDI','1387: Merchandise exports to economies in the Arab World  (% of total merchandise exports) - WDI',0.17998,0.17889099,0.028970003,0.17733,6.357552,-0.033000104
+'0835N: GNI per capita; PPP  (current international $) - WDI','0693: Gross national expenditure  (current LCU) - WDI',0.17943,0.17839451,0.038700007,0.17943,6.2479277,-0.032178897
+'0835N: GNI per capita; PPP  (current international $) - WDI','1366: Merchandise imports from low- and middle-income economies in Latin America & the Caribbean  (% of total merchandise imports) - WDI',0.17891,0.16163442,0.03231,0.17891,6.2854023,-0.13143663
+'0835N: GNI per capita; PPP  (current international $) - WDI','1360: Merchandise imports from economies in the Arab World  (% of total merchandise imports) - WDI',0.17791,0.17757167,0.050230004,0.17791,6.321928,-0.018393768
+'0835N: GNI per capita; PPP  (current international $) - WDI','0469: Net foreign assets  (current LCU) - WDI',0.17779,0.17680946,0.01563,0.17779,6.2094536,-0.03131353
+'0835N: GNI per capita; PPP  (current international $) - WDI','0698: Exports of goods and services  (current LCU) - WDI',0.17725,0.17571302,0.026209995,0.17725,6.2479277,-0.039204262
+'0835N: GNI per capita; PPP  (current international $) - WDI','0275: IFC; private nonguaranteed  (NFL; current US$) - WDI',0.17704,0.17428735,0.041710004,0.17704,5.9541965,0.052465644
+'0835N: GNI per capita; PPP  (current international $) - WDI','0370: GDP per unit of energy use  (constant 2011 PPP $ per kg of oil equivalent) - WDI',0.1767,0.17551637,0.020159997,0.17411,6.2094536,0.03440392
+'0835N: GNI per capita; PPP  (current international $) - WDI','1091: Tuberculosis treatment success rate  (% of new cases) - WDI',0.17537,0.14503658,0.08304999,0.17537,6.321928,-0.1741649
+'0835N: GNI per capita; PPP  (current international $) - WDI','0157: PPG; bilateral  (DIS; current US$) - WDI',0.17536,0.17171684,0.03181,0.17536,5.9541965,0.060358595
+'0835N: GNI per capita; PPP  (current international $) - WDI','0369: GDP per unit of energy use  (PPP $ per kg of oil equivalent) - WDI',0.1753,0.17372212,0.015179999,0.17275,6.2094536,0.039722558
+'0835N: GNI per capita; PPP  (current international $) - WDI','0153: Currency composition of PPG debt; Swiss franc  (%) - WDI',0.17517,0.16910528,0.03536001,0.17517,5.9541965,-0.077876374
+'0835N: GNI per capita; PPP  (current international $) - WDI','0097: Net bilateral aid flows from DAC donors; France  (current US$) - WDI',0.17483,0.17334796,0.03295,0.17188,6.169925,-0.038497187
+'0835N: GNI per capita; PPP  (current international $) - WDI','0174: PPG; other private creditors  (DIS; current US$) - WDI',0.17441,0.16163106,0.025969997,0.17125,5.9541965,0.113043964
+'0835N: GNI per capita; PPP  (current international $) - WDI','1355: Fuel imports  (% of merchandise imports) - WDI',0.17415,0.1306887,0.06052,0.17415,6.2479277,-0.20847374
+'0835N: GNI per capita; PPP  (current international $) - WDI','1400: Export value index  (2000 = 100) - WDI',0.17291,0.16746847,0.052070007,0.17291,6.2479277,-0.0737667
+'0835N: GNI per capita; PPP  (current international $) - WDI','0247: Net change in interest arrears  (current US$) - WDI',0.17262,0.17227815,0.04765001,0.17262,5.9541965,0.018489016
+'0835N: GNI per capita; PPP  (current international $) - WDI','1378: Net barter terms of trade index  (2000 = 100) - WDI',0.17194,0.16971116,0.02144,0.17194,6.2479277,0.047210556
+'0835N: GNI per capita; PPP  (current international $) - WDI','0883: Preprimary education; duration  (years) - WDI',0.17193,0.16994303,0.12755,0.17193,6.426265,-0.044575416
+'0835N: GNI per capita; PPP  (current international $) - WDI','1100: Health expenditure; private  (% of GDP) - WDI',0.17164,0.14442493,0.021949992,0.16945,6.426265,-0.1649699
+'0835N: GNI per capita; PPP  (current international $) - WDI','0768: Adjusted savings: mineral depletion  (current US$) - WDI',0.17088,0.17069863,0.062810004,0.17088,6.2854023,0.013467356
+'0835N: GNI per capita; PPP  (current international $) - WDI','0183: External debt stocks  (% of GNI) - WDI',0.17036,0.16963625,0.01306,0.16686,5.9541965,-0.026902705
+'0835N: GNI per capita; PPP  (current international $) - WDI','0708: Gross fixed capital formation  (annual % growth) - WDI',0.17017,0.15390837,0.021280006,0.16785,6.2479277,-0.12752105
+'0835N: GNI per capita; PPP  (current international $) - WDI','0481: Consumer price index  (2010 = 100) - WDI',0.16934,0.16731831,0.05412,0.16934,6.2094536,0.044963073
+'0835N: GNI per capita; PPP  (current international $) - WDI','0034: Insurance and financial services  (% of service imports; BoP) - WDI',0.16802,0.14230123,0.015700001,0.1656,6.357552,0.1603707
+'0835N: GNI per capita; PPP  (current international $) - WDI','1326: International tourism; expenditures  (% of total imports) - WDI',0.16698,0.13165689,0.026659995,0.16698,6.357552,0.18794446
+'0835N: GNI per capita; PPP  (current international $) - WDI','0330: IMF repurchases and charges  (TDS; current US$) - WDI',0.16634,0.15612741,0.021299988,0.16634,5.9541965,0.101057306
+'0835N: GNI per capita; PPP  (current international $) - WDI','0158: PPG; bilateral concessional  (DIS; current US$) - WDI',0.16537,0.1623572,0.02798,0.16537,5.9541965,0.054889075
+'0835N: GNI per capita; PPP  (current international $) - WDI','0144: Commitments; official creditors  (COM; current US$) - WDI',0.1648,0.15973388,0.018630005,0.1648,5.9541965,0.07117675
+'0835N: GNI per capita; PPP  (current international $) - WDI','1327: Merchandise trade  (% of GDP) - WDI',0.16421,0.12130225,0.027240008,0.16211,6.426265,0.20714189
+'0835N: GNI per capita; PPP  (current international $) - WDI','0069: Transport services  (% of service exports; BoP) - WDI',0.16343,0.14771451,0.02972,0.16343,6.321928,0.12536147
+'0835N: GNI per capita; PPP  (current international $) - WDI','0891: Primary school starting age  (years) - WDI',0.16326,0.14871137,0.12827,0.16326,6.2854023,-0.12061771
+'0835N: GNI per capita; PPP  (current international $) - WDI','0833: GNI per capita growth  (annual %) - WDI',0.16087,0.15141721,0.027959999,0.15832,6.2479277,-0.09722547
+'0835N: GNI per capita; PPP  (current international $) - WDI','0489: Claims on central government; etc.  (% GDP) - WDI',0.16042,0.14976972,0.013510004,0.1583,6.357552,-0.103200145
+'0835N: GNI per capita; PPP  (current international $) - WDI','0591: Investment in telecoms with private participation  (current US$) - WDI',0.16041,0.15875289,0.028669998,0.16041,6.0,0.040707715
+'0835N: GNI per capita; PPP  (current international $) - WDI','0713: Changes in inventories  (constant LCU) - WDI',0.16005,0.15982814,0.024180003,0.1569,6.044394,0.014895202
+'0835N: GNI per capita; PPP  (current international $) - WDI','0783: Adjusted net national income per capita  (annual % growth) - WDI',0.1597,0.15665072,0.033480003,0.15693,6.2094536,-0.05522039
+'0835N: GNI per capita; PPP  (current international $) - WDI','0268: Net financial flows; IMF nonconcessional  (NFL; current US$) - WDI',0.15946,0.15899041,0.026159994,0.15706,6.0,-0.021669894
+'0835N: GNI per capita; PPP  (current international $) - WDI','1405: Transport services  (% of commercial service exports) - WDI',0.15833,0.15277752,0.019919999,0.15833,6.321928,0.07451487
+'0835N: GNI per capita; PPP  (current international $) - WDI','0895: Primary education; duration  (years) - WDI',0.15606,0.155845,0.12728,0.15606,6.426265,0.014662555
+'0835N: GNI per capita; PPP  (current international $) - WDI','0095: Net bilateral aid flows from DAC donors; Spain  (current US$) - WDI',0.15559,0.15556219,0.02115,0.15241,6.044394,-0.0052730576
+'0835N: GNI per capita; PPP  (current international $) - WDI','0793: Discrepancy in expenditure estimate of GDP  (constant LCU) - WDI',0.1553,0.15514797,0.028139997,0.15181,6.044394,-0.012330459
+'0835N: GNI per capita; PPP  (current international $) - WDI','0811: GDP per capita growth  (annual %) - WDI',0.1551,0.14327306,0.035800003,0.1551,6.426265,-0.108751796
+'0835N: GNI per capita; PPP  (current international $) - WDI','0719: Gross capital formation  (% of GDP) - WDI',0.154,0.15136631,0.032029994,0.154,6.357552,-0.051319458
+'0835N: GNI per capita; PPP  (current international $) - WDI','0657: Military expenditure  (% of GDP) - WDI',0.1525,0.12795699,0.017460002,0.1525,6.2479277,0.15666209
+'0835N: GNI per capita; PPP  (current international $) - WDI','0030: Trade in services  (% of GDP) - WDI',0.15241,0.10342835,0.022419997,0.15031,6.357552,0.22131798
+'0835N: GNI per capita; PPP  (current international $) - WDI','0700: Exports of goods and services  (annual % growth) - WDI',0.15224,0.1502834,0.030669995,0.14973,6.2854023,-0.04423336
+'0835N: GNI per capita; PPP  (current international $) - WDI','0746: Industry; value added  (annual % growth) - WDI',0.15135,0.1360947,0.01182,0.15135,6.357552,-0.123512365
+'0835N: GNI per capita; PPP  (current international $) - WDI','0717: Gross capital formation  (annual % growth) - WDI',0.15083,0.1421714,0.009460002,0.15083,6.2479277,-0.09305163
+'0835N: GNI per capita; PPP  (current international $) - WDI','1357: Insurance and financial services  (% of commercial service imports) - WDI',0.14956,0.12736095,0.02067,0.14734,6.357552,0.14899346
+'0835N: GNI per capita; PPP  (current international $) - WDI','0723: Imports of goods and services  (annual % growth) - WDI',0.1477,0.1448422,0.032339998,0.145,6.2854023,-0.053458292
+'0835N: GNI per capita; PPP  (current international $) - WDI','1394: Merchandise exports to low- and middle-income economies in Middle East & North Africa  (% of total merchandise exports) - WDI',0.14724,0.1463338,0.023490004,0.14478,6.357552,-0.03010307
+'0835N: GNI per capita; PPP  (current international $) - WDI','0421: CO2 emissions from manufacturing industries and construction  (% of total fuel combustion) - WDI',0.1472,0.14374267,0.014540002,0.1472,6.169925,-0.058799163
+'0835N: GNI per capita; PPP  (current international $) - WDI','0470: Claims on private sector  (annual growth as % of broad money) - WDI',0.1461,0.14572366,0.019350007,0.14335,6.129283,-0.01939958
+'0835N: GNI per capita; PPP  (current international $) - WDI','0789: Coal rents  (% of GDP) - WDI',0.14433,0.13795054,0.04507999,0.14433,6.426265,-0.0798715
+'0835N: GNI per capita; PPP  (current international $) - WDI','0136: Principal arrears; private creditors  (current US$) - WDI',0.14403,0.14397378,0.016110003,0.14403,5.9541965,0.0074980115
+'0835N: GNI per capita; PPP  (current international $) - WDI','0725: Imports of goods and services  (% of GDP) - WDI',0.14398,0.13724744,0.02239,0.14398,6.3923173,0.08205218
+'0835N: GNI per capita; PPP  (current international $) - WDI','0623: Periodicity and timeliness assessment of statistical capacity  (scale 0 - 100) - WDI',0.14339,0.1433288,0.047399998,0.14061,6.129283,0.007822571
+'0835N: GNI per capita; PPP  (current international $) - WDI','0710: Gross fixed capital formation  (% of GDP) - WDI',0.14284,0.14214192,0.020060003,0.14086,6.357552,-0.026421133
+'0835N: GNI per capita; PPP  (current international $) - WDI','0249: Interest arrears; private creditors  (current US$) - WDI',0.14163,0.14049533,0.023340002,0.14163,5.9541965,-0.0336848
+'0835N: GNI per capita; PPP  (current international $) - WDI','0740: Manufacturing; value added  (annual % growth) - WDI',0.141,0.1362267,0.007469997,0.141,6.321928,-0.06908915
+'0835N: GNI per capita; PPP  (current international $) - WDI','2774: Merchandise trade-Imports-Total merchandise (Unit value index - Prev. year = 100) - WTO',0.14019,0.13606986,0.044170003,0.14019,6.2479277,-0.06418832
+'0835N: GNI per capita; PPP  (current international $) - WDI','0466: Claims on central government  (annual growth as % of broad money) - WDI',0.13874,0.13551854,0.01416,0.13874,6.087463,-0.056757934
+'0835N: GNI per capita; PPP  (current international $) - WDI','0734: Agriculture; value added  (annual % growth) - WDI',0.13756,0.13141493,0.011830002,0.13756,6.357552,-0.07839048
+'0835N: GNI per capita; PPP  (current international $) - WDI','0942: Secondary education; duration  (years) - WDI',0.13457,0.13200152,0.07785,0.13457,6.426265,0.050680164
+'0835N: GNI per capita; PPP  (current international $) - WDI','2773: Merchandise trade-Exports-Total merchandise (Volume index - Previous year = 100) - WTO',0.12718,0.12258194,0.029460002,0.12718,6.2479277,-0.06780898
+'0835N: GNI per capita; PPP  (current international $) - WDI','0072: Foreign direct investment; net inflows  (% of GDP) - WDI',0.11903,0.10956115,0.017959997,0.11903,6.426265,0.09730798
+'0835N: GNI per capita; PPP  (current international $) - WDI','2775: Merchandise trade-Imports-Total merchandise (Value index - Previous year = 100) - WTO',0.11879,0.11109869,0.015329998,0.11621,6.2854023,-0.08770011
+'0835N: GNI per capita; PPP  (current international $) - WDI','2776: Merchandise trade-Imports-Total merchandise (Volume index - Previous year = 100) - WTO',0.11865,0.11274007,0.013519995,0.11865,6.2479277,-0.07687605
+'0835N: GNI per capita; PPP  (current international $) - WDI','2772: Merchandise trade-Exports-Total merchandise (Value index - Previous year = 100) - WTO',0.11688,0.11068025,0.013859998,0.11482,6.2854023,-0.078738466
+'0835N: GNI per capita; PPP  (current international $) - WDI','2771: Merchandise trade-Exports-Total merchandise (Unit value index - Prev. year = 100) - WTO',0.11111,0.109296136,0.018590003,0.11111,6.2479277,-0.04258952

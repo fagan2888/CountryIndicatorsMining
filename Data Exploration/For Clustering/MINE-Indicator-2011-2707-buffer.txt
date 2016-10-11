@@ -1,0 +1,74 @@
+=== Run information ===
+
+Scheme:weka.clusterers.EM -I 100 -N -1 -M 1.0E-6 -S 100
+Relation:     MINE-Indicator-2011-2707
+Instances:    691
+Attributes:   8
+              MIC
+              MIC-p2
+              MAS
+              MEV
+              MCN
+              p
+Ignored:
+              XVar
+              YVar
+Test mode:evaluate on training data
+
+=== Model and evaluation on training set ===
+
+
+EM
+==
+
+Number of clusters selected by cross validation: 8
+
+
+            Cluster
+Attribute         0       1       2       3       4       5       6       7
+             (0.07)  (0.11)  (0.18)  (0.08)  (0.05)  (0.11)  (0.27)  (0.14)
+============================================================================
+MIC
+  mean        0.6033  0.6026   0.298  0.3707  0.3535  0.3567  0.2372  0.4065
+  std. dev.   0.0992  0.0945  0.0198  0.0413  0.1102  0.0338  0.0229  0.0412
+
+MIC-p2
+  mean        0.1279  0.0803  0.2729  0.2287  0.2627  0.1903  0.2198  0.3171
+  std. dev.   0.1821  0.1045  0.0296  0.0832  0.1375  0.0552   0.029  0.0405
+
+MAS
+  mean        0.0807  0.0722  0.0679  0.0577  0.1496  0.0694   0.038  0.1048
+  std. dev.   0.0402   0.031  0.0248  0.0193  0.0411  0.0235  0.0148  0.0285
+
+MEV
+  mean        0.5913  0.5921   0.287   0.359  0.3413   0.346  0.2268  0.3944
+  std. dev.   0.0987   0.095    0.02  0.0414  0.1126  0.0341  0.0222  0.0437
+
+MCN
+  mean        4.4102  4.3306  4.3035  4.3084  4.2229  4.2984  4.3052  4.2764
+  std. dev.   0.0782  0.1153  0.1012  0.1084    0.23  0.0955  0.1026  0.0862
+
+p
+  mean        0.6607 -0.7166  0.0033  0.3559  0.0204 -0.4032  0.0352 -0.2839
+  std. dev.   0.1971  0.0933  0.1584  0.1235  0.3006   0.062   0.127  0.0939
+
+
+
+Time taken to build model (full training data) : 18.41 seconds
+
+=== Model and evaluation on training set ===
+
+Clustered Instances
+
+0       46 (  7%)
+1       76 ( 11%)
+2      125 ( 18%)
+3       56 (  8%)
+4       33 (  5%)
+5       74 ( 11%)
+6      183 ( 26%)
+7       98 ( 14%)
+
+
+Log likelihood: 7.35534
+

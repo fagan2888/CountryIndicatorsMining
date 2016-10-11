@@ -1,0 +1,948 @@
+@relation MINE-Indicator-2006TO2013-0811_clustered
+
+@attribute Instance_number numeric
+@attribute XVar string
+@attribute YVar string
+@attribute MIC numeric
+@attribute MIC-p2 numeric
+@attribute MAS numeric
+@attribute MEV numeric
+@attribute MCN numeric
+@attribute p numeric
+@attribute Cluster {cluster0,cluster1,cluster2,cluster3,cluster4,cluster5,cluster6,cluster7,cluster8}
+
+@data
+0,'0811N: GDP per capita growth  (annual \%) - WDI','0811: GDP per capita growth  (annual \%) - WDI',0.27459,0.266042,0.02317,0.27459,6.459432,0.092457,cluster5
+1,'0811N: GDP per capita growth  (annual \%) - WDI','0833: GNI per capita growth  (annual \%) - WDI',0.25476,0.246072,0.00876,0.25476,6.247928,0.09321,cluster5
+2,'0811N: GDP per capita growth  (annual \%) - WDI','0826: GNI growth  (annual \%) - WDI',0.2534,0.248556,0.03182,0.2534,6.247928,0.069601,cluster5
+3,'0811N: GDP per capita growth  (annual \%) - WDI','0832: GNI per capita  (constant 2005 US$) - WDI',0.24762,0.208881,0.08001,0.24477,6.209454,-0.196821,cluster5
+4,'0811N: GDP per capita growth  (annual \%) - WDI','0677: Household final consumption expenditure per capita  (constant 2005 US$) - WDI',0.2464,0.17171,0.07412,0.2464,6.209454,-0.273294,cluster5
+5,'0811N: GDP per capita growth  (annual \%) - WDI','0803: GDP growth  (annual \%) - WDI',0.24634,0.24148,0.01092,0.24634,6.459432,0.06971,cluster5
+6,'0811N: GDP per capita growth  (annual \%) - WDI','0782: Adjusted net national income per capita  (constant 2005 US$) - WDI',0.24209,0.197116,0.09067,0.24209,6.169925,-0.212071,cluster5
+7,'0811N: GDP per capita growth  (annual \%) - WDI','0757: Services; etc.; value added  (annual \% growth) - WDI',0.24066,0.143067,0.00822,0.23823,6.392317,0.312399,cluster5
+8,'0811N: GDP per capita growth  (annual \%) - WDI','0379: Electric power consumption  (kWh per capita) - WDI',0.23552,0.200838,0.05541,0.23552,6.169925,-0.18623,cluster5
+9,'0811N: GDP per capita growth  (annual \%) - WDI','0435: Population in urban agglomerations of more than 1 million  (\% of total population) - WDI',0.2326,0.2267,0.10803,0.22838,6,-0.076812,cluster5
+10,'0811N: GDP per capita growth  (annual \%) - WDI','0353: Agriculture value added per worker  (constant 2005 US$) - WDI',0.22197,0.173896,0.07254,0.2194,6.357552,-0.219257,cluster5
+11,'0811N: GDP per capita growth  (annual \%) - WDI','1433: Air and GHG emissions - CO2 (TONNE_CAP) - OECD',0.2199,0.1834,0.03144,0.21643,6,-0.191049,cluster5
+12,'0811N: GDP per capita growth  (annual \%) - WDI','1167: GDP per person employed  (constant 2011 PPP $) - WDI',0.2141,0.167177,0.05116,0.2141,6.357552,-0.216618,cluster5
+13,'0811N: GDP per capita growth  (annual \%) - WDI','1340: Tariff rate; applied; simple mean; all products  (\%) - WDI',0.21269,0.201774,0.0503,0.21269,6.044394,0.104479,cluster5
+14,'0811N: GDP per capita growth  (annual \%) - WDI','0836: GNI per capita; PPP  (constant 2011 international $) - WDI',0.21193,0.185686,0.05493,0.21193,6.247928,-0.162001,cluster5
+15,'0811N: GDP per capita growth  (annual \%) - WDI','0016: Forest area  (sq. km) - WDI',0.21183,0.211477,0.08459,0.20872,6.459432,0.018787,cluster5
+16,'0811N: GDP per capita growth  (annual \%) - WDI','0017: Forest area  (\% of land area) - WDI',0.20965,0.209647,0.09579,0.20722,6.459432,-0.001792,cluster5
+17,'0811N: GDP per capita growth  (annual \%) - WDI','0736: Agriculture; value added  (\% of GDP) - WDI',0.20959,0.188296,0.05413,0.20959,6.392317,0.145924,cluster5
+18,'0811N: GDP per capita growth  (annual \%) - WDI','0004: Agricultural land  (sq. km) - WDI',0.20419,0.202655,0.07965,0.20167,6.459432,0.039178,cluster5
+19,'0811N: GDP per capita growth  (annual \%) - WDI','0783: Adjusted net national income per capita  (annual \% growth) - WDI',0.20409,0.204082,0.01012,0.20409,6.209454,-0.002743,cluster5
+20,'0811N: GDP per capita growth  (annual \%) - WDI','0781: Adjusted net national income per capita  (current US$) - WDI',0.20363,0.157845,0.05965,0.20363,6.357552,-0.213975,cluster5
+21,'0811N: GDP per capita growth  (annual \%) - WDI','0896: Primary education; pupils - WDI',0.20255,0.194902,0.06178,0.20013,6.357552,0.08745,cluster5
+22,'0811N: GDP per capita growth  (annual \%) - WDI','0779: Adjusted net national income  (constant 2005 US$) - WDI',0.20165,0.199722,0.07376,0.20165,6.169925,-0.043908,cluster5
+23,'0811N: GDP per capita growth  (annual \%) - WDI','0980: School enrollment; tertiary; male  (\% gross) - WDI',0.20101,0.185207,0.04689,0.19769,6.129283,-0.12571,cluster5
+24,'0811N: GDP per capita growth  (annual \%) - WDI','1310: Rural population - WDI',0.20088,0.194594,0.06409,0.20088,6.459432,0.079287,cluster5
+25,'0811N: GDP per capita growth  (annual \%) - WDI','0780: Adjusted net national income  (annual \% growth) - WDI',0.20049,0.200212,0.00703,0.20049,6.209454,-0.016684,cluster5
+26,'0811N: GDP per capita growth  (annual \%) - WDI','0020: Land area  (sq. km) - WDI',0.20047,0.200014,0.08205,0.20047,6.459432,0.021347,cluster5
+27,'0811N: GDP per capita growth  (annual \%) - WDI','0678: Household final consumption expenditure per capita growth  (annual \%) - WDI',0.19955,0.14095,0.01789,0.19955,6.209454,0.242075,cluster5
+28,'0811N: GDP per capita growth  (annual \%) - WDI','0746: Industry; value added  (annual \% growth) - WDI',0.19917,0.129773,0.0053,0.19701,6.392317,0.263433,cluster5
+29,'0811N: GDP per capita growth  (annual \%) - WDI','0055: Net secondary income  (BoP; current US$) - WDI',0.1981,0.186564,0.03528,0.19567,6.247928,0.107405,cluster5
+30,'0811N: GDP per capita growth  (annual \%) - WDI','0670: Household final consumption expenditure; etc.  (constant LCU) - WDI',0.19762,0.194663,0.06102,0.19762,6.087463,0.054377,cluster5
+31,'0811N: GDP per capita growth  (annual \%) - WDI','1333: Tariff rate; most favored nation; simple mean; manufactured products  (\%) - WDI',0.19712,0.187709,0.03364,0.19712,6.044394,0.09701,cluster5
+32,'0811N: GDP per capita growth  (annual \%) - WDI','0676: Household final consumption expenditure  (constant LCU) - WDI',0.19698,0.193729,0.0642,0.19317,6.129283,0.057021,cluster5
+33,'0811N: GDP per capita growth  (annual \%) - WDI','0825: GNI  (constant 2005 US$) - WDI',0.19536,0.193281,0.05932,0.19221,6.209454,-0.045601,cluster5
+34,'0811N: GDP per capita growth  (annual \%) - WDI','1099: Health expenditure per capita; PPP  (constant 2011 international $) - WDI',0.1942,0.160768,0.04359,0.1942,6.426265,-0.182843,cluster2
+35,'0811N: GDP per capita growth  (annual \%) - WDI','0380: Energy use  (kg of oil equivalent per capita) - WDI',0.194,0.156842,0.02315,0.19147,6.247928,-0.192764,cluster5
+36,'0811N: GDP per capita growth  (annual \%) - WDI','0306: PPG; multilateral concessional  (NTR; current US$) - WDI',0.19385,0.190275,0.04254,0.19385,5.954197,0.059788,cluster5
+37,'0811N: GDP per capita growth  (annual \%) - WDI','0810: GDP per capita  (constant 2005 US$) - WDI',0.19339,0.163056,0.05228,0.19339,6.459432,-0.174167,cluster2
+38,'0811N: GDP per capita growth  (annual \%) - WDI','0847: Net current transfers from abroad  (current US$) - WDI',0.19339,0.191112,0.02898,0.1906,6.169925,0.047727,cluster5
+39,'0811N: GDP per capita growth  (annual \%) - WDI','0953: School enrollment; secondary; female  (\% gross) - WDI',0.19322,0.164731,0.02363,0.19322,6.209454,-0.168788,cluster5
+40,'0811N: GDP per capita growth  (annual \%) - WDI','0927: Primary education; teachers - WDI',0.19299,0.186168,0.04936,0.19299,6.209454,0.082598,cluster5
+41,'0811N: GDP per capita growth  (annual \%) - WDI','1093: Incidence of tuberculosis  (per 100;000 people) - WDI',0.19272,0.181757,0.01679,0.19069,6.426265,0.104702,cluster5
+42,'0811N: GDP per capita growth  (annual \%) - WDI','0225: PPG; bilateral  (INT; current US$) - WDI',0.19269,0.182499,0.05289,0.19269,5.954197,0.100951,cluster5
+43,'0811N: GDP per capita growth  (annual \%) - WDI','0855: Price level ratio of PPP conversion factor  to market exchange rate (GDP) - WDI',0.19207,0.146619,0.02896,0.18979,6.321928,-0.213194,cluster5
+44,'0811N: GDP per capita growth  (annual \%) - WDI','1098: Health expenditure per capita  (current US$) - WDI',0.19204,0.161487,0.0385,0.19204,6.426265,-0.174795,cluster2
+45,'0811N: GDP per capita growth  (annual \%) - WDI','0971: Secondary education; teachers - WDI',0.19145,0.185266,0.04594,0.19145,6,0.078636,cluster5
+46,'0811N: GDP per capita growth  (annual \%) - WDI','1336: Tariff rate; most favored nation; weighted mean; manufactured products  (\%) - WDI',0.19144,0.189865,0.03756,0.19144,6.044394,0.039681,cluster5
+47,'0811N: GDP per capita growth  (annual \%) - WDI','0759: Services; etc.; value added  (\% of GDP) - WDI',0.19133,0.17027,0.04596,0.19133,6.392317,-0.14512,cluster2
+48,'0811N: GDP per capita growth  (annual \%) - WDI','0176: External debt stocks; concessional  (DOD; current US$) - WDI',0.19122,0.181015,0.03203,0.19122,5.954197,0.101022,cluster5
+49,'0811N: GDP per capita growth  (annual \%) - WDI','2809: Balance of Payments-Exports-Telecommunications services (US dollar at current prices) - WTO',0.1899,0.177374,0.03577,0.18607,6,-0.11192,cluster5
+50,'0811N: GDP per capita growth  (annual \%) - WDI','0952: School enrollment; secondary  (\% gross) - WDI',0.18983,0.161073,0.02592,0.18723,6.247928,-0.169579,cluster5
+51,'0811N: GDP per capita growth  (annual \%) - WDI','0028: Surface area  (sq. km) - WDI',0.18966,0.189202,0.07048,0.18966,6.459432,0.021397,cluster5
+52,'0811N: GDP per capita growth  (annual \%) - WDI','1060: Improved sanitation facilities; urban  (\% of urban population with access) - WDI',0.18966,0.182514,0.05849,0.18781,6.426265,-0.084537,cluster2
+53,'0811N: GDP per capita growth  (annual \%) - WDI','1025: Number of neonatal deaths - WDI',0.18915,0.184822,0.03962,0.18915,6.357552,0.065789,cluster5
+54,'0811N: GDP per capita growth  (annual \%) - WDI','0642: Secure Internet servers  (per 1 million people) - WDI',0.189,0.171778,0.01459,0.18704,6.426265,-0.131233,cluster2
+55,'0811N: GDP per capita growth  (annual \%) - WDI','1332: Tariff rate; applied; simple mean; manufactured products  (\%) - WDI',0.18877,0.178126,0.03088,0.18877,6.044394,0.103168,cluster5
+56,'0811N: GDP per capita growth  (annual \%) - WDI','0735: Agriculture; value added  (constant LCU) - WDI',0.1882,0.18438,0.04851,0.18567,6.247928,0.061803,cluster5
+57,'0811N: GDP per capita growth  (annual \%) - WDI','0342: PPG; official creditors  (TDS; current US$) - WDI',0.18751,0.178507,0.04447,0.18751,5.954197,0.094884,cluster5
+58,'0811N: GDP per capita growth  (annual \%) - WDI','0674: Household final consumption expenditure  (constant 2005 US$) - WDI',0.18703,0.183258,0.06084,0.18703,6.209454,-0.061414,cluster5
+59,'0811N: GDP per capita growth  (annual \%) - WDI','0638: Fixed telephone subscriptions  (per 100 people) - WDI',0.1869,0.167192,0.0556,0.18482,6.459432,-0.140387,cluster2
+60,'0811N: GDP per capita growth  (annual \%) - WDI','0932: Children out of school; primary - WDI',0.18683,0.18185,0.02727,0.18683,6.129283,0.070567,cluster5
+61,'0811N: GDP per capita growth  (annual \%) - WDI','0474: Broad money growth  (annual \%) - WDI',0.18677,0.141318,0.01807,0.18394,6.129283,0.213195,cluster5
+62,'0811N: GDP per capita growth  (annual \%) - WDI','0814: GDP per capita; PPP  (constant 2011 international $) - WDI',0.18633,0.156768,0.04902,0.18417,6.459432,-0.171935,cluster2
+63,'0811N: GDP per capita growth  (annual \%) - WDI','0199: PPG; official creditors  (DOD; current US$) - WDI',0.18615,0.176924,0.03772,0.18615,5.954197,0.096052,cluster5
+64,'0811N: GDP per capita growth  (annual \%) - WDI','1339: Share of tariff lines with international peaks; all products  (\%) - WDI',0.18516,0.182546,0.02727,0.18516,6.044394,0.051124,cluster5
+65,'0811N: GDP per capita growth  (annual \%) - WDI','0490: Claims on other sectors of the domestic economy  (\% of GDP) - WDI',0.1849,0.131019,0.01997,0.1849,6.129283,-0.232123,cluster5
+66,'0811N: GDP per capita growth  (annual \%) - WDI','0808: GDP per capita  (current US$) - WDI',0.18401,0.153083,0.04842,0.18401,6.459432,-0.175859,cluster2
+67,'0811N: GDP per capita growth  (annual \%) - WDI','0690: Final consumption expenditure  (constant LCU) - WDI',0.1837,0.180501,0.05201,0.17994,6.129283,0.056559,cluster5
+68,'0811N: GDP per capita growth  (annual \%) - WDI','1023: Number of under-five deaths - WDI',0.18325,0.179588,0.03209,0.18325,6.357552,0.060514,cluster5
+69,'0811N: GDP per capita growth  (annual \%) - WDI','1341: Tariff rate; most favored nation; simple mean; all products  (\%) - WDI',0.18309,0.174622,0.02307,0.18309,6.044394,0.092019,cluster5
+70,'0811N: GDP per capita growth  (annual \%) - WDI','0848: Net current transfers from abroad  (current LCU) - WDI',0.18298,0.182494,0.03528,0.18022,6.169925,-0.022042,cluster5
+71,'0811N: GDP per capita growth  (annual \%) - WDI','0683: Final consumption expenditure; etc.  (constant 2005 US$) - WDI',0.18247,0.178125,0.05348,0.18247,6.209454,-0.065919,cluster5
+72,'0811N: GDP per capita growth  (annual \%) - WDI','0226: PPG; bilateral concessional  (INT; current US$) - WDI',0.18209,0.171568,0.03916,0.18209,5.954197,0.102577,cluster6
+73,'0811N: GDP per capita growth  (annual \%) - WDI','0179: PPG; bilateral concessional  (DOD; current US$) - WDI',0.182,0.170721,0.04265,0.182,5.954197,0.1062,cluster6
+74,'0811N: GDP per capita growth  (annual \%) - WDI','0943: Secondary education; pupils - WDI',0.18173,0.172964,0.03849,0.18173,6.247928,0.093629,cluster8
+75,'0811N: GDP per capita growth  (annual \%) - WDI','0945: Secondary education; general pupils - WDI',0.18159,0.163502,0.03812,0.17827,6.129283,0.134493,cluster8
+76,'0811N: GDP per capita growth  (annual \%) - WDI','0797: Gross value added at factor cost  (constant LCU) - WDI',0.18152,0.180836,0.06204,0.18152,6.129283,0.026147,cluster5
+77,'0811N: GDP per capita growth  (annual \%) - WDI','0796: Gross value added at factor cost  (constant 2005 US$) - WDI',0.18129,0.175419,0.03269,0.17876,6.247928,-0.076625,cluster8
+78,'0811N: GDP per capita growth  (annual \%) - WDI','0378: Combustible renewables and waste  (\% of total energy) - WDI',0.18084,0.172651,0.02208,0.17833,6.209454,0.090492,cluster8
+79,'0811N: GDP per capita growth  (annual \%) - WDI','0685: Final consumption expenditure; etc.  (constant LCU) - WDI',0.18084,0.177853,0.05279,0.18084,6.129283,0.054652,cluster5
+80,'0811N: GDP per capita growth  (annual \%) - WDI','0479: Money and quasi money growth  (annual \%) - WDI',0.18069,0.134806,0.01469,0.18069,6.129283,0.214204,cluster5
+81,'0811N: GDP per capita growth  (annual \%) - WDI','0640: Fixed broadband subscriptions  (per 100 people) - WDI',0.18057,0.158801,0.03829,0.18057,6.392317,-0.147543,cluster2
+82,'0811N: GDP per capita growth  (annual \%) - WDI','0668: Household final consumption expenditure; etc.  (constant 2005 US$) - WDI',0.18045,0.17572,0.04737,0.17763,6.209454,-0.068775,cluster8
+83,'0811N: GDP per capita growth  (annual \%) - WDI','1348: Tariff rate; applied; simple mean; primary products  (\%) - WDI',0.18,0.16979,0.0411,0.18,6.044394,0.101042,cluster8
+84,'0811N: GDP per capita growth  (annual \%) - WDI','0423: CO2 emissions from transport  (\% of total fuel combustion) - WDI',0.1793,0.179229,0.07334,0.17665,6.209454,-0.008441,cluster5
+85,'0811N: GDP per capita growth  (annual \%) - WDI','0006: Arable land  (hectares) - WDI',0.17922,0.174749,0.0465,0.1763,6.321928,0.066863,cluster8
+86,'0811N: GDP per capita growth  (annual \%) - WDI','0844: Net taxes on products  (current US$) - WDI',0.17893,0.172579,0.04869,0.17568,6.169925,-0.079691,cluster8
+87,'0811N: GDP per capita growth  (annual \%) - WDI','0326: PPG; bilateral concessional  (TDS; current US$) - WDI',0.17892,0.167869,0.0448,0.17892,5.954197,0.105122,cluster6
+88,'0811N: GDP per capita growth  (annual \%) - WDI','1898: Fixed-telephone subscriptions per 100 inhabitants - ITU',0.17863,0.16058,0.04707,0.17863,6.285402,-0.13435,cluster8
+89,'0811N: GDP per capita growth  (annual \%) - WDI','0724: Imports of goods and services  (constant LCU) - WDI',0.17837,0.17569,0.05669,0.17837,6.129283,0.051771,cluster5
+90,'0811N: GDP per capita growth  (annual \%) - WDI','0334: Debt service on external debt; public and publicly guaranteed (PPG)  (TDS; current US$) - WDI',0.17825,0.171745,0.04446,0.17825,5.954197,0.080654,cluster6
+91,'0811N: GDP per capita growth  (annual \%) - WDI','0198: IBRD loans and IDA credits  (DOD; current US$) - WDI',0.17805,0.168031,0.04458,0.17456,6,0.100093,cluster6
+92,'0811N: GDP per capita growth  (annual \%) - WDI','0813: GDP per capita; PPP  (current international $) - WDI',0.17801,0.148291,0.04158,0.17595,6.459432,-0.172391,cluster2
+93,'0811N: GDP per capita growth  (annual \%) - WDI','0351: Undisbursed external debt; official creditors  (UND; current US$) - WDI',0.17776,0.171436,0.02465,0.17776,5.954197,0.079523,cluster6
+94,'0811N: GDP per capita growth  (annual \%) - WDI','1344: Tariff rate; most favored nation; weighted mean; all products  (\%) - WDI',0.17745,0.175046,0.02497,0.17745,6.044394,0.049031,cluster8
+95,'0811N: GDP per capita growth  (annual \%) - WDI','1051: Lifetime risk of maternal death  (\%) - WDI',0.17732,0.17694,0.03914,0.175,6.426265,0.019485,cluster2
+96,'0811N: GDP per capita growth  (annual \%) - WDI','0972: Secondary education; teachers; female - WDI',0.17727,0.173062,0.04275,0.17727,5.954197,0.064867,cluster6
+97,'0811N: GDP per capita growth  (annual \%) - WDI','0851: DEC alternative conversion factor  (LCU per US$) - WDI',0.17715,0.172825,0.02898,0.17715,6.321928,0.065764,cluster8
+98,'0811N: GDP per capita growth  (annual \%) - WDI','1347: Share of tariff lines with international peaks; primary products  (\%) - WDI',0.1771,0.173675,0.03673,0.1771,6.044394,0.058521,cluster8
+99,'0811N: GDP per capita growth  (annual \%) - WDI','0694: Gross national expenditure  (constant 2005 US$) - WDI',0.17704,0.175028,0.04261,0.17401,6.247928,-0.044858,cluster8
+100,'0811N: GDP per capita growth  (annual \%) - WDI','0739: Manufacturing; value added  (constant 2005 US$) - WDI',0.17694,0.171829,0.03885,0.17694,6.285402,-0.071491,cluster8
+101,'0811N: GDP per capita growth  (annual \%) - WDI','0300: Net transfers on external debt; long-term  (NTR; current US$) - WDI',0.17681,0.174656,0.01215,0.17681,5.954197,0.046409,cluster6
+102,'0811N: GDP per capita growth  (annual \%) - WDI','0954: School enrollment; secondary; male  (\% gross) - WDI',0.17677,0.146451,0.0168,0.17677,6.209454,-0.174123,cluster8
+103,'0811N: GDP per capita growth  (annual \%) - WDI','1021: Number of infant deaths - WDI',0.17673,0.172808,0.02732,0.17673,6.357552,0.062628,cluster8
+104,'0811N: GDP per capita growth  (annual \%) - WDI','0350: Undisbursed external debt; total  (UND; current US$) - WDI',0.17668,0.170595,0.02431,0.17668,5.954197,0.078007,cluster6
+105,'0811N: GDP per capita growth  (annual \%) - WDI','0693: Gross national expenditure  (current LCU) - WDI',0.17641,0.175771,0.0367,0.17374,6.285402,0.025271,cluster8
+106,'0811N: GDP per capita growth  (annual \%) - WDI','1331: Share of tariff lines with international peaks; manufactured products  (\%) - WDI',0.17641,0.173555,0.02392,0.17641,6.044394,0.053428,cluster8
+107,'0811N: GDP per capita growth  (annual \%) - WDI','0598: Trademark applications; direct resident - WDI',0.17622,0.172664,0.03565,0.17259,6,0.059631,cluster6
+108,'0811N: GDP per capita growth  (annual \%) - WDI','0654: Armed forces personnel; total - WDI',0.17605,0.172589,0.04636,0.17605,6.321928,0.058831,cluster8
+109,'0811N: GDP per capita growth  (annual \%) - WDI','0934: Children out of school; female  (\% of female primary school age) - WDI',0.17602,0.174088,0.03785,0.17302,6.087463,-0.04395,cluster8
+110,'0811N: GDP per capita growth  (annual \%) - WDI','0973: Secondary education; teachers  (\% female) - WDI',0.17596,0.166249,0.02246,0.17596,5.954197,-0.098543,cluster8
+111,'0811N: GDP per capita growth  (annual \%) - WDI','1304: Population; total - WDI',0.17579,0.171529,0.04452,0.17579,6.459432,0.065274,cluster2
+112,'0811N: GDP per capita growth  (annual \%) - WDI','0713: Changes in inventories  (constant LCU) - WDI',0.17561,0.175297,0.0527,0.17561,6.044394,-0.017684,cluster8
+113,'0811N: GDP per capita growth  (annual \%) - WDI','1232: Labor force; total - WDI',0.1754,0.171125,0.05867,0.1754,6.392317,0.065386,cluster2
+114,'0811N: GDP per capita growth  (annual \%) - WDI','0204: PPG; other private creditors  (DOD; current US$) - WDI',0.17539,0.16204,0.02159,0.17539,5.954197,0.115544,cluster6
+115,'0811N: GDP per capita growth  (annual \%) - WDI','1289: Survival to age 65; female  (\% of cohort) - WDI',0.17522,0.172021,0.0495,0.17522,6.426265,-0.056564,cluster2
+116,'0811N: GDP per capita growth  (annual \%) - WDI','1231: Labor force; female  (\% of total labor force) - WDI',0.17509,0.173476,0.07048,0.17509,6.392317,0.040177,cluster2
+117,'0811N: GDP per capita growth  (annual \%) - WDI','0928: Primary education; teachers  (\% female) - WDI',0.17504,0.173259,0.02452,0.17504,6.169925,-0.042205,cluster8
+118,'0811N: GDP per capita growth  (annual \%) - WDI','0675: Household final consumption expenditure  (annual \% growth) - WDI',0.17491,0.136166,0.00995,0.17219,6.285402,0.196834,cluster8
+119,'0811N: GDP per capita growth  (annual \%) - WDI','0827: GNI  (constant LCU) - WDI',0.17466,0.173067,0.0447,0.17173,6.129283,0.039916,cluster8
+120,'0811N: GDP per capita growth  (annual \%) - WDI','0132: PPG; other private creditors  (AMT; current US$) - WDI',0.17459,0.15627,0.02183,0.17459,5.954197,0.135352,cluster6
+121,'0811N: GDP per capita growth  (annual \%) - WDI','0299: Net transfers on external debt; total  (NTR; current US$) - WDI',0.17458,0.167564,0.01969,0.17458,5.954197,0.083764,cluster6
+122,'0811N: GDP per capita growth  (annual \%) - WDI','0740: Manufacturing; value added  (annual \% growth) - WDI',0.17435,0.146309,0.01306,0.17226,6.357552,0.167456,cluster8
+123,'0811N: GDP per capita growth  (annual \%) - WDI','0802: GDP  (constant 2005 US$) - WDI',0.1737,0.172462,0.0522,0.1737,6.459432,-0.035189,cluster2
+124,'0811N: GDP per capita growth  (annual \%) - WDI','0195: PPG; multilateral  (DOD; current US$) - WDI',0.17345,0.165614,0.02796,0.17345,5.954197,0.088522,cluster6
+125,'0811N: GDP per capita growth  (annual \%) - WDI','0684: Final consumption expenditure; etc.  (annual \% growth) - WDI',0.17334,0.13433,0.01196,0.171,6.285402,0.197509,cluster8
+126,'0811N: GDP per capita growth  (annual \%) - WDI','0856: PPP conversion factor; private consumption  (LCU per international $) - WDI',0.17331,0.170317,0.03715,0.1708,6.247928,0.054709,cluster8
+127,'0811N: GDP per capita growth  (annual \%) - WDI','0930: Adjusted net enrollment rate; primary; female  (\% of primary school age children) - WDI',0.17321,0.171277,0.03599,0.17033,6.087463,0.043968,cluster8
+128,'0811N: GDP per capita growth  (annual \%) - WDI','0798: Forest rents  (\% of GDP) - WDI',0.1732,0.170079,0.03238,0.17106,6.426265,0.055867,cluster2
+129,'0811N: GDP per capita growth  (annual \%) - WDI','0669: Household final consumption expenditure; etc.  (annual \% growth) - WDI',0.17312,0.152056,0.01177,0.17061,6.247928,0.145136,cluster8
+130,'0811N: GDP per capita growth  (annual \%) - WDI','0818: Gross domestic savings  (current LCU) - WDI',0.17297,0.17255,0.04213,0.17048,6.247928,0.020494,cluster8
+131,'0811N: GDP per capita growth  (annual \%) - WDI','1350: Share of tariff lines with specific rates; primary products  (\%) - WDI',0.17297,0.140468,0.04709,0.17297,6.044394,-0.180283,cluster8
+132,'0811N: GDP per capita growth  (annual \%) - WDI','1432: Air and GHG emissions - CO2 (MLN_TONNE) - OECD',0.17278,0.17278,0.03969,0.16879,6,-0.000501,cluster8
+133,'0811N: GDP per capita growth  (annual \%) - WDI','0238: PPG; multilateral concessional  (INT; current US$) - WDI',0.17273,0.167123,0.03964,0.17273,5.954197,0.074883,cluster6
+134,'0811N: GDP per capita growth  (annual \%) - WDI','0184: Use of IMF credit  (DOD; current US$) - WDI',0.17271,0.167368,0.03452,0.17271,5.954197,0.073092,cluster6
+135,'0811N: GDP per capita growth  (annual \%) - WDI','0795: Gross value added at factor cost  (current LCU) - WDI',0.17267,0.172654,0.03019,0.16971,6.169925,0.00399,cluster8
+136,'0811N: GDP per capita growth  (annual \%) - WDI','0454: Automated teller machines (ATMs)  (per 100;000 adults) - WDI',0.17261,0.152751,0.02319,0.17261,6.357552,-0.140923,cluster8
+137,'0811N: GDP per capita growth  (annual \%) - WDI','1286: Life expectancy at birth; total  (years) - WDI',0.17241,0.16633,0.04486,0.17241,6.426265,-0.077972,cluster2
+138,'0811N: GDP per capita growth  (annual \%) - WDI','0937: Children out of school  (\% of primary school age) - WDI',0.17215,0.171396,0.02985,0.17215,6.129283,-0.027467,cluster8
+139,'0811N: GDP per capita growth  (annual \%) - WDI','0747: Industry; value added  (constant LCU) - WDI',0.17208,0.169434,0.05153,0.16889,6.247928,0.051436,cluster8
+140,'0811N: GDP per capita growth  (annual \%) - WDI','0207: External debt stocks; long-term public sector  (DOD; current US$) - WDI',0.17185,0.164875,0.0215,0.17185,5.954197,0.083519,cluster6
+141,'0811N: GDP per capita growth  (annual \%) - WDI','0700: Exports of goods and services  (annual \% growth) - WDI',0.17181,0.171496,0.02069,0.16956,6.285402,0.017728,cluster8
+142,'0811N: GDP per capita growth  (annual \%) - WDI','0756: Services; etc.; value added  (constant 2005 US$) - WDI',0.1718,0.168044,0.04713,0.1718,6.321928,-0.061286,cluster8
+143,'0811N: GDP per capita growth  (annual \%) - WDI','0257: Net financial flows; bilateral  (NFL; current US$) - WDI',0.17169,0.171385,0.03282,0.17169,5.954197,-0.017471,cluster8
+144,'0811N: GDP per capita growth  (annual \%) - WDI','0777: Adjusted savings: net national savings  (\% of GNI) - WDI',0.17165,0.130922,0.02441,0.17165,6.285402,0.201813,cluster8
+145,'0811N: GDP per capita growth  (annual \%) - WDI','0281: PNG; commercial banks and other creditors  (NFL; current US$) - WDI',0.17155,0.169308,0.02406,0.17155,5.954197,0.047354,cluster6
+146,'0811N: GDP per capita growth  (annual \%) - WDI','0853: PPP conversion factor; GDP  (LCU per international $) - WDI',0.17153,0.168752,0.03721,0.16921,6.321928,0.052706,cluster8
+147,'0811N: GDP per capita growth  (annual \%) - WDI','2707: Failed States Index Total - Fund for Peace',0.1715,0.146768,0.01814,0.1715,6.209454,0.157263,cluster8
+148,'0811N: GDP per capita growth  (annual \%) - WDI','0935: Children out of school; primary; male - WDI',0.17113,0.165742,0.02305,0.16799,6.087463,0.0734,cluster8
+149,'0811N: GDP per capita growth  (annual \%) - WDI','0830: GNI per capita; Atlas method  (current US$) - WDI',0.1711,0.141647,0.0318,0.16943,6.459432,-0.171619,cluster2
+150,'0811N: GDP per capita growth  (annual \%) - WDI','0439: Aquaculture production  (metric tons) - WDI',0.17103,0.161542,0.04715,0.17103,6.392317,0.097408,cluster2
+151,'0811N: GDP per capita growth  (annual \%) - WDI','0689: Final consumption expenditure  (constant 2005 US$) - WDI',0.17098,0.167247,0.04614,0.17098,6.209454,-0.061095,cluster8
+152,'0811N: GDP per capita growth  (annual \%) - WDI','0124: PPG; IDA  (AMT; current US$) - WDI',0.17097,0.158744,0.02887,0.17097,5.954197,0.110572,cluster6
+153,'0811N: GDP per capita growth  (annual \%) - WDI','0979: School enrollment; tertiary; female  (\% gross) - WDI',0.17089,0.14634,0.01198,0.16749,6.129283,-0.156684,cluster8
+154,'0811N: GDP per capita growth  (annual \%) - WDI','0116: PPG; bilateral  (AMT; current US$) - WDI',0.17084,0.159625,0.03843,0.17084,5.954197,0.105902,cluster6
+155,'0811N: GDP per capita growth  (annual \%) - WDI','0187: External debt stocks; public and publicly guaranteed (PPG)  (DOD; current US$) - WDI',0.1708,0.163818,0.02182,0.1708,5.954197,0.083558,cluster6
+156,'0811N: GDP per capita growth  (annual \%) - WDI','0933: Children out of school; primary; female - WDI',0.17079,0.166071,0.02161,0.16726,6.087463,0.068696,cluster8
+157,'0811N: GDP per capita growth  (annual \%) - WDI','1071: Maternal mortality ratio  (modeled estimate; per 100;000 live births) - WDI',0.17072,0.169688,0.04285,0.16892,6.426265,0.032127,cluster2
+158,'0811N: GDP per capita growth  (annual \%) - WDI','0838: Gross savings  (current LCU) - WDI',0.17054,0.166482,0.03289,0.17054,6.129283,0.0637,cluster8
+159,'0811N: GDP per capita growth  (annual \%) - WDI','0227: Interest payments on external debt; total  (INT; current US$) - WDI',0.1703,0.163919,0.032,0.1703,5.954197,0.079882,cluster6
+160,'0811N: GDP per capita growth  (annual \%) - WDI','0492: Domestic credit to private sector  (\% of GDP) - WDI',0.17005,0.155522,0.04843,0.16782,6.392317,-0.120533,cluster2
+161,'0811N: GDP per capita growth  (annual \%) - WDI','0285: Net financial flows; RDB nonconcessional  (NFL; current US$) - WDI',0.17003,0.159641,0.01041,0.17003,5.954197,0.101928,cluster6
+162,'0811N: GDP per capita growth  (annual \%) - WDI','0852: Official exchange rate  (LCU per US$; period average) - WDI',0.16992,0.169807,0.03096,0.16992,6.169925,0.010648,cluster8
+163,'0811N: GDP per capita growth  (annual \%) - WDI','0239: PPG; official creditors  (INT; current US$) - WDI',0.16968,0.161062,0.02587,0.16968,5.954197,0.092836,cluster6
+164,'0811N: GDP per capita growth  (annual \%) - WDI','1321: International tourism; receipts for passenger transport items  (current US$) - WDI',0.1696,0.166705,0.0396,0.16699,6.209454,-0.053802,cluster8
+165,'0811N: GDP per capita growth  (annual \%) - WDI','0708: Gross fixed capital formation  (annual \% growth) - WDI',0.16936,0.151051,0.01698,0.16936,6.247928,0.13531,cluster8
+166,'0811N: GDP per capita growth  (annual \%) - WDI','0695: Gross national expenditure  (constant LCU) - WDI',0.16934,0.16763,0.04042,0.16934,6.129283,0.041348,cluster8
+167,'0811N: GDP per capita growth  (annual \%) - WDI','0627: Air transport; registered carrier departures worldwide - WDI',0.16927,0.167193,0.02507,0.16635,6.247928,-0.045569,cluster8
+168,'0811N: GDP per capita growth  (annual \%) - WDI','0929: Adjusted net enrollment rate; primary  (\% of primary school age children) - WDI',0.16926,0.168507,0.02778,0.16926,6.129283,0.027445,cluster8
+169,'0811N: GDP per capita growth  (annual \%) - WDI','0773: Adjusted savings: particulate emission damage  (\% of GNI) - WDI',0.16924,0.159809,0.01418,0.16924,6.357552,0.097111,cluster8
+170,'0811N: GDP per capita growth  (annual \%) - WDI','0821: Gross domestic income  (constant LCU) - WDI',0.16897,0.167347,0.04051,0.16897,6.129283,0.040285,cluster8
+171,'0811N: GDP per capita growth  (annual \%) - WDI','0261: Net flows on external debt; long-term  (NFL; current US$) - WDI',0.16895,0.165846,0.01586,0.16895,5.954197,0.055711,cluster6
+172,'0811N: GDP per capita growth  (annual \%) - WDI','0347: PPG; other private creditors  (TDS; current US$) - WDI',0.1688,0.151001,0.01937,0.1688,5.954197,0.133413,cluster6
+173,'0811N: GDP per capita growth  (annual \%) - WDI','0571: Time to import  (days) - WDI',0.16865,0.143309,0.03835,0.16632,6.426265,0.159188,cluster2
+174,'0811N: GDP per capita growth  (annual \%) - WDI','0272: PPG; multilateral concessional  (NFL; current US$) - WDI',0.1686,0.164501,0.01444,0.1686,5.954197,0.064026,cluster6
+175,'0811N: GDP per capita growth  (annual \%) - WDI','0835: GNI per capita; PPP  (current international $) - WDI',0.16855,0.138089,0.03364,0.16673,6.459432,-0.174532,cluster2
+176,'0811N: GDP per capita growth  (annual \%) - WDI','2731: Merchandise trade-Imports-Chemicals (US dollar at current prices) - WTO',0.16829,0.167577,0.0341,0.16506,6.209454,-0.026709,cluster8
+177,'0811N: GDP per capita growth  (annual \%) - WDI','0178: PPG; bilateral  (DOD; current US$) - WDI',0.16824,0.157344,0.04112,0.16824,5.954197,0.104383,cluster6
+178,'0811N: GDP per capita growth  (annual \%) - WDI','1372: Merchandise imports from low- and middle-income economies within region  (\% of total merchandise imports) - WDI',0.16786,0.159803,0.03844,0.16786,6.044394,0.089761,cluster8
+179,'0811N: GDP per capita growth  (annual \%) - WDI','0271: Net financial flows; multilateral  (NFL; current US$) - WDI',0.16784,0.162144,0.02198,0.16784,5.954197,0.075474,cluster6
+180,'0811N: GDP per capita growth  (annual \%) - WDI','1901: Fixed-broadband subscriptions per 100 inhabitants - ITU',0.16774,0.14753,0.02005,0.16527,6.247928,-0.142161,cluster8
+181,'0811N: GDP per capita growth  (annual \%) - WDI','0117: PPG; bilateral concessional  (AMT; current US$) - WDI',0.16752,0.156348,0.04048,0.16752,5.954197,0.105699,cluster6
+182,'0811N: GDP per capita growth  (annual \%) - WDI','0722: Imports of goods and services  (constant 2005 US$) - WDI',0.16729,0.165621,0.03397,0.16446,6.247928,-0.040858,cluster8
+183,'0811N: GDP per capita growth  (annual \%) - WDI','0230: IMF charges  (INT; current US$) - WDI',0.16724,0.162157,0.02333,0.16724,5.954197,0.071296,cluster6
+184,'0811N: GDP per capita growth  (annual \%) - WDI','0144: Commitments; official creditors  (COM; current US$) - WDI',0.16719,0.159897,0.02234,0.16719,5.954197,0.085401,cluster6
+185,'0811N: GDP per capita growth  (annual \%) - WDI','0485: Lending interest rate  (\%) - WDI',0.16699,0.163717,0.01804,0.16369,6.044394,0.057211,cluster8
+186,'0811N: GDP per capita growth  (annual \%) - WDI','0194: PPG; IDA  (DOD; current US$) - WDI',0.16691,0.15675,0.031,0.16691,5.954197,0.100794,cluster6
+187,'0811N: GDP per capita growth  (annual \%) - WDI','1342: Share of tariff lines with specific rates; all products  (\%) - WDI',0.1668,0.14927,0.04233,0.1668,6.044394,-0.1324,cluster8
+188,'0811N: GDP per capita growth  (annual \%) - WDI','0699: Exports of goods and services  (constant 2005 US$) - WDI',0.16675,0.165433,0.03808,0.16421,6.247928,-0.036285,cluster8
+189,'0811N: GDP per capita growth  (annual \%) - WDI','2720: Merchandise trade-Exports-Agricultural products (US dollar at current prices) - WTO',0.16672,0.165241,0.0324,0.16385,6.209454,-0.038457,cluster8
+190,'0811N: GDP per capita growth  (annual \%) - WDI','0688: Final consumption expenditure  (current LCU) - WDI',0.16668,0.165257,0.02907,0.16668,6.209454,0.037726,cluster8
+191,'0811N: GDP per capita growth  (annual \%) - WDI','1334: Share of tariff lines with specific rates; manufactured products  (\%) - WDI',0.16657,0.166483,0.05084,0.16657,6.044394,0.009323,cluster8
+192,'0811N: GDP per capita growth  (annual \%) - WDI','0663: General government final consumption expenditure  (annual \% growth) - WDI',0.16644,0.154114,0.00724,0.16644,6.247928,0.111023,cluster8
+193,'0811N: GDP per capita growth  (annual \%) - WDI','0311: PNG; commercial banks and other creditors  (NTR; current US$) - WDI',0.16638,0.164965,0.02702,0.16638,5.954197,0.037619,cluster6
+194,'0811N: GDP per capita growth  (annual \%) - WDI','0067: Charges for the use of intellectual property; receipts  (BoP; current US$) - WDI',0.16636,0.153853,0.03425,0.16636,6.044394,-0.111834,cluster8
+195,'0811N: GDP per capita growth  (annual \%) - WDI','0262: Net flows on external debt; private nonguaranteed (PNG)  (NFL; current US$) - WDI',0.16633,0.163244,0.02001,0.16633,5.954197,0.055548,cluster6
+196,'0811N: GDP per capita growth  (annual \%) - WDI','0882: School enrollment; tertiary (gross); gender parity index  (GPI) - WDI',0.16623,0.148189,0.01185,0.1634,6.129283,-0.134318,cluster8
+197,'0811N: GDP per capita growth  (annual \%) - WDI','0233: Interest payments on external debt; public and publicly guaranteed (PPG)  (INT; current US$) - WDI',0.16621,0.16178,0.02203,0.16621,5.954197,0.066561,cluster6
+198,'0811N: GDP per capita growth  (annual \%) - WDI','1290: Survival to age 65; male  (\% of cohort) - WDI',0.16613,0.157893,0.0224,0.16613,6.426265,-0.090758,cluster2
+199,'0811N: GDP per capita growth  (annual \%) - WDI','0074: Portfolio equity; net inflows  (BoP; current US$) - WDI',0.16612,0.16607,0.03198,0.16612,6.169925,-0.007037,cluster8
+200,'0811N: GDP per capita growth  (annual \%) - WDI','0441: Total fisheries production  (metric tons) - WDI',0.16588,0.160246,0.04387,0.16356,6.459432,0.075059,cluster2
+201,'0811N: GDP per capita growth  (annual \%) - WDI','0307: PPG; official creditors  (NTR; current US$) - WDI',0.16554,0.165316,0.01151,0.16554,5.954197,0.014983,cluster6
+202,'0811N: GDP per capita growth  (annual \%) - WDI','1305: Population; female  (\% of total) - WDI',0.1655,0.161151,0.05262,0.1655,6.426265,0.065945,cluster2
+203,'0811N: GDP per capita growth  (annual \%) - WDI','2717: Factionalized Elites - Fund for Peace',0.16539,0.146082,0.06562,0.16539,6.209454,0.138954,cluster8
+204,'0811N: GDP per capita growth  (annual \%) - WDI','0220: Average grant element on new external debt commitments; official  (\%) - WDI',0.16538,0.15503,0.01337,0.16538,5.954197,0.101736,cluster6
+205,'0811N: GDP per capita growth  (annual \%) - WDI','0010: Permanent cropland  (\% of land area) - WDI',0.16535,0.164749,0.06366,0.16535,6.426265,-0.024523,cluster2
+206,'0811N: GDP per capita growth  (annual \%) - WDI','0338: PPG; IDA  (TDS; current US$) - WDI',0.16519,0.15322,0.01777,0.16519,5.954197,0.109407,cluster6
+207,'0811N: GDP per capita growth  (annual \%) - WDI','0662: General government final consumption expenditure  (constant 2005 US$) - WDI',0.16512,0.160883,0.0275,0.16512,6.209454,-0.065094,cluster8
+208,'0811N: GDP per capita growth  (annual \%) - WDI','2818: Balance of Payments-Imports-Telecommunications; computer; and information services (US dollar at current prices) - WTO',0.16508,0.160191,0.02691,0.16175,6.169925,-0.06992,cluster8
+209,'0811N: GDP per capita growth  (annual \%) - WDI','0850: Terms of trade adjustment  (constant LCU) - WDI',0.16506,0.164948,0.04014,0.16506,6.129283,-0.010601,cluster8
+210,'0811N: GDP per capita growth  (annual \%) - WDI','1352: Tariff rate; most favored nation; weighted mean; primary products  (\%) - WDI',0.16494,0.162862,0.03067,0.16494,6.044394,0.045581,cluster8
+211,'0811N: GDP per capita growth  (annual \%) - WDI','0234: Interest payments on external debt; short-term  (INT; current US$) - WDI',0.16474,0.154182,0.02247,0.16474,5.954197,0.102754,cluster6
+212,'0811N: GDP per capita growth  (annual \%) - WDI','0169: PPG; official creditors  (DIS; current US$) - WDI',0.16447,0.15723,0.01789,0.16447,5.954197,0.085089,cluster6
+213,'0811N: GDP per capita growth  (annual \%) - WDI','0305: PPG; multilateral  (NTR; current US$) - WDI',0.16445,0.160573,0.02277,0.16445,5.954197,0.062266,cluster6
+214,'0811N: GDP per capita growth  (annual \%) - WDI','0948: Pupil-teacher ratio; secondary - WDI',0.16427,0.157279,0.01216,0.16427,6,0.083615,cluster6
+215,'0811N: GDP per capita growth  (annual \%) - WDI','1059: Improved sanitation facilities; rural  (\% of rural population with access) - WDI',0.16422,0.149011,0.02112,0.16218,6.426265,-0.123323,cluster2
+216,'0811N: GDP per capita growth  (annual \%) - WDI','2730: Merchandise trade-Imports-Iron and steel (US dollar at current prices) - WTO',0.16394,0.161495,0.04925,0.16102,6.209454,-0.049451,cluster8
+217,'0811N: GDP per capita growth  (annual \%) - WDI','0906: School enrollment; primary; female  (\% net) - WDI',0.16391,0.162024,0.02673,0.16114,6.087463,0.043424,cluster8
+218,'0811N: GDP per capita growth  (annual \%) - WDI','2736: Merchandise trade-Imports-Transport equipment (US dollar at current prices) - WTO',0.16389,0.160845,0.04392,0.16074,6.209454,-0.055185,cluster8
+219,'0811N: GDP per capita growth  (annual \%) - WDI','0181: Total change in external debt stocks  (current US$) - WDI',0.16384,0.155201,0.01848,0.16384,5.954197,0.092946,cluster6
+220,'0811N: GDP per capita growth  (annual \%) - WDI','1285: Life expectancy at birth; female  (years) - WDI',0.16379,0.159135,0.03539,0.16379,6.426265,-0.068226,cluster2
+221,'0811N: GDP per capita growth  (annual \%) - WDI','0297: PPG; bilateral  (NTR; current US$) - WDI',0.16369,0.159511,0.03495,0.16369,5.954197,-0.064643,cluster8
+222,'0811N: GDP per capita growth  (annual \%) - WDI','0667: Household final consumption expenditure; etc.  (current LCU) - WDI',0.16369,0.162356,0.02983,0.16369,6.209454,0.036519,cluster8
+223,'0811N: GDP per capita growth  (annual \%) - WDI','0698: Exports of goods and services  (current LCU) - WDI',0.16349,0.162236,0.03539,0.16089,6.285402,0.035416,cluster8
+224,'0811N: GDP per capita growth  (annual \%) - WDI','0433: Population in the largest city  (\% of urban population) - WDI',0.16348,0.162344,0.04458,0.16071,6.247928,0.033709,cluster8
+225,'0811N: GDP per capita growth  (annual \%) - WDI','1335: Tariff rate; applied; weighted mean; manufactured products  (\%) - WDI',0.16344,0.162052,0.02525,0.16344,6.044394,0.037253,cluster8
+226,'0811N: GDP per capita growth  (annual \%) - WDI','0741: Manufacturing; value added  (constant LCU) - WDI',0.16337,0.160592,0.04129,0.16337,6.209454,0.052709,cluster8
+227,'0811N: GDP per capita growth  (annual \%) - WDI','0167: PPG; multilateral  (DIS; current US$) - WDI',0.16329,0.156149,0.01982,0.16329,5.954197,0.084505,cluster6
+228,'0811N: GDP per capita growth  (annual \%) - WDI','0302: Net transfers on external debt; public and publicly guaranteed (PPG)  (NTR; current US$) - WDI',0.16328,0.162894,0.02337,0.16328,5.954197,0.019643,cluster6
+229,'0811N: GDP per capita growth  (annual \%) - WDI','0009: Land under cereal production  (hectares) - WDI',0.16315,0.161114,0.04205,0.1604,6.392317,0.045122,cluster8
+230,'0811N: GDP per capita growth  (annual \%) - WDI','0122: Principal repayments on external debt; public and publicly guaranteed (PPG)  (AMT; current US$) - WDI',0.16306,0.155668,0.02083,0.16306,5.954197,0.085979,cluster6
+231,'0811N: GDP per capita growth  (annual \%) - WDI','0682: Final consumption expenditure; etc.  (current LCU) - WDI',0.16301,0.161748,0.02276,0.16028,6.247928,0.03552,cluster8
+232,'0811N: GDP per capita growth  (annual \%) - WDI','0301: Net transfers on external debt; private nonguaranteed (PNG)  (NTR; current US$) - WDI',0.16299,0.160521,0.01177,0.16299,5.954197,0.049685,cluster6
+233,'0811N: GDP per capita growth  (annual \%) - WDI','0158: PPG; bilateral concessional  (DIS; current US$) - WDI',0.16287,0.155271,0.01057,0.16287,5.954197,0.087174,cluster6
+234,'0811N: GDP per capita growth  (annual \%) - WDI','0738: Manufacturing; value added  (current LCU) - WDI',0.16278,0.161164,0.02809,0.16278,6.209454,0.040203,cluster8
+235,'0811N: GDP per capita growth  (annual \%) - WDI','0745: Industry; value added  (constant 2005 US$) - WDI',0.16278,0.161944,0.03573,0.16041,6.357552,-0.028914,cluster8
+236,'0811N: GDP per capita growth  (annual \%) - WDI','0776: Adjusted savings: net national savings  (current US$) - WDI',0.16278,0.150969,0.04141,0.16278,6.129283,0.108676,cluster8
+237,'0811N: GDP per capita growth  (annual \%) - WDI','0824: GNI  (current LCU) - WDI',0.16277,0.162318,0.02844,0.1601,6.321928,0.021265,cluster8
+238,'0811N: GDP per capita growth  (annual \%) - WDI','2792: Balance of Payments-Exports-Financial services (US dollar at current prices) - WTO',0.1625,0.152271,0.02582,0.15897,6,-0.101141,cluster8
+239,'0811N: GDP per capita growth  (annual \%) - WDI','0327: Debt service on external debt; total  (TDS; current US$) - WDI',0.16234,0.155791,0.02284,0.16234,5.954197,0.080924,cluster6
+240,'0811N: GDP per capita growth  (annual \%) - WDI','0599: Trademark applications; total - WDI',0.16231,0.160705,0.03453,0.1594,6.129283,0.040068,cluster8
+241,'0811N: GDP per capita growth  (annual \%) - WDI','0673: Household final consumption expenditure  (current LCU) - WDI',0.1623,0.160918,0.02706,0.1623,6.209454,0.037173,cluster8
+242,'0811N: GDP per capita growth  (annual \%) - WDI','0761: Adjusted savings: education expenditure  (\% of GNI) - WDI',0.16224,0.157078,0.0169,0.16023,6.426265,-0.071848,cluster2
+243,'0811N: GDP per capita growth  (annual \%) - WDI','0279: Commercial banks and other lending (PPG + PNG)  (NFL; current US$) - WDI',0.16211,0.160521,0.01554,0.1587,6,0.039859,cluster6
+244,'0811N: GDP per capita growth  (annual \%) - WDI','0008: Arable land  (\% of land area) - WDI',0.16207,0.160485,0.05255,0.15931,6.459432,0.039818,cluster2
+245,'0811N: GDP per capita growth  (annual \%) - WDI','1287: Life expectancy at birth; male  (years) - WDI',0.16171,0.154074,0.03314,0.16171,6.426265,-0.087382,cluster2
+246,'0811N: GDP per capita growth  (annual \%) - WDI','0263: Net flows on external debt; public and publicly guaranteed (PPG)  (NFL; current US$) - WDI',0.1617,0.159564,0.01138,0.1617,5.954197,0.046222,cluster6
+247,'0811N: GDP per capita growth  (annual \%) - WDI','0258: PPG; bilateral concessional  (NFL; current US$) - WDI',0.16158,0.161126,0.02438,0.16158,5.954197,0.021313,cluster6
+248,'0811N: GDP per capita growth  (annual \%) - WDI','1312: Rural population  (\% of total population) - WDI',0.16158,0.151836,0.03837,0.16158,6.459432,0.098709,cluster2
+249,'0811N: GDP per capita growth  (annual \%) - WDI','2732: Merchandise trade-Imports-Pharmaceuticals (US dollar at current prices) - WTO',0.16154,0.156624,0.03399,0.16154,6.169925,-0.070113,cluster8
+250,'0811N: GDP per capita growth  (annual \%) - WDI','0421: CO2 emissions from manufacturing industries and construction  (\% of total fuel combustion) - WDI',0.16149,0.159121,0.0345,0.15908,6.209454,0.048673,cluster8
+251,'0811N: GDP per capita growth  (annual \%) - WDI','0289: Net official flows from UN agencies; UNDP  (current US$) - WDI',0.16148,0.160975,0.04766,0.15857,6.169925,0.02248,cluster8
+252,'0811N: GDP per capita growth  (annual \%) - WDI','0717: Gross capital formation  (annual \% growth) - WDI',0.16139,0.154038,0.02608,0.15907,6.285402,0.085742,cluster8
+253,'0811N: GDP per capita growth  (annual \%) - WDI','0325: PPG; bilateral  (TDS; current US$) - WDI',0.16129,0.150188,0.03177,0.16129,5.954197,0.105365,cluster6
+254,'0811N: GDP per capita growth  (annual \%) - WDI','0260: Net flows on external debt; total  (NFL; current US$) - WDI',0.16128,0.154123,0.01484,0.16128,5.954197,0.084602,cluster6
+255,'0811N: GDP per capita growth  (annual \%) - WDI','1315: Urban population  (\% of total) - WDI',0.1611,0.151357,0.03789,0.1611,6.459432,-0.098708,cluster2
+256,'0811N: GDP per capita growth  (annual \%) - WDI','0276: PPG; official creditors  (NFL; current US$) - WDI',0.16106,0.158427,0.01488,0.16106,5.954197,0.051318,cluster6
+257,'0811N: GDP per capita growth  (annual \%) - WDI','0298: PPG; bilateral concessional  (NTR; current US$) - WDI',0.16086,0.158452,0.03093,0.16086,5.954197,-0.049073,cluster8
+258,'0811N: GDP per capita growth  (annual \%) - WDI','2729: Merchandise trade-Imports-Manufactures (US dollar at current prices) - WTO',0.16075,0.160195,0.03816,0.15806,6.209454,-0.023552,cluster8
+259,'0811N: GDP per capita growth  (annual \%) - WDI','2819: Balance of Payments-Imports-Telecommunications services (US dollar at current prices) - WTO',0.1607,0.15145,0.02233,0.1607,5.954197,-0.096177,cluster8
+260,'0811N: GDP per capita growth  (annual \%) - WDI','0709: Gross fixed capital formation  (constant LCU) - WDI',0.16066,0.157998,0.03082,0.15735,6.129283,0.051596,cluster8
+261,'0811N: GDP per capita growth  (annual \%) - WDI','0716: Gross capital formation  (constant 2005 US$) - WDI',0.16036,0.15898,0.02441,0.15749,6.247928,-0.037151,cluster8
+262,'0811N: GDP per capita growth  (annual \%) - WDI','0236: PPG; IDA  (INT; current US$) - WDI',0.16017,0.150044,0.02001,0.16017,5.954197,0.100627,cluster6
+263,'0811N: GDP per capita growth  (annual \%) - WDI','0360: Electricity production from hydroelectric sources  (\% of total) - WDI',0.16007,0.148768,0.02998,0.16007,6.169925,0.106312,cluster8
+264,'0811N: GDP per capita growth  (annual \%) - WDI','2733: Merchandise trade-Imports-Machinery and transport equipment (US dollar at current prices) - WTO',0.16,0.159854,0.03887,0.15731,6.209454,-0.012088,cluster8
+265,'0811N: GDP per capita growth  (annual \%) - WDI','2800: Balance of Payments-Imports-Commercial services (US dollar at current prices) - WTO',0.16,0.157428,0.03957,0.15763,6.285402,-0.050715,cluster8
+266,'0811N: GDP per capita growth  (annual \%) - WDI','0052: Foreign direct investment; net  (BoP; current US$) - WDI',0.15995,0.148337,0.03148,0.15709,6.247928,-0.107764,cluster8
+267,'0811N: GDP per capita growth  (annual \%) - WDI','2739: Merchandise trade-Imports-Clothing (US dollar at current prices) - WTO',0.15986,0.155767,0.04052,0.15699,6.209454,-0.06398,cluster8
+268,'0811N: GDP per capita growth  (annual \%) - WDI','2714: Public Services - Fund for Peace',0.15981,0.135584,0.04218,0.15981,6.209454,0.155646,cluster8
+269,'0811N: GDP per capita growth  (annual \%) - WDI','0141: Commitments; public and publicly guaranteed  (COM; current US$) - WDI',0.15972,0.154263,0.00495,0.15972,5.954197,0.073875,cluster6
+270,'0811N: GDP per capita growth  (annual \%) - WDI','0786: Adjusted net savings; excluding particulate emission damage  (current US$) - WDI',0.1597,0.151762,0.02944,0.1597,6.044394,0.089097,cluster8
+271,'0811N: GDP per capita growth  (annual \%) - WDI','0580: Time to prepare and pay taxes  (hours) - WDI',0.15954,0.149045,0.02756,0.15762,6.392317,0.102444,cluster8
+272,'0811N: GDP per capita growth  (annual \%) - WDI','0907: School enrollment; primary; male  (\% net) - WDI',0.15948,0.158706,0.02033,0.15663,6.087463,0.027817,cluster8
+273,'0811N: GDP per capita growth  (annual \%) - WDI','0701: Exports of goods and services  (constant LCU) - WDI',0.15947,0.156887,0.03751,0.15947,6.129283,0.050819,cluster8
+274,'0811N: GDP per capita growth  (annual \%) - WDI','1035: Improved water source  (\% of population with access) - WDI',0.15943,0.143409,0.02898,0.15943,6.426265,-0.126574,cluster2
+275,'0811N: GDP per capita growth  (annual \%) - WDI','0304: PPG; IDA  (NTR; current US$) - WDI',0.1594,0.156342,0.02349,0.1594,5.954197,0.055304,cluster6
+276,'0811N: GDP per capita growth  (annual \%) - WDI','0758: Services; etc.; value added  (constant LCU) - WDI',0.15932,0.15695,0.04412,0.15658,6.247928,0.048683,cluster8
+277,'0811N: GDP per capita growth  (annual \%) - WDI','0149: Currency composition of PPG debt; Japanese yen  (\%) - WDI',0.15931,0.115727,0.01867,0.15931,5.954197,0.208765,cluster0
+278,'0811N: GDP per capita growth  (annual \%) - WDI','0145: Commitments; private creditors  (COM; current US$) - WDI',0.15927,0.155813,0.03999,0.15927,5.954197,0.058795,cluster6
+279,'0811N: GDP per capita growth  (annual \%) - WDI','0256: Average maturity on new external debt commitments; private  (years) - WDI',0.15927,0.14609,0.03077,0.15927,5.954197,0.114806,cluster6
+280,'0811N: GDP per capita growth  (annual \%) - WDI','0794: Gross value added at factor cost  (current US$) - WDI',0.15927,0.153373,0.01409,0.15927,6.285402,-0.076791,cluster8
+281,'0811N: GDP per capita growth  (annual \%) - WDI','0273: Net financial flows; others  (NFL; current US$) - WDI',0.15918,0.156366,0.03983,0.15918,5.954197,0.053044,cluster6
+282,'0811N: GDP per capita growth  (annual \%) - WDI','0680: Household final consumption expenditure; PPP  (constant 2011 international $) - WDI',0.15918,0.159117,0.02646,0.15918,6.247928,-0.007965,cluster8
+283,'0811N: GDP per capita growth  (annual \%) - WDI','0197: PPG; multilateral concessional  (DOD; current US$) - WDI',0.15916,0.151154,0.01948,0.15916,5.954197,0.089479,cluster6
+284,'0811N: GDP per capita growth  (annual \%) - WDI','2706: Failed States Index Rank - Fund for Peace',0.159,0.129046,0.02449,0.159,6.209454,-0.173071,cluster8
+285,'0811N: GDP per capita growth  (annual \%) - WDI','0491: Domestic credit provided by financial sector  (\% of GDP) - WDI',0.15888,0.137253,0.03375,0.15657,6.392317,-0.14706,cluster2
+286,'0811N: GDP per capita growth  (annual \%) - WDI','0732: Agriculture; value added  (current LCU) - WDI',0.15887,0.156676,0.0228,0.15887,6.247928,0.046843,cluster8
+287,'0811N: GDP per capita growth  (annual \%) - WDI','1392: Merchandise exports to low- and middle-income economies in Europe & Central Asia  (\% of total merchandise exports) - WDI',0.15883,0.150379,0.03077,0.15581,6.209454,0.091931,cluster8
+288,'0811N: GDP per capita growth  (annual \%) - WDI','0119: Principal repayments on external debt; long-term + IMF  (AMT; current US$) - WDI',0.1588,0.152283,0.02536,0.1588,5.954197,0.080726,cluster6
+289,'0811N: GDP per capita growth  (annual \%) - WDI','0464: Total reserves in months of imports - WDI',0.15874,0.126255,0.01782,0.15874,6.357552,0.180237,cluster8
+290,'0811N: GDP per capita growth  (annual \%) - WDI','0231: Interest payments on external debt; long-term  (INT; current US$) - WDI',0.15871,0.154192,0.02029,0.15871,5.954197,0.067213,cluster6
+291,'0811N: GDP per capita growth  (annual \%) - WDI','0812: GDP per capita  (constant LCU) - WDI',0.15868,0.156562,0.0357,0.15868,6.321928,0.046025,cluster8
+292,'0811N: GDP per capita growth  (annual \%) - WDI','0766: Adjusted savings: consumption of fixed capital  (current US$) - WDI',0.15867,0.1576,0.04441,0.15867,6.321928,-0.032704,cluster8
+293,'0811N: GDP per capita growth  (annual \%) - WDI','0755: Services; etc.; value added  (current LCU) - WDI',0.15862,0.158148,0.02964,0.15862,6.247928,0.02172,cluster8
+294,'0811N: GDP per capita growth  (annual \%) - WDI','0432: Population in largest city - WDI',0.15858,0.157743,0.03494,0.15565,6.087463,0.028931,cluster8
+295,'0811N: GDP per capita growth  (annual \%) - WDI','1033: Improved water source; rural  (\% of rural population with access) - WDI',0.15856,0.13637,0.02646,0.15683,6.426265,-0.148964,cluster2
+296,'0811N: GDP per capita growth  (annual \%) - WDI','0473: Broad money to total reserves ratio - WDI',0.15853,0.152199,0.03531,0.15557,6.129283,-0.079566,cluster8
+297,'0811N: GDP per capita growth  (annual \%) - WDI','0361: Electric power transmission and distribution losses  (\% of output) - WDI',0.1585,0.154696,0.01981,0.15589,6.209454,0.061674,cluster8
+298,'0811N: GDP per capita growth  (annual \%) - WDI','0173: PNG; commercial banks and other creditors  (DIS; current US$) - WDI',0.15846,0.153744,0.02488,0.15846,5.954197,0.068676,cluster6
+299,'0811N: GDP per capita growth  (annual \%) - WDI','0127: PPG; official creditors  (AMT; current US$) - WDI',0.15841,0.149372,0.01953,0.15841,5.954197,0.09507,cluster6
+300,'0811N: GDP per capita growth  (annual \%) - WDI','2795: Balance of Payments-Exports-Other business services (US dollar at current prices) - WTO',0.15834,0.154454,0.03384,0.1548,6.129283,-0.062341,cluster8
+301,'0811N: GDP per capita growth  (annual \%) - WDI','1351: Tariff rate; applied; weighted mean; primary products  (\%) - WDI',0.15831,0.157988,0.02544,0.15831,6.044394,0.017946,cluster8
+302,'0811N: GDP per capita growth  (annual \%) - WDI','0460: Domestic credit to private sector by banks  (\% of GDP) - WDI',0.15825,0.158231,0.03825,0.15597,6.392317,0.004341,cluster8
+303,'0811N: GDP per capita growth  (annual \%) - WDI','1349: Tariff rate; most favored nation; simple mean; primary products  (\%) - WDI',0.15823,0.15583,0.0245,0.15823,6.044394,0.048986,cluster8
+304,'0811N: GDP per capita growth  (annual \%) - WDI','0029: Cereal yield  (kg per hectare) - WDI',0.1582,0.146976,0.0301,0.15597,6.392317,-0.105943,cluster8
+305,'0811N: GDP per capita growth  (annual \%) - WDI','0166: PPG; IDA  (DIS; current US$) - WDI',0.15813,0.150801,0.01826,0.15813,5.954197,0.085609,cluster6
+306,'0811N: GDP per capita growth  (annual \%) - WDI','2749: Merchandise trade-Exports-Transport equipment (US dollar at current prices) - WTO',0.15791,0.156109,0.03348,0.15791,6.129283,-0.042443,cluster8
+307,'0811N: GDP per capita growth  (annual \%) - WDI','0237: PPG; multilateral  (INT; current US$) - WDI',0.15786,0.150604,0.01176,0.15786,5.954197,0.085181,cluster6
+308,'0811N: GDP per capita growth  (annual \%) - WDI','0221: Average grant element on new external debt commitments; private  (\%) - WDI',0.15781,0.147714,0.02787,0.15781,5.954197,0.10048,cluster6
+309,'0811N: GDP per capita growth  (annual \%) - WDI','0284: Net financial flows; RDB concessional  (NFL; current US$) - WDI',0.15777,0.153248,0.00788,0.15777,5.954197,0.067249,cluster6
+310,'0811N: GDP per capita growth  (annual \%) - WDI','0691: Gross national expenditure deflator  (base year varies by country) - WDI',0.15773,0.157729,0.03938,0.15773,6.129283,0.001016,cluster8
+311,'0811N: GDP per capita growth  (annual \%) - WDI','0939: Lower secondary completion rate; female  (\% of relevant age group) - WDI',0.15766,0.157104,0.02043,0.15766,6.044394,-0.023584,cluster8
+312,'0811N: GDP per capita growth  (annual \%) - WDI','0103: Net bilateral aid flows from DAC donors; Japan  (current US$) - WDI',0.15753,0.156709,0.0278,0.15753,6.209454,0.02866,cluster8
+313,'0811N: GDP per capita growth  (annual \%) - WDI','0806: GDP; PPP  (constant 2011 international $) - WDI',0.15751,0.157495,0.03243,0.15508,6.459432,0.00387,cluster8
+314,'0811N: GDP per capita growth  (annual \%) - WDI','1103: Health expenditure; public  (\% of GDP) - WDI',0.15749,0.141887,0.03088,0.15749,6.426265,-0.124912,cluster2
+315,'0811N: GDP per capita growth  (annual \%) - WDI','0185: External debt stocks; long-term  (DOD; current US$) - WDI',0.15714,0.150813,0.0251,0.15714,5.954197,0.079545,cluster6
+316,'0811N: GDP per capita growth  (annual \%) - WDI','0936: Children out of school; male  (\% of male primary school age) - WDI',0.15702,0.156073,0.01437,0.1541,6.087463,-0.030776,cluster8
+317,'0811N: GDP per capita growth  (annual \%) - WDI','0264: Net flows on external debt; short-term  (NFL; current US$) - WDI',0.15692,0.1429,0.01864,0.15692,5.954197,0.118405,cluster0
+318,'0811N: GDP per capita growth  (annual \%) - WDI','1266: Refugee population by country or territory of origin - WDI',0.15692,0.155844,0.02956,0.15692,6.426265,0.0328,cluster8
+319,'0811N: GDP per capita growth  (annual \%) - WDI','0163: Disbursements on external debt; public and publicly guaranteed (PPG)  (DIS; current US$) - WDI',0.15687,0.15155,0.01139,0.15687,5.954197,0.072939,cluster6
+320,'0811N: GDP per capita growth  (annual \%) - WDI','0224: Average interest on new external debt commitments; private  (\%) - WDI',0.15685,0.144636,0.03804,0.15685,5.954197,0.110515,cluster0
+321,'0811N: GDP per capita growth  (annual \%) - WDI','0168: PPG; multilateral concessional  (DIS; current US$) - WDI',0.15673,0.151136,0.00404,0.15673,5.954197,0.074795,cluster6
+322,'0811N: GDP per capita growth  (annual \%) - WDI','0062: Primary income receipts  (BoP; current US$) - WDI',0.15647,0.151475,0.048,0.15398,6.392317,-0.070672,cluster2
+323,'0811N: GDP per capita growth  (annual \%) - WDI','0049: Net trade in goods and services  (BoP; current US$) - WDI',0.15638,0.155511,0.03321,0.15365,6.247928,0.029473,cluster8
+324,'0811N: GDP per capita growth  (annual \%) - WDI','0160: Disbursements on external debt; long-term + IMF  (DIS; current US$) - WDI',0.15637,0.151311,0.00705,0.15637,5.954197,0.071129,cluster6
+325,'0811N: GDP per capita growth  (annual \%) - WDI','0157: PPG; bilateral  (DIS; current US$) - WDI',0.15636,0.149391,0.00852,0.15636,5.954197,0.083482,cluster0
+326,'0811N: GDP per capita growth  (annual \%) - WDI','0216: Average grace period on new external debt commitments  (years) - WDI',0.15634,0.142363,0.01347,0.15634,5.954197,0.118224,cluster0
+327,'0811N: GDP per capita growth  (annual \%) - WDI','0203: PNG; commercial banks and other creditors  (DOD; current US$) - WDI',0.15627,0.150562,0.01077,0.15627,5.954197,0.075551,cluster6
+328,'0811N: GDP per capita growth  (annual \%) - WDI','0283: PPG; private creditors  (NFL; current US$) - WDI',0.15619,0.15461,0.00958,0.15619,5.954197,0.039746,cluster6
+329,'0811N: GDP per capita growth  (annual \%) - WDI','2744: Merchandise trade-Exports-Machinery and transport equipment (US dollar at current prices) - WTO',0.15617,0.156151,0.03143,0.15329,6.169925,0.004408,cluster8
+330,'0811N: GDP per capita growth  (annual \%) - WDI','0664: General government final consumption expenditure  (constant LCU) - WDI',0.15611,0.153477,0.01944,0.15312,6.129283,0.051312,cluster8
+331,'0811N: GDP per capita growth  (annual \%) - WDI','0161: Disbursements on external debt; long-term  (DIS; current US$) - WDI',0.15603,0.150993,0.007,0.15603,5.954197,0.070969,cluster0
+332,'0811N: GDP per capita growth  (annual \%) - WDI','0846: Net taxes on products  (constant LCU) - WDI',0.15603,0.154267,0.0337,0.15332,6.129283,0.041993,cluster8
+333,'0811N: GDP per capita growth  (annual \%) - WDI','0120: Principal repayments on external debt; long-term  (AMT; current US$) - WDI',0.15599,0.14948,0.02036,0.15599,5.954197,0.080684,cluster6
+334,'0811N: GDP per capita growth  (annual \%) - WDI','0842: Net income from abroad  (current LCU) - WDI',0.15592,0.153715,0.04443,0.15323,6.285402,-0.046957,cluster8
+335,'0811N: GDP per capita growth  (annual \%) - WDI','0133: PPG; private creditors  (AMT; current US$) - WDI',0.15589,0.150074,0.02465,0.15589,5.954197,0.076262,cluster6
+336,'0811N: GDP per capita growth  (annual \%) - WDI','2713: Legitimacy of the State - Fund for Peace',0.1558,0.134816,0.05062,0.1558,6.209454,0.14486,cluster8
+337,'0811N: GDP per capita growth  (annual \%) - WDI','0188: External debt stocks; short-term  (DOD; current US$) - WDI',0.15569,0.144607,0.02787,0.15569,5.954197,0.105276,cluster0
+338,'0811N: GDP per capita growth  (annual \%) - WDI','0834: GNI per capita  (constant LCU) - WDI',0.15569,0.153205,0.02596,0.15283,6.129283,0.049849,cluster8
+339,'0811N: GDP per capita growth  (annual \%) - WDI','2743: Merchandise trade-Exports-Pharmaceuticals (US dollar at current prices) - WTO',0.15563,0.151201,0.03104,0.15563,6.129283,-0.066549,cluster8
+340,'0811N: GDP per capita growth  (annual \%) - WDI','0331: Debt service on external debt; long-term  (TDS; current US$) - WDI',0.15561,0.149551,0.01411,0.15561,5.954197,0.07784,cluster0
+341,'0811N: GDP per capita growth  (annual \%) - WDI','1270: Depth of the food deficit  (kilocalories per person per day) - WDI',0.15557,0.14335,0.01017,0.15255,6.044394,0.110542,cluster1
+342,'0811N: GDP per capita growth  (annual \%) - WDI','0352: Undisbursed external debt; private creditors  (UND; current US$) - WDI',0.15553,0.151577,0.02261,0.15553,5.954197,0.06287,cluster6
+343,'0811N: GDP per capita growth  (annual \%) - WDI','0058: Technical cooperation grants  (BoP; current US$) - WDI',0.15508,0.153522,0.02527,0.15211,6.044394,0.039468,cluster8
+344,'0811N: GDP per capita growth  (annual \%) - WDI','0628: Air transport; freight  (million ton-km) - WDI',0.15493,0.152921,0.02776,0.15241,6.247928,-0.044827,cluster8
+345,'0811N: GDP per capita growth  (annual \%) - WDI','0212: External debt stocks; variable rate  (DOD; current US$) - WDI',0.15482,0.149442,0.02711,0.15482,5.954197,0.073333,cluster0
+346,'0811N: GDP per capita growth  (annual \%) - WDI','0422: CO2 emissions from other sectors; excluding residential buildings and commercial and public services  (\% of total fuel combustion) - WDI',0.15468,0.147399,0.02134,0.15191,6.209454,0.085331,cluster8
+347,'0811N: GDP per capita growth  (annual \%) - WDI','1328: Import volume index  (2000 = 100) - WDI',0.15463,0.145579,0.01728,0.15463,6.285402,0.095135,cluster8
+348,'0811N: GDP per capita growth  (annual \%) - WDI','2748: Merchandise trade-Exports-Integrated circuits and electronic components (US dollar at current prices) - WTO',0.15458,0.15371,0.03948,0.15175,6.087463,0.029496,cluster8
+349,'0811N: GDP per capita growth  (annual \%) - WDI','1314: Urban population - WDI',0.15456,0.152174,0.02368,0.15456,6.459432,0.048849,cluster8
+350,'0811N: GDP per capita growth  (annual \%) - WDI','0679: Household final consumption expenditure; PPP  (current international $) - WDI',0.15455,0.154356,0.01877,0.15455,6.285402,-0.013925,cluster8
+351,'0811N: GDP per capita growth  (annual \%) - WDI','0804: GDP  (constant LCU) - WDI',0.15451,0.153006,0.03145,0.15451,6.321928,0.038787,cluster8
+352,'0811N: GDP per capita growth  (annual \%) - WDI','1058: Improved sanitation facilities  (\% of population with access) - WDI',0.15441,0.143461,0.01837,0.15273,6.426265,-0.104636,cluster3
+353,'0811N: GDP per capita growth  (annual \%) - WDI','2794: Balance of Payments-Exports-Telecommunications; computer; and information services (US dollar at current prices) - WTO',0.15434,0.153529,0.0264,0.15139,6.169925,-0.028475,cluster8
+354,'0811N: GDP per capita growth  (annual \%) - WDI','0733: Agriculture; value added  (constant 2005 US$) - WDI',0.15425,0.151544,0.02754,0.15183,6.357552,0.052017,cluster8
+355,'0811N: GDP per capita growth  (annual \%) - WDI','0801: GDP  (current LCU) - WDI',0.15421,0.153713,0.02019,0.15421,6.321928,0.022303,cluster8
+356,'0811N: GDP per capita growth  (annual \%) - WDI','0784: Adjusted net savings; including particulate emission damage  (current US$) - WDI',0.15418,0.146468,0.02511,0.15418,6,0.087819,cluster6
+357,'0811N: GDP per capita growth  (annual \%) - WDI','0048: Net primary income  (BoP; current US$) - WDI',0.15417,0.153256,0.04424,0.15154,6.247928,-0.030228,cluster8
+358,'0811N: GDP per capita growth  (annual \%) - WDI','0180: External debt stocks; total  (DOD; current US$) - WDI',0.15402,0.146306,0.01645,0.15402,5.954197,0.087831,cluster0
+359,'0811N: GDP per capita growth  (annual \%) - WDI','2710: Group Grievance - Fund for Peace',0.15379,0.134583,0.08353,0.15379,6.209454,0.138589,cluster4
+360,'0811N: GDP per capita growth  (annual \%) - WDI','0223: Average interest on new external debt commitments; official  (\%) - WDI',0.15372,0.13747,0.02015,0.15372,5.954197,0.127475,cluster0
+361,'0811N: GDP per capita growth  (annual \%) - WDI','0461: Bank liquid reserves to bank assets ratio  (\%) - WDI',0.15371,0.148477,0.01311,0.15066,6,0.072343,cluster6
+362,'0811N: GDP per capita growth  (annual \%) - WDI','0707: Gross fixed capital formation  (constant 2005 US$) - WDI',0.15363,0.152082,0.01828,0.15117,6.209454,-0.039347,cluster1
+363,'0811N: GDP per capita growth  (annual \%) - WDI','0744: Industry; value added  (current LCU) - WDI',0.15354,0.152923,0.0256,0.15354,6.247928,0.024848,cluster8
+364,'0811N: GDP per capita growth  (annual \%) - WDI','1379: Export volume index  (2000 = 100) - WDI',0.15349,0.144471,0.01782,0.15349,6.285402,0.094971,cluster1
+365,'0811N: GDP per capita growth  (annual \%) - WDI','0282: PPG; other private creditors  (NFL; current US$) - WDI',0.15337,0.152757,0.0258,0.15337,5.954197,-0.024753,cluster0
+366,'0811N: GDP per capita growth  (annual \%) - WDI','2725: Merchandise trade-Imports-Agricultural products (US dollar at current prices) - WTO',0.15334,0.152086,0.02645,0.15036,6.209454,-0.03541,cluster8
+367,'0811N: GDP per capita growth  (annual \%) - WDI','0829: GNI; PPP  (constant 2011 international $) - WDI',0.15328,0.15328,0.02858,0.15328,6.247928,0.00014,cluster8
+368,'0811N: GDP per capita growth  (annual \%) - WDI','0218: Average grace period on new external debt commitments; private  (years) - WDI',0.1532,0.145885,0.02829,0.1532,5.954197,0.085526,cluster0
+369,'0811N: GDP per capita growth  (annual \%) - WDI','0792: Discrepancy in expenditure estimate of GDP  (current LCU) - WDI',0.1532,0.152268,0.04026,0.1532,6.209454,-0.030533,cluster8
+370,'0811N: GDP per capita growth  (annual \%) - WDI','0791: GDP deflator  (base year varies by country) - WDI',0.15314,0.153138,0.03725,0.15314,6.321928,-0.00129,cluster8
+371,'0811N: GDP per capita growth  (annual \%) - WDI','0721: Imports of goods and services  (current LCU) - WDI',0.15308,0.151444,0.02305,0.15059,6.285402,0.040452,cluster8
+372,'0811N: GDP per capita growth  (annual \%) - WDI','0270: Net financial flows; IDA  (NFL; current US$) - WDI',0.1529,0.149812,0.01607,0.1529,6.087463,0.055572,cluster1
+373,'0811N: GDP per capita growth  (annual \%) - WDI','0152: Currency composition of PPG debt; SDR  (\%) - WDI',0.15278,0.152772,0.02699,0.15278,5.954197,0.002847,cluster0
+374,'0811N: GDP per capita growth  (annual \%) - WDI','0831: GNI per capita  (current LCU) - WDI',0.15276,0.152187,0.03115,0.15026,6.321928,0.023929,cluster8
+375,'0811N: GDP per capita growth  (annual \%) - WDI','0553: Time to export  (days) - WDI',0.15271,0.127534,0.02969,0.1507,6.426265,0.158668,cluster3
+376,'0811N: GDP per capita growth  (annual \%) - WDI','0126: PPG; multilateral concessional  (AMT; current US$) - WDI',0.15266,0.144462,0.0219,0.15266,5.954197,0.090542,cluster0
+377,'0811N: GDP per capita growth  (annual \%) - WDI','2791: Balance of Payments-Exports-Insurance and pension services (US dollar at current prices) - WTO',0.15252,0.148035,0.01297,0.15252,6.087463,-0.066973,cluster1
+378,'0811N: GDP per capita growth  (annual \%) - WDI','2787: Balance of Payments-Exports-Transport (US dollar at current prices) - WTO',0.15245,0.147992,0.02787,0.14971,6.209454,-0.066771,cluster1
+379,'0811N: GDP per capita growth  (annual \%) - WDI','0244: PPG; other private creditors  (INT; current US$) - WDI',0.15244,0.13942,0.02862,0.15244,5.954197,0.114104,cluster0
+380,'0811N: GDP per capita growth  (annual \%) - WDI','1049: Number of maternal deaths - WDI',0.15243,0.149887,0.02693,0.1511,6.426265,0.050432,cluster3
+381,'0811N: GDP per capita growth  (annual \%) - WDI','2737: Merchandise trade-Imports-Automotive products (US dollar at current prices) - WTO',0.15243,0.148951,0.03946,0.1497,6.209454,-0.05898,cluster8
+382,'0811N: GDP per capita growth  (annual \%) - WDI','1362: Merchandise imports from high-income economies  (\% of total merchandise imports) - WDI',0.15242,0.132621,0.02805,0.15036,6.426265,-0.140707,cluster3
+383,'0811N: GDP per capita growth  (annual \%) - WDI','0341: PPG; multilateral concessional  (TDS; current US$) - WDI',0.15238,0.144902,0.02436,0.15238,5.954197,0.086474,cluster0
+384,'0811N: GDP per capita growth  (annual \%) - WDI','0718: Gross capital formation  (constant LCU) - WDI',0.15232,0.149817,0.02398,0.15232,6.129283,0.050025,cluster8
+385,'0811N: GDP per capita growth  (annual \%) - WDI','2781: Merchandise trade-Imports-Total merchandise (US dollar at current prices) - WTO',0.1523,0.151413,0.03183,0.1523,6.285402,-0.029783,cluster8
+386,'0811N: GDP per capita growth  (annual \%) - WDI','0921: Repeaters; primary; female  (\% of female enrollment) - WDI',0.1522,0.152112,0.01808,0.1522,6.169925,-0.009385,cluster1
+387,'0811N: GDP per capita growth  (annual \%) - WDI','0217: Average grace period on new external debt commitments; official  (years) - WDI',0.15217,0.131696,0.00855,0.15217,5.954197,0.143086,cluster0
+388,'0811N: GDP per capita growth  (annual \%) - WDI','0091: Net bilateral aid flows from DAC donors; Switzerland  (current US$) - WDI',0.1521,0.152098,0.02383,0.14918,6.044394,0.001479,cluster1
+389,'0811N: GDP per capita growth  (annual \%) - WDI','2723: Merchandise trade-Exports-Manufactures (US dollar at current prices) - WTO',0.15209,0.152069,0.02384,0.14934,6.209454,0.004596,cluster1
+390,'0811N: GDP per capita growth  (annual \%) - WDI','1265: Refugee population by country or territory of asylum - WDI',0.15208,0.151831,0.02357,0.14925,6.321928,0.015784,cluster1
+391,'0811N: GDP per capita growth  (annual \%) - WDI','0359: Electricity production from oil; gas and coal sources  (\% of total) - WDI',0.15201,0.150655,0.03951,0.15201,6.169925,-0.036807,cluster8
+392,'0811N: GDP per capita growth  (annual \%) - WDI','0366: Electricity production from renewable sources; excluding hydroelectric  (kWh) - WDI',0.15193,0.150256,0.01948,0.14947,6.209454,-0.04092,cluster1
+393,'0811N: GDP per capita growth  (annual \%) - WDI','0817: Gross domestic savings  (current US$) - WDI',0.15191,0.15182,0.03295,0.14953,6.392317,-0.00947,cluster3
+394,'0811N: GDP per capita growth  (annual \%) - WDI','2816: Balance of Payments-Imports-Financial services (US dollar at current prices) - WTO',0.15191,0.138252,0.0276,0.14865,6.044394,-0.116867,cluster1
+395,'0811N: GDP per capita growth  (annual \%) - WDI','0243: PNG; commercial banks and other creditors  (INT; current US$) - WDI',0.15188,0.147453,0.01395,0.15188,5.954197,0.066539,cluster0
+396,'0811N: GDP per capita growth  (annual \%) - WDI','0186: External debt stocks; private nonguaranteed (PNG)  (DOD; current US$) - WDI',0.15176,0.146236,0.01343,0.15176,5.954197,0.074324,cluster0
+397,'0811N: GDP per capita growth  (annual \%) - WDI','0737: Manufacturing; value added  (current US$) - WDI',0.15169,0.151431,0.02788,0.14965,6.392317,-0.016105,cluster3
+398,'0811N: GDP per capita growth  (annual \%) - WDI','0205: External debt stocks; long-term private sector  (DOD; current US$) - WDI',0.15165,0.14611,0.0151,0.15165,5.954197,0.074428,cluster0
+399,'0811N: GDP per capita growth  (annual \%) - WDI','0376: Fossil fuel energy consumption  (\% of total) - WDI',0.1516,0.14503,0.03126,0.1493,6.247928,-0.081056,cluster1
+400,'0811N: GDP per capita growth  (annual \%) - WDI','0885: School enrollment; preprimary  (\% gross) - WDI',0.15151,0.141124,0.02686,0.14884,6.209454,-0.101912,cluster1
+401,'0811N: GDP per capita growth  (annual \%) - WDI','0121: Principal repayments on external debt; private nonguaranteed (PNG)  (AMT; current US$) - WDI',0.15142,0.145672,0.02619,0.15142,5.954197,0.075812,cluster0
+402,'0811N: GDP per capita growth  (annual \%) - WDI','0420: CO2 emissions from electricity and heat production; total  (\% of total fuel combustion) - WDI',0.15137,0.148161,0.04627,0.14879,6.209454,-0.056651,cluster8
+403,'0811N: GDP per capita growth  (annual \%) - WDI','0086: Net bilateral aid flows from DAC donors; Australia  (current US$) - WDI',0.15135,0.148954,0.01904,0.15135,5.954197,0.048949,cluster0
+404,'0811N: GDP per capita growth  (annual \%) - WDI','1388: Merchandise exports  (current US$) - WDI',0.15124,0.150268,0.0434,0.14899,6.459432,-0.031172,cluster3
+405,'0811N: GDP per capita growth  (annual \%) - WDI','0481: Consumer price index  (2010 = 100) - WDI',0.15123,0.146381,0.01719,0.14882,6.247928,-0.069636,cluster1
+406,'0811N: GDP per capita growth  (annual \%) - WDI','0313: PPG; private creditors  (NTR; current US$) - WDI',0.15116,0.150787,0.02603,0.15116,5.954197,0.019306,cluster0
+407,'0811N: GDP per capita growth  (annual \%) - WDI','1213: Ratio of female to male labor force participation rate (\%)  (modeled ILO estimate) - WDI',0.15103,0.150443,0.0401,0.15103,6.392317,0.024232,cluster3
+408,'0811N: GDP per capita growth  (annual \%) - WDI','2799: Balance of Payments-Exports-Government goods and services n.i.e. (US dollar at current prices) - WTO',0.15093,0.147033,0.03291,0.15093,6.129283,-0.062429,cluster1
+409,'0811N: GDP per capita growth  (annual \%) - WDI','1375: Commercial service imports  (current US$) - WDI',0.15081,0.148515,0.03504,0.14859,6.392317,-0.047903,cluster3
+410,'0811N: GDP per capita growth  (annual \%) - WDI','0788: Exports as a capacity to import  (constant LCU) - WDI',0.15078,0.148329,0.03368,0.15078,6.129283,0.049503,cluster8
+411,'0811N: GDP per capita growth  (annual \%) - WDI','0687: Final consumption expenditure  (current US$) - WDI',0.15076,0.149588,0.02044,0.15076,6.209454,-0.034235,cluster1
+412,'0811N: GDP per capita growth  (annual \%) - WDI','0073: Primary income on FDI; payments  (current US$) - WDI',0.15072,0.140248,0.01692,0.15072,5.954197,0.102332,cluster0
+413,'0811N: GDP per capita growth  (annual \%) - WDI','0809: GDP per capita  (current LCU) - WDI',0.15069,0.15015,0.03091,0.15069,6.321928,0.023245,cluster8
+414,'0811N: GDP per capita growth  (annual \%) - WDI','2780: Merchandise trade-Exports-Total merchandise (US dollar at current prices) - WTO',0.15067,0.150137,0.03456,0.15067,6.285402,-0.023097,cluster8
+415,'0811N: GDP per capita growth  (annual \%) - WDI','0884: Pupil-teacher ratio; preprimary - WDI',0.15059,0.147478,0.01328,0.15059,6.044394,0.055786,cluster1
+416,'0811N: GDP per capita growth  (annual \%) - WDI','0886: School enrollment; preprimary; female  (\% gross) - WDI',0.15054,0.140678,0.02118,0.15054,6.169925,-0.099306,cluster1
+417,'0811N: GDP per capita growth  (annual \%) - WDI','1404: High-technology exports  (\% of manufactured exports) - WDI',0.15049,0.150182,0.01818,0.14744,6.247928,0.017549,cluster1
+418,'0811N: GDP per capita growth  (annual \%) - WDI','0131: PNG; commercial banks and other creditors  (AMT; current US$) - WDI',0.15043,0.144579,0.02665,0.15043,5.954197,0.076489,cluster0
+419,'0811N: GDP per capita growth  (annual \%) - WDI','2806: Balance of Payments-Imports-Other services (US dollar at current prices) - WTO',0.15032,0.148047,0.01878,0.14747,6.209454,-0.047679,cluster1
+420,'0811N: GDP per capita growth  (annual \%) - WDI','0362: Electricity production from natural gas sources  (\% of total) - WDI',0.15027,0.148468,0.02798,0.15027,6.169925,-0.042448,cluster1
+421,'0811N: GDP per capita growth  (annual \%) - WDI','0743: Industry; value added  (current US$) - WDI',0.15013,0.149716,0.02575,0.15013,6.392317,-0.02034,cluster3
+422,'0811N: GDP per capita growth  (annual \%) - WDI','0456: Commercial bank branches  (per 100;000 adults) - WDI',0.14997,0.141505,0.00986,0.14997,6.392317,-0.092006,cluster3
+423,'0811N: GDP per capita growth  (annual \%) - WDI','0219: Average grant element on new external debt commitments  (\%) - WDI',0.14991,0.145347,0.0135,0.14991,5.954197,0.067553,cluster0
+424,'0811N: GDP per capita growth  (annual \%) - WDI','0064: Insurance and financial services  (\% of service exports; BoP) - WDI',0.14981,0.12181,0.02273,0.14981,6.285402,-0.167331,cluster1
+425,'0811N: GDP per capita growth  (annual \%) - WDI','0346: PNG; commercial banks and other creditors  (TDS; current US$) - WDI',0.14979,0.144118,0.02602,0.14979,5.954197,0.075315,cluster0
+426,'0811N: GDP per capita growth  (annual \%) - WDI','1299: Age dependency ratio; old  (\% of working-age population) - WDI',0.14975,0.139191,0.02759,0.14975,6.426265,-0.102758,cluster3
+427,'0811N: GDP per capita growth  (annual \%) - WDI','0940: Lower secondary completion rate; male  (\% of relevant age group) - WDI',0.14949,0.148719,0.01433,0.14949,6.044394,-0.027771,cluster1
+428,'0811N: GDP per capita growth  (annual \%) - WDI','2715: Human Rights - Fund for Peace',0.14938,0.123806,0.05716,0.14938,6.209454,0.159918,cluster4
+429,'0811N: GDP per capita growth  (annual \%) - WDI','0364: Electricity production from oil sources  (\% of total) - WDI',0.14932,0.146574,0.02949,0.14932,6.169925,-0.052405,cluster1
+430,'0811N: GDP per capita growth  (annual \%) - WDI','0727: External balance on goods and services  (current LCU) - WDI',0.14924,0.148849,0.02241,0.14691,6.285402,-0.019772,cluster1
+431,'0811N: GDP per capita growth  (annual \%) - WDI','0574: Time required to enforce a contract  (days) - WDI',0.14909,0.148762,0.04427,0.14663,6.392317,0.018106,cluster3
+432,'0811N: GDP per capita growth  (annual \%) - WDI','0093: Net bilateral aid flows from DAC donors; Germany  (current US$) - WDI',0.14901,0.148791,0.02125,0.14901,6.169925,0.014815,cluster1
+433,'0811N: GDP per capita growth  (annual \%) - WDI','0637: Fixed telephone subscriptions - WDI',0.14897,0.148095,0.02374,0.14666,6.459432,0.029573,cluster3
+434,'0811N: GDP per capita growth  (annual \%) - WDI','1313: Urban population growth  (annual \%) - WDI',0.14893,0.14878,0.02245,0.14893,6.459432,0.012259,cluster3
+435,'0811N: GDP per capita growth  (annual \%) - WDI','1097: Out-of-pocket health expenditure  (\% of private expenditure on health) - WDI',0.14891,0.146564,0.03166,0.14891,6.426265,0.048438,cluster3
+436,'0811N: GDP per capita growth  (annual \%) - WDI','2727: Merchandise trade-Imports-Fuels and mining products (US dollar at current prices) - WTO',0.14891,0.148863,0.02193,0.14598,6.209454,-0.006891,cluster1
+437,'0811N: GDP per capita growth  (annual \%) - WDI','0478: Money and quasi money  to total reserves ratio (M2) - WDI',0.14889,0.141557,0.02742,0.14889,6.129283,-0.085631,cluster1
+438,'0811N: GDP per capita growth  (annual \%) - WDI','0772: Adjusted savings: particulate emission damage  (current US$) - WDI',0.14888,0.147851,0.03307,0.14633,6.247928,0.032071,cluster1
+439,'0811N: GDP per capita growth  (annual \%) - WDI','0660: General government final consumption expenditure  (current US$) - WDI',0.14885,0.146791,0.01991,0.14659,6.392317,-0.045377,cluster3
+440,'0811N: GDP per capita growth  (annual \%) - WDI','0078: Personal remittances; received  (\% of GDP) - WDI',0.14883,0.148152,0.03235,0.14883,6.357552,0.026029,cluster3
+441,'0811N: GDP per capita growth  (annual \%) - WDI','2752: Merchandise trade-Imports-Electronic data processing and office equipment (US dollar at current prices) - WTO',0.14881,0.148638,0.02626,0.14597,6.209454,-0.013123,cluster1
+442,'0811N: GDP per capita growth  (annual \%) - WDI','0335: Public and publicly guaranteed debt service  (\% of GNI) - WDI',0.1488,0.147246,0.00842,0.1488,6,-0.039418,cluster1
+443,'0811N: GDP per capita growth  (annual \%) - WDI','1343: Tariff rate; applied; weighted mean; all products  (\%) - WDI',0.14878,0.147525,0.01839,0.14878,6.044394,0.035432,cluster1
+444,'0811N: GDP per capita growth  (annual \%) - WDI','0045: Current account balance  (BoP; current US$) - WDI',0.14876,0.146259,0.03693,0.14639,6.247928,0.050008,cluster1
+445,'0811N: GDP per capita growth  (annual \%) - WDI','0902: Gross intake ratio in first grade of primary education; female  (\% of relevant age group) - WDI',0.14873,0.132771,0.0145,0.14873,6.209454,0.126328,cluster1
+446,'0811N: GDP per capita growth  (annual \%) - WDI','0089: Net bilateral aid flows from DAC donors; Canada  (current US$) - WDI',0.14871,0.148651,0.01348,0.14554,6.169925,0.007703,cluster1
+447,'0811N: GDP per capita growth  (annual \%) - WDI','1952: Number of neonatal deaths (thousands) - WHO',0.14871,0.140724,0.05432,0.14617,6.285402,0.089362,cluster4
+448,'0811N: GDP per capita growth  (annual \%) - WDI','0162: Disbursements on external debt; private nonguaranteed (PNG)  (DIS; current US$) - WDI',0.14869,0.143945,0.00873,0.14869,5.954197,0.068881,cluster0
+449,'0811N: GDP per capita growth  (annual \%) - WDI','0104: Net bilateral aid flows from DAC donors; Korea; Rep.  (current US$) - WDI',0.14865,0.14746,0.01028,0.14592,6.129283,0.034495,cluster1
+450,'0811N: GDP per capita growth  (annual \%) - WDI','0731: Agriculture; value added  (current US$) - WDI',0.14863,0.145399,0.01959,0.14628,6.426265,0.056845,cluster3
+451,'0811N: GDP per capita growth  (annual \%) - WDI','2716: Security Apparatus - Fund for Peace',0.14859,0.132752,0.04584,0.14859,6.209454,0.12585,cluster4
+452,'0811N: GDP per capita growth  (annual \%) - WDI','0123: PPG; IBRD  (AMT; current US$) - WDI',0.1484,0.139607,0.02501,0.1484,5.954197,0.093772,cluster0
+453,'0811N: GDP per capita growth  (annual \%) - WDI','0005: Agricultural land  (\% of land area) - WDI',0.14839,0.133878,0.03186,0.14607,6.459432,0.120465,cluster3
+454,'0811N: GDP per capita growth  (annual \%) - WDI','2788: Balance of Payments-Exports-Travel (US dollar at current prices) - WTO',0.14836,0.145503,0.02962,0.14567,6.209454,-0.053447,cluster1
+455,'0811N: GDP per capita growth  (annual \%) - WDI','1028: Mortality rate; under-5  (per 1;000 live births) - WDI',0.14825,0.143244,0.01863,0.14825,6.426265,0.07075,cluster3
+456,'0811N: GDP per capita growth  (annual \%) - WDI','1398: Merchandise exports by the reporting economy  (current US$) - WDI',0.14823,0.147242,0.03319,0.14587,6.426265,-0.03143,cluster3
+457,'0811N: GDP per capita growth  (annual \%) - WDI','0303: PPG; IBRD  (NTR; current US$) - WDI',0.14816,0.147824,0.02895,0.14816,5.954197,0.018319,cluster0
+458,'0811N: GDP per capita growth  (annual \%) - WDI','0723: Imports of goods and services  (annual \% growth) - WDI',0.1481,0.147072,0.01022,0.1481,6.285402,0.032058,cluster1
+459,'0811N: GDP per capita growth  (annual \%) - WDI','1297: Population ages 65 and above  (\% of total) - WDI',0.14808,0.138721,0.02638,0.14808,6.426265,-0.096743,cluster3
+460,'0811N: GDP per capita growth  (annual \%) - WDI','0183: External debt stocks  (\% of GNI) - WDI',0.14806,0.147046,0.0175,0.14469,5.954197,-0.031846,cluster0
+461,'0811N: GDP per capita growth  (annual \%) - WDI','1733: Crude oil production - TOT (KTOE) - OECD',0.14797,0.147327,0.03127,0.14469,6,-0.025352,cluster1
+462,'0811N: GDP per capita growth  (annual \%) - WDI','1899: Percentage of Individuals using the Internet (\%) - ITU',0.14797,0.11938,0.01575,0.14797,6.285402,-0.169085,cluster1
+463,'0811N: GDP per capita growth  (annual \%) - WDI','0643: Internet users  (per 100 people) - WDI',0.14795,0.117146,0.01812,0.1462,6.459432,-0.17551,cluster3
+464,'0811N: GDP per capita growth  (annual \%) - WDI','0222: Average interest on new external debt commitments  (\%) - WDI',0.14793,0.13934,0.013,0.14793,5.954197,0.092685,cluster0
+465,'0811N: GDP per capita growth  (annual \%) - WDI','0129: PPG; commercial banks  (AMT; current US$) - WDI',0.14786,0.142972,0.02374,0.14786,5.954197,0.069916,cluster0
+466,'0811N: GDP per capita growth  (annual \%) - WDI','1276: Mortality rate; adult; female  (per 1;000 female adults) - WDI',0.1478,0.146741,0.02345,0.1478,6.392317,0.032546,cluster3
+467,'0811N: GDP per capita growth  (annual \%) - WDI','0125: PPG; multilateral  (AMT; current US$) - WDI',0.14773,0.140912,0.00553,0.14773,5.954197,0.082571,cluster0
+468,'0811N: GDP per capita growth  (annual \%) - WDI','0468: Net domestic credit  (current LCU) - WDI',0.14771,0.145859,0.02413,0.14512,6.247928,0.043028,cluster1
+469,'0811N: GDP per capita growth  (annual \%) - WDI','0075: Secondary income receipts  (BoP; current US$) - WDI',0.1477,0.147058,0.02331,0.1477,6.357552,-0.025328,cluster3
+470,'0811N: GDP per capita growth  (annual \%) - WDI','0944: Secondary education; pupils  (\% female) - WDI',0.14764,0.145997,0.02037,0.14764,6.247928,-0.040538,cluster1
+471,'0811N: GDP per capita growth  (annual \%) - WDI','0931: Adjusted net enrollment rate; primary; male  (\% of primary school age children) - WDI',0.1476,0.146653,0.01037,0.14479,6.087463,0.03077,cluster1
+472,'0811N: GDP per capita growth  (annual \%) - WDI','0312: PPG; other private creditors  (NTR; current US$) - WDI',0.14758,0.14554,0.02033,0.14758,5.954197,-0.045161,cluster0
+473,'0811N: GDP per capita growth  (annual \%) - WDI','2815: Balance of Payments-Imports-Insurance and pension services (US dollar at current prices) - WTO',0.14752,0.147105,0.02144,0.14511,6.209454,-0.020383,cluster1
+474,'0811N: GDP per capita growth  (annual \%) - WDI','0706: Gross fixed capital formation  (current LCU) - WDI',0.14744,0.146434,0.01895,0.14744,6.209454,0.031725,cluster1
+475,'0811N: GDP per capita growth  (annual \%) - WDI','1371: Merchandise imports by the reporting economy  (current US$) - WDI',0.14737,0.146147,0.025,0.14507,6.426265,-0.034977,cluster3
+476,'0811N: GDP per capita growth  (annual \%) - WDI','1897: Fixed-telephone subscriptions - ITU',0.14727,0.142824,0.02789,0.14727,6.285402,0.066681,cluster1
+477,'0811N: GDP per capita growth  (annual \%) - WDI','0319: Net ODA received  (\% of gross capital formation) - WDI',0.14721,0.147193,0.02151,0.14404,6.129283,0.004101,cluster1
+478,'0811N: GDP per capita growth  (annual \%) - WDI','0462: Total reserves  (includes gold; current US$) - WDI',0.14716,0.143046,0.02642,0.14716,6.247928,0.064144,cluster1
+479,'0811N: GDP per capita growth  (annual \%) - WDI','0463: Total reserves  (\% of total external debt) - WDI',0.14715,0.147125,0.01915,0.14374,6.044394,-0.005041,cluster1
+480,'0811N: GDP per capita growth  (annual \%) - WDI','1277: Mortality rate; adult; male  (per 1;000 male adults) - WDI',0.14699,0.141964,0.01273,0.14699,6.392317,0.070892,cluster3
+481,'0811N: GDP per capita growth  (annual \%) - WDI','0193: PPG; IBRD  (DOD; current US$) - WDI',0.14691,0.139389,0.025,0.14691,5.954197,0.086724,cluster0
+482,'0811N: GDP per capita growth  (annual \%) - WDI','0102: Net bilateral aid flows from DAC donors; Italy  (current US$) - WDI',0.14684,0.146681,0.02586,0.14358,6.044394,0.012602,cluster1
+483,'0811N: GDP per capita growth  (annual \%) - WDI','0712: Changes in inventories  (current LCU) - WDI',0.14684,0.146565,0.01869,0.14684,6.169925,-0.016582,cluster1
+484,'0811N: GDP per capita growth  (annual \%) - WDI','0793: Discrepancy in expenditure estimate of GDP  (constant LCU) - WDI',0.14673,0.145512,0.02505,0.14673,6.044394,-0.034895,cluster1
+485,'0811N: GDP per capita growth  (annual \%) - WDI','2728: Merchandise trade-Imports-Fuels (US dollar at current prices) - WTO',0.14667,0.146215,0.02133,0.14382,6.209454,-0.021337,cluster1
+486,'0811N: GDP per capita growth  (annual \%) - WDI','0024: Cereal production  (metric tons) - WDI',0.14658,0.145055,0.0278,0.14417,6.392317,0.039051,cluster3
+487,'0811N: GDP per capita growth  (annual \%) - WDI','0455: Bank capital to assets ratio  (\%) - WDI',0.14653,0.132632,0.01892,0.14387,6.044394,0.117891,cluster1
+488,'0811N: GDP per capita growth  (annual \%) - WDI','0762: Adjusted savings: carbon dioxide damage  (current US$) - WDI',0.14652,0.143085,0.03931,0.14405,6.321928,0.058611,cluster1
+489,'0811N: GDP per capita growth  (annual \%) - WDI','0175: PPG; private creditors  (DIS; current US$) - WDI',0.1465,0.142532,0.02844,0.1465,5.954197,0.062991,cluster0
+490,'0811N: GDP per capita growth  (annual \%) - WDI','2753: Merchandise trade-Imports-Integrated circuits and electronic components (US dollar at current prices) - WTO',0.14648,0.140568,0.02456,0.14648,6.169925,0.076887,cluster1
+491,'0811N: GDP per capita growth  (annual \%) - WDI','0201: PPG; commercial banks  (DOD; current US$) - WDI',0.14646,0.141627,0.01639,0.14646,5.954197,0.069518,cluster0
+492,'0811N: GDP per capita growth  (annual \%) - WDI','0720: Imports of goods and services  (current US$) - WDI',0.14623,0.14519,0.02036,0.14371,6.426265,-0.032249,cluster3
+493,'0811N: GDP per capita growth  (annual \%) - WDI','0044: Personal remittances; paid  (current US$) - WDI',0.14622,0.14265,0.02705,0.14622,6.357552,-0.05975,cluster3
+494,'0811N: GDP per capita growth  (annual \%) - WDI','0760: Adjusted savings: education expenditure  (current US$) - WDI',0.1462,0.144296,0.02492,0.14378,6.285402,-0.043633,cluster1
+495,'0811N: GDP per capita growth  (annual \%) - WDI','0978: School enrollment; tertiary  (\% gross) - WDI',0.1462,0.126164,0.01297,0.1462,6.129283,-0.141547,cluster1
+496,'0811N: GDP per capita growth  (annual \%) - WDI','1101: Health expenditure; public  (\% of total health expenditure) - WDI',0.14613,0.127437,0.02182,0.14613,6.426265,-0.136722,cluster3
+497,'0811N: GDP per capita growth  (annual \%) - WDI','0597: Trademark applications; direct nonresident - WDI',0.14611,0.14609,0.0107,0.14231,6.087463,-0.00448,cluster1
+498,'0811N: GDP per capita growth  (annual \%) - WDI','0665: General government final consumption expenditure  (\% of GDP) - WDI',0.1461,0.146069,0.01464,0.14382,6.392317,-0.005537,cluster3
+499,'0811N: GDP per capita growth  (annual \%) - WDI','0748: Industry; value added  (\% of GDP) - WDI',0.14609,0.145557,0.01433,0.14609,6.392317,0.023087,cluster3
+500,'0811N: GDP per capita growth  (annual \%) - WDI','0088: Net bilateral aid flows from DAC donors; Belgium  (current US$) - WDI',0.14601,0.145925,0.01711,0.14601,5.954197,-0.009218,cluster0
+501,'0811N: GDP per capita growth  (annual \%) - WDI','0330: IMF repurchases and charges  (TDS; current US$) - WDI',0.14598,0.142063,0.01049,0.14598,5.954197,0.062588,cluster0
+502,'0811N: GDP per capita growth  (annual \%) - WDI','0941: Lower secondary completion rate; total  (\% of relevant age group) - WDI',0.14598,0.145415,0.00792,0.14291,6.087463,-0.023766,cluster1
+503,'0811N: GDP per capita growth  (annual \%) - WDI','0887: School enrollment; preprimary; male  (\% gross) - WDI',0.14596,0.136792,0.00856,0.14596,6.169925,-0.095752,cluster1
+504,'0811N: GDP per capita growth  (annual \%) - WDI','0170: PPG; bonds  (DIS; current US$) - WDI',0.14594,0.141896,0.04235,0.14594,5.954197,0.063592,cluster0
+505,'0811N: GDP per capita growth  (annual \%) - WDI','0033: Imports of goods and services  (BoP; current US$) - WDI',0.14587,0.144148,0.02901,0.14339,6.392317,-0.041496,cluster3
+506,'0811N: GDP per capita growth  (annual \%) - WDI','0726: External balance on goods and services  (current US$) - WDI',0.14586,0.145104,0.01998,0.14586,6.247928,0.027487,cluster1
+507,'0811N: GDP per capita growth  (annual \%) - WDI','0339: Multilateral debt service  (TDS; current US$) - WDI',0.14577,0.138725,0.00957,0.14577,5.954197,0.083933,cluster0
+508,'0811N: GDP per capita growth  (annual \%) - WDI','2721: Merchandise trade-Exports-Food (US dollar at current prices) - WTO',0.14574,0.144135,0.02239,0.14306,6.209454,-0.040065,cluster1
+509,'0811N: GDP per capita growth  (annual \%) - WDI','2726: Merchandise trade-Imports-Food (US dollar at current prices) - WTO',0.14571,0.142629,0.02445,0.143,6.209454,-0.055508,cluster1
+510,'0811N: GDP per capita growth  (annual \%) - WDI','2704: Corruption perceptions index - Transparency',0.14556,0.121036,0.02276,0.14556,6.209454,-0.156602,cluster1
+511,'0811N: GDP per capita growth  (annual \%) - WDI','1031: Mortality rate; neonatal  (per 1;000 live births) - WDI',0.14553,0.134599,0.03273,0.14553,6.426265,0.10455,cluster3
+512,'0811N: GDP per capita growth  (annual \%) - WDI','0923: Repeaters; primary; total  (\% of total enrollment) - WDI',0.14551,0.145461,0.01865,0.14279,6.209454,-0.006992,cluster1
+513,'0811N: GDP per capita growth  (annual \%) - WDI','1783: Renewable energy - TOT (KTOE) - OECD',0.14551,0.145484,0.02054,0.14181,6,-0.00514,cluster1
+514,'0811N: GDP per capita growth  (annual \%) - WDI','0248: Interest arrears; official creditors  (current US$) - WDI',0.1455,0.143532,0.03003,0.1455,5.954197,0.044366,cluster0
+515,'0811N: GDP per capita growth  (annual \%) - WDI','0232: Interest payments on external debt; private nonguaranteed (PNG)  (INT; current US$) - WDI',0.14539,0.140989,0.01497,0.14539,5.954197,0.066341,cluster0
+516,'0811N: GDP per capita growth  (annual \%) - WDI','0898: Pupil-teacher ratio; primary - WDI',0.14535,0.14066,0.00631,0.14535,6.209454,0.068485,cluster1
+517,'0811N: GDP per capita growth  (annual \%) - WDI','0594: Scientific and technical journal articles - WDI',0.14533,0.144995,0.02541,0.14533,6.426265,-0.018316,cluster3
+518,'0811N: GDP per capita growth  (annual \%) - WDI','0278: PPG; commercial banks  (NFL; current US$) - WDI',0.14521,0.14521,0.02096,0.14521,5.954197,0.000526,cluster0
+519,'0811N: GDP per capita growth  (annual \%) - WDI','2724: Merchandise trade-Exports-Textiles (US dollar at current prices) - WTO',0.1452,0.140619,0.02921,0.14243,6.169925,0.067685,cluster1
+520,'0811N: GDP per capita growth  (annual \%) - WDI','0622: Overall level of statistical capacity  (scale 0 - 100) - WDI',0.14511,0.139543,0.0608,0.14511,6.129283,0.074615,cluster4
+521,'0811N: GDP per capita growth  (annual \%) - WDI','0469: Net foreign assets  (current LCU) - WDI',0.14493,0.142015,0.02718,0.14244,6.247928,0.053992,cluster1
+522,'0811N: GDP per capita growth  (annual \%) - WDI','0291: Net official flows from UN agencies; UNFPA  (current US$) - WDI',0.14489,0.144879,0.01099,0.14189,6.087463,0.003389,cluster1
+523,'0811N: GDP per capita growth  (annual \%) - WDI','1269: Prevalence of undernourishment  (\% of population) - WDI',0.14483,0.134836,0.0099,0.14483,6,0.099968,cluster1
+524,'0811N: GDP per capita growth  (annual \%) - WDI','0235: PPG; IBRD  (INT; current US$) - WDI',0.14474,0.136303,0.02649,0.14474,5.954197,0.091851,cluster0
+525,'0811N: GDP per capita growth  (annual \%) - WDI','0822: GNI; Atlas method  (current US$) - WDI',0.14468,0.143839,0.01658,0.14246,6.459432,-0.028997,cluster3
+526,'0811N: GDP per capita growth  (annual \%) - WDI','0135: Principal arrears; official creditors  (current US$) - WDI',0.14456,0.141629,0.03348,0.14456,5.954197,0.05414,cluster0
+527,'0811N: GDP per capita growth  (annual \%) - WDI','0922: Repeaters; primary; male  (\% of male enrollment) - WDI',0.14455,0.144548,0.01773,0.14455,6.169925,0.001561,cluster1
+528,'0811N: GDP per capita growth  (annual \%) - WDI','1073: People practicing open defecation; rural  (\% of rural population) - WDI',0.14453,0.135445,0.01309,0.14249,6.392317,0.095317,cluster3
+529,'0811N: GDP per capita growth  (annual \%) - WDI','0633: Liner shipping connectivity index  (maximum value in 2004 = 100) - WDI',0.14439,0.143658,0.02586,0.14111,6.087463,0.027051,cluster1
+530,'0811N: GDP per capita growth  (annual \%) - WDI','1770: Primary energy supply - TOT (MLN_TOE) - OECD',0.14435,0.144324,0.01959,0.14056,6,-0.00514,cluster1
+531,'0811N: GDP per capita growth  (annual \%) - WDI','0636: Mobile cellular subscriptions  (per 100 people) - WDI',0.14433,0.132033,0.01573,0.14239,6.459432,-0.110893,cluster3
+532,'0811N: GDP per capita growth  (annual \%) - WDI','2785: Balance of Payments-Exports-Commercial services (US dollar at current prices) - WTO',0.14432,0.14166,0.02323,0.14174,6.285402,-0.051577,cluster1
+533,'0811N: GDP per capita growth  (annual \%) - WDI','0661: General government final consumption expenditure  (current LCU) - WDI',0.14424,0.143479,0.01626,0.14424,6.209454,0.027586,cluster1
+534,'0811N: GDP per capita growth  (annual \%) - WDI','2712: Poverty and Economic Decline - Fund for Peace',0.14418,0.125671,0.05233,0.14418,6.209454,0.136048,cluster4
+535,'0811N: GDP per capita growth  (annual \%) - WDI','2797: Balance of Payments-Exports-Services (US dollar at current prices) - WTO',0.14416,0.141015,0.02504,0.14173,6.285402,-0.056082,cluster1
+536,'0811N: GDP per capita growth  (annual \%) - WDI','0047: Net financial account  (BoP; current US$) - WDI',0.14412,0.141531,0.03252,0.14165,6.247928,0.050881,cluster1
+537,'0811N: GDP per capita growth  (annual \%) - WDI','0666: Household final consumption expenditure; etc.  (current US$) - WDI',0.1441,0.142363,0.01134,0.14178,6.392317,-0.041683,cluster3
+538,'0811N: GDP per capita growth  (annual \%) - WDI','0999: Proportion of seats held by women in national parliaments  (\%) - WDI',0.14403,0.143724,0.02492,0.14162,6.426265,0.017497,cluster3
+539,'0811N: GDP per capita growth  (annual \%) - WDI','0056: Net capital account  (BoP; current US$) - WDI',0.14394,0.143911,0.01553,0.14394,6.129283,-0.005372,cluster1
+540,'0811N: GDP per capita growth  (annual \%) - WDI','0570: Documents to import  (number) - WDI',0.14392,0.124415,0.03228,0.14179,6.426265,0.13966,cluster3
+541,'0811N: GDP per capita growth  (annual \%) - WDI','0367: Electricity production from renewable sources; excluding hydroelectric  (\% of total) - WDI',0.14391,0.135018,0.00955,0.14391,6.169925,-0.0943,cluster1
+542,'0811N: GDP per capita growth  (annual \%) - WDI','1384: Insurance and financial services  (\% of commercial service exports) - WDI',0.14383,0.117371,0.01505,0.14383,6.285402,-0.162662,cluster1
+543,'0811N: GDP per capita growth  (annual \%) - WDI','2822: Balance of Payments-Imports-Other business services (US dollar at current prices) - WTO',0.14363,0.138973,0.01866,0.14077,6.169925,-0.06824,cluster1
+544,'0811N: GDP per capita growth  (annual \%) - WDI','0641: Secure Internet servers - WDI',0.1436,0.141183,0.02873,0.1409,6.426265,-0.04916,cluster3
+545,'0811N: GDP per capita growth  (annual \%) - WDI','1391: Merchandise exports to low- and middle-income economies in East Asia & Pacific  (\% of total merchandise exports) - WDI',0.14356,0.14014,0.01545,0.14065,6.169925,0.058482,cluster1
+546,'0811N: GDP per capita growth  (annual \%) - WDI','1399: Merchandise exports to low- and middle-income economies within region  (\% of total merchandise exports) - WDI',0.14348,0.141684,0.01686,0.14021,6.044394,0.042381,cluster1
+547,'0811N: GDP per capita growth  (annual \%) - WDI','0156: Debt forgiveness or reduction  (current US$) - WDI',0.14344,0.140865,0.0351,0.14344,5.954197,-0.05074,cluster0
+548,'0811N: GDP per capita growth  (annual \%) - WDI','1278: Birth rate; crude  (per 1;000 people) - WDI',0.14344,0.141002,0.017,0.14151,6.459432,0.04938,cluster3
+549,'0811N: GDP per capita growth  (annual \%) - WDI','0629: Air transport; passengers carried - WDI',0.14337,0.141858,0.01573,0.14076,6.247928,-0.03888,cluster1
+550,'0811N: GDP per capita growth  (annual \%) - WDI','2742: Merchandise trade-Exports-Chemicals (US dollar at current prices) - WTO',0.14335,0.140633,0.02416,0.14335,6.169925,-0.052128,cluster1
+551,'0811N: GDP per capita growth  (annual \%) - WDI','0211: Residual; debt stock-flow reconciliation  (current US$) - WDI',0.14333,0.134593,0.01452,0.14333,5.954197,0.093473,cluster0
+552,'0811N: GDP per capita growth  (annual \%) - WDI','0840: Gross savings  (\% of GDP) - WDI',0.14326,0.122216,0.02492,0.14326,6.285402,0.145065,cluster1
+553,'0811N: GDP per capita growth  (annual \%) - WDI','0320: Net ODA received  (\% of GNI) - WDI',0.14323,0.143212,0.02323,0.14045,6.209454,-0.004255,cluster1
+554,'0811N: GDP per capita growth  (annual \%) - WDI','0897: Primary education; pupils  (\% female) - WDI',0.14321,0.14321,0.02672,0.14102,6.357552,0.00068,cluster3
+555,'0811N: GDP per capita growth  (annual \%) - WDI','0470: Claims on private sector  (annual growth as \% of broad money) - WDI',0.1432,0.137647,0.00752,0.1432,6.129283,0.074518,cluster1
+556,'0811N: GDP per capita growth  (annual \%) - WDI','0816: Total natural resources rents  (\% of GDP) - WDI',0.14306,0.142816,0.01695,0.14306,6.392317,0.015631,cluster3
+557,'0811N: GDP per capita growth  (annual \%) - WDI','0621: Methodology assessment of statistical capacity  (scale 0 - 100) - WDI',0.14304,0.138786,0.07376,0.14304,6.129283,0.065222,cluster4
+558,'0811N: GDP per capita growth  (annual \%) - WDI','0070: Travel services  (\% of service exports; BoP) - WDI',0.14296,0.142899,0.02552,0.14047,6.357552,0.007831,cluster3
+559,'0811N: GDP per capita growth  (annual \%) - WDI','0259: Portfolio investment; bonds (PPG + PNG)  (NFL; current US$) - WDI',0.14296,0.139625,0.02449,0.13994,6,0.057752,cluster1
+560,'0811N: GDP per capita growth  (annual \%) - WDI','1386: Ores and metals exports  (\% of merchandise exports) - WDI',0.14277,0.140451,0.03855,0.14277,6.247928,0.048154,cluster1
+561,'0811N: GDP per capita growth  (annual \%) - WDI','2708: Demographic Pressures - Fund for Peace',0.14276,0.119269,0.03697,0.14276,6.209454,0.153269,cluster4
+562,'0811N: GDP per capita growth  (annual \%) - WDI','0172: PNG; bonds  (DIS; current US$) - WDI',0.14275,0.138976,0.04415,0.14275,5.954197,0.061429,cluster0
+563,'0811N: GDP per capita growth  (annual \%) - WDI','2734: Merchandise trade-Imports-Office and telecom equipment (US dollar at current prices) - WTO',0.1427,0.142168,0.02108,0.13969,6.209454,0.023061,cluster1
+564,'0811N: GDP per capita growth  (annual \%) - WDI','0371: Energy imports; net  (\% of energy use) - WDI',0.14268,0.137699,0.02435,0.1398,6.209454,0.070578,cluster1
+565,'0811N: GDP per capita growth  (annual \%) - WDI','2805: Balance of Payments-Imports-Services (US dollar at current prices) - WTO',0.14252,0.139659,0.02338,0.13991,6.285402,-0.053485,cluster1
+566,'0811N: GDP per capita growth  (annual \%) - WDI','0440: Capture fisheries production  (metric tons) - WDI',0.14245,0.139983,0.02034,0.1404,6.459432,0.049672,cluster3
+567,'0811N: GDP per capita growth  (annual \%) - WDI','2814: Balance of Payments-Imports-Construction (US dollar at current prices) - WTO',0.14245,0.142417,0.01835,0.14245,5.954197,-0.005713,cluster0
+568,'0811N: GDP per capita growth  (annual \%) - WDI','0769: Adjusted savings: mineral depletion  (\% of GNI) - WDI',0.14236,0.134513,0.00764,0.14051,6.459432,0.088586,cluster3
+569,'0811N: GDP per capita growth  (annual \%) - WDI','0150: Currency composition of PPG debt; Multiple currencies  (\%) - WDI',0.1423,0.141959,0.02739,0.1423,5.954197,-0.018459,cluster0
+570,'0811N: GDP per capita growth  (annual \%) - WDI','0905: School enrollment; primary  (\% net) - WDI',0.1423,0.141593,0.01145,0.1423,6.129283,0.026589,cluster1
+571,'0811N: GDP per capita growth  (annual \%) - WDI','0656: Military expenditure  (current LCU) - WDI',0.14217,0.142137,0.01637,0.13904,6.129283,0.005726,cluster1
+572,'0811N: GDP per capita growth  (annual \%) - WDI','0038: Imports of goods; services and primary income  (BoP; current US$) - WDI',0.14213,0.139984,0.02694,0.13981,6.392317,-0.046321,cluster3
+573,'0811N: GDP per capita growth  (annual \%) - WDI','0715: Gross capital formation  (current LCU) - WDI',0.14212,0.141501,0.01246,0.13961,6.247928,0.024879,cluster1
+574,'0811N: GDP per capita growth  (annual \%) - WDI','1096: Out-of-pocket health expenditure  (\% of total expenditure on health) - WDI',0.14208,0.12245,0.00909,0.14208,6.426265,0.140106,cluster3
+575,'0811N: GDP per capita growth  (annual \%) - WDI','0143: Commitments; IDA  (COM; current US$) - WDI',0.14201,0.136218,0.00847,0.14201,5.954197,0.076106,cluster0
+576,'0811N: GDP per capita growth  (annual \%) - WDI','0785: Adjusted net savings; including particulate emission damage  (\% of GNI) - WDI',0.14184,0.124802,0.01153,0.13939,6.209454,0.130531,cluster1
+577,'0811N: GDP per capita growth  (annual \%) - WDI','0255: Average maturity on new external debt commitments; official  (years) - WDI',0.14174,0.12698,0.01653,0.14174,5.954197,0.121491,cluster0
+578,'0811N: GDP per capita growth  (annual \%) - WDI','0697: Exports of goods and services  (current US$) - WDI',0.14174,0.140842,0.02455,0.1397,6.426265,-0.029965,cluster3
+579,'0811N: GDP per capita growth  (annual \%) - WDI','0823: GNI  (current US$) - WDI',0.14174,0.140888,0.01464,0.1396,6.459432,-0.029182,cluster3
+580,'0811N: GDP per capita growth  (annual \%) - WDI','0130: PNG; bonds  (AMT; current US$) - WDI',0.14167,0.137452,0.04461,0.14167,5.954197,0.064947,cluster0
+581,'0811N: GDP per capita growth  (annual \%) - WDI','1895: Mobile-cellular telephone subscriptions - ITU',0.14167,0.131254,0.00983,0.14167,6.285402,-0.102058,cluster1
+582,'0811N: GDP per capita growth  (annual \%) - WDI','1896: Mobile-cellular telephone subscriptions per 100 inhabitants - ITU',0.14167,0.131254,0.00983,0.14167,6.285402,-0.102058,cluster1
+583,'0811N: GDP per capita growth  (annual \%) - WDI','0799: Mineral rents  (\% of GDP) - WDI',0.14165,0.134244,0.00746,0.14165,6.459432,0.086056,cluster3
+584,'0811N: GDP per capita growth  (annual \%) - WDI','0692: Gross national expenditure  (current US$) - WDI',0.14163,0.140842,0.01124,0.13943,6.426265,-0.02807,cluster3
+585,'0811N: GDP per capita growth  (annual \%) - WDI','0471: Broad money  (current LCU) - WDI',0.14156,0.140771,0.01216,0.14156,6.129283,0.028089,cluster1
+586,'0811N: GDP per capita growth  (annual \%) - WDI','0837: Gross savings  (current US$) - WDI',0.14155,0.14072,0.0176,0.14155,6.129283,0.028802,cluster1
+587,'0811N: GDP per capita growth  (annual \%) - WDI','2750: Merchandise trade-Exports-Automotive products (US dollar at current prices) - WTO',0.14145,0.138558,0.02481,0.14145,6.129283,-0.053773,cluster1
+588,'0811N: GDP per capita growth  (annual \%) - WDI','2807: Balance of Payments-Imports-Government goods and services n.i.e. (US dollar at current prices) - WTO',0.14143,0.140613,0.02546,0.14143,6.169925,-0.028586,cluster1
+589,'0811N: GDP per capita growth  (annual \%) - WDI','0043: Secondary income; other sectors; payments  (BoP; current US$) - WDI',0.14141,0.136996,0.03051,0.13907,6.357552,-0.066438,cluster3
+590,'0811N: GDP per capita growth  (annual \%) - WDI','0245: PPG; private creditors  (INT; current US$) - WDI',0.14141,0.138501,0.01935,0.14141,5.954197,0.053932,cluster0
+591,'0811N: GDP per capita growth  (annual \%) - WDI','0800: GDP  (current US$) - WDI',0.14141,0.140609,0.01848,0.14141,6.459432,-0.02831,cluster3
+592,'0811N: GDP per capita growth  (annual \%) - WDI','1403: High-technology exports  (current US$) - WDI',0.14135,0.140683,0.01533,0.13865,6.247928,-0.025831,cluster1
+593,'0811N: GDP per capita growth  (annual \%) - WDI','0076: Personal transfers; receipts  (BoP; current US$) - WDI',0.14127,0.137296,0.01742,0.14127,6.169925,0.063042,cluster1
+594,'0811N: GDP per capita growth  (annual \%) - WDI','2735: Merchandise trade-Imports-Telecommunications equipment (US dollar at current prices) - WTO',0.14126,0.140844,0.02193,0.13836,6.209454,-0.020391,cluster1
+595,'0811N: GDP per capita growth  (annual \%) - WDI','2711: Uneven Development - Fund for Peace',0.14122,0.117343,0.05205,0.14122,6.209454,0.154523,cluster4
+596,'0811N: GDP per capita growth  (annual \%) - WDI','0465: Total reserves minus gold  (current US$) - WDI',0.14117,0.136506,0.01735,0.14117,6.247928,0.068296,cluster1
+597,'0811N: GDP per capita growth  (annual \%) - WDI','0332: Debt service on external debt; private nonguaranteed (PNG)  (TDS; current US$) - WDI',0.14108,0.135544,0.01233,0.14108,5.954197,0.074406,cluster0
+598,'0811N: GDP per capita growth  (annual \%) - WDI','1102: Health expenditure; public  (\% of government expenditure) - WDI',0.14107,0.136248,0.00897,0.13896,6.357552,-0.069443,cluster3
+599,'0811N: GDP per capita growth  (annual \%) - WDI','2709: Refugees and IDPs - Fund for Peace',0.14107,0.124639,0.06272,0.14107,6.209454,0.128183,cluster4
+600,'0811N: GDP per capita growth  (annual \%) - WDI','0155: Currency composition of PPG debt; U.S. dollars  (\%) - WDI',0.14101,0.139577,0.00609,0.14101,5.954197,0.037861,cluster0
+601,'0811N: GDP per capita growth  (annual \%) - WDI','0206: PPG; private creditors  (DOD; current US$) - WDI',0.14101,0.136549,0.00714,0.14101,5.954197,0.066788,cluster0
+602,'0811N: GDP per capita growth  (annual \%) - WDI','0192: Debt forgiveness grants  (current US$) - WDI',0.14086,0.138349,0.06624,0.14086,5.954197,0.050112,cluster0
+603,'0811N: GDP per capita growth  (annual \%) - WDI','0077: Personal remittances; received  (current US$) - WDI',0.14082,0.140373,0.01748,0.14082,6.357552,0.021147,cluster3
+604,'0811N: GDP per capita growth  (annual \%) - WDI','0277: PPG; bonds  (NFL; current US$) - WDI',0.14081,0.138155,0.03422,0.14081,5.954197,0.051528,cluster0
+605,'0811N: GDP per capita growth  (annual \%) - WDI','1369: Merchandise imports from low- and middle-income economies in Sub-Saharan Africa  (\% of total merchandise imports) - WDI',0.14075,0.138709,0.01487,0.1385,6.321928,0.045175,cluster1
+606,'0811N: GDP per capita growth  (annual \%) - WDI','0375: Alternative and nuclear energy  (\% of total energy use) - WDI',0.14068,0.139099,0.016,0.13792,6.209454,-0.039757,cluster1
+607,'0811N: GDP per capita growth  (annual \%) - WDI','0266: Net official flows from UN agencies; IFAD  (current US$) - WDI',0.14065,0.140528,0.03077,0.14065,5.954197,-0.01106,cluster0
+608,'0811N: GDP per capita growth  (annual \%) - WDI','0171: PPG; commercial banks  (DIS; current US$) - WDI',0.14062,0.138695,0.01637,0.14062,5.954197,0.043872,cluster0
+609,'0811N: GDP per capita growth  (annual \%) - WDI','1050: Lifetime risk of maternal death  (1 in: rate varies by country) - WDI',0.14056,0.120251,0.03121,0.1392,6.426265,-0.14251,cluster3
+610,'0811N: GDP per capita growth  (annual \%) - WDI','0958: School enrollment; secondary; private  (\% of total secondary) - WDI',0.14051,0.139778,0.02624,0.13736,6.129283,0.027058,cluster1
+611,'0811N: GDP per capita growth  (annual \%) - WDI','0904: Gross intake ratio in first grade of primary education; total  (\% of relevant age group) - WDI',0.14029,0.126259,0.01252,0.13771,6.247928,0.118451,cluster1
+612,'0811N: GDP per capita growth  (annual \%) - WDI','0050: Net trade in goods  (BoP; current US$) - WDI',0.14028,0.138826,0.0252,0.13773,6.247928,0.038138,cluster1
+613,'0811N: GDP per capita growth  (annual \%) - WDI','1283: Mortality rate; infant  (per 1;000 live births) - WDI',0.14027,0.13212,0.01899,0.14027,6.426265,0.090275,cluster3
+614,'0811N: GDP per capita growth  (annual \%) - WDI','0946: Secondary education; general pupils  (\% female) - WDI',0.14025,0.140136,0.01667,0.14025,6.285402,-0.010689,cluster1
+615,'0811N: GDP per capita growth  (annual \%) - WDI','1150: Employment to population ratio; 15+; female (\%)  (modeled ILO estimate) - WDI',0.1402,0.138288,0.04099,0.1402,6.357552,0.043726,cluster3
+616,'0811N: GDP per capita growth  (annual \%) - WDI','0177: Concessional debt  (\% of total external debt) - WDI',0.14017,0.134391,0.01325,0.14017,5.954197,-0.076023,cluster0
+617,'0811N: GDP per capita growth  (annual \%) - WDI','2719: Human Flight - Fund for Peace',0.14013,0.122186,0.04146,0.14013,6.209454,0.133954,cluster4
+618,'0811N: GDP per capita growth  (annual \%) - WDI','2789: Balance of Payments-Exports-Other commercial services (US dollar at current prices) - WTO',0.14002,0.137651,0.01675,0.13734,6.209454,-0.048674,cluster1
+619,'0811N: GDP per capita growth  (annual \%) - WDI','0828: GNI; PPP  (current international $) - WDI',0.13995,0.139937,0.01252,0.13765,6.459432,0.003551,cluster3
+620,'0811N: GDP per capita growth  (annual \%) - WDI','2741: Merchandise trade-Exports-Iron and steel (US dollar at current prices) - WTO',0.13995,0.139302,0.0208,0.13995,6.129283,-0.025459,cluster1
+621,'0811N: GDP per capita growth  (annual \%) - WDI','0476: Money and quasi money (M2)  (current LCU) - WDI',0.13993,0.139516,0.01464,0.13993,6.129283,0.020359,cluster1
+622,'0811N: GDP per capita growth  (annual \%) - WDI','0591: Investment in telecoms with private participation  (current US$) - WDI',0.13993,0.137971,0.02552,0.13669,6.044394,0.044258,cluster1
+623,'0811N: GDP per capita growth  (annual \%) - WDI','0552: Documents to export  (number) - WDI',0.13988,0.101241,0.02808,0.1376,6.426265,0.196568,cluster4
+624,'0811N: GDP per capita growth  (annual \%) - WDI','0344: PPG; commercial banks  (TDS; current US$) - WDI',0.13987,0.134914,0.02163,0.13987,5.954197,0.070398,cluster0
+625,'0811N: GDP per capita growth  (annual \%) - WDI','0053: Portfolio Investment; net  (BoP; current US$) - WDI',0.13957,0.13793,0.02483,0.13678,6.169925,0.040493,cluster1
+626,'0811N: GDP per capita growth  (annual \%) - WDI','0893: Primary completion rate; male  (\% of relevant age group) - WDI',0.13957,0.139567,0.00586,0.1366,6.129283,0.001766,cluster1
+627,'0811N: GDP per capita growth  (annual \%) - WDI','2718: External Intervention - Fund for Peace',0.13956,0.130065,0.02648,0.13956,6.209454,0.097441,cluster1
+628,'0811N: GDP per capita growth  (annual \%) - WDI','0036: Service imports  (BoP; current US$) - WDI',0.13952,0.137235,0.02453,0.13729,6.392317,-0.047798,cluster3
+629,'0811N: GDP per capita growth  (annual \%) - WDI','1383: ICT goods exports  (\% of total goods exports) - WDI',0.13952,0.135063,0.02992,0.13653,6.247928,0.066761,cluster1
+630,'0811N: GDP per capita growth  (annual \%) - WDI','1317: International tourism; number of arrivals - WDI',0.13942,0.138333,0.02331,0.13728,6.426265,-0.032965,cluster3
+631,'0811N: GDP per capita growth  (annual \%) - WDI','0714: Gross capital formation  (current US$) - WDI',0.13931,0.139124,0.01475,0.13725,6.392317,-0.013628,cluster3
+632,'0811N: GDP per capita growth  (annual \%) - WDI','0845: Net taxes on products  (current LCU) - WDI',0.13927,0.137884,0.01744,0.13629,6.169925,0.037227,cluster1
+633,'0811N: GDP per capita growth  (annual \%) - WDI','0315: Net official development assistance and official aid received  (constant 2013 US$) - WDI',0.13923,0.138812,0.01494,0.13923,6.209454,0.020447,cluster1
+634,'0811N: GDP per capita growth  (annual \%) - WDI','0340: Multilateral debt service  (\% of public and publicly guaranteed debt service) - WDI',0.13922,0.127557,0.00898,0.13605,6,-0.107995,cluster1
+635,'0811N: GDP per capita growth  (annual \%) - WDI','0097: Net bilateral aid flows from DAC donors; France  (current US$) - WDI',0.13917,0.138843,0.00958,0.13917,6.169925,0.018091,cluster1
+636,'0811N: GDP per capita growth  (annual \%) - WDI','0363: Electricity production from nuclear sources  (\% of total) - WDI',0.13917,0.130083,0.03065,0.13917,6.169925,-0.095325,cluster1
+637,'0811N: GDP per capita growth  (annual \%) - WDI','0042: Foreign direct investment; net outflows  (\% of GDP) - WDI',0.13915,0.13854,0.02511,0.13681,6.392317,-0.0247,cluster3
+638,'0811N: GDP per capita growth  (annual \%) - WDI','0229: Interest payments on external debt  (\% of GNI) - WDI',0.13908,0.138541,0.011,0.13521,5.954197,-0.023212,cluster0
+639,'0811N: GDP per capita growth  (annual \%) - WDI','0057: Grants; excluding technical cooperation  (BoP; current US$) - WDI',0.13901,0.13766,0.00765,0.13603,6.044394,0.036744,cluster1
+640,'0811N: GDP per capita growth  (annual \%) - WDI','2803: Balance of Payments-Imports-Travel (US dollar at current prices) - WTO',0.13901,0.136864,0.0157,0.13613,6.209454,-0.046324,cluster1
+641,'0811N: GDP per capita growth  (annual \%) - WDI','0787: Adjusted net savings; excluding particulate emission damage  (\% of GNI) - WDI',0.13898,0.121027,0.01376,0.13898,6.209454,0.13399,cluster1
+642,'0811N: GDP per capita growth  (annual \%) - WDI','1364: Merchandise imports from low- and middle-income economies in East Asia & Pacific  (\% of total merchandise imports) - WDI',0.13881,0.117124,0.00709,0.13618,6.285402,0.147262,cluster7
+643,'0811N: GDP per capita growth  (annual \%) - WDI','0774: Adjusted savings: natural resources depletion  (\% of GNI) - WDI',0.13879,0.138623,0.01407,0.13879,6.357552,0.012924,cluster3
+644,'0811N: GDP per capita growth  (annual \%) - WDI','1361: Merchandise imports  (current US$) - WDI',0.13872,0.137519,0.01784,0.1368,6.459432,-0.034657,cluster3
+645,'0811N: GDP per capita growth  (annual \%) - WDI','0672: Household final consumption expenditure  (current US$) - WDI',0.13866,0.136904,0.01287,0.13866,6.357552,-0.041907,cluster3
+646,'0811N: GDP per capita growth  (annual \%) - WDI','0577: Cost of business start-up procedures  (\% of GNI per capita) - WDI',0.13853,0.138301,0.02383,0.13628,6.392317,0.015131,cluster3
+647,'0811N: GDP per capita growth  (annual \%) - WDI','0767: Adjusted savings: consumption of fixed capital  (\% of GNI) - WDI',0.13843,0.127994,0.02308,0.13636,6.459432,-0.102157,cluster3
+648,'0811N: GDP per capita growth  (annual \%) - WDI','0657: Military expenditure  (\% of GDP) - WDI',0.13833,0.131268,0.01479,0.13572,6.285402,-0.084037,cluster1
+649,'0811N: GDP per capita growth  (annual \%) - WDI','0903: Gross intake ratio in first grade of primary education; male  (\% of relevant age group) - WDI',0.13827,0.126437,0.00954,0.13827,6.209454,0.10878,cluster1
+650,'0811N: GDP per capita growth  (annual \%) - WDI','0487: Real interest rate  (\%) - WDI',0.13825,0.138125,0.01942,0.1348,6.044394,0.011183,cluster1
+651,'0811N: GDP per capita growth  (annual \%) - WDI','0247: Net change in interest arrears  (current US$) - WDI',0.13823,0.138207,0.02263,0.13823,5.954197,0.004799,cluster0
+652,'0811N: GDP per capita growth  (annual \%) - WDI','0309: PPG; commercial banks  (NTR; current US$) - WDI',0.13823,0.137923,0.01895,0.13823,5.954197,-0.017523,cluster0
+653,'0811N: GDP per capita growth  (annual \%) - WDI','1365: Merchandise imports from low- and middle-income economies in Europe & Central Asia  (\% of total merchandise imports) - WDI',0.13812,0.125568,0.01209,0.13812,6.169925,0.112036,cluster1
+654,'0811N: GDP per capita growth  (annual \%) - WDI','1368: Merchandise imports from low- and middle-income economies in South Asia  (\% of total merchandise imports) - WDI',0.13805,0.134922,0.01117,0.13571,6.392317,0.055933,cluster3
+655,'0811N: GDP per capita growth  (annual \%) - WDI','0147: Currency composition of PPG debt; Euro  (\%) - WDI',0.13793,0.134105,0.00765,0.13793,5.954197,-0.061847,cluster0
+656,'0811N: GDP per capita growth  (annual \%) - WDI','2798: Balance of Payments-Exports-Other services (US dollar at current prices) - WTO',0.13789,0.135503,0.01826,0.13528,6.209454,-0.048862,cluster1
+657,'0811N: GDP per capita growth  (annual \%) - WDI','0063: Exports of goods and services  (BoP; current US$) - WDI',0.13787,0.136344,0.02956,0.1357,6.392317,-0.039064,cluster3
+658,'0811N: GDP per capita growth  (annual \%) - WDI','1095: External resources for health  (\% of total expenditure on health) - WDI',0.13785,0.137698,0.01564,0.13537,6.285402,0.012319,cluster1
+659,'0811N: GDP per capita growth  (annual \%) - WDI','2817: Balance of Payments-Imports-Charges for the use of intellectual property n.i.e. (US dollar at current prices) - WTO',0.13772,0.134324,0.00811,0.13772,6,-0.058277,cluster1
+660,'0811N: GDP per capita growth  (annual \%) - WDI','0037: Charges for the use of intellectual property; payments  (BoP; current US$) - WDI',0.13769,0.131154,0.0198,0.13769,6.209454,-0.080849,cluster1
+661,'0811N: GDP per capita growth  (annual \%) - WDI','0370: GDP per unit of energy use  (constant 2011 PPP $ per kg of oil equivalent) - WDI',0.13763,0.137593,0.01777,0.13763,6.209454,-0.006098,cluster1
+662,'0811N: GDP per capita growth  (annual \%) - WDI','0275: IFC; private nonguaranteed  (NFL; current US$) - WDI',0.13756,0.135931,0.01046,0.13756,5.954197,0.040363,cluster0
+663,'0811N: GDP per capita growth  (annual \%) - WDI','0134: Principal arrears; long-term DOD  (US$) - WDI',0.13751,0.134449,0.02462,0.13751,5.954197,0.055327,cluster0
+664,'0811N: GDP per capita growth  (annual \%) - WDI','0585: Tax payments  (number) - WDI',0.13746,0.127745,0.009,0.13535,6.392317,0.098564,cluster3
+665,'0811N: GDP per capita growth  (annual \%) - WDI','0742: Manufacturing; value added  (\% of GDP) - WDI',0.13746,0.132871,0.02173,0.13746,6.357552,0.067741,cluster3
+666,'0811N: GDP per capita growth  (annual \%) - WDI','0475: Money  (current LCU) - WDI',0.13736,0.136714,0.01222,0.13461,6.129283,0.025407,cluster1
+667,'0811N: GDP per capita growth  (annual \%) - WDI','0681: Final consumption expenditure; etc.  (current US$) - WDI',0.13736,0.135595,0.00981,0.13505,6.392317,-0.042015,cluster3
+668,'0811N: GDP per capita growth  (annual \%) - WDI','0377: Energy use (kg of oil equivalent) per $1;000 GDP  (constant 2011 PPP) - WDI',0.13724,0.127141,0.01793,0.13724,6.209454,0.100494,cluster1
+669,'0811N: GDP per capita growth  (annual \%) - WDI','2738: Merchandise trade-Imports-Textiles (US dollar at current prices) - WTO',0.13722,0.137181,0.01612,0.13459,6.209454,0.006277,cluster1
+670,'0811N: GDP per capita growth  (annual \%) - WDI','0427: Population density  (people per sq. km of land area) - WDI',0.13711,0.129413,0.02791,0.13711,6.459432,0.08773,cluster3
+671,'0811N: GDP per capita growth  (annual \%) - WDI','0113: Net bilateral aid flows from DAC donors; Sweden  (current US$) - WDI',0.13703,0.137016,0.01261,0.13404,6.044394,-0.003749,cluster1
+672,'0811N: GDP per capita growth  (annual \%) - WDI','0059: ICT service exports  (BoP; current US$) - WDI',0.13702,0.131763,0.03055,0.13702,6.209454,-0.072502,cluster1
+673,'0811N: GDP per capita growth  (annual \%) - WDI','0768: Adjusted savings: mineral depletion  (current US$) - WDI',0.13699,0.132247,0.01828,0.13699,6.321928,0.068866,cluster1
+674,'0811N: GDP per capita growth  (annual \%) - WDI','0790: Inflation; GDP deflator  (annual \%) - WDI',0.13696,0.135967,0.00489,0.13696,6.459432,0.031514,cluster3
+675,'0811N: GDP per capita growth  (annual \%) - WDI','2747: Merchandise trade-Exports-Telecommunications equipment (US dollar at current prices) - WTO',0.13694,0.133199,0.01678,0.13694,6.129283,0.061166,cluster1
+676,'0811N: GDP per capita growth  (annual \%) - WDI','2776: Merchandise trade-Imports-Total merchandise (Volume index - Previous year = 100) - WTO',0.13686,0.112217,0.00959,0.13462,6.285402,0.156981,cluster7
+677,'0811N: GDP per capita growth  (annual \%) - WDI','1402: Commercial service exports  (current US$) - WDI',0.13685,0.134064,0.0216,0.13449,6.392317,-0.052786,cluster3
+678,'0811N: GDP per capita growth  (annual \%) - WDI','1074: People practicing open defecation; urban  (\% of urban population) - WDI',0.13683,0.135991,0.01881,0.13683,6.392317,0.028961,cluster3
+679,'0811N: GDP per capita growth  (annual \%) - WDI','0914: School enrollment; primary; private  (\% of total primary) - WDI',0.13678,0.125665,0.00683,0.13678,6.247928,-0.105427,cluster1
+680,'0811N: GDP per capita growth  (annual \%) - WDI','1771: Primary energy supply - TOT (TOE_1000USD) - OECD',0.13672,0.134842,0.01475,0.1336,6,0.043334,cluster1
+681,'0811N: GDP per capita growth  (annual \%) - WDI','1207: Labor force participation rate; female (\% of female population ages 15-64)  (modeled ILO estimate) - WDI',0.13667,0.136658,0.03054,0.13667,6.392317,0.003459,cluster3
+682,'0811N: GDP per capita growth  (annual \%) - WDI','0754: Services; etc.; value added  (current US$) - WDI',0.13663,0.133863,0.01144,0.13451,6.426265,-0.052598,cluster3
+683,'0811N: GDP per capita growth  (annual \%) - WDI','0196: Multilateral debt  (\% of total external debt) - WDI',0.13662,0.126333,0.00941,0.13662,5.954197,-0.101425,cluster0
+684,'0811N: GDP per capita growth  (annual \%) - WDI','0322: Net ODA received  (\% of imports of goods; services and primary income) - WDI',0.1366,0.135475,0.01842,0.1366,6.129283,0.033542,cluster1
+685,'0811N: GDP per capita growth  (annual \%) - WDI','0323: Net ODA received per capita  (current US$) - WDI',0.13656,0.132792,0.01444,0.13656,6.209454,-0.061385,cluster1
+686,'0811N: GDP per capita growth  (annual \%) - WDI','0137: Principal forgiven  (current US$) - WDI',0.13645,0.133709,0.02556,0.13645,5.954197,0.052352,cluster0
+687,'0811N: GDP per capita growth  (annual \%) - WDI','0051: Net errors and omissions  (BoP; current US$) - WDI',0.13638,0.136379,0.01811,0.13373,6.247928,-0.000844,cluster1
+688,'0811N: GDP per capita growth  (annual \%) - WDI','1104: Health expenditure; total  (\% of GDP) - WDI',0.13633,0.130769,0.00827,0.13633,6.426265,-0.074571,cluster3
+689,'0811N: GDP per capita growth  (annual \%) - WDI','0369: GDP per unit of energy use  (PPP $ per kg of oil equivalent) - WDI',0.13631,0.136223,0.01306,0.13631,6.209454,-0.00933,cluster1
+690,'0811N: GDP per capita growth  (annual \%) - WDI','0191: Short-term debt  (\% of total external debt) - WDI',0.13628,0.132537,0.01109,0.13628,5.954197,0.06118,cluster0
+691,'0811N: GDP per capita growth  (annual \%) - WDI','0881: School enrollment; secondary (gross); gender parity index  (GPI) - WDI',0.13626,0.135146,0.01296,0.13626,6.209454,-0.033375,cluster1
+692,'0811N: GDP per capita growth  (annual \%) - WDI','0286: Net official flows from UN agencies; UNAIDS  (current US$) - WDI',0.13621,0.136183,0.02993,0.13621,6,-0.0052,cluster1
+693,'0811N: GDP per capita growth  (annual \%) - WDI','0280: PNG; bonds  (NFL; current US$) - WDI',0.13613,0.132766,0.03712,0.13613,5.954197,0.057999,cluster0
+694,'0811N: GDP per capita growth  (annual \%) - WDI','0880: School enrollment; primary and secondary (gross); gender parity index  (GPI) - WDI',0.13606,0.134735,0.00821,0.13338,6.209454,-0.036398,cluster1
+695,'0811N: GDP per capita growth  (annual \%) - WDI','0189: Short-term debt  (\% of total reserves) - WDI',0.13601,0.135881,0.01711,0.13601,5.954197,0.011357,cluster0
+696,'0811N: GDP per capita growth  (annual \%) - WDI','1216: Labor force participation rate; total (\% of total population ages 15+)  (national estimate) - WDI',0.13579,0.129633,0.033,0.13579,6,0.078468,cluster1
+697,'0811N: GDP per capita growth  (annual \%) - WDI','0778: Adjusted net national income  (current US$) - WDI',0.13553,0.13428,0.01568,0.13553,6.357552,-0.035353,cluster3
+698,'0811N: GDP per capita growth  (annual \%) - WDI','0635: Mobile cellular subscriptions - WDI',0.13534,0.133635,0.01416,0.13328,6.459432,0.041297,cluster3
+699,'0811N: GDP per capita growth  (annual \%) - WDI','1382: Fuel exports  (\% of merchandise exports) - WDI',0.13525,0.126556,0.03114,0.13272,6.247928,-0.093244,cluster1
+700,'0811N: GDP per capita growth  (annual \%) - WDI','1238: Unemployment; youth total (\% of total labor force ages 15-24)  (modeled ILO estimate) - WDI',0.13504,0.133942,0.02451,0.13504,6.357552,-0.033136,cluster3
+701,'0811N: GDP per capita growth  (annual \%) - WDI','0310: PNG; bonds  (NTR; current US$) - WDI',0.13503,0.132057,0.02399,0.13503,5.954197,0.054529,cluster0
+702,'0811N: GDP per capita growth  (annual \%) - WDI','1300: Age dependency ratio; young  (\% of working-age population) - WDI',0.13493,0.132308,0.01548,0.13493,6.426265,0.051202,cluster3
+703,'0811N: GDP per capita growth  (annual \%) - WDI','2774: Merchandise trade-Imports-Total merchandise (Unit value index - Prev. year = 100) - WTO',0.1349,0.120472,0.01483,0.13239,6.285402,-0.120116,cluster7
+704,'0811N: GDP per capita growth  (annual \%) - WDI','0136: Principal arrears; private creditors  (current US$) - WDI',0.13484,0.132257,0.02023,0.13484,5.954197,0.050825,cluster0
+705,'0811N: GDP per capita growth  (annual \%) - WDI','0775: Adjusted savings: gross savings  (\% of GNI) - WDI',0.1347,0.111914,0.01807,0.1347,6.285402,0.150951,cluster7
+706,'0811N: GDP per capita growth  (annual \%) - WDI','0839: Gross savings  (\% of GNI) - WDI',0.1347,0.111914,0.01807,0.1347,6.285402,0.15095,cluster7
+707,'0811N: GDP per capita growth  (annual \%) - WDI','1254: Unemployment; female (\% of female labor force)  (national estimate) - WDI',0.13465,0.133629,0.03095,0.13465,5.954197,-0.031959,cluster0
+708,'0811N: GDP per capita growth  (annual \%) - WDI','0114: Net bilateral aid flows from DAC donors; Total  (current US$) - WDI',0.13458,0.1342,0.01739,0.13458,6.209454,0.019481,cluster1
+709,'0811N: GDP per capita growth  (annual \%) - WDI','0151: Currency composition of PPG debt; all other currencies  (\%) - WDI',0.13446,0.125332,0.01708,0.13446,5.954197,-0.095542,cluster0
+710,'0811N: GDP per capita growth  (annual \%) - WDI','0096: Net bilateral aid flows from DAC donors; Finland  (current US$) - WDI',0.13445,0.134448,0.02068,0.13445,6.044394,0.001253,cluster1
+711,'0811N: GDP per capita growth  (annual \%) - WDI','1400: Export value index  (2000 = 100) - WDI',0.13444,0.127681,0.00631,0.13444,6.285402,0.082214,cluster7
+712,'0811N: GDP per capita growth  (annual \%) - WDI','1137: Employment to population ratio; ages 15-24; female (\%)  (modeled ILO estimate) - WDI',0.13441,0.134048,0.02979,0.13441,6.357552,0.019034,cluster3
+713,'0811N: GDP per capita growth  (annual \%) - WDI','1100: Health expenditure; private  (\% of GDP) - WDI',0.1344,0.130141,0.01319,0.1344,6.426265,0.06526,cluster3
+714,'0811N: GDP per capita growth  (annual \%) - WDI','0329: Total debt service  (\% of GNI) - WDI',0.13432,0.134229,0.00757,0.13432,6,-0.009518,cluster1
+715,'0811N: GDP per capita growth  (annual \%) - WDI','0321: Net official development assistance received  (constant 2013 US$) - WDI',0.1343,0.133939,0.01288,0.1343,6.209454,0.019006,cluster1
+716,'0811N: GDP per capita growth  (annual \%) - WDI','0894: Primary completion rate; total  (\% of relevant age group) - WDI',0.13426,0.133984,0.01193,0.13426,6.129283,0.016628,cluster1
+717,'0811N: GDP per capita growth  (annual \%) - WDI','1075: People practicing open defecation  (\% of population) - WDI',0.13419,0.128004,0.0102,0.13233,6.392317,0.078653,cluster7
+718,'0811N: GDP per capita growth  (annual \%) - WDI','0165: PPG; IBRD  (DIS; current US$) - WDI',0.13418,0.126772,0.01073,0.13418,5.954197,0.086068,cluster0
+719,'0811N: GDP per capita growth  (annual \%) - WDI','0719: Gross capital formation  (\% of GDP) - WDI',0.13416,0.118581,0.00477,0.13187,6.392317,0.124816,cluster7
+720,'0811N: GDP per capita growth  (annual \%) - WDI','0066: Service exports  (BoP; current US$) - WDI',0.13413,0.131351,0.01574,0.13171,6.392317,-0.05272,cluster3
+721,'0811N: GDP per capita growth  (annual \%) - WDI','0484: Deposit interest rate  (\%) - WDI',0.13406,0.133509,0.00665,0.13406,6.087463,0.023468,cluster1
+722,'0811N: GDP per capita growth  (annual \%) - WDI','0337: PPG; IBRD  (TDS; current US$) - WDI',0.13403,0.125014,0.01475,0.13403,5.954197,0.094952,cluster0
+723,'0811N: GDP per capita growth  (annual \%) - WDI','0482: Inflation; consumer prices  (annual \%) - WDI',0.13401,0.123756,0.01488,0.13401,6.392317,-0.101263,cluster3
+724,'0811N: GDP per capita growth  (annual \%) - WDI','0653: Arms imports  (SIPRI trend indicator values) - WDI',0.13373,0.133557,0.0206,0.13046,6.044394,0.013134,cluster1
+725,'0811N: GDP per capita growth  (annual \%) - WDI','1311: Rural population growth  (annual \%) - WDI',0.13373,0.126622,0.02187,0.13178,6.459432,-0.084311,cluster3
+726,'0811N: GDP per capita growth  (annual \%) - WDI','1353: Agricultural raw materials imports  (\% of merchandise imports) - WDI',0.13372,0.130489,0.02543,0.13125,6.285402,0.056845,cluster1
+727,'0811N: GDP per capita growth  (annual \%) - WDI','2740: Merchandise trade-Exports-Fuels (US dollar at current prices) - WTO',0.1337,0.129162,0.01696,0.1337,6.169925,-0.067366,cluster1
+728,'0811N: GDP per capita growth  (annual \%) - WDI','0254: Average maturity on new external debt commitments  (years) - WDI',0.13368,0.125689,0.00948,0.13368,5.954197,0.089391,cluster0
+729,'0811N: GDP per capita growth  (annual \%) - WDI','0269: Net financial flows; IBRD  (NFL; current US$) - WDI',0.13366,0.131764,0.02056,0.13366,6.087463,0.043543,cluster1
+730,'0811N: GDP per capita growth  (annual \%) - WDI','0154: Currency composition of PPG debt; Pound sterling  (\%) - WDI',0.13363,0.133421,0.01809,0.13363,5.954197,0.01447,cluster0
+731,'0811N: GDP per capita growth  (annual \%) - WDI','0174: PPG; other private creditors  (DIS; current US$) - WDI',0.13361,0.123407,0.01843,0.13361,5.954197,0.101011,cluster0
+732,'0811N: GDP per capita growth  (annual \%) - WDI','0314: Net official development assistance and official aid received  (current US$) - WDI',0.1336,0.133262,0.01671,0.1336,6.209454,0.018394,cluster1
+733,'0811N: GDP per capita growth  (annual \%) - WDI','0348: PPG; private creditors  (TDS; current US$) - WDI',0.13345,0.128639,0.00452,0.13345,5.954197,0.069361,cluster0
+734,'0811N: GDP per capita growth  (annual \%) - WDI','0472: Broad money  (\% of GDP) - WDI',0.13344,0.132418,0.02484,0.13103,6.285402,0.031972,cluster1
+735,'0811N: GDP per capita growth  (annual \%) - WDI','1298: Age dependency ratio  (\% of working-age population) - WDI',0.13342,0.132927,0.01594,0.13342,6.426265,0.022212,cluster3
+736,'0811N: GDP per capita growth  (annual \%) - WDI','0765: Adjusted savings: net forest depletion  (\% of GNI) - WDI',0.13339,0.130049,0.00459,0.13339,6.357552,0.057801,cluster7
+737,'0811N: GDP per capita growth  (annual \%) - WDI','0951: Secondary education; vocational pupils  (\% female) - WDI',0.13334,0.127655,0.00405,0.13334,6.087463,0.075402,cluster7
+738,'0811N: GDP per capita growth  (annual \%) - WDI','1320: International tourism; receipts  (\% of total exports) - WDI',0.13313,0.132036,0.01487,0.13313,6.357552,-0.033082,cluster7
+739,'0811N: GDP per capita growth  (annual \%) - WDI','0333: Debt service  (PPG and IMF only; \% of exports of goods; services and primary income) - WDI',0.1331,0.125328,0.01108,0.1331,5.954197,-0.088156,cluster0
+740,'0811N: GDP per capita growth  (annual \%) - WDI','0578: Time required to start a business  (days) - WDI',0.13306,0.130698,0.01649,0.13081,6.392317,0.048603,cluster7
+741,'0811N: GDP per capita growth  (annual \%) - WDI','2751: Merchandise trade-Exports-Clothing (US dollar at current prices) - WTO',0.13302,0.125028,0.01173,0.13,6.169925,0.089398,cluster7
+742,'0811N: GDP per capita growth  (annual \%) - WDI','0686: Final consumption expenditure; etc.  (\% of GDP) - WDI',0.13299,0.131271,0.01442,0.13038,6.247928,0.041456,cluster7
+743,'0811N: GDP per capita growth  (annual \%) - WDI','0805: GDP; PPP  (current international $) - WDI',0.13295,0.132936,0.00989,0.13072,6.459432,0.003803,cluster7
+744,'0811N: GDP per capita growth  (annual \%) - WDI','0068: Exports of goods; services and primary income  (BoP; current US$) - WDI',0.13291,0.13086,0.02402,0.13062,6.392317,-0.045279,cluster3
+745,'0811N: GDP per capita growth  (annual \%) - WDI','0153: Currency composition of PPG debt; Swiss franc  (\%) - WDI',0.13288,0.132281,0.01951,0.13288,5.954197,-0.024483,cluster0
+746,'0811N: GDP per capita growth  (annual \%) - WDI','1373: Import value index  (2000 = 100) - WDI',0.13286,0.127446,0.00864,0.13286,6.285402,0.073582,cluster7
+747,'0811N: GDP per capita growth  (annual \%) - WDI','2802: Balance of Payments-Imports-Transport (US dollar at current prices) - WTO',0.13285,0.131428,0.01154,0.13006,6.209454,-0.037712,cluster7
+748,'0811N: GDP per capita growth  (annual \%) - WDI','0705: Gross fixed capital formation  (current US$) - WDI',0.13264,0.132409,0.01019,0.13264,6.357552,-0.015204,cluster7
+749,'0811N: GDP per capita growth  (annual \%) - WDI','0588: Time required to build a warehouse  (days) - WDI',0.13261,0.129591,0.02154,0.13027,6.392317,0.054945,cluster3
+750,'0811N: GDP per capita growth  (annual \%) - WDI','0098: Net bilateral aid flows from DAC donors; United Kingdom  (current US$) - WDI',0.13241,0.131862,0.01299,0.12937,6.129283,0.023408,cluster7
+751,'0811N: GDP per capita growth  (annual \%) - WDI','0115: Net bilateral aid flows from DAC donors; United States  (current US$) - WDI',0.1324,0.132072,0.00771,0.1296,6.209454,0.018119,cluster7
+752,'0811N: GDP per capita growth  (annual \%) - WDI','1395: Merchandise exports to low- and middle-income economies in South Asia  (\% of total merchandise exports) - WDI',0.13239,0.132286,0.01825,0.13239,6.357552,0.010221,cluster7
+753,'0811N: GDP per capita growth  (annual \%) - WDI','1288: Fertility rate; total  (births per woman) - WDI',0.13236,0.131705,0.01431,0.13065,6.459432,0.025592,cluster7
+754,'0811N: GDP per capita growth  (annual \%) - WDI','1325: International tourism; expenditures  (current US$) - WDI',0.13224,0.130298,0.02274,0.13224,6.392317,-0.044065,cluster3
+755,'0811N: GDP per capita growth  (annual \%) - WDI','0251: Interest rescheduled (capitalized)  (current US$) - WDI',0.13221,0.131797,0.04607,0.13221,5.954197,0.020319,cluster0
+756,'0811N: GDP per capita growth  (annual \%) - WDI','0202: PNG; bonds  (DOD; current US$) - WDI',0.13219,0.127705,0.01209,0.13219,5.954197,0.066971,cluster0
+757,'0811N: GDP per capita growth  (annual \%) - WDI','0041: Foreign direct investment; net outflows  (BoP; current US$) - WDI',0.13199,0.127716,0.01766,0.12969,6.392317,-0.065377,cluster7
+758,'0811N: GDP per capita growth  (annual \%) - WDI','1295: Population ages 0-14  (\% of total) - WDI',0.13171,0.127892,0.0095,0.13171,6.426265,0.061791,cluster7
+759,'0811N: GDP per capita growth  (annual \%) - WDI','1401: Computer; communications and other services  (\% of commercial service exports) - WDI',0.13171,0.131592,0.01142,0.13171,6.357552,-0.010848,cluster7
+760,'0811N: GDP per capita growth  (annual \%) - WDI','0242: PNG; bonds  (INT; current US$) - WDI',0.13163,0.127636,0.01334,0.13163,5.954197,0.063198,cluster0
+761,'0811N: GDP per capita growth  (annual \%) - WDI','0287: Net official flows from UN agencies; UNICEF  (current US$) - WDI',0.13157,0.131552,0.01809,0.12874,6.087463,0.004264,cluster7
+762,'0811N: GDP per capita growth  (annual \%) - WDI','0764: Adjusted savings: net forest depletion  (current US$) - WDI',0.1315,0.122184,0.01109,0.1315,6.209454,0.09652,cluster7
+763,'0811N: GDP per capita growth  (annual \%) - WDI','0032: Primary income payments  (BoP; current US$) - WDI',0.13129,0.126851,0.01566,0.12924,6.392317,-0.066629,cluster7
+764,'0811N: GDP per capita growth  (annual \%) - WDI','0763: Adjusted savings: carbon dioxide damage  (\% of GNI) - WDI',0.13125,0.103164,0.0189,0.13125,6.426265,0.167589,cluster4
+765,'0811N: GDP per capita growth  (annual \%) - WDI','0249: Interest arrears; private creditors  (current US$) - WDI',0.13115,0.12877,0.01992,0.13115,5.954197,0.048782,cluster0
+766,'0811N: GDP per capita growth  (annual \%) - WDI','0345: PNG; bonds  (TDS; current US$) - WDI',0.13111,0.126893,0.01495,0.13111,5.954197,0.06494,cluster0
+767,'0811N: GDP per capita growth  (annual \%) - WDI','0624: Source data assessment of statistical capacity  (scale 0 - 100) - WDI',0.13108,0.125765,0.03726,0.13108,6.129283,0.072904,cluster4
+768,'0811N: GDP per capita growth  (annual \%) - WDI','1256: Unemployment; male (\% of male labor force)  (national estimate) - WDI',0.13093,0.130888,0.03627,0.13093,5.954197,-0.006486,cluster0
+769,'0811N: GDP per capita growth  (annual \%) - WDI','0318: Net official development assistance received  (current US$) - WDI',0.13088,0.130593,0.01135,0.13088,6.209454,0.016953,cluster7
+770,'0811N: GDP per capita growth  (annual \%) - WDI','0545: Private credit bureau coverage  (\% of adults) - WDI',0.13085,0.125281,0.02103,0.1287,6.392317,-0.074628,cluster7
+771,'0811N: GDP per capita growth  (annual \%) - WDI','1273: Adolescent fertility rate  (births per 1;000 women ages 15-19) - WDI',0.13078,0.12932,0.02058,0.13078,6.426265,0.038212,cluster7
+772,'0811N: GDP per capita growth  (annual \%) - WDI','0655: Armed forces personnel  (\% of total labor force) - WDI',0.13076,0.130749,0.01488,0.12858,6.321928,0.003323,cluster7
+773,'0811N: GDP per capita growth  (annual \%) - WDI','0200: PPG; bonds  (DOD; current US$) - WDI',0.13062,0.126722,0.01409,0.13062,5.954197,0.062434,cluster0
+774,'0811N: GDP per capita growth  (annual \%) - WDI','0819: Gross domestic savings  (\% of GDP) - WDI',0.13061,0.130021,0.01909,0.12831,6.392317,-0.024266,cluster7
+775,'0811N: GDP per capita growth  (annual \%) - WDI','1301: Population growth  (annual \%) - WDI',0.13053,0.125374,0.02695,0.13053,6.459432,-0.071804,cluster3
+776,'0811N: GDP per capita growth  (annual \%) - WDI','2722: Merchandise trade-Exports-Fuels and mining products (US dollar at current prices) - WTO',0.13047,0.126181,0.01209,0.12754,6.209454,-0.065494,cluster7
+777,'0811N: GDP per capita growth  (annual \%) - WDI','0841: Net income from abroad  (current US$) - WDI',0.1303,0.129855,0.0183,0.12789,6.285402,-0.021097,cluster7
+778,'0811N: GDP per capita growth  (annual \%) - WDI','2745: Merchandise trade-Exports-Office and telecom equipment (US dollar at current prices) - WTO',0.1303,0.126642,0.01084,0.1303,6.129283,0.060478,cluster7
+779,'0811N: GDP per capita growth  (annual \%) - WDI','0710: Gross fixed capital formation  (\% of GDP) - WDI',0.12976,0.112015,0.00818,0.12976,6.357552,0.133209,cluster7
+780,'0811N: GDP per capita growth  (annual \%) - WDI','0551: Cost to export  (US$ per container) - WDI',0.12961,0.124948,0.02404,0.1277,6.426265,0.068278,cluster7
+781,'0811N: GDP per capita growth  (annual \%) - WDI','0138: Principal rescheduled  (current US$) - WDI',0.12949,0.128897,0.04,0.12949,5.954197,0.024342,cluster0
+782,'0811N: GDP per capita growth  (annual \%) - WDI','1900: Fixed-broadband subscriptions - ITU',0.12934,0.128052,0.00611,0.1265,6.247928,0.035882,cluster7
+783,'0811N: GDP per capita growth  (annual \%) - WDI','0142: Commitments; IBRD  (COM; current US$) - WDI',0.12928,0.12194,0.01501,0.12928,5.954197,0.085672,cluster0
+784,'0811N: GDP per capita growth  (annual \%) - WDI','1374: Computer; communications and other services  (\% of commercial service imports) - WDI',0.12919,0.128505,0.01215,0.12919,6.357552,-0.026168,cluster7
+785,'0811N: GDP per capita growth  (annual \%) - WDI','1279: Death rate; crude  (per 1;000 people) - WDI',0.12916,0.12909,0.01511,0.12706,6.459432,-0.008384,cluster7
+786,'0811N: GDP per capita growth  (annual \%) - WDI','1091: Tuberculosis treatment success rate  (\% of new cases) - WDI',0.12907,0.118405,0.05907,0.12676,6.357552,0.103271,cluster4
+787,'0811N: GDP per capita growth  (annual \%) - WDI','0065: Goods exports  (BoP; current US$) - WDI',0.12904,0.127815,0.02316,0.12686,6.392317,-0.034999,cluster7
+788,'0811N: GDP per capita growth  (annual \%) - WDI','0358: Electricity production from coal sources  (\% of total) - WDI',0.12904,0.126264,0.01673,0.12904,6.169925,0.052688,cluster7
+789,'0811N: GDP per capita growth  (annual \%) - WDI','2746: Merchandise trade-Exports-Electronic data processing and office equipment (US dollar at current prices) - WTO',0.12904,0.12426,0.01678,0.12904,6.129283,0.06914,cluster7
+790,'0811N: GDP per capita growth  (annual \%) - WDI','1380: Agricultural raw materials exports  (\% of merchandise exports) - WDI',0.12903,0.12902,0.00823,0.12903,6.247928,0.003116,cluster7
+791,'0811N: GDP per capita growth  (annual \%) - WDI','1258: Unemployment; total (\% of total labor force)  (national estimate) - WDI',0.12901,0.128283,0.03287,0.1258,6.044394,-0.026963,cluster4
+792,'0811N: GDP per capita growth  (annual \%) - WDI','1366: Merchandise imports from low- and middle-income economies in Latin America & the Caribbean  (\% of total merchandise imports) - WDI',0.12894,0.128566,0.00812,0.12635,6.321928,-0.019336,cluster7
+793,'0811N: GDP per capita growth  (annual \%) - WDI','0575: Time required to register property  (days) - WDI',0.12877,0.128723,0.02023,0.12877,6.357552,0.006823,cluster7
+794,'0811N: GDP per capita growth  (annual \%) - WDI','0035: Goods imports  (BoP; current US$) - WDI',0.1287,0.127123,0.00925,0.12653,6.392317,-0.03971,cluster7
+795,'0811N: GDP per capita growth  (annual \%) - WDI','1153: Employment to population ratio; 15+; total (\%)  (national estimate) - WDI',0.1287,0.123441,0.00886,0.1287,5.954197,0.072517,cluster0
+796,'0811N: GDP per capita growth  (annual \%) - WDI','0128: PPG; bonds  (AMT; current US$) - WDI',0.12864,0.12479,0.02523,0.12864,5.954197,0.062048,cluster0
+797,'0811N: GDP per capita growth  (annual \%) - WDI','0789: Coal rents  (\% of GDP) - WDI',0.12861,0.120294,0.0189,0.12673,6.459432,0.09119,cluster7
+798,'0811N: GDP per capita growth  (annual \%) - WDI','1296: Population ages 15-64  (\% of total) - WDI',0.1286,0.128135,0.01585,0.1286,6.426265,-0.021569,cluster7
+799,'0811N: GDP per capita growth  (annual \%) - WDI','1236: Unemployment; youth male (\% of male labor force ages 15-24)  (modeled ILO estimate) - WDI',0.1285,0.127656,0.02667,0.1285,6.357552,-0.029052,cluster7
+800,'0811N: GDP per capita growth  (annual \%) - WDI','0054: Reserves and related items  (BoP; current US$) - WDI',0.12846,0.11749,0.01137,0.12614,6.247928,0.104737,cluster7
+801,'0811N: GDP per capita growth  (annual \%) - WDI','0241: PPG; commercial banks  (INT; current US$) - WDI',0.12834,0.123364,0.01037,0.12834,5.954197,0.070541,cluster0
+802,'0811N: GDP per capita growth  (annual \%) - WDI','0253: Interest rescheduled; private  (current US$) - WDI',0.12825,0.128119,0.06268,0.12825,5.954197,-0.011445,cluster0
+803,'0811N: GDP per capita growth  (annual \%) - WDI','0730: Trade  (\% of GDP) - WDI',0.12812,0.127983,0.01145,0.12581,6.426265,-0.011685,cluster7
+804,'0811N: GDP per capita growth  (annual \%) - WDI','1034: Improved water source; urban  (\% of urban population with access) - WDI',0.12811,0.123323,0.02384,0.12811,6.426265,-0.069188,cluster7
+805,'0811N: GDP per capita growth  (annual \%) - WDI','0899: School enrollment; primary  (\% gross) - WDI',0.12808,0.118972,0.01372,0.12565,6.321928,0.095434,cluster7
+806,'0811N: GDP per capita growth  (annual \%) - WDI','1359: Ores and metals imports  (\% of merchandise imports) - WDI',0.12798,0.123186,0.01647,0.12552,6.285402,0.069238,cluster7
+807,'0811N: GDP per capita growth  (annual \%) - WDI','0267: Net financial flows; IMF concessional  (NFL; current US$) - WDI',0.12794,0.127481,0.01178,0.12794,6,0.021418,cluster7
+808,'0811N: GDP per capita growth  (annual \%) - WDI','0639: Fixed broadband subscriptions - WDI',0.12794,0.127908,0.0192,0.12794,6.392317,0.005651,cluster7
+809,'0811N: GDP per capita growth  (annual \%) - WDI','0060: ICT service exports  (\% of service exports; BoP) - WDI',0.12791,0.127294,0.00673,0.1255,6.247928,-0.024817,cluster7
+810,'0811N: GDP per capita growth  (annual \%) - WDI','1385: Manufactures exports  (\% of merchandise exports) - WDI',0.12781,0.127068,0.0157,0.12781,6.247928,0.02724,cluster7
+811,'0811N: GDP per capita growth  (annual \%) - WDI','1405: Transport services  (\% of commercial service exports) - WDI',0.1278,0.124777,0.01111,0.12549,6.357552,0.054986,cluster7
+812,'0811N: GDP per capita growth  (annual \%) - WDI','2804: Balance of Payments-Imports-Other commercial services (US dollar at current prices) - WTO',0.12761,0.125302,0.01012,0.12469,6.209454,-0.048038,cluster7
+813,'0811N: GDP per capita growth  (annual \%) - WDI','0061: Communications; computer; etc.  (\% of service exports; BoP) - WDI',0.12752,0.126991,0.01572,0.12752,6.357552,0.023003,cluster7
+814,'0811N: GDP per capita growth  (annual \%) - WDI','0118: IMF repurchases  (AMT; current US$) - WDI',0.12736,0.123681,0.00785,0.12736,5.954197,0.060658,cluster0
+815,'0811N: GDP per capita growth  (annual \%) - WDI','0546: Public credit registry coverage  (\% of adults) - WDI',0.12726,0.127257,0.05038,0.12491,6.392317,-0.001646,cluster4
+816,'0811N: GDP per capita growth  (annual \%) - WDI','0031: Communications; computer; etc.  (\% of service imports; BoP) - WDI',0.12703,0.127022,0.00958,0.1248,6.357552,-0.002862,cluster7
+817,'0811N: GDP per capita growth  (annual \%) - WDI','0140: Principal rescheduled; private  (current US$) - WDI',0.12702,0.126935,0.05282,0.12702,5.954197,-0.009229,cluster0
+818,'0811N: GDP per capita growth  (annual \%) - WDI','0308: PPG; bonds  (NTR; current US$) - WDI',0.12699,0.125179,0.01992,0.12699,5.954197,0.042559,cluster0
+819,'0811N: GDP per capita growth  (annual \%) - WDI','1358: Manufactures imports  (\% of merchandise imports) - WDI',0.12693,0.124938,0.01439,0.1243,6.285402,0.044632,cluster7
+820,'0811N: GDP per capita growth  (annual \%) - WDI','0696: Gross national expenditure  (\% of GDP) - WDI',0.12682,0.11896,0.00502,0.12413,6.247928,0.088656,cluster7
+821,'0811N: GDP per capita growth  (annual \%) - WDI','2771: Merchandise trade-Exports-Total merchandise (Unit value index - Prev. year = 100) - WTO',0.12677,0.125722,0.02944,0.12466,6.285402,-0.032377,cluster7
+822,'0811N: GDP per capita growth  (annual \%) - WDI','0569: Cost to import  (US$ per container) - WDI',0.12669,0.123256,0.02249,0.12459,6.426265,0.058599,cluster7
+823,'0811N: GDP per capita growth  (annual \%) - WDI','0164: IDA grants  (current US$) - WDI',0.12653,0.125192,0.01385,0.12653,5.954197,0.036583,cluster0
+824,'0811N: GDP per capita growth  (annual \%) - WDI','0343: PPG; bonds  (TDS; current US$) - WDI',0.12653,0.123096,0.00967,0.12653,5.954197,0.058597,cluster0
+825,'0811N: GDP per capita growth  (annual \%) - WDI','0246: Interest arrears; long-term DOD  (US$) - WDI',0.12641,0.124199,0.01262,0.12641,5.954197,0.047016,cluster0
+826,'0811N: GDP per capita growth  (annual \%) - WDI','0453: Bank nonperforming loans to total gross loans  (\%) - WDI',0.12641,0.125556,0.00582,0.12321,6.087463,0.029217,cluster7
+827,'0811N: GDP per capita growth  (annual \%) - WDI','0250: Interest forgiven  (current US$) - WDI',0.12627,0.125374,0.01208,0.12627,5.954197,0.029933,cluster0
+828,'0811N: GDP per capita growth  (annual \%) - WDI','0007: Arable land  (hectares per person) - WDI',0.1262,0.124916,0.01184,0.12411,6.459432,0.03583,cluster7
+829,'0811N: GDP per capita growth  (annual \%) - WDI','0711: Changes in inventories  (current US$) - WDI',0.12601,0.121347,0.02009,0.12601,6.169925,0.068284,cluster7
+830,'0811N: GDP per capita growth  (annual \%) - WDI','0215: Debt stock rescheduled  (current US$) - WDI',0.12595,0.122194,0.04059,0.12595,5.954197,0.061284,cluster0
+831,'0811N: GDP per capita growth  (annual \%) - WDI','0087: Net bilateral aid flows from DAC donors; Austria  (current US$) - WDI',0.12591,0.125888,0.00858,0.12282,6.044394,-0.00467,cluster7
+832,'0811N: GDP per capita growth  (annual \%) - WDI','0486: Interest rate spread  (lending rate minus deposit rate; \%) - WDI',0.12591,0.1238,0.00682,0.12331,6.129283,0.045932,cluster7
+833,'0811N: GDP per capita growth  (annual \%) - WDI','0734: Agriculture; value added  (annual \% growth) - WDI',0.1259,0.125722,0.01741,0.12373,6.392317,-0.013334,cluster7
+834,'0811N: GDP per capita growth  (annual \%) - WDI','0729: External balance on goods and services  (\% of GDP) - WDI',0.12586,0.122265,0.01195,0.12363,6.426265,-0.059962,cluster7
+835,'0811N: GDP per capita growth  (annual \%) - WDI','0891: Primary school starting age  (years) - WDI',0.12581,0.118609,0.10859,0.12359,6.321928,0.08486,cluster4
+836,'0811N: GDP per capita growth  (annual \%) - WDI','0034: Insurance and financial services  (\% of service imports; BoP) - WDI',0.12574,0.119915,0.01829,0.12574,6.357552,-0.07632,cluster7
+837,'0811N: GDP per capita growth  (annual \%) - WDI','1322: International tourism; expenditures for passenger transport items  (current US$) - WDI',0.12562,0.1229,0.01097,0.12302,6.285402,-0.052152,cluster7
+838,'0811N: GDP per capita growth  (annual \%) - WDI','0587: Total tax rate  (\% of commercial profits) - WDI',0.12555,0.125293,0.01526,0.1231,6.392317,-0.016019,cluster7
+839,'0811N: GDP per capita growth  (annual \%) - WDI','1376: Transport services  (\% of commercial service imports) - WDI',0.12534,0.124241,0.01325,0.12319,6.357552,0.033152,cluster7
+840,'0811N: GDP per capita growth  (annual \%) - WDI','1323: International tourism; receipts for travel items  (current US$) - WDI',0.12531,0.123451,0.01763,0.12531,6.392317,-0.043116,cluster7
+841,'0811N: GDP per capita growth  (annual \%) - WDI','0025: Crop production index  (2004-2006 = 100) - WDI',0.12524,0.121411,0.005,0.12311,6.459432,0.061881,cluster7
+842,'0811N: GDP per capita growth  (annual \%) - WDI','0252: Interest rescheduled; official  (current US$) - WDI',0.12516,0.124255,0.0436,0.12516,5.954197,0.030081,cluster0
+843,'0811N: GDP per capita growth  (annual \%) - WDI','0671: Household final consumption expenditure; etc.  (\% of GDP) - WDI',0.12486,0.123994,0.01363,0.12219,6.392317,0.029432,cluster7
+844,'0811N: GDP per capita growth  (annual \%) - WDI','0419: CO2 emissions from residential buildings and commercial and public services  (\% of total fuel combustion) - WDI',0.12485,0.124697,0.00736,0.12195,6.209454,0.012387,cluster7
+845,'0811N: GDP per capita growth  (annual \%) - WDI','0240: PPG; bonds  (INT; current US$) - WDI',0.12481,0.12247,0.01145,0.12481,5.954197,0.048369,cluster0
+846,'0811N: GDP per capita growth  (annual \%) - WDI','0901: School enrollment; primary; male  (\% gross) - WDI',0.1248,0.115983,0.00872,0.1248,6.285402,0.093899,cluster7
+847,'0811N: GDP per capita growth  (annual \%) - WDI','0026: Food production index  (2004-2006 = 100) - WDI',0.12476,0.122072,0.0113,0.12257,6.459432,0.051849,cluster7
+848,'0811N: GDP per capita growth  (annual \%) - WDI','0892: Primary completion rate; female  (\% of relevant age group) - WDI',0.12461,0.124117,0.00683,0.12178,6.129283,0.022214,cluster7
+849,'0811N: GDP per capita growth  (annual \%) - WDI','1324: International tourism; expenditures for travel items  (current US$) - WDI',0.12414,0.122461,0.01905,0.12414,6.392317,-0.040973,cluster7
+850,'0811N: GDP per capita growth  (annual \%) - WDI','1393: Merchandise exports to low- and middle-income economies in Latin America & the Caribbean  (\% of total merchandise exports) - WDI',0.12412,0.123918,0.00816,0.12187,6.321928,-0.014225,cluster7
+851,'0811N: GDP per capita growth  (annual \%) - WDI','0349: Total amount of debt rescheduled  (current US$) - WDI',0.12388,0.122581,0.03419,0.12388,5.954197,0.036039,cluster0
+852,'0811N: GDP per capita growth  (annual \%) - WDI','1217: Labor force participation rate; total (\% of total population ages 15+)  (modeled ILO estimate) - WDI',0.12378,0.122592,0.0218,0.12378,6.392317,0.034472,cluster7
+853,'0811N: GDP per capita growth  (annual \%) - WDI','0725: Imports of goods and services  (\% of GDP) - WDI',0.12374,0.123593,0.00979,0.12135,6.426265,0.012141,cluster7
+854,'0811N: GDP per capita growth  (annual \%) - WDI','0090: Net bilateral aid flows from DAC donors; European Union institutions  (current US$) - WDI',0.12372,0.123705,0.01376,0.12109,6.209454,0.003846,cluster7
+855,'0811N: GDP per capita growth  (annual \%) - WDI','1389: Merchandise exports to high-income economies  (\% of total merchandise exports) - WDI',0.12331,0.117662,0.01057,0.1209,6.426265,-0.075152,cluster7
+856,'0811N: GDP per capita growth  (annual \%) - WDI','0878: Compulsory education; duration  (years) - WDI',0.1232,0.122466,0.08347,0.12106,6.357552,-0.027084,cluster4
+857,'0811N: GDP per capita growth  (annual \%) - WDI','1092: Tuberculosis case detection rate  (\%; all forms) - WDI',0.12311,0.115244,0.06117,0.12098,6.392317,-0.088692,cluster4
+858,'0811N: GDP per capita growth  (annual \%) - WDI','0489: Claims on central government; etc.  (\% GDP) - WDI',0.12308,0.116305,0.01128,0.12308,6.357552,-0.08231,cluster7
+859,'0811N: GDP per capita growth  (annual \%) - WDI','0900: School enrollment; primary; female  (\% gross) - WDI',0.123,0.114574,0.00908,0.123,6.285402,0.091791,cluster7
+860,'0811N: GDP per capita growth  (annual \%) - WDI','0477: Money and quasi money  as \% of GDP (M2) - WDI',0.1223,0.12156,0.01366,0.1223,6.285402,0.027198,cluster7
+861,'0811N: GDP per capita growth  (annual \%) - WDI','0815: Oil rents  (\% of GDP) - WDI',0.12227,0.120582,0.01378,0.12043,6.426265,-0.041089,cluster7
+862,'0811N: GDP per capita growth  (annual \%) - WDI','0095: Net bilateral aid flows from DAC donors; Spain  (current US$) - WDI',0.12226,0.12226,0.0124,0.12226,6.044394,0.000266,cluster7
+863,'0811N: GDP per capita growth  (annual \%) - WDI','0623: Periodicity and timeliness assessment of statistical capacity  (scale 0 - 100) - WDI',0.12214,0.120227,0.04393,0.12214,6.129283,0.043742,cluster4
+864,'0811N: GDP per capita growth  (annual \%) - WDI','1211: Labor force participation rate; female (\% of female population ages 15+)  (modeled ILO estimate) - WDI',0.12212,0.120574,0.02451,0.12212,6.392317,0.039315,cluster7
+865,'0811N: GDP per capita growth  (annual \%) - WDI','1215: Labor force participation rate; male (\% of male population ages 15+)  (modeled ILO estimate) - WDI',0.122,0.1202,0.0189,0.122,6.392317,0.042424,cluster7
+866,'0811N: GDP per capita growth  (annual \%) - WDI','0589: Procedures to build a warehouse  (number) - WDI',0.12182,0.11183,0.01956,0.11962,6.392317,0.09995,cluster7
+867,'0811N: GDP per capita growth  (annual \%) - WDI','1390: Merchandise exports to low- and middle-income economies outside region  (\% of total merchandise exports) - WDI',0.12169,0.11687,0.01284,0.11929,6.321928,-0.069426,cluster7
+868,'0811N: GDP per capita growth  (annual \%) - WDI','0466: Claims on central government  (annual growth as \% of broad money) - WDI',0.12166,0.121642,0.00834,0.11893,6.129283,-0.004234,cluster7
+869,'0811N: GDP per capita growth  (annual \%) - WDI','0099: Net bilateral aid flows from DAC donors; Greece  (current US$) - WDI',0.12153,0.121462,0.02217,0.12153,5.954197,0.008222,cluster0
+870,'0811N: GDP per capita growth  (annual \%) - WDI','1356: ICT goods imports  (\% total goods imports) - WDI',0.12144,0.108783,0.00882,0.12144,6.285402,0.112503,cluster7
+871,'0811N: GDP per capita growth  (annual \%) - WDI','1406: Travel services  (\% of commercial service exports) - WDI',0.12134,0.12055,0.01085,0.11904,6.357552,0.028109,cluster7
+872,'0811N: GDP per capita growth  (annual \%) - WDI','1319: International tourism; receipts  (current US$) - WDI',0.12123,0.119552,0.00784,0.11927,6.426265,-0.04096,cluster7
+873,'0811N: GDP per capita growth  (annual \%) - WDI','1396: Merchandise exports to low- and middle-income economies in Sub-Saharan Africa  (\% of total merchandise exports) - WDI',0.1212,0.121115,0.00843,0.11886,6.321928,0.009229,cluster7
+874,'0811N: GDP per capita growth  (annual \%) - WDI','0214: Debt stock reduction  (current US$) - WDI',0.12111,0.118889,0.0188,0.12111,5.954197,0.047126,cluster0
+875,'0811N: GDP per capita growth  (annual \%) - WDI','0107: Net bilateral aid flows from DAC donors; Norway  (current US$) - WDI',0.12103,0.120879,0.01609,0.11803,6.044394,-0.012299,cluster7
+876,'0811N: GDP per capita growth  (annual \%) - WDI','1387: Merchandise exports to economies in the Arab World  (\% of total merchandise exports) - WDI',0.12094,0.120687,0.01693,0.12094,6.357552,0.015919,cluster7
+877,'0811N: GDP per capita growth  (annual \%) - WDI','1326: International tourism; expenditures  (\% of total imports) - WDI',0.12091,0.112896,0.01089,0.1187,6.392317,-0.089519,cluster7
+878,'0811N: GDP per capita growth  (annual \%) - WDI','0046: Current account balance  (\% of GDP) - WDI',0.12072,0.118815,0.00603,0.11812,6.247928,0.043648,cluster7
+879,'0811N: GDP per capita growth  (annual \%) - WDI','0071: Foreign direct investment; net inflows  (BoP; current US$) - WDI',0.1207,0.118722,0.01321,0.11858,6.459432,-0.044471,cluster7
+880,'0811N: GDP per capita growth  (annual \%) - WDI','0039: Transport services  (\% of service imports; BoP) - WDI',0.12069,0.120033,0.01242,0.11863,6.357552,0.025636,cluster7
+881,'0811N: GDP per capita growth  (annual \%) - WDI','2773: Merchandise trade-Exports-Total merchandise (Volume index - Previous year = 100) - WTO',0.12058,0.120212,0.01122,0.1181,6.285402,0.019177,cluster7
+882,'0811N: GDP per capita growth  (annual \%) - WDI','0069: Transport services  (\% of service exports; BoP) - WDI',0.12052,0.118197,0.00743,0.11841,6.357552,0.048197,cluster7
+883,'0811N: GDP per capita growth  (annual \%) - WDI','0702: Exports of goods and services  (\% of GDP) - WDI',0.12001,0.118937,0.00636,0.11789,6.426265,-0.032758,cluster7
+884,'0811N: GDP per capita growth  (annual \%) - WDI','0027: Livestock production index  (2004-2006 = 100) - WDI',0.11993,0.11674,0.01693,0.11797,6.459432,0.056483,cluster7
+885,'0811N: GDP per capita growth  (annual \%) - WDI','0030: Trade in services  (\% of GDP) - WDI',0.11957,0.118745,0.00588,0.11957,6.357552,-0.028731,cluster7
+886,'0811N: GDP per capita growth  (annual \%) - WDI','1370: Merchandise imports by the reporting economy; residual  (\% of total merchandise imports) - WDI',0.11932,0.11928,0.00688,0.11723,6.426265,0.006287,cluster7
+887,'0811N: GDP per capita growth  (annual \%) - WDI','0139: Principal rescheduled; official  (current US$) - WDI',0.11915,0.117235,0.03873,0.11915,5.954197,0.043764,cluster0
+888,'0811N: GDP per capita growth  (annual \%) - WDI','0040: Travel services  (\% of service imports; BoP) - WDI',0.11882,0.118301,0.01166,0.11882,6.357552,0.02278,cluster7
+889,'0811N: GDP per capita growth  (annual \%) - WDI','0159: IMF purchases  (DIS; current US$) - WDI',0.1188,0.116557,0.01609,0.1188,5.954197,0.047364,cluster0
+890,'0811N: GDP per capita growth  (annual \%) - WDI','1206: Labor force participation rate for ages 15-24; total (\%)  (modeled ILO estimate) - WDI',0.11873,0.118722,0.01738,0.11873,6.392317,0.002753,cluster7
+891,'0811N: GDP per capita growth  (annual \%) - WDI','0579: Start-up procedures to register a business  (number) - WDI',0.11866,0.116142,0.01714,0.11656,6.392317,0.050178,cluster7
+892,'0811N: GDP per capita growth  (annual \%) - WDI','1354: Food imports  (\% of merchandise imports) - WDI',0.11865,0.109403,0.01013,0.1163,6.285402,-0.096162,cluster7
+893,'0811N: GDP per capita growth  (annual \%) - WDI','0003: Fertilizer consumption  (kilograms per hectare of arable land) - WDI',0.1185,0.11708,0.01081,0.11624,6.285402,-0.037684,cluster7
+894,'0811N: GDP per capita growth  (annual \%) - WDI','1378: Net barter terms of trade index  (2000 = 100) - WDI',0.11834,0.117085,0.00573,0.11834,6.285402,0.035427,cluster7
+895,'0811N: GDP per capita growth  (annual \%) - WDI','1360: Merchandise imports from economies in the Arab World  (\% of total merchandise imports) - WDI',0.11833,0.118024,0.01622,0.11599,6.357552,0.017499,cluster7
+896,'0811N: GDP per capita growth  (annual \%) - WDI','0072: Foreign direct investment; net inflows  (\% of GDP) - WDI',0.11799,0.117098,0.00729,0.11613,6.459432,0.029863,cluster7
+897,'0811N: GDP per capita growth  (annual \%) - WDI','1257: Unemployment; male (\% of male labor force)  (modeled ILO estimate) - WDI',0.11777,0.117685,0.01149,0.11777,6.357552,-0.009197,cluster7
+898,'0811N: GDP per capita growth  (annual \%) - WDI','1381: Food exports  (\% of merchandise exports) - WDI',0.11745,0.115226,0.00778,0.11745,6.247928,0.047157,cluster7
+899,'0811N: GDP per capita growth  (annual \%) - WDI','1255: Unemployment; female (\% of female labor force)  (modeled ILO estimate) - WDI',0.11727,0.115942,0.01515,0.11727,6.357552,-0.036439,cluster7
+900,'0811N: GDP per capita growth  (annual \%) - WDI','2775: Merchandise trade-Imports-Total merchandise (Value index - Previous year = 100) - WTO',0.11718,0.117176,0.01611,0.11718,6.285402,0.001971,cluster7
+901,'0811N: GDP per capita growth  (annual \%) - WDI','0771: Adjusted savings: energy depletion  (\% of GNI) - WDI',0.11694,0.116626,0.01402,0.11514,6.459432,-0.017732,cluster7
+902,'0811N: GDP per capita growth  (annual \%) - WDI','1355: Fuel imports  (\% of merchandise imports) - WDI',0.11595,0.115756,0.00585,0.11377,6.285402,0.013934,cluster7
+903,'0811N: GDP per capita growth  (annual \%) - WDI','1377: Travel services  (\% of commercial service imports) - WDI',0.1158,0.114304,0.00962,0.1158,6.357552,0.038676,cluster7
+904,'0811N: GDP per capita growth  (annual \%) - WDI','1394: Merchandise exports to low- and middle-income economies in Middle East & North Africa  (\% of total merchandise exports) - WDI',0.11577,0.115686,0.00589,0.11577,6.357552,0.00917,cluster7
+905,'0811N: GDP per capita growth  (annual \%) - WDI','1209: Labor force participation rate; total (\% of total population ages 15-64)  (modeled ILO estimate) - WDI',0.11527,0.114898,0.015,0.11527,6.392317,-0.019281,cluster7
+906,'0811N: GDP per capita growth  (annual \%) - WDI','1397: Merchandise exports by the reporting economy; residual  (\% of total merchandise exports) - WDI',0.11519,0.114092,0.00674,0.11296,6.426265,0.033143,cluster7
+907,'0811N: GDP per capita growth  (annual \%) - WDI','1234: Unemployment; youth female (\% of female labor force ages 15-24)  (modeled ILO estimate) - WDI',0.11516,0.113515,0.01726,0.11516,6.357552,-0.040562,cluster7
+908,'0811N: GDP per capita growth  (annual \%) - WDI','0268: Net financial flows; IMF nonconcessional  (NFL; current US$) - WDI',0.11475,0.114297,0.00985,0.11475,6,-0.021283,cluster7
+909,'0811N: GDP per capita growth  (annual \%) - WDI','2772: Merchandise trade-Exports-Total merchandise (Value index - Previous year = 100) - WTO',0.11474,0.114664,0.00886,0.11474,6.285402,-0.00873,cluster7
+910,'0811N: GDP per capita growth  (annual \%) - WDI','0213: Debt buyback  (current US$) - WDI',0.11459,0.114365,0.06447,0.11459,5.954197,0.015006,cluster4
+911,'0811N: GDP per capita growth  (annual \%) - WDI','0895: Primary education; duration  (years) - WDI',0.11401,0.106729,0.09107,0.11213,6.459432,-0.085326,cluster4
+912,'0811N: GDP per capita growth  (annual \%) - WDI','1259: Unemployment; total (\% of total labor force)  (modeled ILO estimate) - WDI',0.11378,0.113471,0.00971,0.11378,6.357552,-0.017569,cluster7
+913,'0811N: GDP per capita growth  (annual \%) - WDI','1327: Merchandise trade  (\% of GDP) - WDI',0.11312,0.112236,0.00727,0.11096,6.459432,-0.029724,cluster7
+914,'0811N: GDP per capita growth  (annual \%) - WDI','1152: Employment to population ratio; 15+; male (\%)  (modeled ILO estimate) - WDI',0.11262,0.11123,0.00799,0.11262,6.357552,0.037288,cluster7
+915,'0811N: GDP per capita growth  (annual \%) - WDI','1363: Merchandise imports from low- and middle-income economies outside region  (\% of total merchandise imports) - WDI',0.11247,0.11175,0.00765,0.11031,6.321928,-0.02683,cluster7
+916,'0811N: GDP per capita growth  (annual \%) - WDI','1204: Labor force participation rate for ages 15-24; male (\%)  (modeled ILO estimate) - WDI',0.11211,0.11211,0.0119,0.11211,6.392317,-0.000342,cluster7
+917,'0811N: GDP per capita growth  (annual \%) - WDI','1041: Immunization; measles  (\% of children ages 12-23 months) - WDI',0.11206,0.112054,0.02228,0.11206,6.426265,0.002356,cluster7
+918,'0811N: GDP per capita growth  (annual \%) - WDI','0879: School enrollment; primary (gross); gender parity index  (GPI) - WDI',0.11077,0.110156,0.00986,0.11077,6.285402,0.024776,cluster7
+919,'0811N: GDP per capita growth  (annual \%) - WDI','1040: Immunization; DPT  (\% of children ages 12-23 months) - WDI',0.11075,0.110537,0.02881,0.11075,6.426265,-0.014598,cluster4
+920,'0811N: GDP per capita growth  (annual \%) - WDI','1202: Labor force participation rate for ages 15-24; female (\%)  (modeled ILO estimate) - WDI',0.11015,0.110017,0.01619,0.11015,6.392317,0.011525,cluster7
+921,'0811N: GDP per capita growth  (annual \%) - WDI','0770: Adjusted savings: energy depletion  (current US$) - WDI',0.1101,0.110076,0.00601,0.10753,6.321928,-0.004865,cluster7
+922,'0811N: GDP per capita growth  (annual \%) - WDI','1367: Merchandise imports from low- and middle-income economies in Middle East & North Africa  (\% of total merchandise imports) - WDI',0.11001,0.109141,0.00593,0.1078,6.392317,0.029477,cluster7
+923,'0811N: GDP per capita growth  (annual \%) - WDI','1154: Employment to population ratio; 15+; total (\%)  (modeled ILO estimate) - WDI',0.10994,0.108717,0.00999,0.10994,6.357552,0.034971,cluster7
+924,'0811N: GDP per capita growth  (annual \%) - WDI','0807: Natural gas rents  (\% of GDP) - WDI',0.10981,0.109561,0.00756,0.10776,6.426265,0.015779,cluster7
+925,'0811N: GDP per capita growth  (annual \%) - WDI','1141: Employment to population ratio; ages 15-24; total (\%)  (modeled ILO estimate) - WDI',0.10933,0.109214,0.0164,0.10933,6.357552,0.01079,cluster7
+926,'0811N: GDP per capita growth  (annual \%) - WDI','1208: Labor force participation rate; male (\% of male population ages 15-64)  (modeled ILO estimate) - WDI',0.1091,0.108478,0.01156,0.1091,6.392317,-0.024932,cluster7
+927,'0811N: GDP per capita growth  (annual \%) - WDI','0938: Lower secondary school starting age  (years) - WDI',0.10906,0.108035,0.09782,0.10697,6.321928,-0.032013,cluster4
+928,'0811N: GDP per capita growth  (annual \%) - WDI','0540: Business extent of disclosure index  (0=less disclosure to 10=more disclosure) - WDI',0.10811,0.107563,0.01668,0.106,6.392317,-0.023392,cluster7
+929,'0811N: GDP per capita growth  (annual \%) - WDI','1357: Insurance and financial services  (\% of commercial service imports) - WDI',0.10804,0.102988,0.00981,0.10804,6.357552,-0.071076,cluster7
+930,'0811N: GDP per capita growth  (annual \%) - WDI','0883: Preprimary education; duration  (years) - WDI',0.10565,0.103166,0.09232,0.10392,6.459432,0.049844,cluster4
+931,'0811N: GDP per capita growth  (annual \%) - WDI','1139: Employment to population ratio; ages 15-24; male (\%)  (modeled ILO estimate) - WDI',0.10469,0.104633,0.0119,0.10469,6.357552,0.007581,cluster7
+932,'0811N: GDP per capita growth  (annual \%) - WDI','0576: Procedures to register property  (number) - WDI',0.1003,0.097152,0.01881,0.1003,6.357552,0.056108,cluster4
+933,'0811N: GDP per capita growth  (annual \%) - WDI','0942: Secondary education; duration  (years) - WDI',0.09394,0.093928,0.08802,0.09187,6.459432,0.003504,cluster4

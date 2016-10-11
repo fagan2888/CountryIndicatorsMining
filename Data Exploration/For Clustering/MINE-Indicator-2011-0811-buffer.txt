@@ -1,0 +1,72 @@
+=== Run information ===
+
+Scheme:weka.clusterers.EM -I 100 -N -1 -M 1.0E-6 -S 100
+Relation:     MINE-Indicator-2011-0811
+Instances:    993
+Attributes:   8
+              MIC
+              MIC-p2
+              MAS
+              MEV
+              MCN
+              p
+Ignored:
+              XVar
+              YVar
+Test mode:evaluate on training data
+
+=== Model and evaluation on training set ===
+
+
+EM
+==
+
+Number of clusters selected by cross validation: 6
+
+
+            Cluster
+Attribute         0       1       2       3       4       5
+             (0.07)  (0.14)  (0.28)   (0.1)  (0.27)  (0.14)
+============================================================
+MIC
+  mean        0.2185  0.3105  0.2292  0.3003  0.2585   0.199
+  std. dev.    0.036  0.0361  0.0098  0.0344  0.0101  0.0101
+
+MIC-p2
+  mean         0.159   0.282  0.2238  0.2686  0.2526  0.1955
+  std. dev.   0.0706  0.0458  0.0103  0.0388  0.0113  0.0099
+
+MAS
+  mean        0.0691  0.0788  0.0383  0.0529  0.0489  0.0282
+  std. dev.   0.0538  0.0342  0.0154  0.0303  0.0201  0.0116
+
+MEV
+  mean        0.2092  0.2966  0.2173  0.2901  0.2451  0.1888
+  std. dev.   0.0359  0.0357   0.011  0.0348  0.0132  0.0125
+
+MCN
+  mean        4.3915  4.2267  4.3671  4.5524   4.357  4.3904
+  std. dev.   0.1615   0.078  0.1616  0.0551  0.1576  0.1622
+
+p
+  mean       -0.0048 -0.0039  0.0082 -0.0314  0.0131  0.0055
+  std. dev.   0.2439  0.1688   0.073  0.1752  0.0758  0.0589
+
+
+
+Time taken to build model (full training data) : 16.72 seconds
+
+=== Model and evaluation on training set ===
+
+Clustered Instances
+
+0       66 (  7%)
+1      132 ( 13%)
+2      283 ( 28%)
+3      102 ( 10%)
+4      272 ( 27%)
+5      138 ( 14%)
+
+
+Log likelihood: 10.63329
+

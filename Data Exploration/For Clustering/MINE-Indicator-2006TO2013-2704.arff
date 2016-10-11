@@ -1,0 +1,644 @@
+@relation MINE-Indicator-2006TO2013-2704
+
+@attribute XVar string
+@attribute YVar string
+@attribute MIC numeric
+@attribute MIC-p2 numeric
+@attribute MAS numeric
+@attribute MEV numeric
+@attribute MCN numeric
+@attribute p numeric
+
+@data
+'2704N: Corruption perceptions index - Transparency','2704: Corruption perceptions index - Transparency',0.86457,-0.115923285,0.018749952,0.86457,5.9068904,0.9901986
+'2704N: Corruption perceptions index - Transparency','0677: Household final consumption expenditure per capita  (constant 2005 US$) - WDI',0.62275,-0.10139221,0.042019963,0.61975,6.044394,0.85096544
+'2704N: Corruption perceptions index - Transparency','0782: Adjusted net national income per capita  (constant 2005 US$) - WDI',0.61292,-0.12162799,0.04892999,0.61292,5.9068904,0.85705775
+'2704N: Corruption perceptions index - Transparency','0642: Secure Internet servers  (per 1 million people) - WDI',0.61278,0.1507237,0.04863,0.61278,6.2094536,0.6797472
+'2704N: Corruption perceptions index - Transparency','0832: GNI per capita  (constant 2005 US$) - WDI',0.57796,-0.14196211,0.03593999,0.57796,5.9541965,0.84848225
+'2704N: Corruption perceptions index - Transparency','0781: Adjusted net national income per capita  (current US$) - WDI',0.56773,-0.11290127,0.06789002,0.56773,6.169925,0.8250038
+'2704N: Corruption perceptions index - Transparency','2714: Public Services - Fund for Peace',0.56144,-0.14192879,0.045970023,0.55693,6.2094536,-0.83867085
+'2704N: Corruption perceptions index - Transparency','0810: GDP per capita  (constant 2005 US$) - WDI',0.56022,-0.102653384,0.058979988,0.56021,6.2479277,0.81417036
+'2704N: Corruption perceptions index - Transparency','0379: Electric power consumption  (kWh per capita) - WDI',0.55379,0.14188069,0.08363998,0.55076,6.044394,0.6418016
+'2704N: Corruption perceptions index - Transparency','1098: Health expenditure per capita  (current US$) - WDI',0.55295,-0.052583873,0.043579996,0.5506,6.2479277,0.7781606
+'2704N: Corruption perceptions index - Transparency','2707: Failed States Index Total - Fund for Peace',0.55064,-0.21419156,0.028319985,0.54883,6.2094536,-0.87454647
+'2704N: Corruption perceptions index - Transparency','2713: Legitimacy of the State - Fund for Peace',0.53979,-0.22598839,0.045869976,0.53881,6.2094536,-0.8750876
+'2704N: Corruption perceptions index - Transparency','1099: Health expenditure per capita; PPP  (constant 2011 international $) - WDI',0.53589,-0.10398424,0.07693997,0.5334,6.2479277,0.7999214
+'2704N: Corruption perceptions index - Transparency','0736: Agriculture; value added  (% of GDP) - WDI',0.53122,0.17767459,0.08606002,0.52853,6.169925,-0.59459686
+'2704N: Corruption perceptions index - Transparency','0830: GNI per capita; Atlas method  (current US$) - WDI',0.52985,-0.12844819,0.039689988,0.52985,6.2094536,0.81135577
+'2704N: Corruption perceptions index - Transparency','2706: Failed States Index Rank - Fund for Peace',0.52902,-0.12604481,0.045049995,0.52902,5.321928,0.80936074
+'2704N: Corruption perceptions index - Transparency','1899: Percentage of Individuals using the Internet (%) - ITU',0.52024,-0.15325737,0.051809996,0.51808,6.2479277,0.8206689
+'2704N: Corruption perceptions index - Transparency','0836: GNI per capita; PPP  (constant 2011 international $) - WDI',0.51719,-0.007912636,0.045379966,0.51719,6.087463,0.72463965
+'2704N: Corruption perceptions index - Transparency','0808: GDP per capita  (current US$) - WDI',0.51518,-0.11067748,0.042250007,0.51268,6.2479277,0.7911115
+'2704N: Corruption perceptions index - Transparency','0643: Internet users  (per 100 people) - WDI',0.51393,-0.15971309,0.050150037,0.51393,6.2479277,0.8207576
+'2704N: Corruption perceptions index - Transparency','2708: Demographic Pressures - Fund for Peace',0.51083,-0.116033375,0.07387999,0.50849,6.2094536,-0.79174703
+'2704N: Corruption perceptions index - Transparency','0028: Surface area  (sq. km) - WDI',0.51033,0.509999,0.33489,0.51033,6.2479277,0.018194148
+'2704N: Corruption perceptions index - Transparency','0020: Land area  (sq. km) - WDI',0.50966,0.5094891,0.34434003,0.50966,6.2479277,0.013072225
+'2704N: Corruption perceptions index - Transparency','0640: Fixed broadband subscriptions  (per 100 people) - WDI',0.50314,-0.15651196,0.049899966,0.50041,6.2094536,0.8121896
+'2704N: Corruption perceptions index - Transparency','1901: Fixed-broadband subscriptions per 100 inhabitants - ITU',0.50306,-0.15671957,0.048369974,0.50035,6.2094536,0.81226814
+'2704N: Corruption perceptions index - Transparency','2715: Human Rights - Fund for Peace',0.49694,-0.18788537,0.059239984,0.49694,5.523562,-0.82754177
+'2704N: Corruption perceptions index - Transparency','0571: Time to import  (days) - WDI',0.49674,0.12519294,0.05908999,0.49674,6.2094536,-0.6095466
+'2704N: Corruption perceptions index - Transparency','0814: GDP per capita; PPP  (constant 2011 international $) - WDI',0.49597,0.015147746,0.05817002,0.49363,6.2479277,0.6934135
+'2704N: Corruption perceptions index - Transparency','0835: GNI per capita; PPP  (current international $) - WDI',0.49449,0.00394547,0.04795,0.49449,6.2094536,0.70038885
+'2704N: Corruption perceptions index - Transparency','1035: Improved water source  (% of population with access) - WDI',0.49172,0.14150017,0.042919993,0.49172,6.2094536,0.5917937
+'2704N: Corruption perceptions index - Transparency','1167: GDP per person employed  (constant 2011 PPP $) - WDI',0.4896,0.07989031,0.038529992,0.4896,6.2094536,0.6400857
+'2704N: Corruption perceptions index - Transparency','2716: Security Apparatus - Fund for Peace',0.48699,-0.20381,0.026930004,0.48601,6.2094536,-0.8311438
+'2704N: Corruption perceptions index - Transparency','1289: Survival to age 65; female  (% of cohort) - WDI',0.48642,0.15030724,0.04972002,0.48642,6.2479277,0.5797523
+'2704N: Corruption perceptions index - Transparency','0953: School enrollment; secondary; female  (% gross) - WDI',0.48625,0.07398778,0.037290007,0.48285,6.0,0.6420765
+'2704N: Corruption perceptions index - Transparency','0454: Automated teller machines (ATMs)  (per 100;000 adults) - WDI',0.48553,0.084515214,0.031810015,0.4831,6.169925,0.63325727
+'2704N: Corruption perceptions index - Transparency','0813: GDP per capita; PPP  (current international $) - WDI',0.48445,0.0073224306,0.05410999,0.48173,6.2479277,0.6907442
+'2704N: Corruption perceptions index - Transparency','0380: Energy use  (kg of oil equivalent per capita) - WDI',0.47776,0.19772291,0.11356002,0.4744,6.087463,0.5291853
+'2704N: Corruption perceptions index - Transparency','1034: Improved water source; urban  (% of urban population with access) - WDI',0.47336,0.21128348,0.053269982,0.47233,6.2479277,0.5119341
+'2704N: Corruption perceptions index - Transparency','1283: Mortality rate; infant  (per 1;000 live births) - WDI',0.47261,0.10136008,0.045949996,0.47261,6.2094536,-0.6093028
+'2704N: Corruption perceptions index - Transparency','1033: Improved water source; rural  (% of rural population with access) - WDI',0.47159,0.087474436,0.07988998,0.47159,6.087463,0.6197706
+'2704N: Corruption perceptions index - Transparency','1031: Mortality rate; neonatal  (per 1;000 live births) - WDI',0.47157,0.0541915,0.06765002,0.47157,6.2094536,-0.64604837
+'2704N: Corruption perceptions index - Transparency','1028: Mortality rate; under-5  (per 1;000 live births) - WDI',0.47155,0.1499655,0.0449,0.47155,6.169925,-0.5670842
+'2704N: Corruption perceptions index - Transparency','1051: Lifetime risk of maternal death  (%) - WDI',0.46745,0.26951325,0.07339001,0.46463,6.2479277,-0.4449008
+'2704N: Corruption perceptions index - Transparency','1286: Life expectancy at birth; total  (years) - WDI',0.4646,0.030855268,0.041759998,0.4646,6.2479277,0.658593
+'2704N: Corruption perceptions index - Transparency','0954: School enrollment; secondary; male  (% gross) - WDI',0.46204,0.04633352,0.07199001,0.45893,6.0,0.64475304
+'2704N: Corruption perceptions index - Transparency','0952: School enrollment; secondary  (% gross) - WDI',0.46038,0.04132235,0.037499994,0.45735,6.0,0.6473466
+'2704N: Corruption perceptions index - Transparency','0553: Time to export  (days) - WDI',0.45739,0.10936931,0.04405999,0.45739,6.2094536,-0.5899328
+'2704N: Corruption perceptions index - Transparency','0456: Commercial bank branches  (per 100;000 adults) - WDI',0.45666,0.24149823,0.07370001,0.45411,6.2094536,0.46385533
+'2704N: Corruption perceptions index - Transparency','0460: Domestic credit to private sector by banks  (% of GDP) - WDI',0.45627,0.44118086,0.053389996,0.45627,6.169925,0.12283792
+'2704N: Corruption perceptions index - Transparency','1093: Incidence of tuberculosis  (per 100;000 people) - WDI',0.45553,0.3425817,0.095669985,0.45553,6.2479277,-0.3360778
+'2704N: Corruption perceptions index - Transparency','1297: Population ages 65 and above  (% of total) - WDI',0.45383,0.052136213,0.09080002,0.45383,6.2479277,0.6337932
+'2704N: Corruption perceptions index - Transparency','0490: Claims on other sectors of the domestic economy  (% of GDP) - WDI',0.45351,-0.077281475,0.056899995,0.45351,5.9541965,0.72855437
+'2704N: Corruption perceptions index - Transparency','1285: Life expectancy at birth; female  (years) - WDI',0.45132,0.05509758,0.040199995,0.45132,6.2479277,0.629462
+'2704N: Corruption perceptions index - Transparency','1058: Improved sanitation facilities  (% of population with access) - WDI',0.4472,0.13901818,0.070089996,0.4472,6.129283,0.55514127
+'2704N: Corruption perceptions index - Transparency','0855: Price level ratio of PPP conversion factor  to market exchange rate (GDP) - WDI',0.44703,-0.19753891,0.031529993,0.44703,6.087463,0.8028505
+'2704N: Corruption perceptions index - Transparency','0353: Agriculture value added per worker  (constant 2005 US$) - WDI',0.44411,0.0014709234,0.024920017,0.44169,6.129283,0.6653113
+'2704N: Corruption perceptions index - Transparency','1295: Population ages 0-14  (% of total) - WDI',0.44351,0.04072395,0.039619982,0.44351,6.2479277,-0.6346543
+'2704N: Corruption perceptions index - Transparency','1299: Age dependency ratio; old  (% of working-age population) - WDI',0.44329,0.053318143,0.07481,0.44329,6.2479277,0.62447727
+'2704N: Corruption perceptions index - Transparency','0638: Fixed telephone subscriptions  (per 100 people) - WDI',0.44326,-0.13342571,0.050790012,0.44326,6.2479277,0.7593983
+'2704N: Corruption perceptions index - Transparency','1025: Number of neonatal deaths - WDI',0.4431,0.4262775,0.07378,0.43994,6.2479277,-0.1297016
+'2704N: Corruption perceptions index - Transparency','2711: Uneven Development - Fund for Peace',0.44112,-0.16301247,0.058160007,0.43889,6.2094536,-0.7772596
+'2704N: Corruption perceptions index - Transparency','1898: Fixed-telephone subscriptions per 100 inhabitants - ITU',0.44069,-0.1363292,0.046270013,0.43827,6.2479277,0.7596178
+'2704N: Corruption perceptions index - Transparency','1433: Air and GHG emissions - CO2 (TONNE_CAP) - OECD',0.4401,0.18576074,0.054700017,0.4401,6.0,0.5043206
+'2704N: Corruption perceptions index - Transparency','1276: Mortality rate; adult; female  (per 1;000 female adults) - WDI',0.43963,0.21013723,0.056199998,0.43963,6.2094536,-0.47905403
+'2704N: Corruption perceptions index - Transparency','1287: Life expectancy at birth; male  (years) - WDI',0.43954,-0.02406466,0.041639984,0.43954,6.087463,0.6808852
+'2704N: Corruption perceptions index - Transparency','1300: Age dependency ratio; young  (% of working-age population) - WDI',0.43672,0.07626638,0.034100026,0.43672,6.2479277,-0.6003779
+'2704N: Corruption perceptions index - Transparency','0898: Pupil-teacher ratio; primary - WDI',0.43605,0.1552436,0.09970999,0.43605,5.9541965,-0.5299117
+'2704N: Corruption perceptions index - Transparency','1021: Number of infant deaths - WDI',0.43371,0.4095908,0.06667,0.4308,6.2479277,-0.15530355
+'2704N: Corruption perceptions index - Transparency','2717: Factionalized Elites - Fund for Peace',0.4329,-0.18866044,0.06296998,0.43173,6.2094536,-0.78839105
+'2704N: Corruption perceptions index - Transparency','0492: Domestic credit to private sector  (% of GDP) - WDI',0.43172,-0.061527252,0.042429984,0.43172,6.169925,0.7023156
+'2704N: Corruption perceptions index - Transparency','1060: Improved sanitation facilities; urban  (% of urban population with access) - WDI',0.43161,0.16937202,0.05509001,0.43161,6.087463,0.51209176
+'2704N: Corruption perceptions index - Transparency','1288: Fertility rate; total  (births per woman) - WDI',0.43037,0.14107805,0.043339998,0.43037,6.2479277,-0.53785866
+'2704N: Corruption perceptions index - Transparency','1278: Birth rate; crude  (per 1;000 people) - WDI',0.42933,0.064579695,0.057819992,0.42933,6.2479277,-0.6039456
+'2704N: Corruption perceptions index - Transparency','2719: Human Flight - Fund for Peace',0.42795,-0.13700941,0.03564,0.42795,6.0,-0.7516378
+'2704N: Corruption perceptions index - Transparency','1050: Lifetime risk of maternal death  (1 in: rate varies by country) - WDI',0.42549,0.06059605,0.036650002,0.42348,6.2479277,0.6040645
+'2704N: Corruption perceptions index - Transparency','1290: Survival to age 65; male  (% of cohort) - WDI',0.42528,-0.0115789175,0.057180017,0.42528,6.087463,0.66095304
+'2704N: Corruption perceptions index - Transparency','1071: Maternal mortality ratio  (modeled estimate; per 100;000 live births) - WDI',0.42445,0.19368026,0.040360004,0.42445,5.807355,-0.480385
+'2704N: Corruption perceptions index - Transparency','0004: Agricultural land  (sq. km) - WDI',0.42412,0.424107,0.25807,0.42412,6.2479277,0.0036095642
+'2704N: Corruption perceptions index - Transparency','0856: PPP conversion factor; private consumption  (LCU per international $) - WDI',0.41684,0.38413328,0.14102998,0.41684,6.169925,-0.18085
+'2704N: Corruption perceptions index - Transparency','1277: Mortality rate; adult; male  (per 1;000 male adults) - WDI',0.41096,0.09447259,0.08647999,0.41096,6.129283,-0.5625721
+'2704N: Corruption perceptions index - Transparency','1023: Number of under-five deaths - WDI',0.41089,0.38433668,0.06285,0.40851,6.2479277,-0.1629519
+'2704N: Corruption perceptions index - Transparency','2712: Poverty and Economic Decline - Fund for Peace',0.4101,-0.14972588,0.018590003,0.40496,6.2094536,-0.74821514
+'2704N: Corruption perceptions index - Transparency','0773: Adjusted savings: particulate emission damage  (% of GNI) - WDI',0.40707,0.14906552,0.05157,0.40589,6.2094536,-0.5079414
+'2704N: Corruption perceptions index - Transparency','0378: Combustible renewables and waste  (% of total energy) - WDI',0.40564,0.26160407,0.18612,0.40206,6.044394,-0.37952065
+'2704N: Corruption perceptions index - Transparency','1059: Improved sanitation facilities; rural  (% of rural population with access) - WDI',0.40355,0.07921183,0.06086999,0.40355,5.321928,0.56950694
+'2704N: Corruption perceptions index - Transparency','1049: Number of maternal deaths - WDI',0.40027,0.36411288,0.058609992,0.39911,6.2479277,-0.19015019
+'2704N: Corruption perceptions index - Transparency','1312: Rural population  (% of total population) - WDI',0.397,0.049367458,0.09798002,0.397,6.2479277,-0.5896037
+'2704N: Corruption perceptions index - Transparency','1315: Urban population  (% of total) - WDI',0.397,0.04933232,0.09798002,0.397,6.2479277,0.5896335
+'2704N: Corruption perceptions index - Transparency','0577: Cost of business start-up procedures  (% of GNI per capita) - WDI',0.39409,0.26374996,0.06626001,0.39409,6.169925,-0.36102638
+'2704N: Corruption perceptions index - Transparency','0580: Time to prepare and pay taxes  (hours) - WDI',0.39172,0.23824726,0.14555,0.39172,6.169925,-0.39175597
+'2704N: Corruption perceptions index - Transparency','0552: Documents to export  (number) - WDI',0.39147,-0.034769088,0.07933998,0.39147,6.129283,-0.6528699
+'2704N: Corruption perceptions index - Transparency','1273: Adolescent fertility rate  (births per 1;000 women ages 15-19) - WDI',0.3911,0.11766806,0.10187,0.3911,6.2479277,-0.5229072
+'2704N: Corruption perceptions index - Transparency','2718: External Intervention - Fund for Peace',0.38947,-0.15636262,0.038080007,0.38947,6.169925,-0.7388049
+'2704N: Corruption perceptions index - Transparency','0851: DEC alternative conversion factor  (LCU per US$) - WDI',0.38942,0.3532721,0.10925999,0.38942,6.2479277,-0.190126
+'2704N: Corruption perceptions index - Transparency','0485: Lending interest rate  (%) - WDI',0.38706,0.16136214,0.07069999,0.38706,5.9541965,-0.47507668
+'2704N: Corruption perceptions index - Transparency','0759: Services; etc.; value added  (% of GDP) - WDI',0.38524,0.09720805,0.040659994,0.38246,6.169925,0.53668606
+'2704N: Corruption perceptions index - Transparency','2710: Group Grievance - Fund for Peace',0.38517,-0.08372441,0.06136,0.38517,6.169925,-0.68475866
+'2704N: Corruption perceptions index - Transparency','0017: Forest area  (% of land area) - WDI',0.37756,0.37478852,0.28007,0.37308,6.2479277,0.052644778
+'2704N: Corruption perceptions index - Transparency','0853: PPP conversion factor; GDP  (LCU per international $) - WDI',0.37733,0.34524754,0.14392,0.37444,6.2479277,-0.17911579
+'2704N: Corruption perceptions index - Transparency','0361: Electric power transmission and distribution losses  (% of output) - WDI',0.37676,0.21707268,0.05301997,0.3758,6.044394,-0.39960897
+'2704N: Corruption perceptions index - Transparency','1310: Rural population - WDI',0.37564,0.3690715,0.16949001,0.37564,6.2479277,-0.08104622
+'2704N: Corruption perceptions index - Transparency','0016: Forest area  (sq. km) - WDI',0.37496,0.37477702,0.25574,0.37496,6.2479277,0.013527114
+'2704N: Corruption perceptions index - Transparency','0662: General government final consumption expenditure  (constant 2005 US$) - WDI',0.3733,0.28768146,0.12844999,0.36964,6.044394,0.2926064
+'2704N: Corruption perceptions index - Transparency','1296: Population ages 15-64  (% of total) - WDI',0.37149,0.12827721,0.08381,0.37149,6.2479277,0.4931661
+'2704N: Corruption perceptions index - Transparency','0574: Time required to enforce a contract  (days) - WDI',0.37097,0.3053582,0.21918002,0.37097,6.169925,-0.256148
+'2704N: Corruption perceptions index - Transparency','0491: Domestic credit provided by financial sector  (% of GDP) - WDI',0.37078,-0.07859394,0.053270012,0.37078,6.169925,0.6703536
+'2704N: Corruption perceptions index - Transparency','1895: Mobile-cellular telephone subscriptions - ITU',0.36773,0.08314416,0.03759998,0.36773,6.2479277,0.53346586
+'2704N: Corruption perceptions index - Transparency','1896: Mobile-cellular telephone subscriptions per 100 inhabitants - ITU',0.36773,0.08314416,0.03759998,0.36773,6.2479277,0.53346586
+'2704N: Corruption perceptions index - Transparency','1298: Age dependency ratio  (% of working-age population) - WDI',0.36731,0.122172415,0.07428998,0.36731,6.2479277,-0.4951137
+'2704N: Corruption perceptions index - Transparency','0699: Exports of goods and services  (constant 2005 US$) - WDI',0.36569,0.21521552,0.10077,0.36569,6.044394,0.3879104
+'2704N: Corruption perceptions index - Transparency','0848: Net current transfers from abroad  (current LCU) - WDI',0.36453,0.36084065,0.08052999,0.36453,6.087463,-0.06074007
+'2704N: Corruption perceptions index - Transparency','0636: Mobile cellular subscriptions  (per 100 people) - WDI',0.36244,0.07714796,0.029459983,0.36244,6.2479277,0.53412735
+'2704N: Corruption perceptions index - Transparency','1952: Number of neonatal deaths (thousands) - WHO',0.35881,0.3423425,0.042490005,0.35776,6.2479277,-0.12832585
+'2704N: Corruption perceptions index - Transparency','0735: Agriculture; value added  (constant LCU) - WDI',0.35833,0.35204634,0.12585,0.35489,6.169925,-0.07926961
+'2704N: Corruption perceptions index - Transparency','0852: Official exchange rate  (LCU per US$; period average) - WDI',0.35746,0.35678053,0.12292999,0.35414,6.129283,-0.026066275
+'2704N: Corruption perceptions index - Transparency','0641: Secure Internet servers - WDI',0.35396,0.29415384,0.032210022,0.35396,6.2094536,0.244553
+'2704N: Corruption perceptions index - Transparency','0691: Gross national expenditure deflator  (base year varies by country) - WDI',0.35097,0.3128009,0.072840005,0.34808,6.129283,-0.19536911
+'2704N: Corruption perceptions index - Transparency','1103: Health expenditure; public  (% of GDP) - WDI',0.35002,-0.06669265,0.05658999,0.34749,6.2479277,0.64553285
+'2704N: Corruption perceptions index - Transparency','0570: Documents to import  (number) - WDI',0.34943,-0.025370032,0.028209984,0.34943,6.2094536,-0.61220914
+'2704N: Corruption perceptions index - Transparency','1096: Out-of-pocket health expenditure  (% of total expenditure on health) - WDI',0.34732,0.07553241,0.043089986,0.34493,6.2479277,-0.5213325
+'2704N: Corruption perceptions index - Transparency','0477: Money and quasi money  as % of GDP (M2) - WDI',0.34658,0.072938085,0.03356999,0.34658,6.087463,0.52310795
+'2704N: Corruption perceptions index - Transparency','0062: Primary income receipts  (BoP; current US$) - WDI',0.34526,0.16613692,0.042490005,0.34259,6.169925,0.42322934
+'2704N: Corruption perceptions index - Transparency','0472: Broad money  (% of GDP) - WDI',0.34517,0.07778317,0.03364998,0.34195,6.087463,0.5170946
+'2704N: Corruption perceptions index - Transparency','1362: Merchandise imports from high-income economies  (% of total merchandise imports) - WDI',0.3447,0.06343624,0.06367001,0.3447,6.2094536,0.53034306
+'2704N: Corruption perceptions index - Transparency','2745: Merchandise trade-Exports-Office and telecom equipment (US dollar at current prices) - WTO',0.34356,0.30298096,0.07528001,0.34356,6.087463,0.20144242
+'2704N: Corruption perceptions index - Transparency','0796: Gross value added at factor cost  (constant 2005 US$) - WDI',0.34066,0.26509896,0.09342,0.33659,6.044394,0.2748837
+'2704N: Corruption perceptions index - Transparency','0006: Arable land  (hectares) - WDI',0.33523,0.3352033,0.18541999,0.33523,6.2479277,0.005166909
+'2704N: Corruption perceptions index - Transparency','0767: Adjusted savings: consumption of fixed capital  (% of GNI) - WDI',0.33403,0.07914814,0.07225999,0.33165,6.2479277,0.50485826
+'2704N: Corruption perceptions index - Transparency','0029: Cereal yield  (kg per hectare) - WDI',0.33276,0.22297558,0.07037002,0.32963,6.2094536,0.33133733
+'2704N: Corruption perceptions index - Transparency','1383: ICT goods exports  (% of total goods exports) - WDI',0.33154,0.24678025,0.050559998,0.32831,6.044394,0.29113528
+'2704N: Corruption perceptions index - Transparency','0732: Agriculture; value added  (current LCU) - WDI',0.33037,0.3226853,0.08776002,0.33037,6.169925,-0.08766252
+'2704N: Corruption perceptions index - Transparency','2746: Merchandise trade-Exports-Electronic data processing and office equipment (US dollar at current prices) - WTO',0.32924,0.30604538,0.06566,0.32924,6.087463,0.1522978
+'2704N: Corruption perceptions index - Transparency','0797: Gross value added at factor cost  (constant LCU) - WDI',0.32893,0.32759526,0.19311999,0.32395,6.087463,-0.036534075
+'2704N: Corruption perceptions index - Transparency','0885: School enrollment; preprimary  (% gross) - WDI',0.32782,0.030302703,0.029799998,0.32782,5.9541965,0.54545146
+'2704N: Corruption perceptions index - Transparency','0779: Adjusted net national income  (constant 2005 US$) - WDI',0.32407,0.25375235,0.10507001,0.32041,6.0,0.26517478
+'2704N: Corruption perceptions index - Transparency','2797: Balance of Payments-Exports-Services (US dollar at current prices) - WTO',0.32337,0.13245401,0.04081002,0.32337,6.2094536,0.43693936
+'2704N: Corruption perceptions index - Transparency','0433: Population in the largest city  (% of urban population) - WDI',0.32275,0.32023183,0.18524,0.32275,6.087463,-0.050181486
+'2704N: Corruption perceptions index - Transparency','2785: Balance of Payments-Exports-Commercial services (US dollar at current prices) - WTO',0.32208,0.13079838,0.031909972,0.32208,6.2094536,0.43735752
+'2704N: Corruption perceptions index - Transparency','0575: Time required to register property  (days) - WDI',0.32183,0.27461416,0.12081,0.31799,6.169925,-0.21729209
+'2704N: Corruption perceptions index - Transparency','1402: Commercial service exports  (current US$) - WDI',0.32017,0.12244575,0.04547,0.31749,6.169925,0.44466195
+'2704N: Corruption perceptions index - Transparency','0834: GNI per capita  (constant LCU) - WDI',0.3197,0.31225577,0.18023,0.3197,6.087463,-0.08627992
+'2704N: Corruption perceptions index - Transparency','2748: Merchandise trade-Exports-Integrated circuits and electronic components (US dollar at current prices) - WTO',0.31954,0.24089575,0.058539987,0.31954,6.044394,0.28043583
+'2704N: Corruption perceptions index - Transparency','0923: Repeaters; primary; total  (% of total enrollment) - WDI',0.31882,0.14400198,0.08618,0.31882,5.9541965,-0.41811246
+'2704N: Corruption perceptions index - Transparency','0722: Imports of goods and services  (constant 2005 US$) - WDI',0.3181,0.17656541,0.051730007,0.3181,6.044394,0.37621084
+'2704N: Corruption perceptions index - Transparency','2747: Merchandise trade-Exports-Telecommunications equipment (US dollar at current prices) - WTO',0.31691,0.29104337,0.05340001,0.31691,6.087463,0.16083103
+'2704N: Corruption perceptions index - Transparency','0003: Fertilizer consumption  (kilograms per hectare of arable land) - WDI',0.31619,0.2570714,0.0325,0.31327,6.129283,0.24314316
+'2704N: Corruption perceptions index - Transparency','0588: Time required to build a warehouse  (days) - WDI',0.31575,0.26838306,0.21365,0.31119,6.169925,-0.21763948
+'2704N: Corruption perceptions index - Transparency','1311: Rural population growth  (annual %) - WDI',0.31573,0.20031193,0.10588001,0.31289,6.2479277,-0.33973235
+'2704N: Corruption perceptions index - Transparency','0066: Service exports  (BoP; current US$) - WDI',0.31444,0.12036346,0.0422,0.31165,6.169925,0.4405412
+'2704N: Corruption perceptions index - Transparency','1073: People practicing open defecation; rural  (% of rural population) - WDI',0.31348,0.15734883,0.04437001,0.31348,6.169925,-0.39513436
+'2704N: Corruption perceptions index - Transparency','1321: International tourism; receipts for passenger transport items  (current US$) - WDI',0.31298,0.1561724,0.04067999,0.31298,6.0,0.3959894
+'2704N: Corruption perceptions index - Transparency','1075: People practicing open defecation  (% of population) - WDI',0.31228,0.17118372,0.025539994,0.31228,5.857981,-0.37562785
+'2704N: Corruption perceptions index - Transparency','1301: Population growth  (annual %) - WDI',0.31115,0.28421533,0.13164002,0.31115,6.2479277,-0.16411793
+'2704N: Corruption perceptions index - Transparency','0371: Energy imports; net  (% of energy use) - WDI',0.3096,0.2804025,0.098859996,0.3062,6.044394,0.17087269
+'2704N: Corruption perceptions index - Transparency','2743: Merchandise trade-Exports-Pharmaceuticals (US dollar at current prices) - WTO',0.30949,0.124498576,0.03535001,0.30949,6.087463,0.43010628
+'2704N: Corruption perceptions index - Transparency','0825: GNI  (constant 2005 US$) - WDI',0.30904,0.23526594,0.063620016,0.3055,6.044394,0.2716138
+'2704N: Corruption perceptions index - Transparency','0585: Tax payments  (number) - WDI',0.30899,0.07140097,0.050909996,0.30899,6.169925,-0.48743105
+'2704N: Corruption perceptions index - Transparency','0896: Primary education; pupils - WDI',0.30846,0.30002412,0.121999994,0.30846,6.129283,-0.09184695
+'2704N: Corruption perceptions index - Transparency','0676: Household final consumption expenditure  (constant LCU) - WDI',0.30813,0.30198845,0.16492,0.30813,6.087463,-0.07836807
+'2704N: Corruption perceptions index - Transparency','1319: International tourism; receipts  (current US$) - WDI',0.30679,0.18548262,0.053159982,0.30406,6.2094536,0.34829208
+'2704N: Corruption perceptions index - Transparency','1266: Refugee population by country or territory of origin - WDI',0.30541,0.2537877,0.033370003,0.30541,6.2094536,-0.22720544
+'2704N: Corruption perceptions index - Transparency','2709: Refugees and IDPs - Fund for Peace',0.30513,-0.084266394,0.030180007,0.304,6.2094536,-0.62401634
+'2704N: Corruption perceptions index - Transparency','2791: Balance of Payments-Exports-Insurance and pension services (US dollar at current prices) - WTO',0.30508,0.17463517,0.036450014,0.30508,6.044394,0.36117145
+'2704N: Corruption perceptions index - Transparency','0707: Gross fixed capital formation  (constant 2005 US$) - WDI',0.30425,0.24885693,0.07394001,0.30129,6.044394,0.23535731
+'2704N: Corruption perceptions index - Transparency','0427: Population density  (people per sq. km of land area) - WDI',0.30344,0.27254337,0.16967,0.30344,6.2479277,0.1757744
+'2704N: Corruption perceptions index - Transparency','0689: Final consumption expenditure  (constant 2005 US$) - WDI',0.30318,0.24184497,0.102210015,0.29996,6.044394,0.24765913
+'2704N: Corruption perceptions index - Transparency','0376: Fossil fuel energy consumption  (% of total) - WDI',0.30297,0.26270193,0.14405999,0.30297,6.044394,0.20066907
+'2704N: Corruption perceptions index - Transparency','1101: Health expenditure; public  (% of total health expenditure) - WDI',0.30256,0.03893906,0.035589993,0.29992,6.2479277,0.5134403
+'2704N: Corruption perceptions index - Transparency','2739: Merchandise trade-Imports-Clothing (US dollar at current prices) - WTO',0.30249,0.17680359,0.039739996,0.30249,6.129283,0.3545228
+'2704N: Corruption perceptions index - Transparency','1304: Population; total - WDI',0.30234,0.30062884,0.17479,0.30234,6.2479277,-0.04136615
+'2704N: Corruption perceptions index - Transparency','0944: Secondary education; pupils  (% female) - WDI',0.3023,0.21623392,0.10191001,0.29934,6.044394,0.29337022
+'2704N: Corruption perceptions index - Transparency','0059: ICT service exports  (BoP; current US$) - WDI',0.30157,0.10450049,0.036720008,0.29853,6.044394,0.4439251
+'2704N: Corruption perceptions index - Transparency','0670: Household final consumption expenditure; etc.  (constant LCU) - WDI',0.30127,0.29520005,0.15039001,0.2979,6.087463,-0.07790994
+'2704N: Corruption perceptions index - Transparency','1323: International tourism; receipts for travel items  (current US$) - WDI',0.30121,0.17919219,0.036730006,0.30121,6.169925,0.34931046
+'2704N: Corruption perceptions index - Transparency','0005: Agricultural land  (% of land area) - WDI',0.30013,0.25555024,0.20293,0.30013,6.2479277,-0.2111392
+'2704N: Corruption perceptions index - Transparency','0366: Electricity production from renewable sources; excluding hydroelectric  (kWh) - WDI',0.30005,0.23431087,0.059509993,0.29857,6.044394,0.25639644
+'2704N: Corruption perceptions index - Transparency','1371: Merchandise imports by the reporting economy  (current US$) - WDI',0.29981,0.16419883,0.07913999,0.29981,6.2094536,0.3682542
+'2704N: Corruption perceptions index - Transparency','0816: Total natural resources rents  (% of GDP) - WDI',0.29942,0.17652695,0.05236,0.29942,6.2094536,-0.35056105
+'2704N: Corruption perceptions index - Transparency','1385: Manufactures exports  (% of merchandise exports) - WDI',0.29942,0.1449382,0.07593,0.29658,6.087463,0.39304173
+'2704N: Corruption perceptions index - Transparency','2788: Balance of Payments-Exports-Travel (US dollar at current prices) - WTO',0.29923,0.16775432,0.044170007,0.29633,6.169925,0.36259577
+'2704N: Corruption perceptions index - Transparency','0683: Final consumption expenditure; etc.  (constant 2005 US$) - WDI',0.29887,0.23411082,0.07638,0.29887,6.044394,0.25447825
+'2704N: Corruption perceptions index - Transparency','1213: Ratio of female to male labor force participation rate (%)  (modeled ILO estimate) - WDI',0.29881,0.27569196,0.11042,0.29595,6.2479277,0.15204623
+'2704N: Corruption perceptions index - Transparency','0727: External balance on goods and services  (current LCU) - WDI',0.2979,0.29653525,0.12037,0.29558,6.2094536,-0.036942266
+'2704N: Corruption perceptions index - Transparency','0055: Net secondary income  (BoP; current US$) - WDI',0.29765,0.1876522,0.05366999,0.2943,6.169925,-0.33165917
+'2704N: Corruption perceptions index - Transparency','1305: Population; female  (% of total) - WDI',0.2976,0.29364082,0.16062,0.2976,6.2479277,-0.06292206
+'2704N: Corruption perceptions index - Transparency','1403: High-technology exports  (current US$) - WDI',0.29726,0.23730318,0.053110003,0.29726,6.044394,0.24486078
+'2704N: Corruption perceptions index - Transparency','0774: Adjusted savings: natural resources depletion  (% of GNI) - WDI',0.2969,0.1861743,0.061869994,0.2969,6.169925,-0.33275473
+'2704N: Corruption perceptions index - Transparency','0821: Gross domestic income  (constant LCU) - WDI',0.29626,0.2910671,0.16555999,0.29299,6.129283,-0.072061904
+'2704N: Corruption perceptions index - Transparency','2816: Balance of Payments-Imports-Financial services (US dollar at current prices) - WTO',0.29574,0.08954796,0.02534002,0.2925,6.0,0.45408374
+'2704N: Corruption perceptions index - Transparency','0791: GDP deflator  (base year varies by country) - WDI',0.29547,0.2625952,0.063710004,0.29309,6.2479277,-0.18131408
+'2704N: Corruption perceptions index - Transparency','2787: Balance of Payments-Exports-Transport (US dollar at current prices) - WTO',0.29537,0.03269568,0.041679993,0.29537,6.129283,0.51251763
+'2704N: Corruption perceptions index - Transparency','0594: Scientific and technical journal articles - WDI',0.29525,0.23436971,0.049850002,0.29264,6.2479277,0.24673931
+'2704N: Corruption perceptions index - Transparency','1074: People practicing open defecation; urban  (% of urban population) - WDI',0.29486,0.22797047,0.03442,0.29346,6.2094536,-0.25863013
+'2704N: Corruption perceptions index - Transparency','2781: Merchandise trade-Imports-Total merchandise (US dollar at current prices) - WTO',0.29453,0.16313875,0.07478,0.29195,6.2479277,0.36247933
+'2704N: Corruption perceptions index - Transparency','2794: Balance of Payments-Exports-Telecommunications; computer; and information services (US dollar at current prices) - WTO',0.29384,0.17634703,0.03374,0.29384,6.087463,0.34277245
+'2704N: Corruption perceptions index - Transparency','0037: Charges for the use of intellectual property; payments  (BoP; current US$) - WDI',0.29299,0.10592303,0.04671,0.29299,5.9541965,0.4325124
+'2704N: Corruption perceptions index - Transparency','0903: Gross intake ratio in first grade of primary education; male  (% of relevant age group) - WDI',0.29228,0.23425628,0.113709986,0.29228,5.9541965,-0.2408811
+'2704N: Corruption perceptions index - Transparency','2750: Merchandise trade-Exports-Automotive products (US dollar at current prices) - WTO',0.29176,0.18451265,0.033999994,0.29176,6.087463,0.32748643
+'2704N: Corruption perceptions index - Transparency','0032: Primary income payments  (BoP; current US$) - WDI',0.29165,0.102978334,0.029630005,0.29165,6.044394,0.4343635
+'2704N: Corruption perceptions index - Transparency','1361: Merchandise imports  (current US$) - WDI',0.29102,0.15969245,0.06819001,0.28809,6.2479277,0.36239144
+'2704N: Corruption perceptions index - Transparency','0716: Gross capital formation  (constant 2005 US$) - WDI',0.29027,0.23645249,0.06181,0.29027,6.044394,0.23198603
+'2704N: Corruption perceptions index - Transparency','2789: Balance of Payments-Exports-Other commercial services (US dollar at current prices) - WTO',0.28984,0.12252714,0.041930005,0.28984,6.129283,0.40903896
+'2704N: Corruption perceptions index - Transparency','0068: Exports of goods; services and primary income  (BoP; current US$) - WDI',0.28911,0.11571899,0.05235,0.28599,6.169925,0.41640246
+'2704N: Corruption perceptions index - Transparency','2723: Merchandise trade-Exports-Manufactures (US dollar at current prices) - WTO',0.28888,0.18622646,0.066259995,0.28627,6.169925,0.3203959
+'2704N: Corruption perceptions index - Transparency','0756: Services; etc.; value added  (constant 2005 US$) - WDI',0.28862,0.2223587,0.04599999,0.28862,6.087463,0.25741267
+'2704N: Corruption perceptions index - Transparency','0897: Primary education; pupils  (% female) - WDI',0.28855,0.19948314,0.12699999,0.28608,6.129283,0.2984407
+'2704N: Corruption perceptions index - Transparency','1095: External resources for health  (% of total expenditure on health) - WDI',0.28832,0.20278843,0.047130004,0.28541,6.087463,-0.29245782
+'2704N: Corruption perceptions index - Transparency','1317: International tourism; number of arrivals - WDI',0.28822,0.19963542,0.055609986,0.28571,6.2094536,0.29763162
+'2704N: Corruption perceptions index - Transparency','0846: Net taxes on products  (constant LCU) - WDI',0.28808,0.28805915,0.16547,0.28389,6.044394,0.0045665056
+'2704N: Corruption perceptions index - Transparency','0946: Secondary education; general pupils  (% female) - WDI',0.28785,0.1420889,0.066489995,0.28514,6.087463,0.3817867
+'2704N: Corruption perceptions index - Transparency','0569: Cost to import  (US$ per container) - WDI',0.28748,0.15242244,0.0854,0.28748,6.2094536,-0.36750177
+'2704N: Corruption perceptions index - Transparency','0739: Manufacturing; value added  (constant 2005 US$) - WDI',0.28682,0.20561382,0.07391,0.28411,6.087463,0.28496698
+'2704N: Corruption perceptions index - Transparency','0578: Time required to start a business  (days) - WDI',0.28604,0.22783962,0.06651001,0.28604,6.169925,-0.24124756
+'2704N: Corruption perceptions index - Transparency','0690: Final consumption expenditure  (constant LCU) - WDI',0.28597,0.28048372,0.14525001,0.28597,6.087463,-0.0740695
+'2704N: Corruption perceptions index - Transparency','0041: Foreign direct investment; net outflows  (BoP; current US$) - WDI',0.28512,0.13618138,0.035710007,0.28253,6.169925,0.38592568
+'2704N: Corruption perceptions index - Transparency','2817: Balance of Payments-Imports-Charges for the use of intellectual property n.i.e. (US dollar at current prices) - WTO',0.28495,0.13086687,0.046760008,0.28495,5.70044,0.39253423
+'2704N: Corruption perceptions index - Transparency','0847: Net current transfers from abroad  (current US$) - WDI',0.28454,0.21048579,0.04346001,0.28454,6.044394,-0.27212903
+'2704N: Corruption perceptions index - Transparency','0551: Cost to export  (US$ per container) - WDI',0.28451,0.15277101,0.113989994,0.28451,6.2094536,-0.36295864
+'2704N: Corruption perceptions index - Transparency','0628: Air transport; freight  (million ton-km) - WDI',0.2842,0.15612213,0.032659993,0.2842,5.3923173,0.3578797
+'2704N: Corruption perceptions index - Transparency','2753: Merchandise trade-Imports-Integrated circuits and electronic components (US dollar at current prices) - WTO',0.28385,0.26310548,0.08347002,0.2808,6.129283,0.14402966
+'2704N: Corruption perceptions index - Transparency','0758: Services; etc.; value added  (constant LCU) - WDI',0.28378,0.28026706,0.16814001,0.28001,6.169925,-0.05927026
+'2704N: Corruption perceptions index - Transparency','0812: GDP per capita  (constant LCU) - WDI',0.28365,0.2777625,0.15650001,0.28028,6.2479277,-0.07673018
+'2704N: Corruption perceptions index - Transparency','2749: Merchandise trade-Exports-Transport equipment (US dollar at current prices) - WTO',0.28363,0.17537019,0.028799996,0.28363,6.087463,0.3290286
+'2704N: Corruption perceptions index - Transparency','2818: Balance of Payments-Imports-Telecommunications; computer; and information services (US dollar at current prices) - WTO',0.2836,0.094641864,0.033340007,0.2836,6.087463,0.43469316
+'2704N: Corruption perceptions index - Transparency','0697: Exports of goods and services  (current US$) - WDI',0.28344,0.1266177,0.06376,0.28062,6.2094536,0.39600796
+'2704N: Corruption perceptions index - Transparency','0818: Gross domestic savings  (current LCU) - WDI',0.28319,0.27728096,0.16026002,0.28319,6.169925,-0.07687031
+'2704N: Corruption perceptions index - Transparency','0761: Adjusted savings: education expenditure  (% of GNI) - WDI',0.28315,0.17560342,0.08876999,0.28315,6.2094536,0.32794294
+'2704N: Corruption perceptions index - Transparency','1313: Urban population growth  (annual %) - WDI',0.28297,0.20859864,0.077500015,0.28297,6.2479277,-0.27271113
+'2704N: Corruption perceptions index - Transparency','0063: Exports of goods and services  (BoP; current US$) - WDI',0.28247,0.12669203,0.041199982,0.2791,6.169925,0.39468718
+'2704N: Corruption perceptions index - Transparency','0802: GDP  (constant 2005 US$) - WDI',0.28233,0.215617,0.075210005,0.2793,6.2479277,0.2582886
+'2704N: Corruption perceptions index - Transparency','2744: Merchandise trade-Exports-Machinery and transport equipment (US dollar at current prices) - WTO',0.28192,0.18390474,0.03611,0.27913,6.129283,0.31307387
+'2704N: Corruption perceptions index - Transparency','2752: Merchandise trade-Imports-Electronic data processing and office equipment (US dollar at current prices) - WTO',0.28189,0.16301055,0.04952,0.28189,6.129283,0.344789
+'2704N: Corruption perceptions index - Transparency','2742: Merchandise trade-Exports-Chemicals (US dollar at current prices) - WTO',0.2818,0.1002496,0.04501,0.27827,6.129283,0.42608732
+'2704N: Corruption perceptions index - Transparency','0053: Portfolio Investment; net  (BoP; current US$) - WDI',0.28008,0.2672189,0.17370999,0.27667,6.087463,-0.11340687
+'2704N: Corruption perceptions index - Transparency','0010: Permanent cropland  (% of land area) - WDI',0.27938,0.2642499,0.07381001,0.27362,6.2479277,-0.12300451
+'2704N: Corruption perceptions index - Transparency','0881: School enrollment; secondary (gross); gender parity index  (GPI) - WDI',0.2792,0.17950843,0.08348,0.27638,6.0,0.3157397
+'2704N: Corruption perceptions index - Transparency','1375: Commercial service imports  (current US$) - WDI',0.27912,0.07007077,0.05580999,0.27869,6.169925,0.457219
+'2704N: Corruption perceptions index - Transparency','0804: GDP  (constant LCU) - WDI',0.27855,0.27486473,0.15549,0.27573,6.2479277,-0.060706485
+'2704N: Corruption perceptions index - Transparency','0367: Electricity production from renewable sources; excluding hydroelectric  (% of total) - WDI',0.27831,0.13402289,0.06025,0.27681,6.044394,0.37985143
+'2704N: Corruption perceptions index - Transparency','2795: Balance of Payments-Exports-Other business services (US dollar at current prices) - WTO',0.27749,0.0916318,0.0273,0.27456,6.087463,0.43111274
+'2704N: Corruption perceptions index - Transparency','0879: School enrollment; primary (gross); gender parity index  (GPI) - WDI',0.27734,0.14767238,0.07773,0.27445,6.087463,0.3600939
+'2704N: Corruption perceptions index - Transparency','0654: Armed forces personnel; total - WDI',0.27705,0.2700557,0.18137999,0.27246,6.169925,-0.08363186
+'2704N: Corruption perceptions index - Transparency','0695: Gross national expenditure  (constant LCU) - WDI',0.27696,0.27172267,0.14769998,0.27327,6.129283,-0.07236921
+'2704N: Corruption perceptions index - Transparency','0685: Final consumption expenditure; etc.  (constant LCU) - WDI',0.27681,0.271802,0.1352,0.27681,6.087463,-0.07076705
+'2704N: Corruption perceptions index - Transparency','0036: Service imports  (BoP; current US$) - WDI',0.27431,0.07223965,0.06401999,0.27386,6.169925,0.44952235
+'2704N: Corruption perceptions index - Transparency','0043: Secondary income; other sectors; payments  (BoP; current US$) - WDI',0.27428,0.18061166,0.042060018,0.27156,6.129283,0.30605286
+'2704N: Corruption perceptions index - Transparency','2798: Balance of Payments-Exports-Other services (US dollar at current prices) - WTO',0.27385,0.110354796,0.048490003,0.27385,6.129283,0.4043454
+'2704N: Corruption perceptions index - Transparency','0927: Primary education; teachers - WDI',0.27306,0.2725437,0.15131,0.27306,5.9541965,-0.022722052
+'2704N: Corruption perceptions index - Transparency','2800: Balance of Payments-Imports-Commercial services (US dollar at current prices) - WTO',0.27213,0.07063554,0.044880003,0.27213,6.169925,0.44888136
+'2704N: Corruption perceptions index - Transparency','0760: Adjusted savings: education expenditure  (current US$) - WDI',0.27211,0.1995631,0.060789987,0.27211,6.2094536,0.26934528
+'2704N: Corruption perceptions index - Transparency','0798: Forest rents  (% of GDP) - WDI',0.27159,0.19059016,0.04610999,0.26901,6.2479277,-0.2846047
+'2704N: Corruption perceptions index - Transparency','0904: Gross intake ratio in first grade of primary education; total  (% of relevant age group) - WDI',0.27099,0.23529856,0.11957002,0.26816,6.0,-0.18892181
+'2704N: Corruption perceptions index - Transparency','0038: Imports of goods; services and primary income  (BoP; current US$) - WDI',0.27009,0.10993813,0.045180008,0.27009,6.044394,0.40018982
+'2704N: Corruption perceptions index - Transparency','0432: Population in largest city - WDI',0.26958,0.26271528,0.15087001,0.26958,6.087463,0.08285362
+'2704N: Corruption perceptions index - Transparency','1324: International tourism; expenditures for travel items  (current US$) - WDI',0.2695,0.11421345,0.030049995,0.2695,6.169925,0.39406413
+'2704N: Corruption perceptions index - Transparency','0827: GNI  (constant LCU) - WDI',0.26929,0.2645602,0.1393,0.26929,6.087463,-0.0687736
+'2704N: Corruption perceptions index - Transparency','0902: Gross intake ratio in first grade of primary education; female  (% of relevant age group) - WDI',0.26919,0.25080287,0.13074002,0.26919,5.9541965,-0.13559924
+'2704N: Corruption perceptions index - Transparency','2805: Balance of Payments-Imports-Services (US dollar at current prices) - WTO',0.26809,0.071425036,0.05705999,0.26809,5.643856,0.44346926
+'2704N: Corruption perceptions index - Transparency','2780: Merchandise trade-Exports-Total merchandise (US dollar at current prices) - WTO',0.26803,0.13238168,0.05940999,0.26559,6.2479277,0.36830464
+'2704N: Corruption perceptions index - Transparency','0009: Land under cereal production  (hectares) - WDI',0.26791,0.26763415,0.13528,0.26791,6.2094536,-0.016608343
+'2704N: Corruption perceptions index - Transparency','2734: Merchandise trade-Imports-Office and telecom equipment (US dollar at current prices) - WTO',0.26656,0.18238086,0.049930006,0.26656,6.129283,0.2901364
+'2704N: Corruption perceptions index - Transparency','0042: Foreign direct investment; net outflows  (% of GDP) - WDI',0.26645,0.23337296,0.051949993,0.26365,6.169925,0.18187091
+'2704N: Corruption perceptions index - Transparency','0545: Private credit bureau coverage  (% of adults) - WDI',0.26638,0.010563314,0.037680015,0.26638,6.169925,0.50578326
+'2704N: Corruption perceptions index - Transparency','0033: Imports of goods and services  (BoP; current US$) - WDI',0.26592,0.12270111,0.046230003,0.26311,6.169925,0.37844273
+'2704N: Corruption perceptions index - Transparency','1388: Merchandise exports  (current US$) - WDI',0.26566,0.13004461,0.05703999,0.2631,6.2479277,0.36825994
+'2704N: Corruption perceptions index - Transparency','0008: Arable land  (% of land area) - WDI',0.26467,0.26465786,0.13800001,0.26467,6.2479277,0.0034850405
+'2704N: Corruption perceptions index - Transparency','0747: Industry; value added  (constant LCU) - WDI',0.26441,0.2595113,0.14378,0.26141,6.169925,-0.069990724
+'2704N: Corruption perceptions index - Transparency','0044: Personal remittances; paid  (current US$) - WDI',0.26433,0.17738685,0.070439994,0.26105,6.129283,0.29486123
+'2704N: Corruption perceptions index - Transparency','1092: Tuberculosis case detection rate  (%; all forms) - WDI',0.26401,0.056021556,0.041420013,0.26293,6.2479277,0.45605752
+'2704N: Corruption perceptions index - Transparency','2804: Balance of Payments-Imports-Other commercial services (US dollar at current prices) - WTO',0.26344,0.06890792,0.038299993,0.26044,6.169925,0.44105792
+'2704N: Corruption perceptions index - Transparency','0674: Household final consumption expenditure  (constant 2005 US$) - WDI',0.2634,0.20786174,0.06507999,0.25987,6.044394,0.23566556
+'2704N: Corruption perceptions index - Transparency','2803: Balance of Payments-Imports-Travel (US dollar at current prices) - WTO',0.26284,0.09746072,0.036290005,0.25938,6.169925,0.4066685
+'2704N: Corruption perceptions index - Transparency','0844: Net taxes on products  (current US$) - WDI',0.26265,0.17991924,0.03633,0.26265,6.044394,0.28762957
+'2704N: Corruption perceptions index - Transparency','0694: Gross national expenditure  (constant 2005 US$) - WDI',0.26228,0.19969186,0.049979985,0.26228,6.044394,0.2501762
+'2704N: Corruption perceptions index - Transparency','1398: Merchandise exports by the reporting economy  (current US$) - WDI',0.26213,0.124675795,0.04970999,0.26213,6.2094536,0.37074816
+'2704N: Corruption perceptions index - Transparency','0484: Deposit interest rate  (%) - WDI',0.26165,0.15568222,0.13231,0.25781,6.044394,-0.32552692
+'2704N: Corruption perceptions index - Transparency','0720: Imports of goods and services  (current US$) - WDI',0.26159,0.11948621,0.041350007,0.25885,6.2094536,0.37696657
+'2704N: Corruption perceptions index - Transparency','0660: General government final consumption expenditure  (current US$) - WDI',0.26105,0.18127888,0.054479986,0.26105,6.169925,0.2824378
+'2704N: Corruption perceptions index - Transparency','1396: Merchandise exports to low- and middle-income economies in Sub-Saharan Africa  (% of total merchandise exports) - WDI',0.26074,0.21705261,0.13171001,0.26074,6.129283,-0.20901534
+'2704N: Corruption perceptions index - Transparency','2822: Balance of Payments-Imports-Other business services (US dollar at current prices) - WTO',0.26045,0.04422289,0.037970006,0.25735,6.129283,0.46500227
+'2704N: Corruption perceptions index - Transparency','0880: School enrollment; primary and secondary (gross); gender parity index  (GPI) - WDI',0.26034,0.12838018,0.08132,0.26034,5.9541965,0.36326274
+'2704N: Corruption perceptions index - Transparency','2809: Balance of Payments-Exports-Telecommunications services (US dollar at current prices) - WTO',0.26014,0.10430214,0.054289997,0.26014,5.9541965,0.39476305
+'2704N: Corruption perceptions index - Transparency','1900: Fixed-broadband subscriptions - ITU',0.2597,0.23496948,0.02301,0.25706,6.2094536,0.1572594
+'2704N: Corruption perceptions index - Transparency','2729: Merchandise trade-Imports-Manufactures (US dollar at current prices) - WTO',0.25947,0.13292941,0.054279998,0.25947,6.129283,0.3557254
+'2704N: Corruption perceptions index - Transparency','0999: Proportion of seats held by women in national parliaments  (%) - WDI',0.25904,0.16723199,0.10813999,0.25904,6.2094536,0.30299836
+'2704N: Corruption perceptions index - Transparency','0766: Adjusted savings: consumption of fixed capital  (current US$) - WDI',0.2588,0.18159169,0.038059995,0.25643,6.2479277,0.27786383
+'2704N: Corruption perceptions index - Transparency','0667: Household final consumption expenditure; etc.  (current LCU) - WDI',0.25849,0.25221914,0.10437,0.25849,6.169925,-0.079188794
+'2704N: Corruption perceptions index - Transparency','1897: Fixed-telephone subscriptions - ITU',0.25832,0.24771385,0.10368,0.25523,6.2479277,0.10298622
+'2704N: Corruption perceptions index - Transparency','1325: International tourism; expenditures  (current US$) - WDI',0.25794,0.10304776,0.019109994,0.25515,6.2094536,0.3935635
+'2704N: Corruption perceptions index - Transparency','0637: Fixed telephone subscriptions - WDI',0.25778,0.2470803,0.10590999,0.25778,6.2479277,0.10343934
+'2704N: Corruption perceptions index - Transparency','0035: Goods imports  (BoP; current US$) - WDI',0.25713,0.13249996,0.049600005,0.25397,6.169925,0.3530298
+'2704N: Corruption perceptions index - Transparency','0668: Household final consumption expenditure; etc.  (constant 2005 US$) - WDI',0.2571,0.19823404,0.054959983,0.2571,6.0,0.24262306
+'2704N: Corruption perceptions index - Transparency','2806: Balance of Payments-Imports-Other services (US dollar at current prices) - WTO',0.2558,0.07431312,0.03999999,0.2558,5.857981,0.42601278
+'2704N: Corruption perceptions index - Transparency','0792: Discrepancy in expenditure estimate of GDP  (current LCU) - WDI',0.25573,0.25432307,0.17659,0.25573,6.169925,-0.037508994
+'2704N: Corruption perceptions index - Transparency','1370: Merchandise imports by the reporting economy; residual  (% of total merchandise imports) - WDI',0.25526,0.1798155,0.12028,0.25526,6.2094536,-0.27467158
+'2704N: Corruption perceptions index - Transparency','0673: Household final consumption expenditure  (current LCU) - WDI',0.2548,0.24862789,0.10313,0.2548,6.169925,-0.07856272
+'2704N: Corruption perceptions index - Transparency','0627: Air transport; registered carrier departures worldwide - WDI',0.25467,0.20332766,0.020319998,0.25467,6.044394,0.22658847
+'2704N: Corruption perceptions index - Transparency','0741: Manufacturing; value added  (constant LCU) - WDI',0.25465,0.25119665,0.13194,0.25465,6.129283,-0.05876506
+'2704N: Corruption perceptions index - Transparency','0943: Secondary education; pupils - WDI',0.25453,0.25060537,0.11714001,0.25022,6.044394,-0.06264692
+'2704N: Corruption perceptions index - Transparency','0795: Gross value added at factor cost  (current LCU) - WDI',0.2534,0.25018448,0.12652999,0.24998,6.087463,-0.05670545
+'2704N: Corruption perceptions index - Transparency','0794: Gross value added at factor cost  (current US$) - WDI',0.25264,0.17680115,0.034909993,0.24925,6.087463,0.27538857
+'2704N: Corruption perceptions index - Transparency','0052: Foreign direct investment; net  (BoP; current US$) - WDI',0.25224,0.22586215,0.08422001,0.24921,6.169925,0.16241263
+'2704N: Corruption perceptions index - Transparency','0587: Total tax rate  (% of commercial profits) - WDI',0.25195,0.19753449,0.12353,0.25195,6.169925,-0.23327133
+'2704N: Corruption perceptions index - Transparency','1404: High-technology exports  (% of manufactured exports) - WDI',0.25195,0.12475596,0.02508001,0.25052,6.044394,0.35664272
+'2704N: Corruption perceptions index - Transparency','0639: Fixed broadband subscriptions - WDI',0.25131,0.22642352,0.022909999,0.24898,6.2094536,0.15775447
+'2704N: Corruption perceptions index - Transparency','2732: Merchandise trade-Imports-Pharmaceuticals (US dollar at current prices) - WTO',0.25118,0.10275288,0.06828,0.25118,6.129283,0.3852624
+'2704N: Corruption perceptions index - Transparency','1376: Transport services  (% of commercial service imports) - WDI',0.25064,0.066899106,0.04197,0.25064,6.129283,-0.42865008
+'2704N: Corruption perceptions index - Transparency','0065: Goods exports  (BoP; current US$) - WDI',0.24959,0.1201615,0.04061,0.24658,6.169925,0.35976171
+'2704N: Corruption perceptions index - Transparency','0665: General government final consumption expenditure  (% of GDP) - WDI',0.24937,0.21347086,0.05285999,0.24937,6.169925,0.18947066
+'2704N: Corruption perceptions index - Transparency','0688: Final consumption expenditure  (current LCU) - WDI',0.24933,0.24333975,0.10266,0.24933,6.169925,-0.077396706
+'2704N: Corruption perceptions index - Transparency','0671: Household final consumption expenditure; etc.  (% of GDP) - WDI',0.24921,0.13710034,0.030979991,0.24921,6.169925,-0.3348278
+'2704N: Corruption perceptions index - Transparency','0056: Net capital account  (BoP; current US$) - WDI',0.24831,0.23816417,0.039210007,0.24831,5.9068904,-0.10072647
+'2704N: Corruption perceptions index - Transparency','2737: Merchandise trade-Imports-Automotive products (US dollar at current prices) - WTO',0.24769,0.14537486,0.04019001,0.24769,6.129283,0.31986737
+'2704N: Corruption perceptions index - Transparency','0745: Industry; value added  (constant 2005 US$) - WDI',0.2462,0.19122258,0.06369999,0.2462,6.129283,0.23447262
+'2704N: Corruption perceptions index - Transparency','0784: Adjusted net savings; including particulate emission damage  (current US$) - WDI',0.24563,0.22919036,0.025879994,0.24563,6.0,0.12821713
+'2704N: Corruption perceptions index - Transparency','1211: Labor force participation rate; female (% of female population ages 15+)  (modeled ILO estimate) - WDI',0.24488,0.24437445,0.05439,0.24256,6.2479277,0.022484405
+'2704N: Corruption perceptions index - Transparency','0629: Air transport; passengers carried - WDI',0.24484,0.18293086,0.031089999,0.24484,6.044394,0.24881546
+'2704N: Corruption perceptions index - Transparency','2731: Merchandise trade-Imports-Chemicals (US dollar at current prices) - WTO',0.24426,0.11683515,0.051410004,0.24426,6.129283,0.35696617
+'2704N: Corruption perceptions index - Transparency','0682: Final consumption expenditure; etc.  (current LCU) - WDI',0.24418,0.23829108,0.097399995,0.24418,6.169925,-0.076739244
+'2704N: Corruption perceptions index - Transparency','0709: Gross fixed capital formation  (constant LCU) - WDI',0.2434,0.23793647,0.11665,0.23998,6.087463,-0.07391567
+'2704N: Corruption perceptions index - Transparency','2727: Merchandise trade-Imports-Fuels and mining products (US dollar at current prices) - WTO',0.24304,0.159004,0.04552999,0.24019,6.169925,0.28988963
+'2704N: Corruption perceptions index - Transparency','0945: Secondary education; general pupils - WDI',0.2425,0.24007218,0.11452001,0.23888,6.087463,-0.04927306
+'2704N: Corruption perceptions index - Transparency','1432: Air and GHG emissions - CO2 (MLN_TONNE) - OECD',0.24244,0.23597494,0.06104,0.24244,6.0,0.08040561
+'2704N: Corruption perceptions index - Transparency','1231: Labor force; female  (% of total labor force) - WDI',0.24242,0.22598344,0.09904,0.23913,6.2479277,0.12820518
+'2704N: Corruption perceptions index - Transparency','1279: Death rate; crude  (per 1;000 people) - WDI',0.24122,0.2132228,0.14862,0.24122,6.2479277,-0.16732365
+'2704N: Corruption perceptions index - Transparency','0829: GNI; PPP  (constant 2011 international $) - WDI',0.24111,0.2123903,0.035359994,0.24111,6.087463,0.16946885
+'2704N: Corruption perceptions index - Transparency','2735: Merchandise trade-Imports-Telecommunications equipment (US dollar at current prices) - WTO',0.24056,0.1380296,0.039749995,0.24056,6.129283,0.32020366
+'2704N: Corruption perceptions index - Transparency','0078: Personal remittances; received  (% of GDP) - WDI',0.24034,0.1420767,0.05234,0.24034,6.129283,-0.31346977
+'2704N: Corruption perceptions index - Transparency','0737: Manufacturing; value added  (current US$) - WDI',0.23975,0.19995949,0.043119997,0.23975,6.129283,0.19947557
+'2704N: Corruption perceptions index - Transparency','0778: Adjusted net national income  (current US$) - WDI',0.23948,0.17401412,0.041840002,0.23948,6.169925,0.255863
+'2704N: Corruption perceptions index - Transparency','0806: GDP; PPP  (constant 2011 international $) - WDI',0.2394,0.21316642,0.07522,0.23684,6.2479277,0.16196787
+'2704N: Corruption perceptions index - Transparency','0788: Exports as a capacity to import  (constant LCU) - WDI',0.23926,0.23341092,0.10686,0.2357,6.129283,-0.076479286
+'2704N: Corruption perceptions index - Transparency','0664: General government final consumption expenditure  (constant LCU) - WDI',0.23873,0.23540096,0.10964,0.23873,6.087463,-0.057697803
+'2704N: Corruption perceptions index - Transparency','2802: Balance of Payments-Imports-Transport (US dollar at current prices) - WTO',0.23863,0.06454396,0.033649996,0.23565,6.169925,0.41723618
+'2704N: Corruption perceptions index - Transparency','0633: Liner shipping connectivity index  (maximum value in 2004 = 100) - WDI',0.2377,0.07065736,0.06018001,0.2377,6.0,0.4087085
+'2704N: Corruption perceptions index - Transparency','0762: Adjusted savings: carbon dioxide damage  (current US$) - WDI',0.23719,0.23033579,0.069419995,0.23427,6.2479277,0.082790166
+'2704N: Corruption perceptions index - Transparency','1207: Labor force participation rate; female (% of female population ages 15-64)  (modeled ILO estimate) - WDI',0.23661,0.18969972,0.07023,0.23534,6.2479277,0.21658778
+'2704N: Corruption perceptions index - Transparency','0656: Military expenditure  (current LCU) - WDI',0.23653,0.23000507,0.09195,0.23653,6.087463,-0.08077704
+'2704N: Corruption perceptions index - Transparency','0718: Gross capital formation  (constant LCU) - WDI',0.2365,0.2304489,0.104609996,0.2365,6.087463,-0.07778881
+'2704N: Corruption perceptions index - Transparency','2733: Merchandise trade-Imports-Machinery and transport equipment (US dollar at current prices) - WTO',0.23641,0.12402738,0.04174,0.23641,6.129283,0.33523518
+'2704N: Corruption perceptions index - Transparency','0422: CO2 emissions from other sectors; excluding residential buildings and commercial and public services  (% of total fuel combustion) - WDI',0.23567,0.22389948,0.12584999,0.23176,6.044394,-0.10849205
+'2704N: Corruption perceptions index - Transparency','0680: Household final consumption expenditure; PPP  (constant 2011 international $) - WDI',0.23549,0.20962659,0.07604,0.23234,6.087463,0.16082102
+'2704N: Corruption perceptions index - Transparency','1040: Immunization; DPT  (% of children ages 12-23 months) - WDI',0.23525,0.053095892,0.018069997,0.23415,6.2479277,0.42679515
+'2704N: Corruption perceptions index - Transparency','0744: Industry; value added  (current LCU) - WDI',0.23481,0.22850561,0.118099995,0.23481,6.169925,-0.079400145
+'2704N: Corruption perceptions index - Transparency','1150: Employment to population ratio; 15+; female (%)  (modeled ILO estimate) - WDI',0.23407,0.23302683,0.02703999,0.23407,6.2094536,0.03229813
+'2704N: Corruption perceptions index - Transparency','0705: Gross fixed capital formation  (current US$) - WDI',0.23356,0.1924336,0.04344,0.23356,6.169925,0.20279644
+'2704N: Corruption perceptions index - Transparency','0801: GDP  (current LCU) - WDI',0.23315,0.2281339,0.09716001,0.23055,6.2479277,-0.07082449
+'2704N: Corruption perceptions index - Transparency','0071: Foreign direct investment; net inflows  (BoP; current US$) - WDI',0.23272,0.1300183,0.048189998,0.23032,6.2479277,0.32047108
+'2704N: Corruption perceptions index - Transparency','1236: Unemployment; youth male (% of male labor force ages 15-24)  (modeled ILO estimate) - WDI',0.23167,0.22850433,0.10412,0.23167,6.2094536,0.056264304
+'2704N: Corruption perceptions index - Transparency','0824: GNI  (current LCU) - WDI',0.23151,0.2265268,0.0972,0.22868,6.2479277,-0.07059176
+'2704N: Corruption perceptions index - Transparency','0738: Manufacturing; value added  (current LCU) - WDI',0.23146,0.22686583,0.11429001,0.23146,6.129283,-0.06778039
+'2704N: Corruption perceptions index - Transparency','0482: Inflation; consumer prices  (annual %) - WDI',0.23138,0.23005226,0.028629996,0.22859,6.2094536,-0.036438182
+'2704N: Corruption perceptions index - Transparency','2720: Merchandise trade-Exports-Agricultural products (US dollar at current prices) - WTO',0.23031,0.09710963,0.022149995,0.22745,6.169925,0.36496624
+'2704N: Corruption perceptions index - Transparency','0715: Gross capital formation  (current LCU) - WDI',0.23023,0.22426647,0.09646,0.23023,6.169925,-0.077223875
+'2704N: Corruption perceptions index - Transparency','0681: Final consumption expenditure; etc.  (current US$) - WDI',0.22965,0.16958381,0.047000006,0.22965,6.169925,0.24508406
+'2704N: Corruption perceptions index - Transparency','0842: Net income from abroad  (current LCU) - WDI',0.22888,0.22393613,0.11412,0.22593,6.2094536,0.070312686
+'2704N: Corruption perceptions index - Transparency','0838: Gross savings  (current LCU) - WDI',0.22868,0.22557218,0.09657,0.22868,6.087463,-0.055747822
+'2704N: Corruption perceptions index - Transparency','0687: Final consumption expenditure  (current US$) - WDI',0.2282,0.16833334,0.040000007,0.2282,6.169925,0.24467665
+'2704N: Corruption perceptions index - Transparency','0693: Gross national expenditure  (current LCU) - WDI',0.22781,0.2222012,0.07832,0.22508,6.2094536,-0.07489188
+'2704N: Corruption perceptions index - Transparency','1139: Employment to population ratio; ages 15-24; male (%)  (modeled ILO estimate) - WDI',0.22764,0.21911147,0.049850002,0.22764,6.2094536,-0.09235008
+'2704N: Corruption perceptions index - Transparency','0823: GNI  (current US$) - WDI',0.2274,0.16507462,0.046509996,0.22472,6.2479277,0.24965052
+'2704N: Corruption perceptions index - Transparency','1104: Health expenditure; total  (% of GDP) - WDI',0.22675,0.023212224,0.023310006,0.22383,6.2479277,0.4511516
+'2704N: Corruption perceptions index - Transparency','0706: Gross fixed capital formation  (current LCU) - WDI',0.22663,0.22077082,0.08678,0.22663,6.169925,-0.0765453
+'2704N: Corruption perceptions index - Transparency','2728: Merchandise trade-Imports-Fuels (US dollar at current prices) - WTO',0.22623,0.13412052,0.03234999,0.22623,6.129283,0.3034954
+'2704N: Corruption perceptions index - Transparency','0692: Gross national expenditure  (current US$) - WDI',0.22599,0.16771859,0.045389995,0.22319,6.2094536,0.2413947
+'2704N: Corruption perceptions index - Transparency','0360: Electricity production from hydroelectric sources  (% of total) - WDI',0.22598,0.19151708,0.07421,0.22241,6.044394,-0.18564188
+'2704N: Corruption perceptions index - Transparency','2736: Merchandise trade-Imports-Transport equipment (US dollar at current prices) - WTO',0.22553,0.106731996,0.028080001,0.22553,6.129283,0.34467086
+'2704N: Corruption perceptions index - Transparency','0045: Current account balance  (BoP; current US$) - WDI',0.22502,0.22496481,0.101730004,0.22212,6.169925,-0.0074295416
+'2704N: Corruption perceptions index - Transparency','0754: Services; etc.; value added  (current US$) - WDI',0.22486,0.15873808,0.025250003,0.22486,6.169925,0.25714183
+'2704N: Corruption perceptions index - Transparency','1397: Merchandise exports by the reporting economy; residual  (% of total merchandise exports) - WDI',0.22478,0.18871397,0.12134999,0.22478,6.2094536,-0.18991058
+'2704N: Corruption perceptions index - Transparency','0039: Transport services  (% of service imports; BoP) - WDI',0.22469,0.06252499,0.030900002,0.22469,6.129283,-0.40269718
+'2704N: Corruption perceptions index - Transparency','0364: Electricity production from oil sources  (% of total) - WDI',0.2245,0.15947202,0.08516,0.22106,6.044394,-0.25500584
+'2704N: Corruption perceptions index - Transparency','0375: Alternative and nuclear energy  (% of total energy use) - WDI',0.22445,0.13525833,0.085930005,0.22145,6.044394,0.29864976
+'2704N: Corruption perceptions index - Transparency','0721: Imports of goods and services  (current LCU) - WDI',0.22441,0.2183757,0.09573999,0.22167,6.2094536,-0.07768078
+'2704N: Corruption perceptions index - Transparency','0048: Net primary income  (BoP; current US$) - WDI',0.22433,0.1886717,0.056110002,0.22179,6.169925,0.18883404
+'2704N: Corruption perceptions index - Transparency','0714: Gross capital formation  (current US$) - WDI',0.22429,0.18482403,0.042999998,0.22429,6.169925,0.19866042
+'2704N: Corruption perceptions index - Transparency','0817: Gross domestic savings  (current US$) - WDI',0.22429,0.18165143,0.034549996,0.22429,6.169925,0.20649108
+'2704N: Corruption perceptions index - Transparency','0666: Household final consumption expenditure; etc.  (current US$) - WDI',0.22413,0.16968152,0.049170002,0.22413,6.169925,0.233342
+'2704N: Corruption perceptions index - Transparency','0900: School enrollment; primary; female  (% gross) - WDI',0.22384,0.2156956,0.112059996,0.22081,6.087463,0.0902463
+'2704N: Corruption perceptions index - Transparency','0901: School enrollment; primary; male  (% gross) - WDI',0.22379,0.21785462,0.09336001,0.22083,6.087463,-0.07704145
+'2704N: Corruption perceptions index - Transparency','2721: Merchandise trade-Exports-Food (US dollar at current prices) - WTO',0.22317,0.09687933,0.030679986,0.22186,6.169925,0.35537398
+'2704N: Corruption perceptions index - Transparency','0800: GDP  (current US$) - WDI',0.22235,0.16017653,0.03836,0.21966,6.2479277,0.24934608
+'2704N: Corruption perceptions index - Transparency','0809: GDP per capita  (current LCU) - WDI',0.22233,0.21122377,0.09818,0.2195,6.2479277,-0.10538616
+'2704N: Corruption perceptions index - Transparency','0899: School enrollment; primary  (% gross) - WDI',0.22224,0.22214055,0.12455,0.22224,6.087463,0.0099721495
+'2704N: Corruption perceptions index - Transparency','0672: Household final consumption expenditure  (current US$) - WDI',0.22223,0.16757056,0.03644,0.22223,6.169925,0.23379357
+'2704N: Corruption perceptions index - Transparency','0822: GNI; Atlas method  (current US$) - WDI',0.22222,0.15900339,0.03508,0.22222,6.2094536,0.25142914
+'2704N: Corruption perceptions index - Transparency','0724: Imports of goods and services  (constant LCU) - WDI',0.22217,0.21646114,0.09718999,0.21897,6.129283,-0.07555694
+'2704N: Corruption perceptions index - Transparency','0698: Exports of goods and services  (current LCU) - WDI',0.22196,0.21576904,0.097739995,0.21902,6.2094536,-0.07868267
+'2704N: Corruption perceptions index - Transparency','0743: Industry; value added  (current US$) - WDI',0.22117,0.17581373,0.036939994,0.22117,6.169925,0.2129701
+'2704N: Corruption perceptions index - Transparency','0007: Arable land  (hectares per person) - WDI',0.21997,0.21918032,0.10735,0.21997,6.2479277,0.028101321
+'2704N: Corruption perceptions index - Transparency','0765: Adjusted savings: net forest depletion  (% of GNI) - WDI',0.21983,0.16100833,0.04516001,0.21983,6.169925,-0.24253179
+'2704N: Corruption perceptions index - Transparency','1232: Labor force; total - WDI',0.21976,0.21906096,0.11129,0.21658,6.2479277,-0.026439428
+'2704N: Corruption perceptions index - Transparency','0805: GDP; PPP  (current international $) - WDI',0.21946,0.19338037,0.054629996,0.21689,6.2479277,0.16149189
+'2704N: Corruption perceptions index - Transparency','0786: Adjusted net savings; excluding particulate emission damage  (current US$) - WDI',0.21857,0.20342055,0.027270004,0.21713,6.044394,0.123083055
+'2704N: Corruption perceptions index - Transparency','1209: Labor force participation rate; total (% of total population ages 15-64)  (modeled ILO estimate) - WDI',0.21823,0.16609243,0.034840003,0.21713,6.2479277,0.22833654
+'2704N: Corruption perceptions index - Transparency','0481: Consumer price index  (2010 = 100) - WDI',0.21727,0.21281819,0.08622,0.21727,6.169925,0.06672187
+'2704N: Corruption perceptions index - Transparency','0712: Changes in inventories  (current LCU) - WDI',0.21724,0.21099944,0.117690004,0.21724,6.129283,-0.07899718
+'2704N: Corruption perceptions index - Transparency','0790: Inflation; GDP deflator  (annual %) - WDI',0.21708,0.12318614,0.021009997,0.21458,6.2479277,-0.30642104
+'2704N: Corruption perceptions index - Transparency','1365: Merchandise imports from low- and middle-income economies in Europe & Central Asia  (% of total merchandise imports) - WDI',0.21696,0.11758344,0.03411001,0.21696,5.9541965,-0.31524047
+'2704N: Corruption perceptions index - Transparency','0579: Start-up procedures to register a business  (number) - WDI',0.2164,-0.008468166,0.04038,0.2164,6.169925,-0.47420266
+'2704N: Corruption perceptions index - Transparency','0831: GNI per capita  (current LCU) - WDI',0.21513,0.20465995,0.09394,0.21255,6.2479277,-0.10232326
+'2704N: Corruption perceptions index - Transparency','0793: Discrepancy in expenditure estimate of GDP  (constant LCU) - WDI',0.21499,0.21163706,0.11468001,0.21191,6.044394,-0.05790457
+'2704N: Corruption perceptions index - Transparency','0815: Oil rents  (% of GDP) - WDI',0.21449,0.16611113,0.09567,0.21449,6.169925,-0.21995197
+'2704N: Corruption perceptions index - Transparency','0701: Exports of goods and services  (constant LCU) - WDI',0.21439,0.20910226,0.07725999,0.21108,6.129283,-0.072716855
+'2704N: Corruption perceptions index - Transparency','2741: Merchandise trade-Exports-Iron and steel (US dollar at current prices) - WTO',0.21425,0.15210047,0.033470005,0.21425,6.087463,0.24929807
+'2704N: Corruption perceptions index - Transparency','2724: Merchandise trade-Exports-Textiles (US dollar at current prices) - WTO',0.21378,0.20525357,0.047620006,0.21053,6.129283,0.09233866
+'2704N: Corruption perceptions index - Transparency','0049: Net trade in goods and services  (BoP; current US$) - WDI',0.21198,0.2119774,0.06252,0.20907,6.169925,-0.0016113997
+'2704N: Corruption perceptions index - Transparency','0713: Changes in inventories  (constant LCU) - WDI',0.21178,0.21142681,0.09228,0.20877,6.044394,0.018793445
+'2704N: Corruption perceptions index - Transparency','1356: ICT goods imports  (% total goods imports) - WDI',0.21127,0.13189399,0.024920002,0.20809,6.087463,0.2817375
+'2704N: Corruption perceptions index - Transparency','1152: Employment to population ratio; 15+; male (%)  (modeled ILO estimate) - WDI',0.21119,0.1729574,0.0636,0.21119,6.2094536,-0.19553156
+'2704N: Corruption perceptions index - Transparency','1322: International tourism; expenditures for passenger transport items  (current US$) - WDI',0.21069,0.04582618,0.05172001,0.21069,5.857981,0.40603426
+'2704N: Corruption perceptions index - Transparency','0622: Overall level of statistical capacity  (scale 0 - 100) - WDI',0.21053,0.052454174,0.031529993,0.20894,6.0,0.3975875
+'2704N: Corruption perceptions index - Transparency','1783: Renewable energy - TOT (KTOE) - OECD',0.21047,0.20137492,0.05894001,0.21047,6.0,0.095368154
+'2704N: Corruption perceptions index - Transparency','0050: Net trade in goods  (BoP; current US$) - WDI',0.21026,0.20799433,0.08842,0.20709,6.169925,-0.047599174
+'2704N: Corruption perceptions index - Transparency','1369: Merchandise imports from low- and middle-income economies in Sub-Saharan Africa  (% of total merchandise imports) - WDI',0.20981,0.14173166,0.089660004,0.20981,6.129283,-0.26091826
+'2704N: Corruption perceptions index - Transparency','1202: Labor force participation rate for ages 15-24; female (%)  (modeled ILO estimate) - WDI',0.20962,0.19195628,0.07086,0.20658,6.2479277,0.13290495
+'2704N: Corruption perceptions index - Transparency','0439: Aquaculture production  (metric tons) - WDI',0.20948,0.20902161,0.08495,0.20584,6.2094536,-0.02140994
+'2704N: Corruption perceptions index - Transparency','0696: Gross national expenditure  (% of GDP) - WDI',0.20875,0.13684067,0.05471,0.20875,6.169925,-0.26815915
+'2704N: Corruption perceptions index - Transparency','1102: Health expenditure; public  (% of government expenditure) - WDI',0.20865,0.004395455,0.014990002,0.20578,6.2479277,0.45194528
+'2704N: Corruption perceptions index - Transparency','0755: Services; etc.; value added  (current LCU) - WDI',0.2083,0.20335294,0.093609996,0.2083,6.169925,-0.070335284
+'2704N: Corruption perceptions index - Transparency','1359: Ores and metals imports  (% of merchandise imports) - WDI',0.20821,0.16479246,0.06624,0.20477,6.087463,0.20836878
+'2704N: Corruption perceptions index - Transparency','1137: Employment to population ratio; ages 15-24; female (%)  (modeled ILO estimate) - WDI',0.20789,0.19612923,0.06978999,0.20789,6.2094536,0.10844708
+'2704N: Corruption perceptions index - Transparency','0358: Electricity production from coal sources  (% of total) - WDI',0.20741,0.1821666,0.043459997,0.20469,6.044394,0.15888165
+'2704N: Corruption perceptions index - Transparency','0828: GNI; PPP  (current international $) - WDI',0.20738,0.18077406,0.04604,0.20738,6.2094536,0.16311324
+'2704N: Corruption perceptions index - Transparency','0850: Terms of trade adjustment  (constant LCU) - WDI',0.20679,0.20312169,0.13092,0.20339,6.129283,-0.06056654
+'2704N: Corruption perceptions index - Transparency','0702: Exports of goods and services  (% of GDP) - WDI',0.20668,0.08183118,0.060310006,0.20413,6.2094536,0.35333952
+'2704N: Corruption perceptions index - Transparency','0729: External balance on goods and services  (% of GDP) - WDI',0.20609,0.13765389,0.056599997,0.20481,6.2094536,0.26160297
+'2704N: Corruption perceptions index - Transparency','1770: Primary energy supply - TOT (MLN_TOE) - OECD',0.20538,0.1962849,0.053849995,0.20538,6.0,0.09536819
+'2704N: Corruption perceptions index - Transparency','0465: Total reserves minus gold  (current US$) - WDI',0.20498,0.19908394,0.050219998,0.20224,6.2094536,0.07678584
+'2704N: Corruption perceptions index - Transparency','1354: Food imports  (% of merchandise imports) - WDI',0.20482,0.10672512,0.03908,0.20162,6.087463,-0.31320104
+'2704N: Corruption perceptions index - Transparency','0686: Final consumption expenditure; etc.  (% of GDP) - WDI',0.20474,0.14195052,0.028449997,0.20474,6.169925,-0.25057828
+'2704N: Corruption perceptions index - Transparency','1215: Labor force participation rate; male (% of male population ages 15+)  (modeled ILO estimate) - WDI',0.20452,0.13591594,0.045839995,0.20262,6.2479277,-0.26192376
+'2704N: Corruption perceptions index - Transparency','0655: Armed forces personnel  (% of total labor force) - WDI',0.2038,0.19276226,0.06137,0.20059,6.169925,-0.10506061
+'2704N: Corruption perceptions index - Transparency','2726: Merchandise trade-Imports-Food (US dollar at current prices) - WTO',0.20353,0.061822757,0.027950004,0.20353,6.129283,0.37644023
+'2704N: Corruption perceptions index - Transparency','2815: Balance of Payments-Imports-Insurance and pension services (US dollar at current prices) - WTO',0.20349,0.15914693,0.020999998,0.20349,6.129283,0.21057795
+'2704N: Corruption perceptions index - Transparency','0474: Broad money growth  (annual %) - WDI',0.20312,0.082994595,0.049279988,0.20045,6.087463,-0.34659111
+'2704N: Corruption perceptions index - Transparency','0819: Gross domestic savings  (% of GDP) - WDI',0.2031,0.14028603,0.02798,0.2031,6.169925,0.25062713
+'2704N: Corruption perceptions index - Transparency','0047: Net financial account  (BoP; current US$) - WDI',0.20299,0.2027452,0.08863,0.20028,6.169925,-0.015645808
+'2704N: Corruption perceptions index - Transparency','0837: Gross savings  (current US$) - WDI',0.20297,0.16404414,0.01726,0.20297,6.087463,0.19729635
+'2704N: Corruption perceptions index - Transparency','0420: CO2 emissions from electricity and heat production; total  (% of total fuel combustion) - WDI',0.20264,0.17338006,0.07308,0.19899,6.044394,0.17105535
+'2704N: Corruption perceptions index - Transparency','0369: GDP per unit of energy use  (PPP $ per kg of oil equivalent) - WDI',0.20251,0.1966233,0.08097,0.19937,6.044394,0.076724865
+'2704N: Corruption perceptions index - Transparency','0440: Capture fisheries production  (metric tons) - WDI',0.20219,0.19962579,0.09985,0.20219,6.2479277,0.05063795
+'2704N: Corruption perceptions index - Transparency','0763: Adjusted savings: carbon dioxide damage  (% of GNI) - WDI',0.20209,0.11047323,0.038189992,0.20209,6.2094536,-0.3026826
+'2704N: Corruption perceptions index - Transparency','1206: Labor force participation rate for ages 15-24; total (%)  (modeled ILO estimate) - WDI',0.20194,0.19973277,0.042430006,0.19949,6.2479277,0.046981253
+'2704N: Corruption perceptions index - Transparency','0845: Net taxes on products  (current LCU) - WDI',0.20179,0.20110196,0.08225001,0.20179,6.044394,-0.026230665
+'2704N: Corruption perceptions index - Transparency','0841: Net income from abroad  (current US$) - WDI',0.20124,0.17238337,0.057210013,0.19817,6.2094536,0.16987239
+'2704N: Corruption perceptions index - Transparency','0040: Travel services  (% of service imports; BoP) - WDI',0.20048,0.18909928,0.09274,0.20048,6.129283,0.10668047
+'2704N: Corruption perceptions index - Transparency','1314: Urban population - WDI',0.20037,0.20017816,0.10159,0.20037,6.2479277,0.013850426
+'2704N: Corruption perceptions index - Transparency','1389: Merchandise exports to high-income economies  (% of total merchandise exports) - WDI',0.20026,0.05961418,0.05466999,0.20026,6.2094536,0.37502775
+'2704N: Corruption perceptions index - Transparency','1041: Immunization; measles  (% of children ages 12-23 months) - WDI',0.19996,0.049470276,0.014180005,0.19989,6.2479277,0.38793004
+'2704N: Corruption perceptions index - Transparency','1393: Merchandise exports to low- and middle-income economies in Latin America & the Caribbean  (% of total merchandise exports) - WDI',0.19984,0.19980958,0.04455,0.19691,6.129283,-0.005515114
+'2704N: Corruption perceptions index - Transparency','1217: Labor force participation rate; total (% of total population ages 15+)  (modeled ILO estimate) - WDI',0.19951,0.19451497,0.046539992,0.19786,6.2479277,-0.07067545
+'2704N: Corruption perceptions index - Transparency','2725: Merchandise trade-Imports-Agricultural products (US dollar at current prices) - WTO',0.19934,0.07727627,0.022430003,0.19934,6.129283,0.3493762
+'2704N: Corruption perceptions index - Transparency','0679: Household final consumption expenditure; PPP  (current international $) - WDI',0.19889,0.1719054,0.029959999,0.19576,6.129283,0.1642699
+'2704N: Corruption perceptions index - Transparency','0478: Money and quasi money  to total reserves ratio (M2) - WDI',0.19878,0.19864778,0.035449997,0.19535,6.087463,0.011498303
+'2704N: Corruption perceptions index - Transparency','0031: Communications; computer; etc.  (% of service imports; BoP) - WDI',0.1983,0.13717921,0.05246,0.1983,6.129283,0.24722621
+'2704N: Corruption perceptions index - Transparency','1377: Travel services  (% of commercial service imports) - WDI',0.19817,0.1913129,0.092310004,0.19817,6.129283,0.08280765
+'2704N: Corruption perceptions index - Transparency','0370: GDP per unit of energy use  (constant 2011 PPP $ per kg of oil equivalent) - WDI',0.19746,0.191927,0.080589995,0.19421,6.044394,0.074384116
+'2704N: Corruption perceptions index - Transparency','0441: Total fisheries production  (metric tons) - WDI',0.19727,0.1972661,0.09539001,0.19727,6.2479277,0.0019750306
+'2704N: Corruption perceptions index - Transparency','1374: Computer; communications and other services  (% of commercial service imports) - WDI',0.1971,0.13264307,0.03869,0.1971,6.129283,0.2538837
+'2704N: Corruption perceptions index - Transparency','0621: Methodology assessment of statistical capacity  (scale 0 - 100) - WDI',0.19701,0.04476224,0.059660003,0.19554,6.0,0.39018938
+'2704N: Corruption perceptions index - Transparency','2738: Merchandise trade-Imports-Textiles (US dollar at current prices) - WTO',0.19699,0.120052785,0.035040006,0.19699,6.129283,0.27737558
+'2704N: Corruption perceptions index - Transparency','0663: General government final consumption expenditure  (annual % growth) - WDI',0.19644,0.18910252,0.083469994,0.19329,6.087463,-0.08565907
+'2704N: Corruption perceptions index - Transparency','1381: Food exports  (% of merchandise exports) - WDI',0.19643,0.15773973,0.054089993,0.1932,6.087463,-0.19669844
+'2704N: Corruption perceptions index - Transparency','1368: Merchandise imports from low- and middle-income economies in South Asia  (% of total merchandise imports) - WDI',0.19597,0.15822738,0.040710002,0.19352,6.2094536,-0.19427457
+'2704N: Corruption perceptions index - Transparency','0757: Services; etc.; value added  (annual % growth) - WDI',0.19587,0.14174585,0.048779994,0.1928,6.169925,-0.23264597
+'2704N: Corruption perceptions index - Transparency','2730: Merchandise trade-Imports-Iron and steel (US dollar at current prices) - WTO',0.19585,0.10172809,0.02978,0.19585,6.129283,0.30679294
+'2704N: Corruption perceptions index - Transparency','0726: External balance on goods and services  (current US$) - WDI',0.19583,0.19582398,0.040079996,0.19339,6.2094536,-0.0024544774
+'2704N: Corruption perceptions index - Transparency','0423: CO2 emissions from transport  (% of total fuel combustion) - WDI',0.19558,0.1811663,0.07406001,0.19247,6.044394,-0.12005707
+'2704N: Corruption perceptions index - Transparency','0711: Changes in inventories  (current US$) - WDI',0.19531,0.19520475,0.085209996,0.19531,6.129283,-0.010259011
+'2704N: Corruption perceptions index - Transparency','0362: Electricity production from natural gas sources  (% of total) - WDI',0.19516,0.19458613,0.06937,0.19198,6.044394,0.023955675
+'2704N: Corruption perceptions index - Transparency','1355: Fuel imports  (% of merchandise imports) - WDI',0.19435,0.19095473,0.08972,0.19126,6.087463,-0.058268946
+'2704N: Corruption perceptions index - Transparency','0377: Energy use (kg of oil equivalent) per $1;000 GDP  (constant 2011 PPP) - WDI',0.19388,0.13213407,0.077010006,0.19068,6.044394,-0.24848731
+'2704N: Corruption perceptions index - Transparency','1204: Labor force participation rate for ages 15-24; male (%)  (modeled ILO estimate) - WDI',0.19286,0.18602635,0.030080006,0.19087,6.2479277,-0.08266594
+'2704N: Corruption perceptions index - Transparency','1154: Employment to population ratio; 15+; total (%)  (modeled ILO estimate) - WDI',0.1928,0.19068114,0.038450003,0.1928,6.2094536,-0.046031043
+'2704N: Corruption perceptions index - Transparency','1364: Merchandise imports from low- and middle-income economies in East Asia & Pacific  (% of total merchandise imports) - WDI',0.19269,0.16480093,0.06125,0.19269,6.044394,-0.16700022
+'2704N: Corruption perceptions index - Transparency','0473: Broad money to total reserves ratio - WDI',0.19262,0.19258563,0.0273,0.18942,6.087463,0.0058618844
+'2704N: Corruption perceptions index - Transparency','0684: Final consumption expenditure; etc.  (annual % growth) - WDI',0.19207,0.16264932,0.03519,0.19207,6.087463,-0.1715246
+'2704N: Corruption perceptions index - Transparency','0675: Household final consumption expenditure  (annual % growth) - WDI',0.19151,0.16418415,0.039440006,0.18839,6.087463,-0.16530533
+'2704N: Corruption perceptions index - Transparency','1265: Refugee population by country or territory of asylum - WDI',0.19149,0.18849023,0.07467999,0.19149,6.129283,-0.054770116
+'2704N: Corruption perceptions index - Transparency','0479: Money and quasi money growth  (annual %) - WDI',0.19116,0.07342368,0.042109996,0.19116,6.087463,-0.34312725
+'2704N: Corruption perceptions index - Transparency','0624: Source data assessment of statistical capacity  (scale 0 - 100) - WDI',0.19101,0.04434879,0.05522999,0.18954,6.0,0.38296372
+'2704N: Corruption perceptions index - Transparency','1373: Import value index  (2000 = 100) - WDI',0.19093,0.11525296,0.05488,0.18979,6.2479277,-0.2750946
+'2704N: Corruption perceptions index - Transparency','0314: Net official development assistance and official aid received  (current US$) - WDI',0.19049,0.13918485,0.039950013,0.187,6.0,-0.22650643
+'2704N: Corruption perceptions index - Transparency','0468: Net domestic credit  (current LCU) - WDI',0.19043,0.19038466,0.055560008,0.19043,6.169925,0.006734134
+'2704N: Corruption perceptions index - Transparency','1326: International tourism; expenditures  (% of total imports) - WDI',0.19039,0.18334918,0.079280004,0.18747,6.169925,0.08390967
+'2704N: Corruption perceptions index - Transparency','0733: Agriculture; value added  (constant 2005 US$) - WDI',0.19029,0.18899313,0.06988,0.19029,6.129283,0.036012154
+'2704N: Corruption perceptions index - Transparency','0064: Insurance and financial services  (% of service exports; BoP) - WDI',0.19015,0.053116515,0.023269996,0.18875,6.087463,0.37018034
+'2704N: Corruption perceptions index - Transparency','2751: Merchandise trade-Exports-Clothing (US dollar at current prices) - WTO',0.18989,0.18847178,0.0694,0.18661,6.129283,0.037659142
+'2704N: Corruption perceptions index - Transparency','1384: Insurance and financial services  (% of commercial service exports) - WDI',0.18919,0.074159265,0.025480002,0.18785,6.087463,0.3391618
+'2704N: Corruption perceptions index - Transparency','1733: Crude oil production - TOT (KTOE) - OECD',0.18792,0.18441428,0.058400005,0.18792,6.0,-0.0592091
+'2704N: Corruption perceptions index - Transparency','0661: General government final consumption expenditure  (current LCU) - WDI',0.18749,0.1826112,0.061049998,0.18749,6.169925,-0.069848455
+'2704N: Corruption perceptions index - Transparency','0462: Total reserves  (includes gold; current US$) - WDI',0.18715,0.17706347,0.031560004,0.18453,6.2094536,0.100431785
+'2704N: Corruption perceptions index - Transparency','0787: Adjusted net savings; excluding particulate emission damage  (% of GNI) - WDI',0.18691,0.14071454,0.073240004,0.18404,6.044394,0.21493131
+'2704N: Corruption perceptions index - Transparency','0419: CO2 emissions from residential buildings and commercial and public services  (% of total fuel combustion) - WDI',0.18622,0.1855202,0.07207,0.183,6.044394,0.026453823
+'2704N: Corruption perceptions index - Transparency','1382: Fuel exports  (% of merchandise exports) - WDI',0.18597,0.14615214,0.083979994,0.18597,6.044394,-0.1995441
+'2704N: Corruption perceptions index - Transparency','1100: Health expenditure; private  (% of GDP) - WDI',0.18591,0.16079924,0.09446,0.18304,6.2479277,-0.15846379
+'2704N: Corruption perceptions index - Transparency','0785: Adjusted net savings; including particulate emission damage  (% of GNI) - WDI',0.18587,0.123595476,0.05065,0.18587,6.0,0.24954864
+'2704N: Corruption perceptions index - Transparency','0318: Net official development assistance received  (current US$) - WDI',0.18448,0.13385281,0.03666,0.18448,5.9541965,-0.22500485
+'2704N: Corruption perceptions index - Transparency','0777: Adjusted savings: net national savings  (% of GNI) - WDI',0.18419,0.17657985,0.061500005,0.18419,6.087463,-0.08723617
+'2704N: Corruption perceptions index - Transparency','0914: School enrollment; primary; private  (% of total primary) - WDI',0.18394,0.18328454,0.07587999,0.18063,6.044394,0.025601791
+'2704N: Corruption perceptions index - Transparency','0097: Net bilateral aid flows from DAC donors; France  (current US$) - WDI',0.18345,0.18092903,0.095189996,0.18345,5.9541965,-0.05020924
+'2704N: Corruption perceptions index - Transparency','0315: Net official development assistance and official aid received  (constant 2013 US$) - WDI',0.18329,0.1308286,0.0361,0.18006,6.0,-0.22904453
+'2704N: Corruption perceptions index - Transparency','0024: Cereal production  (metric tons) - WDI',0.18311,0.18032853,0.050359994,0.18311,6.2094536,0.05273965
+'2704N: Corruption perceptions index - Transparency','1320: International tourism; receipts  (% of total exports) - WDI',0.18255,0.18235287,0.058459997,0.17961,6.169925,-0.014040414
+'2704N: Corruption perceptions index - Transparency','0115: Net bilateral aid flows from DAC donors; United States  (current US$) - WDI',0.18216,0.13632306,0.065230004,0.18216,5.9541965,-0.21409565
+'2704N: Corruption perceptions index - Transparency','0469: Net foreign assets  (current LCU) - WDI',0.18206,0.17797405,0.043040007,0.18206,6.169925,-0.063921444
+'2704N: Corruption perceptions index - Transparency','1238: Unemployment; youth total (% of total labor force ages 15-24)  (modeled ILO estimate) - WDI',0.18164,0.18159482,0.044389993,0.18164,6.2094536,0.0067212386
+'2704N: Corruption perceptions index - Transparency','2722: Merchandise trade-Exports-Fuels and mining products (US dollar at current prices) - WTO',0.18122,0.14593974,0.03257999,0.17805,6.169925,0.18783037
+'2704N: Corruption perceptions index - Transparency','1392: Merchandise exports to low- and middle-income economies in Europe & Central Asia  (% of total merchandise exports) - WDI',0.18049,0.13405567,0.05771,0.1769,6.0,-0.21548627
+'2704N: Corruption perceptions index - Transparency','1097: Out-of-pocket health expenditure  (% of private expenditure on health) - WDI',0.18045,0.13726982,0.034620002,0.17768,6.2479277,-0.20779842
+'2704N: Corruption perceptions index - Transparency','0476: Money and quasi money (M2)  (current LCU) - WDI',0.1798,0.17966507,0.058890007,0.1798,6.087463,-0.011616022
+'2704N: Corruption perceptions index - Transparency','0475: Money  (current LCU) - WDI',0.17971,0.17900154,0.039460003,0.17642,6.087463,0.026617015
+'2704N: Corruption perceptions index - Transparency','0772: Adjusted savings: particulate emission damage  (current US$) - WDI',0.17967,0.16768599,0.053450003,0.17703,6.2094536,0.109471574
+'2704N: Corruption perceptions index - Transparency','1141: Employment to population ratio; ages 15-24; total (%)  (modeled ILO estimate) - WDI',0.1789,0.17835821,0.054210003,0.1789,6.2094536,0.023276262
+'2704N: Corruption perceptions index - Transparency','0321: Net official development assistance received  (constant 2013 US$) - WDI',0.17877,0.12698752,0.033810005,0.17877,5.9541965,-0.22755764
+'2704N: Corruption perceptions index - Transparency','0771: Adjusted savings: energy depletion  (% of GNI) - WDI',0.17865,0.13232142,0.074650005,0.17865,6.2094536,-0.21524078
+'2704N: Corruption perceptions index - Transparency','0878: Compulsory education; duration  (years) - WDI',0.17863,0.09291635,0.05928999,0.17863,6.129283,0.29276893
+'2704N: Corruption perceptions index - Transparency','2807: Balance of Payments-Imports-Government goods and services n.i.e. (US dollar at current prices) - WTO',0.17826,0.15798716,0.042449996,0.17492,6.129283,0.14238271
+'2704N: Corruption perceptions index - Transparency','1386: Ores and metals exports  (% of merchandise exports) - WDI',0.17804,0.17145018,0.08202,0.17804,6.044394,-0.08117772
+'2704N: Corruption perceptions index - Transparency','0487: Real interest rate  (%) - WDI',0.17795,0.16253938,0.08773,0.17435,5.9541965,-0.12413951
+'2704N: Corruption perceptions index - Transparency','0359: Electricity production from oil; gas and coal sources  (% of total) - WDI',0.17775,0.17436494,0.059640005,0.17439,6.044394,-0.058181282
+'2704N: Corruption perceptions index - Transparency','2799: Balance of Payments-Exports-Government goods and services n.i.e. (US dollar at current prices) - WTO',0.17762,0.11337738,0.049430013,0.17762,5.9541965,0.25346127
+'2704N: Corruption perceptions index - Transparency','1363: Merchandise imports from low- and middle-income economies outside region  (% of total merchandise imports) - WDI',0.17663,0.17621116,0.0873,0.17663,6.129283,-0.020465557
+'2704N: Corruption perceptions index - Transparency','0466: Claims on central government  (annual growth as % of broad money) - WDI',0.17636,0.17629153,0.09904999,0.17366,6.087463,0.008274636
+'2704N: Corruption perceptions index - Transparency','0057: Grants; excluding technical cooperation  (BoP; current US$) - WDI',0.17633,0.11732386,0.03318,0.17633,5.9541965,-0.24291179
+'2704N: Corruption perceptions index - Transparency','0069: Transport services  (% of service exports; BoP) - WDI',0.17619,0.17537358,0.07384001,0.17619,6.129283,0.02857308
+'2704N: Corruption perceptions index - Transparency','0780: Adjusted net national income  (annual % growth) - WDI',0.17573,0.15952994,0.059990004,0.17281,6.044394,-0.12727949
+'2704N: Corruption perceptions index - Transparency','0803: GDP growth  (annual %) - WDI',0.17508,0.14213796,0.03536001,0.17225,6.2479277,-0.18149944
+'2704N: Corruption perceptions index - Transparency','1406: Travel services  (% of commercial service exports) - WDI',0.17505,0.13477503,0.03967999,0.17505,6.129283,-0.20068628
+'2704N: Corruption perceptions index - Transparency','0669: Household final consumption expenditure; etc.  (annual % growth) - WDI',0.17443,0.16131316,0.039010003,0.17443,6.044394,-0.11452878
+'2704N: Corruption perceptions index - Transparency','0471: Broad money  (current LCU) - WDI',0.17363,0.17362991,0.051689997,0.17061,6.087463,-2.952651E-4
+'2704N: Corruption perceptions index - Transparency','1405: Transport services  (% of commercial service exports) - WDI',0.17345,0.1722479,0.077489994,0.17345,6.129283,-0.03467122
+'2704N: Corruption perceptions index - Transparency','1358: Manufactures imports  (% of merchandise imports) - WDI',0.17247,0.12784104,0.051360004,0.16958,6.087463,0.21125567
+'2704N: Corruption perceptions index - Transparency','0051: Net errors and omissions  (BoP; current US$) - WDI',0.17228,0.17134994,0.09126,0.16958,6.169925,-0.030496761
+'2704N: Corruption perceptions index - Transparency','1328: Import volume index  (2000 = 100) - WDI',0.17214,0.08962543,0.02542001,0.17097,6.2479277,-0.2872535
+'2704N: Corruption perceptions index - Transparency','0363: Electricity production from nuclear sources  (% of total) - WDI',0.17193,0.08122809,0.022129998,0.16988,6.044394,0.30116758
+'2704N: Corruption perceptions index - Transparency','1380: Agricultural raw materials exports  (% of merchandise exports) - WDI',0.17178,0.14775942,0.047060005,0.17178,6.044394,-0.15498574
+'2704N: Corruption perceptions index - Transparency','1387: Merchandise exports to economies in the Arab World  (% of total merchandise exports) - WDI',0.17166,0.15019682,0.060870007,0.16885,6.2094536,-0.14650318
+'2704N: Corruption perceptions index - Transparency','1401: Computer; communications and other services  (% of commercial service exports) - WDI',0.17159,0.15240502,0.06611,0.1685,6.169925,0.13850984
+'2704N: Corruption perceptions index - Transparency','0748: Industry; value added  (% of GDP) - WDI',0.17151,0.17112003,0.077149995,0.16863,6.169925,-0.019747633
+'2704N: Corruption perceptions index - Transparency','0546: Public credit registry coverage  (% of adults) - WDI',0.17113,0.16289176,0.030599996,0.17113,6.169925,0.09076477
+'2704N: Corruption perceptions index - Transparency','0730: Trade  (% of GDP) - WDI',0.17111,0.089995354,0.03216,0.1685,6.2094536,0.28480634
+'2704N: Corruption perceptions index - Transparency','2740: Merchandise trade-Exports-Fuels (US dollar at current prices) - WTO',0.17106,0.15941598,0.020329997,0.17106,6.129283,0.107907474
+'2704N: Corruption perceptions index - Transparency','1255: Unemployment; female (% of female labor force)  (modeled ILO estimate) - WDI',0.17073,0.14994024,0.04665,0.17073,6.2094536,-0.14418653
+'2704N: Corruption perceptions index - Transparency','0421: CO2 emissions from manufacturing industries and construction  (% of total fuel combustion) - WDI',0.16823,0.16529381,0.07203,0.16534,6.044394,-0.05418655
+'2704N: Corruption perceptions index - Transparency','0323: Net ODA received per capita  (current US$) - WDI',0.1675,0.1306341,0.061260007,0.1675,5.9541965,0.19200496
+'2704N: Corruption perceptions index - Transparency','0070: Travel services  (% of service exports; BoP) - WDI',0.16691,0.14527792,0.03205,0.16691,6.129283,-0.14707847
+'2704N: Corruption perceptions index - Transparency','1771: Primary energy supply - TOT (TOE_1000USD) - OECD',0.16574,0.13575044,0.037269995,0.16574,6.0,-0.17317492
+'2704N: Corruption perceptions index - Transparency','0114: Net bilateral aid flows from DAC donors; Total  (current US$) - WDI',0.16553,0.12163667,0.0362,0.16553,5.9541965,-0.20950735
+'2704N: Corruption perceptions index - Transparency','1366: Merchandise imports from low- and middle-income economies in Latin America & the Caribbean  (% of total merchandise imports) - WDI',0.16524,0.15667619,0.058330007,0.16252,6.129283,-0.092540905
+'2704N: Corruption perceptions index - Transparency','1208: Labor force participation rate; male (% of male population ages 15-64)  (modeled ILO estimate) - WDI',0.16516,0.15845498,0.047070004,0.16364,6.2479277,0.08188412
+'2704N: Corruption perceptions index - Transparency','0799: Mineral rents  (% of GDP) - WDI',0.16484,0.13928816,0.019249998,0.16219,6.2479277,-0.1598494
+'2704N: Corruption perceptions index - Transparency','0076: Personal transfers; receipts  (BoP; current US$) - WDI',0.16482,0.15520726,0.043250002,0.16482,5.9541965,-0.098044604
+'2704N: Corruption perceptions index - Transparency','1395: Merchandise exports to low- and middle-income economies in South Asia  (% of total merchandise exports) - WDI',0.16452,0.115744725,0.059439994,0.16452,6.169925,-0.22085124
+'2704N: Corruption perceptions index - Transparency','0093: Net bilateral aid flows from DAC donors; Germany  (current US$) - WDI',0.16342,0.15122011,0.04895001,0.16015,5.9541965,-0.1104531
+'2704N: Corruption perceptions index - Transparency','1353: Agricultural raw materials imports  (% of merchandise imports) - WDI',0.16338,0.1610162,0.08513,0.16338,6.044394,-0.04861901
+'2704N: Corruption perceptions index - Transparency','0776: Adjusted savings: net national savings  (current US$) - WDI',0.16327,0.16228184,0.02121,0.16327,6.087463,0.031434927
+'2704N: Corruption perceptions index - Transparency','0075: Secondary income receipts  (BoP; current US$) - WDI',0.16266,0.109439045,0.033000007,0.16266,6.129283,0.23069668
+'2704N: Corruption perceptions index - Transparency','0060: ICT service exports  (% of service exports; BoP) - WDI',0.16227,0.14179885,0.056309998,0.1594,6.044394,0.14307742
+'2704N: Corruption perceptions index - Transparency','0464: Total reserves in months of imports - WDI',0.16216,0.13155851,0.041759998,0.15891,6.169925,-0.17493282
+'2704N: Corruption perceptions index - Transparency','0769: Adjusted savings: mineral depletion  (% of GNI) - WDI',0.16215,0.13430344,0.022180006,0.15983,6.2479277,-0.16687287
+'2704N: Corruption perceptions index - Transparency','0826: GNI growth  (annual %) - WDI',0.16184,0.13693728,0.03823001,0.15885,6.087463,-0.157806
+'2704N: Corruption perceptions index - Transparency','0678: Household final consumption expenditure per capita growth  (annual %) - WDI',0.16054,0.13707577,0.05019,0.15727,6.044394,-0.15318039
+'2704N: Corruption perceptions index - Transparency','1234: Unemployment; youth female (% of female labor force ages 15-24)  (modeled ILO estimate) - WDI',0.15991,0.15474655,0.03401,0.15991,6.2094536,-0.07185716
+'2704N: Corruption perceptions index - Transparency','1390: Merchandise exports to low- and middle-income economies outside region  (% of total merchandise exports) - WDI',0.15989,0.15888394,0.058099993,0.15704,6.129283,0.031718224
+'2704N: Corruption perceptions index - Transparency','0764: Adjusted savings: net forest depletion  (current US$) - WDI',0.15985,0.15138142,0.037680008,0.15726,6.2094536,-0.09202487
+'2704N: Corruption perceptions index - Transparency','1378: Net barter terms of trade index  (2000 = 100) - WDI',0.15913,0.11363322,0.02759,0.15659,6.2479277,-0.21329975
+'2704N: Corruption perceptions index - Transparency','0657: Military expenditure  (% of GDP) - WDI',0.15848,0.15718272,0.03998,0.15848,6.087463,-0.0360178
+'2704N: Corruption perceptions index - Transparency','0731: Agriculture; value added  (current US$) - WDI',0.15775,0.15773243,0.027100004,0.15775,6.169925,0.004191409
+'2704N: Corruption perceptions index - Transparency','0058: Technical cooperation grants  (BoP; current US$) - WDI',0.15676,0.13607062,0.022539996,0.15676,5.9541965,-0.14383806
+'2704N: Corruption perceptions index - Transparency','0026: Food production index  (2004-2006 = 100) - WDI',0.15559,0.07613514,0.018749997,0.15559,6.2479277,-0.28187737
+'2704N: Corruption perceptions index - Transparency','0077: Personal remittances; received  (current US$) - WDI',0.15491,0.15485221,0.032799996,0.15491,6.129283,-0.007601623
+'2704N: Corruption perceptions index - Transparency','0742: Manufacturing; value added  (% of GDP) - WDI',0.15393,0.1381235,0.056729995,0.15152,6.129283,0.12572387
+'2704N: Corruption perceptions index - Transparency','0103: Net bilateral aid flows from DAC donors; Japan  (current US$) - WDI',0.15365,0.13732338,0.03431,0.15365,5.9541965,-0.12777568
+'2704N: Corruption perceptions index - Transparency','0054: Reserves and related items  (BoP; current US$) - WDI',0.15361,0.15302408,0.046570003,0.15075,6.169925,0.024205916
+'2704N: Corruption perceptions index - Transparency','0046: Current account balance  (% of GDP) - WDI',0.15328,0.15073805,0.025010005,0.14994,6.169925,0.05041786
+'2704N: Corruption perceptions index - Transparency','0025: Crop production index  (2004-2006 = 100) - WDI',0.15303,0.10665555,0.03148999,0.15303,6.2479277,-0.21534725
+'2704N: Corruption perceptions index - Transparency','0840: Gross savings  (% of GDP) - WDI',0.15303,0.15263143,0.052379996,0.15303,6.087463,0.019964188
+'2704N: Corruption perceptions index - Transparency','0576: Procedures to register property  (number) - WDI',0.15298,0.04766327,0.04568,0.15139,6.169925,-0.3245254
+'2704N: Corruption perceptions index - Transparency','0030: Trade in services  (% of GDP) - WDI',0.15241,0.107772976,0.04145,0.1497,6.169925,0.21127477
+'2704N: Corruption perceptions index - Transparency','1327: Merchandise trade  (% of GDP) - WDI',0.15059,0.10025306,0.038500004,0.14807,6.2479277,0.22435895
+'2704N: Corruption perceptions index - Transparency','1394: Merchandise exports to low- and middle-income economies in Middle East & North Africa  (% of total merchandise exports) - WDI',0.14944,0.13398623,0.037970006,0.14646,6.2094536,-0.12431322
+'2704N: Corruption perceptions index - Transparency','0090: Net bilateral aid flows from DAC donors; European Union institutions  (current US$) - WDI',0.14818,0.14781071,0.028029997,0.14818,5.9541965,0.019216724
+'2704N: Corruption perceptions index - Transparency','1400: Export value index  (2000 = 100) - WDI',0.14798,0.13228968,0.02911,0.14685,6.2479277,-0.12526105
+'2704N: Corruption perceptions index - Transparency','0768: Adjusted savings: mineral depletion  (current US$) - WDI',0.14777,0.14489715,0.029640004,0.14777,6.2479277,0.053599037
+'2704N: Corruption perceptions index - Transparency','0027: Livestock production index  (2004-2006 = 100) - WDI',0.1477,0.09985702,0.014899999,0.1477,6.2479277,-0.21873038
+'2704N: Corruption perceptions index - Transparency','0725: Imports of goods and services  (% of GDP) - WDI',0.1476,0.11788354,0.043009996,0.14496,6.2094536,0.17238462
+'2704N: Corruption perceptions index - Transparency','1367: Merchandise imports from low- and middle-income economies in Middle East & North Africa  (% of total merchandise imports) - WDI',0.14663,0.11616852,0.06508,0.14409,6.2094536,-0.17453218
+'2704N: Corruption perceptions index - Transparency','0723: Imports of goods and services  (annual % growth) - WDI',0.14534,0.13240969,0.06595,0.14236,6.129283,-0.1137115
+'2704N: Corruption perceptions index - Transparency','0717: Gross capital formation  (annual % growth) - WDI',0.14378,0.12833215,0.060719997,0.14378,6.087463,-0.12428934
+'2704N: Corruption perceptions index - Transparency','0811: GDP per capita growth  (annual %) - WDI',0.14237,0.12271442,0.04474,0.13976,6.2479277,-0.14019835
+'2704N: Corruption perceptions index - Transparency','0719: Gross capital formation  (% of GDP) - WDI',0.14205,0.14178096,0.028189994,0.14205,6.169925,-0.016402416
+'2704N: Corruption perceptions index - Transparency','0635: Mobile cellular subscriptions - WDI',0.14192,0.14187394,0.032010004,0.14192,6.2479277,0.0067869355
+'2704N: Corruption perceptions index - Transparency','0775: Adjusted savings: gross savings  (% of GNI) - WDI',0.1413,0.12909386,0.037439995,0.1413,6.087463,0.11048136
+'2704N: Corruption perceptions index - Transparency','0839: Gross savings  (% of GNI) - WDI',0.1413,0.12909386,0.037439995,0.1413,6.087463,0.11048137
+'2704N: Corruption perceptions index - Transparency','0700: Exports of goods and services  (annual % growth) - WDI',0.1408,0.13323726,0.06297,0.138,6.129283,-0.086964004
+'2704N: Corruption perceptions index - Transparency','0061: Communications; computer; etc.  (% of service exports; BoP) - WDI',0.14077,0.14076863,0.035960004,0.14077,6.129283,0.0011729617
+'2704N: Corruption perceptions index - Transparency','0740: Manufacturing; value added  (annual % growth) - WDI',0.14016,0.12536293,0.067669995,0.13708,6.129283,-0.1216432
+'2704N: Corruption perceptions index - Transparency','0710: Gross fixed capital formation  (% of GDP) - WDI',0.13933,0.13910018,0.018859997,0.13933,6.169925,0.015160011
+'2704N: Corruption perceptions index - Transparency','1360: Merchandise imports from economies in the Arab World  (% of total merchandise imports) - WDI',0.13921,0.107330956,0.05629,0.13921,6.169925,-0.17854704
+'2704N: Corruption perceptions index - Transparency','0783: Adjusted net national income per capita  (annual % growth) - WDI',0.13908,0.1262233,0.048360005,0.13607,6.044394,-0.11338744
+'2704N: Corruption perceptions index - Transparency','0734: Agriculture; value added  (annual % growth) - WDI',0.13897,0.13218325,0.05747,0.13659,6.169925,-0.08238169
+'2704N: Corruption perceptions index - Transparency','0708: Gross fixed capital formation  (annual % growth) - WDI',0.13891,0.1221199,0.047229998,0.136,6.087463,-0.12957658
+'2704N: Corruption perceptions index - Transparency','0746: Industry; value added  (annual % growth) - WDI',0.13842,0.115234315,0.043580003,0.13536,6.169925,-0.15226847
+'2704N: Corruption perceptions index - Transparency','0833: GNI per capita growth  (annual %) - WDI',0.13659,0.11984498,0.047230005,0.1335,6.087463,-0.12940256
+'2704N: Corruption perceptions index - Transparency','1379: Export volume index  (2000 = 100) - WDI',0.13644,0.13002436,0.02691999,0.13399,6.2479277,-0.08009762
+'2704N: Corruption perceptions index - Transparency','2774: Merchandise trade-Imports-Total merchandise (Unit value index - Prev. year = 100) - WTO',0.13628,0.13325992,0.06628,0.13449,6.2479277,-0.05495523
+'2704N: Corruption perceptions index - Transparency','0770: Adjusted savings: energy depletion  (current US$) - WDI',0.13537,0.13507387,0.03813,0.13537,6.2479277,0.017208429
+'2704N: Corruption perceptions index - Transparency','0034: Insurance and financial services  (% of service imports; BoP) - WDI',0.13525,0.09506441,0.045440003,0.13525,6.129283,0.20046344
+'2704N: Corruption perceptions index - Transparency','1357: Insurance and financial services  (% of commercial service imports) - WDI',0.135,0.09914224,0.045130007,0.135,6.129283,0.18936148
+'2704N: Corruption perceptions index - Transparency','0807: Natural gas rents  (% of GDP) - WDI',0.13368,0.12510487,0.018879995,0.13368,6.169925,-0.092602015
+'2704N: Corruption perceptions index - Transparency','2771: Merchandise trade-Exports-Total merchandise (Unit value index - Prev. year = 100) - WTO',0.1336,0.122037336,0.05236,0.13175,6.2479277,-0.10752982
+'2704N: Corruption perceptions index - Transparency','0589: Procedures to build a warehouse  (number) - WDI',0.1319,0.09185255,0.02759,0.1134,6.169925,-0.20011857
+'2704N: Corruption perceptions index - Transparency','0540: Business extent of disclosure index  (0=less disclosure to 10=more disclosure) - WDI',0.13189,0.04386489,0.024810001,0.13189,6.044394,0.29669026
+'2704N: Corruption perceptions index - Transparency','0489: Claims on central government; etc.  (% GDP) - WDI',0.13154,0.1299721,0.030979998,0.13154,6.169925,0.039596748
+'2704N: Corruption perceptions index - Transparency','0072: Foreign direct investment; net inflows  (% of GDP) - WDI',0.1314,0.10781342,0.03919,0.12885,6.2479277,0.15357925
+'2704N: Corruption perceptions index - Transparency','2772: Merchandise trade-Exports-Total merchandise (Value index - Previous year = 100) - WTO',0.13113,0.1290019,0.04807,0.12891,6.2479277,-0.04613121
+'2704N: Corruption perceptions index - Transparency','1259: Unemployment; total (% of total labor force)  (modeled ILO estimate) - WDI',0.12931,0.122546375,0.018349998,0.12931,6.2094536,-0.08224122
+'2704N: Corruption perceptions index - Transparency','2776: Merchandise trade-Imports-Total merchandise (Volume index - Previous year = 100) - WTO',0.1246,0.09625294,0.036059998,0.1246,6.2094536,-0.16836585
+'2704N: Corruption perceptions index - Transparency','0623: Periodicity and timeliness assessment of statistical capacity  (scale 0 - 100) - WDI',0.12452,0.102680296,0.028629996,0.12284,6.0,0.14778261
+'2704N: Corruption perceptions index - Transparency','0470: Claims on private sector  (annual growth as % of broad money) - WDI',0.12245,0.111635305,0.03345,0.1195,6.087463,-0.10399372
+'2704N: Corruption perceptions index - Transparency','1257: Unemployment; male (% of male labor force)  (modeled ILO estimate) - WDI',0.12146,0.119811855,0.016490001,0.12146,6.2094536,-0.040597312
+'2704N: Corruption perceptions index - Transparency','0895: Primary education; duration  (years) - WDI',0.11984,0.07485423,0.07101001,0.11984,6.2479277,0.2120985
+'2704N: Corruption perceptions index - Transparency','2773: Merchandise trade-Exports-Total merchandise (Volume index - Previous year = 100) - WTO',0.11949,0.11857705,0.04779,0.11718,6.2479277,-0.030215047
+'2704N: Corruption perceptions index - Transparency','0942: Secondary education; duration  (years) - WDI',0.11937,0.11869112,0.06692,0.11937,6.2479277,-0.026055355
+'2704N: Corruption perceptions index - Transparency','2775: Merchandise trade-Imports-Total merchandise (Value index - Previous year = 100) - WTO',0.11865,0.09434538,0.041679993,0.11652,6.2479277,-0.15589936
+'2704N: Corruption perceptions index - Transparency','0891: Primary school starting age  (years) - WDI',0.10346,0.07065274,0.06123,0.10346,6.2479277,-0.18112774
+'2704N: Corruption perceptions index - Transparency','0938: Lower secondary school starting age  (years) - WDI',0.09881,0.08952138,0.07084,0.09881,6.2479277,0.09637749
+'2704N: Corruption perceptions index - Transparency','0789: Coal rents  (% of GDP) - WDI',0.09597,0.09074457,0.017589994,0.0942,6.2479277,-0.0722871
+'2704N: Corruption perceptions index - Transparency','1091: Tuberculosis treatment success rate  (% of new cases) - WDI',0.09218,0.07533634,0.02567,0.091,6.2094536,-0.12978314
+'2704N: Corruption perceptions index - Transparency','0883: Preprimary education; duration  (years) - WDI',0.08667,0.08457514,0.07082,0.08667,6.2479277,-0.045769587
