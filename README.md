@@ -1,6 +1,6 @@
 <snippet>
-  <content><![CDATA[
-# ${1:Project Name}
+  <content>
+# Exploring and Forecasting Country Indicators using Big Data Approach
 TODO: Write a project description
 ## Installation
 TODO: Describe the installation process
@@ -18,6 +18,5 @@ TODO: Write history
 TODO: Write credits
 ## License
 TODO: Write license
-]]></content>
-  <tabTrigger>readme</tabTrigger>
+	</content>
 </snippet>
