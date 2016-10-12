@@ -1,0 +1,10 @@
+Indicator2704,allFeatures=0,toNextYear=0,rankMethod=0,algorithm=SVR,cv=5
+numFeatures,AverageMeanAbsoluteError,TotalTime 
+5,-25.24027629,14691.371
+10,-69.04879475,21980.694
+15,-150.4487869,30289.156
+20,-161.7674126,35810.731
+25,-224.8749734,43643.46
+30,-405.6494094,59663.598
+
+
