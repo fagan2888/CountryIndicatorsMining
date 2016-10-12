@@ -1,0 +1,635 @@
+X var,Y var,MIC (strength),MIC-p^2 (nonlinearity),MAS (non-monotonicity),MEV (functionality),MCN (complexity),Linear regression (p)
+2718N: External Intervention - Fund for Peace,2718: External Intervention - Fund for Peace,0.79818,-0.14360756,0.018339992,0.79818,3.807355,0.9704574
+2718N: External Intervention - Fund for Peace,0832: GNI per capita  (constant 2005 US$) - WDI,0.62504,0.10960299,0.16253,0.62504,6.0,-0.71793944
+2718N: External Intervention - Fund for Peace,0782: Adjusted net national income per capita  (constant 2005 US$) - WDI,0.61975,0.10434073,0.12967002,0.61685,6.0,-0.7179201
+2718N: External Intervention - Fund for Peace,0677: Household final consumption expenditure per capita  (constant 2005 US$) - WDI,0.58054,0.07569122,0.09604001,0.57772,6.044394,-0.7105271
+2718N: External Intervention - Fund for Peace,0810: GDP per capita  (constant 2005 US$) - WDI,0.57221,0.10665342,0.12918001,0.56962,6.2479277,-0.6823171
+2718N: External Intervention - Fund for Peace,0836: GNI per capita; PPP  (constant 2011 international $) - WDI,0.56763,0.13676775,0.14861998,0.56503,6.087463,-0.656401
+2718N: External Intervention - Fund for Peace,2706: Failed States Index Rank - Fund for Peace,0.54995,-0.14141506,0.059240013,0.54887,6.2479277,-0.83148366
+2718N: External Intervention - Fund for Peace,2707: Failed States Index Total - Fund for Peace,0.53526,-0.22134286,0.027749985,0.53379,6.2479277,0.86982924
+2718N: External Intervention - Fund for Peace,0808: GDP per capita  (current US$) - WDI,0.52936,0.060271263,0.13165998,0.52693,6.2479277,-0.6849005
+2718N: External Intervention - Fund for Peace,0781: Adjusted net national income per capita  (current US$) - WDI,0.52697,0.013841033,0.099840015,0.52697,6.169925,-0.71633023
+2718N: External Intervention - Fund for Peace,0835: GNI per capita; PPP  (current international $) - WDI,0.52567,0.11824712,0.13896,0.52567,6.2094536,-0.63829684
+2718N: External Intervention - Fund for Peace,0814: GDP per capita; PPP  (constant 2011 international $) - WDI,0.5223,0.118967056,0.13607001,0.52009,6.2479277,-0.635085
+2718N: External Intervention - Fund for Peace,1098: Health expenditure per capita  (current US$) - WDI,0.5193,0.044968218,0.10957998,0.5193,6.2479277,-0.6887175
+2718N: External Intervention - Fund for Peace,0813: GDP per capita; PPP  (current international $) - WDI,0.51072,0.10966402,0.12586,0.50836,6.2479277,-0.6332898
+2718N: External Intervention - Fund for Peace,0830: GNI per capita; Atlas method  (current US$) - WDI,0.50899,0.020979106,0.10652998,0.50899,6.2094536,-0.69857776
+2718N: External Intervention - Fund for Peace,0353: Agriculture value added per worker  (constant 2005 US$) - WDI,0.50567,0.14546925,0.102890015,0.50254,6.129283,-0.6001673
+2718N: External Intervention - Fund for Peace,0028: Surface area  (sq. km) - WDI,0.49709,0.4630652,0.42553002,0.49709,6.2479277,-0.18445814
+2718N: External Intervention - Fund for Peace,1099: Health expenditure per capita; PPP  (constant 2011 international $) - WDI,0.48403,-0.063854456,0.105179995,0.48403,6.2479277,-0.7401922
+2718N: External Intervention - Fund for Peace,1167: GDP per person employed  (constant 2011 PPP $) - WDI,0.47815,0.11722872,0.14242002,0.47815,6.2094536,-0.60076725
+2718N: External Intervention - Fund for Peace,0736: Agriculture; value added  (% of GDP) - WDI,0.47737,0.07594445,0.12954,0.47495,6.169925,0.6335815
+2718N: External Intervention - Fund for Peace,0379: Electric power consumption  (kWh per capita) - WDI,0.47723,0.2568894,0.07805002,0.47382,6.044394,-0.46940452
+2718N: External Intervention - Fund for Peace,0020: Land area  (sq. km) - WDI,0.46822,0.4351741,0.39427,0.46822,6.2479277,-0.18178526
+2718N: External Intervention - Fund for Peace,1058: Improved sanitation facilities  (% of population with access) - WDI,0.46505,0.10603815,0.16347,0.46294,6.2479277,-0.599176
+2718N: External Intervention - Fund for Peace,1312: Rural population  (% of total population) - WDI,0.45873,0.12054312,0.20424002,0.45873,6.2479277,0.5815384
+2718N: External Intervention - Fund for Peace,1315: Urban population  (% of total) - WDI,0.45873,0.12053785,0.20239002,0.45873,6.2479277,-0.5815429
+2718N: External Intervention - Fund for Peace,1095: External resources for health  (% of total expenditure on health) - WDI,0.45498,0.20776899,0.15432999,0.45498,6.087463,0.49720317
+2718N: External Intervention - Fund for Peace,1299: Age dependency ratio; old  (% of working-age population) - WDI,0.45475,0.07460159,0.17234999,0.45475,6.2479277,-0.6165618
+2718N: External Intervention - Fund for Peace,1898: Fixed-telephone subscriptions per 100 inhabitants - ITU,0.45223,0.004835874,0.13716,0.4494,6.2479277,-0.6688753
+2718N: External Intervention - Fund for Peace,0638: Fixed telephone subscriptions  (per 100 people) - WDI,0.45151,0.0011965334,0.13710001,0.45151,6.2479277,-0.671054
+2718N: External Intervention - Fund for Peace,1297: Population ages 65 and above  (% of total) - WDI,0.44985,0.052925378,0.17319998,0.44985,6.2479277,-0.63001955
+2718N: External Intervention - Fund for Peace,0037: Charges for the use of intellectual property; payments  (BoP; current US$) - WDI,0.44923,0.26105696,0.082019985,0.44923,5.9541965,-0.43378916
+2718N: External Intervention - Fund for Peace,1278: Birth rate; crude  (per 1;000 people) - WDI,0.44885,0.03484845,0.11189002,0.44885,6.2479277,0.6434295
+2718N: External Intervention - Fund for Peace,1051: Lifetime risk of maternal death  (%) - WDI,0.44774,0.17896965,0.14183998,0.44774,6.2479277,0.51843065
+2718N: External Intervention - Fund for Peace,0779: Adjusted net national income  (constant 2005 US$) - WDI,0.44757,0.33535093,0.18193999,0.44428,6.0,-0.33499113
+2718N: External Intervention - Fund for Peace,1288: Fertility rate; total  (births per woman) - WDI,0.44621,0.077106565,0.10427001,0.44621,6.2479277,0.6075388
+2718N: External Intervention - Fund for Peace,0062: Primary income receipts  (BoP; current US$) - WDI,0.44203,0.24621032,0.100410014,0.43949,6.169925,-0.4425152
+2718N: External Intervention - Fund for Peace,1899: Percentage of Individuals using the Internet (%) - ITU,0.43917,-0.09602398,0.08609,0.43669,6.2479277,-0.7315695
+2718N: External Intervention - Fund for Peace,2817: Balance of Payments-Imports-Charges for the use of intellectual property n.i.e. (US dollar at current prices) - WTO,0.43782,0.25774562,0.06559998,0.43782,5.9541965,-0.42435172
+2718N: External Intervention - Fund for Peace,0952: School enrollment; secondary  (% gross) - WDI,0.43763,-0.008807749,0.13722,0.43459,6.0,-0.66815996
+2718N: External Intervention - Fund for Peace,1295: Population ages 0-14  (% of total) - WDI,0.43742,-0.009173363,0.105040014,0.43742,6.2479277,0.6682764
+2718N: External Intervention - Fund for Peace,2713: Legitimacy of the State - Fund for Peace,0.43731,-0.19616261,0.042889982,0.43731,4.4594316,0.79590994
+2718N: External Intervention - Fund for Peace,0773: Adjusted savings: particulate emission damage  (% of GNI) - WDI,0.43729,0.12928241,0.14089,0.43458,6.2094536,0.55498433
+2718N: External Intervention - Fund for Peace,0643: Internet users  (per 100 people) - WDI,0.43669,-0.10081598,0.087200016,0.43669,6.2479277,-0.733148
+2718N: External Intervention - Fund for Peace,1300: Age dependency ratio; young  (% of working-age population) - WDI,0.43669,0.013875067,0.10824999,0.43669,6.2479277,0.6502422
+2718N: External Intervention - Fund for Peace,2716: Security Apparatus - Fund for Peace,0.43632,-0.17185605,0.038190007,0.43632,5.9541965,0.77985644
+2718N: External Intervention - Fund for Peace,0699: Exports of goods and services  (constant 2005 US$) - WDI,0.43515,0.23141512,0.13372001,0.43515,6.044394,-0.45137
+2718N: External Intervention - Fund for Peace,1402: Commercial service exports  (current US$) - WDI,0.43378,0.18470582,0.101580024,0.43123,6.169925,-0.49907333
+2718N: External Intervention - Fund for Peace,2712: Poverty and Economic Decline - Fund for Peace,0.43335,-0.17801413,0.014579982,0.43335,4.0,0.7818978
+2718N: External Intervention - Fund for Peace,2795: Balance of Payments-Exports-Other business services (US dollar at current prices) - WTO,0.43164,0.20220505,0.095070004,0.42803,6.087463,-0.47899368
+2718N: External Intervention - Fund for Peace,2708: Demographic Pressures - Fund for Peace,0.43048,-0.15831858,0.047420025,0.43048,4.4594316,0.76733214
+2718N: External Intervention - Fund for Peace,0454: Automated teller machines (ATMs)  (per 100;000 adults) - WDI,0.43041,0.056406796,0.11487001,0.42794,6.169925,-0.611558
+2718N: External Intervention - Fund for Peace,0898: Pupil-teacher ratio; primary - WDI,0.42666,0.10327548,0.15479001,0.42272,5.9541965,0.5686691
+2718N: External Intervention - Fund for Peace,0066: Service exports  (BoP; current US$) - WDI,0.42548,0.17994304,0.104169995,0.42271,6.169925,-0.49551687
+2718N: External Intervention - Fund for Peace,0380: Energy use  (kg of oil equivalent per capita) - WDI,0.42547,0.21927857,0.07863,0.42547,6.044394,-0.45408306
+2718N: External Intervention - Fund for Peace,0953: School enrollment; secondary; female  (% gross) - WDI,0.42505,-0.021914244,0.12658,0.42505,5.9541965,-0.6685538
+2718N: External Intervention - Fund for Peace,0640: Fixed broadband subscriptions  (per 100 people) - WDI,0.42369,-0.05271563,0.09763998,0.42149,6.2094536,-0.6902214
+2718N: External Intervention - Fund for Peace,0059: ICT service exports  (BoP; current US$) - WDI,0.42262,0.18546239,0.09299001,0.41953,6.044394,-0.4869883
+2718N: External Intervention - Fund for Peace,0796: Gross value added at factor cost  (constant 2005 US$) - WDI,0.42157,0.30931354,0.11589,0.41882,6.044394,-0.33504698
+2718N: External Intervention - Fund for Peace,1071: Maternal mortality ratio  (modeled estimate; per 100;000 live births) - WDI,0.42068,0.12884617,0.09987,0.42068,6.2479277,0.54021645
+2718N: External Intervention - Fund for Peace,0032: Primary income payments  (BoP; current US$) - WDI,0.41944,0.180466,0.084230006,0.41686,6.169925,-0.48884967
+2718N: External Intervention - Fund for Peace,1901: Fixed-broadband subscriptions per 100 inhabitants - ITU,0.41884,-0.05655864,0.09393999,0.41884,6.169925,-0.68949157
+2718N: External Intervention - Fund for Peace,0756: Services; etc.; value added  (constant 2005 US$) - WDI,0.41843,0.31128198,0.09764999,0.41843,6.087463,-0.3273347
+2718N: External Intervention - Fund for Peace,1060: Improved sanitation facilities; urban  (% of urban population with access) - WDI,0.41674,0.10039008,0.16928001,0.41467,6.2479277,-0.56244993
+2718N: External Intervention - Fund for Peace,1050: Lifetime risk of maternal death  (1 in: rate varies by country) - WDI,0.41647,0.08121711,0.11052999,0.41647,6.2479277,-0.57901025
+2718N: External Intervention - Fund for Peace,0745: Industry; value added  (constant 2005 US$) - WDI,0.41605,0.30752116,0.16130999,0.413,6.129283,-0.32943714
+2718N: External Intervention - Fund for Peace,0954: School enrollment; secondary; male  (% gross) - WDI,0.41507,-0.02647385,0.118119985,0.41507,5.9541965,-0.66448766
+2718N: External Intervention - Fund for Peace,1035: Improved water source  (% of population with access) - WDI,0.415,0.10332197,0.12842,0.41357,6.2479277,-0.5582813
+2718N: External Intervention - Fund for Peace,2787: Balance of Payments-Exports-Transport (US dollar at current prices) - WTO,0.41498,0.16113484,0.09610999,0.41498,6.129283,-0.5038305
+2718N: External Intervention - Fund for Peace,2797: Balance of Payments-Exports-Services (US dollar at current prices) - WTO,0.41426,0.17106722,0.10580999,0.41426,6.2094536,-0.4931458
+2718N: External Intervention - Fund for Peace,0825: GNI  (constant 2005 US$) - WDI,0.41287,0.2949078,0.118229985,0.41287,6.0,-0.3434562
+2718N: External Intervention - Fund for Peace,2788: Balance of Payments-Exports-Travel (US dollar at current prices) - WTO,0.4095,0.19338222,0.12137002,0.40646,6.169925,-0.4648847
+2718N: External Intervention - Fund for Peace,2745: Merchandise trade-Exports-Office and telecom equipment (US dollar at current prices) - WTO,0.4094,0.35952455,0.072239995,0.4094,6.087463,-0.22332813
+2718N: External Intervention - Fund for Peace,2752: Merchandise trade-Imports-Electronic data processing and office equipment (US dollar at current prices) - WTO,0.40932,0.257469,0.09321001,0.40932,6.129283,-0.38968065
+2718N: External Intervention - Fund for Peace,2789: Balance of Payments-Exports-Other commercial services (US dollar at current prices) - WTO,0.40855,0.21516222,0.12265998,0.40573,6.169925,-0.43975878
+2718N: External Intervention - Fund for Peace,0016: Forest area  (sq. km) - WDI,0.40824,0.38207385,0.33424997,0.40824,6.2479277,-0.16175948
+2718N: External Intervention - Fund for Peace,2785: Balance of Payments-Exports-Commercial services (US dollar at current prices) - WTO,0.40812,0.16861658,0.08972001,0.40812,6.2094536,-0.48939088
+2718N: External Intervention - Fund for Peace,1298: Age dependency ratio  (% of working-age population) - WDI,0.40772,0.09497425,0.08129001,0.40772,6.2479277,0.55923676
+2718N: External Intervention - Fund for Peace,0844: Net taxes on products  (current US$) - WDI,0.40764,0.24441443,0.083220005,0.40764,6.044394,-0.40401185
+2718N: External Intervention - Fund for Peace,1319: International tourism; receipts  (current US$) - WDI,0.4072,0.2053559,0.116,0.40441,6.2094536,-0.44927064
+2718N: External Intervention - Fund for Peace,2791: Balance of Payments-Exports-Insurance and pension services (US dollar at current prices) - WTO,0.40718,0.26945472,0.11610001,0.40718,6.044394,-0.3711136
+2718N: External Intervention - Fund for Peace,2704: Corruption perceptions index - Transparency,0.40713,-0.13767582,0.056760013,0.40713,6.2094536,-0.73810965
+2718N: External Intervention - Fund for Peace,2739: Merchandise trade-Imports-Clothing (US dollar at current prices) - WTO,0.40604,0.24458595,0.07080001,0.40604,6.129283,-0.40181348
+2718N: External Intervention - Fund for Peace,2746: Merchandise trade-Exports-Electronic data processing and office equipment (US dollar at current prices) - WTO,0.40575,0.36348495,0.053059995,0.40575,6.087463,-0.20558468
+2718N: External Intervention - Fund for Peace,0642: Secure Internet servers  (per 1 million people) - WDI,0.40557,0.1387685,0.042080015,0.40557,6.2094536,-0.5165283
+2718N: External Intervention - Fund for Peace,1285: Life expectancy at birth; female  (years) - WDI,0.40552,0.009284824,0.052569985,0.40552,6.2479277,-0.62947214
+2718N: External Intervention - Fund for Peace,1296: Population ages 15-64  (% of total) - WDI,0.40448,0.10690451,0.077550024,0.40448,6.2479277,-0.5455048
+2718N: External Intervention - Fund for Peace,0577: Cost of business start-up procedures  (% of GNI per capita) - WDI,0.40321,0.24697085,0.12537003,0.40321,6.169925,0.395271
+2718N: External Intervention - Fund for Peace,0641: Secure Internet servers - WDI,0.4026,0.33765078,0.03313002,0.4026,6.2094536,-0.25485137
+2718N: External Intervention - Fund for Peace,1323: International tourism; receipts for travel items  (current US$) - WDI,0.40218,0.1930199,0.10887998,0.40218,6.169925,-0.45734024
+2718N: External Intervention - Fund for Peace,2818: Balance of Payments-Imports-Telecommunications; computer; and information services (US dollar at current prices) - WTO,0.40015,0.1555281,0.08675,0.39732,6.129283,-0.49459267
+2718N: External Intervention - Fund for Peace,2714: Public Services - Fund for Peace,0.40006,-0.21638346,0.050609976,0.40006,4.169925,0.78513914
+2718N: External Intervention - Fund for Peace,1289: Survival to age 65; female  (% of cohort) - WDI,0.40001,0.067848355,0.081229985,0.40001,6.2479277,-0.57633466
+2718N: External Intervention - Fund for Peace,0004: Agricultural land  (sq. km) - WDI,0.39989,0.3721577,0.35481,0.39989,6.2479277,-0.16653025
+2718N: External Intervention - Fund for Peace,2798: Balance of Payments-Exports-Other services (US dollar at current prices) - WTO,0.39944,0.20913768,0.12309998,0.39675,6.169925,-0.43623653
+2718N: External Intervention - Fund for Peace,2723: Merchandise trade-Exports-Manufactures (US dollar at current prices) - WTO,0.39936,0.25430185,0.080929995,0.39642,6.169925,-0.38086504
+2718N: External Intervention - Fund for Peace,0068: Exports of goods; services and primary income  (BoP; current US$) - WDI,0.39925,0.16516288,0.08756,0.3968,6.169925,-0.4838255
+2718N: External Intervention - Fund for Peace,0063: Exports of goods and services  (BoP; current US$) - WDI,0.39768,0.17445998,0.09636003,0.39508,6.169925,-0.47246167
+2718N: External Intervention - Fund for Peace,2780: Merchandise trade-Exports-Total merchandise (US dollar at current prices) - WTO,0.39756,0.19997199,0.09617001,0.39756,6.2479277,-0.44450873
+2718N: External Intervention - Fund for Peace,0716: Gross capital formation  (constant 2005 US$) - WDI,0.39746,0.2917929,0.11967,0.39426,6.044394,-0.32506478
+2718N: External Intervention - Fund for Peace,2735: Merchandise trade-Imports-Telecommunications equipment (US dollar at current prices) - WTO,0.39742,0.25200954,0.11602998,0.39742,6.129283,-0.3813272
+2718N: External Intervention - Fund for Peace,0683: Final consumption expenditure; etc.  (constant 2005 US$) - WDI,0.39671,0.2919957,0.14244002,0.39411,6.044394,-0.32359588
+2718N: External Intervention - Fund for Peace,0722: Imports of goods and services  (constant 2005 US$) - WDI,0.39642,0.19019678,0.08078,0.39642,6.044394,-0.45411807
+2718N: External Intervention - Fund for Peace,1388: Merchandise exports  (current US$) - WDI,0.39569,0.19811946,0.09524998,0.39569,6.2479277,-0.44448906
+2718N: External Intervention - Fund for Peace,1325: International tourism; expenditures  (current US$) - WDI,0.39513,0.17828862,0.12503001,0.39513,6.169925,-0.4656623
+2718N: External Intervention - Fund for Peace,2719: Human Flight - Fund for Peace,0.39493,-0.13458598,0.015989989,0.39493,4.4594316,0.7276785
+2718N: External Intervention - Fund for Peace,0038: Imports of goods; services and primary income  (BoP; current US$) - WDI,0.39487,0.16482925,0.07479,0.39213,6.169925,-0.47962564
+2718N: External Intervention - Fund for Peace,0829: GNI; PPP  (constant 2011 international $) - WDI,0.39458,0.30941463,0.17628,0.39118,6.087463,-0.2918311
+2718N: External Intervention - Fund for Peace,0694: Gross national expenditure  (constant 2005 US$) - WDI,0.39423,0.28481254,0.13086,0.39423,6.044394,-0.33078313
+2718N: External Intervention - Fund for Peace,0697: Exports of goods and services  (current US$) - WDI,0.39365,0.1712817,0.10203001,0.39095,6.2094536,-0.47155944
+2718N: External Intervention - Fund for Peace,1286: Life expectancy at birth; total  (years) - WDI,0.39313,-0.011292428,0.05713001,0.39313,6.2479277,-0.63594216
+2718N: External Intervention - Fund for Peace,2734: Merchandise trade-Imports-Office and telecom equipment (US dollar at current prices) - WTO,0.39274,0.280604,0.092400014,0.39274,6.129283,-0.33486712
+2718N: External Intervention - Fund for Peace,0760: Adjusted savings: education expenditure  (current US$) - WDI,0.39149,0.2703296,0.1358,0.39149,6.2094536,-0.34808105
+2718N: External Intervention - Fund for Peace,2711: Uneven Development - Fund for Peace,0.39146,-0.055016518,0.05651,0.39146,4.4594316,0.668189
+2718N: External Intervention - Fund for Peace,2803: Balance of Payments-Imports-Travel (US dollar at current prices) - WTO,0.3914,0.16917846,0.11501002,0.38864,6.169925,-0.4714038
+2718N: External Intervention - Fund for Peace,0802: GDP  (constant 2005 US$) - WDI,0.39125,0.27601194,0.120140016,0.3885,6.2479277,-0.33946732
+2718N: External Intervention - Fund for Peace,2742: Merchandise trade-Exports-Chemicals (US dollar at current prices) - WTO,0.39124,0.16852476,0.054129988,0.38803,6.129283,-0.47192717
+2718N: External Intervention - Fund for Peace,0689: Final consumption expenditure  (constant 2005 US$) - WDI,0.39079,0.28692853,0.13843998,0.38787,6.044394,-0.32227543
+2718N: External Intervention - Fund for Peace,0456: Commercial bank branches  (per 100;000 adults) - WDI,0.39077,0.18699421,0.08848998,0.38821,6.2094536,-0.4514153
+2718N: External Intervention - Fund for Peace,1059: Improved sanitation facilities; rural  (% of rural population with access) - WDI,0.39059,0.048355073,0.13555002,0.38861,6.2479277,-0.5850085
+2718N: External Intervention - Fund for Peace,1283: Mortality rate; infant  (per 1;000 live births) - WDI,0.3905,0.018248081,0.06605002,0.3905,6.2479277,0.6101245
+2718N: External Intervention - Fund for Peace,2743: Merchandise trade-Exports-Pharmaceuticals (US dollar at current prices) - WTO,0.39046,0.17551161,0.077690005,0.39046,6.087463,-0.46362528
+2718N: External Intervention - Fund for Peace,2715: Human Rights - Fund for Peace,0.38917,-0.11752254,0.02756998,0.38917,4.4594316,0.7118234
+2718N: External Intervention - Fund for Peace,1287: Life expectancy at birth; male  (years) - WDI,0.38859,-0.013139278,0.06922001,0.38859,6.2479277,-0.6338212
+2718N: External Intervention - Fund for Peace,1375: Commercial service imports  (current US$) - WDI,0.38847,0.11976448,0.08952999,0.38568,6.169925,-0.5183681
+2718N: External Intervention - Fund for Peace,0885: School enrollment; preprimary  (% gross) - WDI,0.38687,0.065301955,0.11739999,0.38687,5.9541965,-0.5670697
+2718N: External Intervention - Fund for Peace,1276: Mortality rate; adult; female  (per 1;000 female adults) - WDI,0.38576,0.15462843,0.09688002,0.38576,6.2094536,0.48076147
+2718N: External Intervention - Fund for Peace,2794: Balance of Payments-Exports-Telecommunications; computer; and information services (US dollar at current prices) - WTO,0.38561,0.22947527,0.107170016,0.38561,6.087463,-0.3951389
+2718N: External Intervention - Fund for Peace,1028: Mortality rate; under-5  (per 1;000 live births) - WDI,0.38521,0.049958736,0.061729997,0.38521,6.2479277,0.5790089
+2718N: External Intervention - Fund for Peace,2816: Balance of Payments-Imports-Financial services (US dollar at current prices) - WTO,0.38454,0.19744796,0.11598,0.38144,6.0,-0.43254137
+2718N: External Intervention - Fund for Peace,0707: Gross fixed capital formation  (constant 2005 US$) - WDI,0.38346,0.27637532,0.10576999,0.38346,6.0,-0.32723793
+2718N: External Intervention - Fund for Peace,1895: Mobile-cellular telephone subscriptions - ITU,0.38345,0.048606724,0.11212,0.38094,6.2479277,-0.57865644
+2718N: External Intervention - Fund for Peace,1896: Mobile-cellular telephone subscriptions per 100 inhabitants - ITU,0.38345,0.048606724,0.11212,0.38094,6.2479277,-0.57865644
+2718N: External Intervention - Fund for Peace,0662: General government final consumption expenditure  (constant 2005 US$) - WDI,0.38312,0.24329029,0.10835001,0.38312,5.9541965,-0.3739381
+2718N: External Intervention - Fund for Peace,0636: Mobile cellular subscriptions  (per 100 people) - WDI,0.383,0.05176145,0.11682999,0.383,6.2479277,-0.5755333
+2718N: External Intervention - Fund for Peace,1324: International tourism; expenditures for travel items  (current US$) - WDI,0.38296,0.16415076,0.10253,0.38296,6.169925,-0.4677705
+2718N: External Intervention - Fund for Peace,1403: High-technology exports  (current US$) - WDI,0.3822,0.29101261,0.0882,0.3822,4.321928,-0.30197248
+2718N: External Intervention - Fund for Peace,0320: Net ODA received  (% of GNI) - WDI,0.38176,0.20024449,0.10907999,0.38176,5.9541965,0.42604637
+2718N: External Intervention - Fund for Peace,1031: Mortality rate; neonatal  (per 1;000 live births) - WDI,0.38104,-0.018620998,0.050610006,0.38104,6.2479277,0.6321875
+2718N: External Intervention - Fund for Peace,0035: Goods imports  (BoP; current US$) - WDI,0.38052,0.19057295,0.095259994,0.37765,6.169925,-0.43582913
+2718N: External Intervention - Fund for Peace,2744: Merchandise trade-Exports-Machinery and transport equipment (US dollar at current prices) - WTO,0.37974,0.25458634,0.05947998,0.37725,6.129283,-0.3537706
+2718N: External Intervention - Fund for Peace,0766: Adjusted savings: consumption of fixed capital  (current US$) - WDI,0.37913,0.26023975,0.09456,0.37665,6.2479277,-0.34480467
+2718N: External Intervention - Fund for Peace,0033: Imports of goods and services  (BoP; current US$) - WDI,0.37827,0.16786198,0.07398,0.37582,6.169925,-0.45870253
+2718N: External Intervention - Fund for Peace,2781: Merchandise trade-Imports-Total merchandise (US dollar at current prices) - WTO,0.37788,0.18512757,0.08944002,0.37788,6.2479277,-0.4390358
+2718N: External Intervention - Fund for Peace,0856: PPP conversion factor; private consumption  (LCU per international $) - WDI,0.37754,0.3618913,0.19210999,0.37754,6.169925,0.1250947
+2718N: External Intervention - Fund for Peace,0743: Industry; value added  (current US$) - WDI,0.37738,0.27792922,0.114470005,0.37738,6.169925,-0.31535822
+2718N: External Intervention - Fund for Peace,0754: Services; etc.; value added  (current US$) - WDI,0.37727,0.26673797,0.11250001,0.37478,6.169925,-0.3324636
+2718N: External Intervention - Fund for Peace,0739: Manufacturing; value added  (constant 2005 US$) - WDI,0.37705,0.27086946,0.10269001,0.37381,6.087463,-0.3258536
+2718N: External Intervention - Fund for Peace,0585: Tax payments  (number) - WDI,0.37698,0.18961598,0.07403001,0.37698,6.169925,0.43285567
+2718N: External Intervention - Fund for Peace,1433: Air and GHG emissions - CO2 (TONNE_CAP) - OECD,0.37628,0.17121246,0.06996,0.37628,6.0,-0.45284384
+2718N: External Intervention - Fund for Peace,1361: Merchandise imports  (current US$) - WDI,0.37596,0.18325587,0.08752,0.37596,6.2479277,-0.4389808
+2718N: External Intervention - Fund for Peace,0817: Gross domestic savings  (current US$) - WDI,0.37534,0.278435,0.10264,0.37267,6.169925,-0.31129572
+2718N: External Intervention - Fund for Peace,2747: Merchandise trade-Exports-Telecommunications equipment (US dollar at current prices) - WTO,0.37476,0.33391243,0.063549995,0.37476,6.087463,-0.20210782
+2718N: External Intervention - Fund for Peace,0065: Goods exports  (BoP; current US$) - WDI,0.3746,0.17968293,0.078260005,0.37195,6.169925,-0.44149414
+2718N: External Intervention - Fund for Peace,1317: International tourism; number of arrivals - WDI,0.3746,0.17656802,0.11829001,0.3746,6.169925,-0.44500783
+2718N: External Intervention - Fund for Peace,2804: Balance of Payments-Imports-Other commercial services (US dollar at current prices) - WTO,0.37292,0.12038326,0.11445001,0.37024,6.169925,-0.50253034
+2718N: External Intervention - Fund for Peace,0778: Adjusted net national income  (current US$) - WDI,0.37269,0.25743246,0.12171,0.37269,6.169925,-0.33949602
+2718N: External Intervention - Fund for Peace,2717: Factionalized Elites - Fund for Peace,0.3724,-0.20953101,0.025679976,0.3724,5.9541965,0.762844
+2718N: External Intervention - Fund for Peace,0822: GNI; Atlas method  (current US$) - WDI,0.37154,0.25602132,0.13087001,0.37154,6.2094536,-0.33988038
+2718N: External Intervention - Fund for Peace,0041: Foreign direct investment; net outflows  (BoP; current US$) - WDI,0.37116,0.23902455,0.11432999,0.36839,6.169925,-0.3635044
+2718N: External Intervention - Fund for Peace,1897: Fixed-telephone subscriptions - ITU,0.37077,0.32098877,0.17582001,0.36805,6.2479277,-0.2231171
+2718N: External Intervention - Fund for Peace,2800: Balance of Payments-Imports-Commercial services (US dollar at current prices) - WTO,0.37018,0.10967982,0.08173001,0.37018,6.2094536,-0.5103922
+2718N: External Intervention - Fund for Peace,0043: Secondary income; other sectors; payments  (BoP; current US$) - WDI,0.36966,0.24015562,0.04411,0.36678,6.129283,-0.35986716
+2718N: External Intervention - Fund for Peace,0053: Portfolio Investment; net  (BoP; current US$) - WDI,0.3695,0.351895,0.22624001,0.36628,6.087463,0.13268387
+2718N: External Intervention - Fund for Peace,0637: Fixed telephone subscriptions - WDI,0.36801,0.31789452,0.18045,0.36801,6.2479277,-0.22386493
+2718N: External Intervention - Fund for Peace,2805: Balance of Payments-Imports-Services (US dollar at current prices) - WTO,0.36782,0.10887125,0.07192999,0.36782,6.2094536,-0.50887007
+2718N: External Intervention - Fund for Peace,0668: Household final consumption expenditure; etc.  (constant 2005 US$) - WDI,0.36743,0.27197942,0.11945,0.36743,6.0,-0.30895078
+2718N: External Intervention - Fund for Peace,2731: Merchandise trade-Imports-Chemicals (US dollar at current prices) - WTO,0.3669,0.15147583,0.098780006,0.3669,6.129283,-0.4641381
+2718N: External Intervention - Fund for Peace,0378: Combustible renewables and waste  (% of total energy) - WDI,0.36685,0.20108446,0.18736999,0.36281,6.044394,0.40714312
+2718N: External Intervention - Fund for Peace,2732: Merchandise trade-Imports-Pharmaceuticals (US dollar at current prices) - WTO,0.36676,0.14290757,0.09808999,0.36676,6.129283,-0.47313043
+2718N: External Intervention - Fund for Peace,0794: Gross value added at factor cost  (current US$) - WDI,0.36618,0.24932152,0.09641999,0.36618,6.044394,-0.3418457
+2718N: External Intervention - Fund for Peace,0036: Service imports  (BoP; current US$) - WDI,0.36579,0.10298547,0.072320014,0.36311,6.169925,-0.51264465
+2718N: External Intervention - Fund for Peace,2729: Merchandise trade-Imports-Manufactures (US dollar at current prices) - WTO,0.36458,0.16791151,0.07602,0.36458,6.129283,-0.44347322
+2718N: External Intervention - Fund for Peace,1371: Merchandise imports by the reporting economy  (current US$) - WDI,0.36399,0.17495133,0.08444002,0.36399,6.2094536,-0.43478578
+2718N: External Intervention - Fund for Peace,0680: Household final consumption expenditure; PPP  (constant 2011 international $) - WDI,0.36389,0.289239,0.19358999,0.36032,6.087463,-0.27322337
+2718N: External Intervention - Fund for Peace,2753: Merchandise trade-Imports-Integrated circuits and electronic components (US dollar at current prices) - WTO,0.36358,0.33166903,0.088440016,0.3608,6.129283,-0.17863637
+2718N: External Intervention - Fund for Peace,0823: GNI  (current US$) - WDI,0.36345,0.248042,0.12630999,0.36098,6.2479277,-0.3397175
+2718N: External Intervention - Fund for Peace,0737: Manufacturing; value added  (current US$) - WDI,0.36284,0.2786575,0.08546999,0.36284,6.129283,-0.2901422
+2718N: External Intervention - Fund for Peace,2822: Balance of Payments-Imports-Other business services (US dollar at current prices) - WTO,0.36273,0.09909129,0.08192998,0.36005,6.129283,-0.5134576
+2718N: External Intervention - Fund for Peace,0853: PPP conversion factor; GDP  (LCU per international $) - WDI,0.36271,0.34699786,0.20783,0.35995,6.2479277,0.12534812
+2718N: External Intervention - Fund for Peace,1033: Improved water source; rural  (% of rural population with access) - WDI,0.36268,0.06381735,0.10294998,0.36075,6.2479277,-0.5466833
+2718N: External Intervention - Fund for Peace,0553: Time to export  (days) - WDI,0.36241,0.076934814,0.055940002,0.36241,6.2094536,0.5342988
+2718N: External Intervention - Fund for Peace,0674: Household final consumption expenditure  (constant 2005 US$) - WDI,0.36182,0.26651576,0.12434001,0.35842,6.044394,-0.30871385
+2718N: External Intervention - Fund for Peace,1321: International tourism; receipts for passenger transport items  (current US$) - WDI,0.36077,0.1798627,0.077659994,0.36077,6.0,-0.42533198
+2718N: External Intervention - Fund for Peace,1398: Merchandise exports by the reporting economy  (current US$) - WDI,0.36076,0.16906805,0.06889999,0.36076,6.2094536,-0.4378264
+2718N: External Intervention - Fund for Peace,0851: DEC alternative conversion factor  (LCU per US$) - WDI,0.35922,0.34427837,0.16811,0.3564,6.2479277,0.12223596
+2718N: External Intervention - Fund for Peace,0460: Domestic credit to private sector by banks  (% of GDP) - WDI,0.35876,0.34545252,0.048700005,0.35876,6.169925,-0.11535808
+2718N: External Intervention - Fund for Peace,0800: GDP  (current US$) - WDI,0.35862,0.24129179,0.11904998,0.35649,6.2479277,-0.34253204
+2718N: External Intervention - Fund for Peace,1034: Improved water source; urban  (% of urban population with access) - WDI,0.35845,0.11731474,0.075619996,0.35659,6.2479277,-0.49105525
+2718N: External Intervention - Fund for Peace,0017: Forest area  (% of land area) - WDI,0.35812,0.35486177,0.3188,0.35812,6.2479277,-0.05708099
+2718N: External Intervention - Fund for Peace,2733: Merchandise trade-Imports-Machinery and transport equipment (US dollar at current prices) - WTO,0.35811,0.18385416,0.06103,0.35811,6.129283,-0.41743964
+2718N: External Intervention - Fund for Peace,2806: Balance of Payments-Imports-Other services (US dollar at current prices) - WTO,0.35334,0.11277059,0.093080014,0.35073,6.169925,-0.49047875
+2718N: External Intervention - Fund for Peace,0720: Imports of goods and services  (current US$) - WDI,0.35162,0.1432678,0.061049998,0.34924,6.2094536,-0.45645612
+2718N: External Intervention - Fund for Peace,1093: Incidence of tuberculosis  (per 100;000 people) - WDI,0.35109,0.24184509,0.10029,0.35109,6.2479277,0.3305222
+2718N: External Intervention - Fund for Peace,0574: Time required to enforce a contract  (days) - WDI,0.3507,0.29410356,0.25694,0.3507,6.169925,0.23790002
+2718N: External Intervention - Fund for Peace,0847: Net current transfers from abroad  (current US$) - WDI,0.35046,0.29555184,0.06945999,0.35046,6.0,0.2343249
+2718N: External Intervention - Fund for Peace,0855: Price level ratio of PPP conversion factor  to market exchange rate (GDP) - WDI,0.35043,-0.07397166,0.022460014,0.34768,6.2479277,-0.6514612
+2718N: External Intervention - Fund for Peace,0848: Net current transfers from abroad  (current LCU) - WDI,0.34994,0.348107,0.082799986,0.34994,6.087463,0.04281338
+2718N: External Intervention - Fund for Peace,0071: Foreign direct investment; net inflows  (BoP; current US$) - WDI,0.34957,0.23013738,0.15595001,0.34957,6.2479277,-0.34559026
+2718N: External Intervention - Fund for Peace,0639: Fixed broadband subscriptions - WDI,0.34948,0.2829426,0.08380002,0.34693,6.2094536,-0.2579485
+2718N: External Intervention - Fund for Peace,0361: Electric power transmission and distribution losses  (% of output) - WDI,0.34883,0.180695,0.07952,0.34503,6.044394,0.4100427
+2718N: External Intervention - Fund for Peace,0490: Claims on other sectors of the domestic economy  (% of GDP) - WDI,0.34852,0.031451046,0.06084001,0.34852,5.9541965,-0.5630888
+2718N: External Intervention - Fund for Peace,0580: Time to prepare and pay taxes  (hours) - WDI,0.34844,0.32032228,0.22020999,0.34844,6.169925,0.16768342
+2718N: External Intervention - Fund for Peace,0048: Net primary income  (BoP; current US$) - WDI,0.34841,0.3416678,0.23039001,0.34539,6.169925,-0.082111016
+2718N: External Intervention - Fund for Peace,0029: Cereal yield  (kg per hectare) - WDI,0.34795,0.23922902,0.075700015,0.34795,6.2094536,-0.32972866
+2718N: External Intervention - Fund for Peace,0806: GDP; PPP  (constant 2011 international $) - WDI,0.34794,0.2645543,0.15266,0.34526,6.2479277,-0.28876582
+2718N: External Intervention - Fund for Peace,2749: Merchandise trade-Exports-Transport equipment (US dollar at current prices) - WTO,0.34789,0.2171571,0.043879986,0.34789,5.857981,-0.36157003
+2718N: External Intervention - Fund for Peace,1273: Adolescent fertility rate  (births per 1;000 women ages 15-19) - WDI,0.34594,0.082505316,0.104169995,0.34594,6.2479277,0.5132589
+2718N: External Intervention - Fund for Peace,1900: Fixed-broadband subscriptions - ITU,0.34574,0.2794543,0.08249,0.34574,6.169925,-0.25746006
+2718N: External Intervention - Fund for Peace,0571: Time to import  (days) - WDI,0.3453,0.061123997,0.058039993,0.3453,6.2094536,0.5330816
+2718N: External Intervention - Fund for Peace,0714: Gross capital formation  (current US$) - WDI,0.34517,0.2549106,0.08802,0.34517,6.169925,-0.30043203
+2718N: External Intervention - Fund for Peace,1025: Number of neonatal deaths - WDI,0.34376,0.3402151,0.19014001,0.34376,6.2479277,0.059539188
+2718N: External Intervention - Fund for Peace,2750: Merchandise trade-Exports-Automotive products (US dollar at current prices) - WTO,0.34338,0.22154681,0.038749993,0.34338,6.087463,-0.3490461
+2718N: External Intervention - Fund for Peace,0837: Gross savings  (current US$) - WDI,0.34289,0.25370607,0.07466,0.34004,6.087463,-0.2986368
+2718N: External Intervention - Fund for Peace,2736: Merchandise trade-Imports-Transport equipment (US dollar at current prices) - WTO,0.34244,0.13741395,0.04663001,0.34244,6.129283,-0.45279804
+2718N: External Intervention - Fund for Peace,0052: Foreign direct investment; net  (BoP; current US$) - WDI,0.34215,0.33805504,0.20168,0.33916,6.169925,-0.063991845
+2718N: External Intervention - Fund for Peace,1290: Survival to age 65; male  (% of cohort) - WDI,0.34189,-0.0031472445,0.050410002,0.34189,6.2479277,-0.5873987
+2718N: External Intervention - Fund for Peace,1311: Rural population growth  (annual %) - WDI,0.34132,0.21281992,0.16316001,0.34132,6.2479277,0.3584691
+2718N: External Intervention - Fund for Peace,0923: Repeaters; primary; total  (% of total enrollment) - WDI,0.34091,0.122764215,0.17529999,0.34091,5.9541965,0.46706077
+2718N: External Intervention - Fund for Peace,2809: Balance of Payments-Exports-Telecommunications services (US dollar at current prices) - WTO,0.33978,0.16005425,0.14433001,0.33978,5.9541965,-0.42394075
+2718N: External Intervention - Fund for Peace,0629: Air transport; passengers carried - WDI,0.33916,0.23052806,0.10872999,0.33603,6.087463,-0.3295936
+2718N: External Intervention - Fund for Peace,2737: Merchandise trade-Imports-Automotive products (US dollar at current prices) - WTO,0.33884,0.15037148,0.051000014,0.33884,6.129283,-0.43412963
+2718N: External Intervention - Fund for Peace,1277: Mortality rate; adult; male  (per 1;000 male adults) - WDI,0.33813,0.098925725,0.06944001,0.33813,6.2094536,0.48908514
+2718N: External Intervention - Fund for Peace,0044: Personal remittances; paid  (current US$) - WDI,0.33671,0.19888827,0.06413001,0.33401,6.129283,-0.3712435
+2718N: External Intervention - Fund for Peace,0627: Air transport; registered carrier departures worldwide - WDI,0.33535,0.24414508,0.07455,0.33242,6.087463,-0.30200154
+2718N: External Intervention - Fund for Peace,0834: GNI per capita  (constant LCU) - WDI,0.33367,0.32816544,0.25233,0.33,6.087463,0.07419257
+2718N: External Intervention - Fund for Peace,0492: Domestic credit to private sector  (% of GDP) - WDI,0.3335,0.02408734,0.060709983,0.3335,6.169925,-0.5562487
+2718N: External Intervention - Fund for Peace,2802: Balance of Payments-Imports-Transport (US dollar at current prices) - WTO,0.33268,0.11327648,0.10060999,0.32987,6.169925,-0.46840528
+2718N: External Intervention - Fund for Peace,0660: General government final consumption expenditure  (current US$) - WDI,0.33258,0.19277467,0.080960006,0.32996,6.169925,-0.3739055
+2718N: External Intervention - Fund for Peace,0705: Gross fixed capital formation  (current US$) - WDI,0.3292,0.23701155,0.07076001,0.32646,6.169925,-0.30362552
+2718N: External Intervention - Fund for Peace,2815: Balance of Payments-Imports-Insurance and pension services (US dollar at current prices) - WTO,0.32873,0.25056645,0.11381999,0.32873,6.129283,-0.27957743
+2718N: External Intervention - Fund for Peace,0047: Net financial account  (BoP; current US$) - WDI,0.3273,0.32682502,0.24280001,0.32439,6.169925,-0.021794094
+2718N: External Intervention - Fund for Peace,0784: Adjusted net savings; including particulate emission damage  (current US$) - WDI,0.32713,0.27571023,0.08740999,0.32713,6.0,-0.22675925
+2718N: External Intervention - Fund for Peace,1073: People practicing open defecation; rural  (% of rural population) - WDI,0.32575,0.12492517,0.09337999,0.32377,6.2094536,0.44813484
+2718N: External Intervention - Fund for Peace,2724: Merchandise trade-Exports-Textiles (US dollar at current prices) - WTO,0.32534,0.28956002,0.06335001,0.32217,6.129283,-0.18915598
+2718N: External Intervention - Fund for Peace,0762: Adjusted savings: carbon dioxide damage  (current US$) - WDI,0.32526,0.28406948,0.12186001,0.32526,6.2479277,-0.20295453
+2718N: External Intervention - Fund for Peace,0841: Net income from abroad  (current US$) - WDI,0.32509,0.32011837,0.20791999,0.32233,6.2094536,-0.07050981
+2718N: External Intervention - Fund for Peace,0852: Official exchange rate  (LCU per US$; period average) - WDI,0.32363,0.32326758,0.1764,0.32363,6.129283,0.019037405
+2718N: External Intervention - Fund for Peace,0692: Gross national expenditure  (current US$) - WDI,0.3235,0.21222647,0.09283,0.32104,6.2094536,-0.3335769
+2718N: External Intervention - Fund for Peace,2748: Merchandise trade-Exports-Integrated circuits and electronic components (US dollar at current prices) - WTO,0.32345,0.27625525,0.050119996,0.32345,4.321928,-0.21724352
+2718N: External Intervention - Fund for Peace,1075: People practicing open defecation  (% of population) - WDI,0.32318,0.12763876,0.08565,0.32318,6.2094536,0.44220045
+2718N: External Intervention - Fund for Peace,1021: Number of infant deaths - WDI,0.32256,0.315424,0.16503002,0.32256,6.2479277,0.08447501
+2718N: External Intervention - Fund for Peace,0828: GNI; PPP  (current international $) - WDI,0.32168,0.24080533,0.13518001,0.32168,6.2094536,-0.28438476
+2718N: External Intervention - Fund for Peace,0805: GDP; PPP  (current international $) - WDI,0.32127,0.23971772,0.12776999,0.31872,6.2479277,-0.28557357
+2718N: External Intervention - Fund for Peace,0055: Net secondary income  (BoP; current US$) - WDI,0.32126,0.2155205,0.037699997,0.31828,6.169925,0.32517612
+2718N: External Intervention - Fund for Peace,0569: Cost to import  (US$ per container) - WDI,0.32081,0.17314792,0.15384999,0.32081,6.2094536,0.38426822
+2718N: External Intervention - Fund for Peace,0045: Current account balance  (BoP; current US$) - WDI,0.32042,0.31830522,0.22012,0.31772,6.169925,-0.045986623
+2718N: External Intervention - Fund for Peace,2720: Merchandise trade-Exports-Agricultural products (US dollar at current prices) - WTO,0.32023,0.075989455,0.045520008,0.31736,6.169925,-0.494207
+2718N: External Intervention - Fund for Peace,0786: Adjusted net savings; excluding particulate emission damage  (current US$) - WDI,0.32014,0.2681814,0.087510005,0.31684,6.044394,-0.22794427
+2718N: External Intervention - Fund for Peace,2726: Merchandise trade-Imports-Food (US dollar at current prices) - WTO,0.31988,0.10699488,0.09469001,0.31988,6.129283,-0.46139476
+2718N: External Intervention - Fund for Peace,2709: Refugees and IDPs - Fund for Peace,0.31965,-0.18082511,0.014109999,0.31965,5.9541965,0.70744264
+2718N: External Intervention - Fund for Peace,0366: Electricity production from renewable sources; excluding hydroelectric  (kWh) - WDI,0.31961,0.21360117,0.041209996,0.31961,6.0,-0.32558998
+2718N: External Intervention - Fund for Peace,0687: Final consumption expenditure  (current US$) - WDI,0.31926,0.20959637,0.0809,0.31664,6.169925,-0.331155
+2718N: External Intervention - Fund for Peace,2721: Merchandise trade-Exports-Food (US dollar at current prices) - WTO,0.31883,0.07818103,0.044810012,0.31573,6.169925,-0.49055988
+2718N: External Intervention - Fund for Peace,0003: Fertilizer consumption  (kilograms per hectare of arable land) - WDI,0.31877,0.29572454,0.07240999,0.31877,6.129283,-0.15180732
+2718N: External Intervention - Fund for Peace,0588: Time required to build a warehouse  (days) - WDI,0.31787,0.30360383,0.2755,0.31196,6.169925,0.11944107
+2718N: External Intervention - Fund for Peace,2741: Merchandise trade-Exports-Iron and steel (US dollar at current prices) - WTO,0.31581,0.1783531,0.062099993,0.31581,6.087463,-0.3707518
+2718N: External Intervention - Fund for Peace,0050: Net trade in goods  (BoP; current US$) - WDI,0.31561,0.31482512,0.20519999,0.31274,6.169925,-0.028015563
+2718N: External Intervention - Fund for Peace,2725: Merchandise trade-Imports-Agricultural products (US dollar at current prices) - WTO,0.31486,0.11833729,0.084499985,0.31486,6.129283,-0.4433088
+2718N: External Intervention - Fund for Peace,0376: Fossil fuel energy consumption  (% of total) - WDI,0.31467,0.2461828,0.18698,0.31467,6.044394,-0.2617006
+2718N: External Intervention - Fund for Peace,2738: Merchandise trade-Imports-Textiles (US dollar at current prices) - WTO,0.31306,0.15576042,0.10148999,0.31306,6.129283,-0.39661008
+2718N: External Intervention - Fund for Peace,0797: Gross value added at factor cost  (constant LCU) - WDI,0.31295,0.31238586,0.23398998,0.30845,6.087463,0.023751363
+2718N: External Intervention - Fund for Peace,0485: Lending interest rate  (%) - WDI,0.31273,0.14577135,0.07026002,0.31273,5.9541965,0.40860575
+2718N: External Intervention - Fund for Peace,1322: International tourism; expenditures for passenger transport items  (current US$) - WDI,0.31201,0.10420123,0.096599996,0.30942,6.087463,-0.45586047
+2718N: External Intervention - Fund for Peace,0671: Household final consumption expenditure; etc.  (% of GDP) - WDI,0.31146,0.11000565,0.06818999,0.3084,6.169925,0.44883665
+2718N: External Intervention - Fund for Peace,0594: Scientific and technical journal articles - WDI,0.31106,0.19882625,0.029410005,0.31106,6.087463,-0.33501306
+2718N: External Intervention - Fund for Peace,0812: GDP per capita  (constant LCU) - WDI,0.31012,0.3068789,0.24615999,0.30638,6.2479277,0.0569307
+2718N: External Intervention - Fund for Peace,0056: Net capital account  (BoP; current US$) - WDI,0.30988,0.30970705,0.12968999,0.30988,6.044394,0.013150908
+2718N: External Intervention - Fund for Peace,1049: Number of maternal deaths - WDI,0.30953,0.28960738,0.12222999,0.30953,6.2479277,0.14114754
+2718N: External Intervention - Fund for Peace,0735: Agriculture; value added  (constant LCU) - WDI,0.30926,0.30865273,0.18379001,0.30551,6.169925,0.024643295
+2718N: External Intervention - Fund for Peace,1301: Population growth  (annual %) - WDI,0.30862,0.26321945,0.15879,0.30862,6.2479277,0.21307406
+2718N: External Intervention - Fund for Peace,0733: Agriculture; value added  (constant 2005 US$) - WDI,0.30819,0.27157113,0.19081,0.30467,6.129283,-0.19136052
+2718N: External Intervention - Fund for Peace,0726: External balance on goods and services  (current US$) - WDI,0.30752,0.3010052,0.1691,0.30499,6.2094536,-0.08071418
+2718N: External Intervention - Fund for Peace,2727: Merchandise trade-Imports-Fuels and mining products (US dollar at current prices) - WTO,0.30691,0.17912069,0.058680013,0.30378,6.169925,-0.35747632
+2718N: External Intervention - Fund for Peace,0681: Final consumption expenditure; etc.  (current US$) - WDI,0.3066,0.19812676,0.07988,0.30374,6.169925,-0.32935277
+2718N: External Intervention - Fund for Peace,0897: Primary education; pupils  (% female) - WDI,0.30574,0.18677442,0.1449,0.30303,6.129283,-0.34491387
+2718N: External Intervention - Fund for Peace,0005: Agricultural land  (% of land area) - WDI,0.30522,0.29872248,0.26281,0.30522,6.2479277,0.08060721
+2718N: External Intervention - Fund for Peace,1023: Number of under-five deaths - WDI,0.30468,0.29574445,0.14728999,0.30468,6.2479277,0.09452792
+2718N: External Intervention - Fund for Peace,1310: Rural population - WDI,0.30435,0.30223984,0.25996998,0.30435,6.2479277,-0.045936543
+2718N: External Intervention - Fund for Peace,1356: ICT goods imports  (% total goods imports) - WDI,0.30418,0.18417352,0.097969994,0.30142,6.087463,-0.3464195
+2718N: External Intervention - Fund for Peace,0010: Permanent cropland  (% of land area) - WDI,0.30415,0.27268693,0.21455999,0.30415,6.2479277,0.17737828
+2718N: External Intervention - Fund for Peace,0676: Household final consumption expenditure  (constant LCU) - WDI,0.30388,0.30218646,0.23512,0.30034,6.087463,0.04115263
+2718N: External Intervention - Fund for Peace,0433: Population in the largest city  (% of urban population) - WDI,0.30378,0.2162094,0.1857,0.29952,6.087463,0.2959233
+2718N: External Intervention - Fund for Peace,0944: Secondary education; pupils  (% female) - WDI,0.30273,0.17616636,0.11535999,0.30273,6.0,-0.35575783
+2718N: External Intervention - Fund for Peace,0049: Net trade in goods and services  (BoP; current US$) - WDI,0.30199,0.29351494,0.14622,0.29921,6.169925,-0.09206013
+2718N: External Intervention - Fund for Peace,0819: Gross domestic savings  (% of GDP) - WDI,0.30178,0.13553756,0.086639985,0.30178,6.169925,-0.40772837
+2718N: External Intervention - Fund for Peace,0006: Arable land  (hectares) - WDI,0.30175,0.27008802,0.23017001,0.30175,6.2479277,-0.17793816
+2718N: External Intervention - Fund for Peace,0672: Household final consumption expenditure  (current US$) - WDI,0.30069,0.20027664,0.069340006,0.29813,6.169925,-0.31688067
+2718N: External Intervention - Fund for Peace,0946: Secondary education; general pupils  (% female) - WDI,0.29963,0.10485977,0.10922998,0.2971,6.087463,-0.44132778
+2718N: External Intervention - Fund for Peace,0686: Final consumption expenditure; etc.  (% of GDP) - WDI,0.29834,0.132112,0.07892999,0.29834,6.169925,0.40771067
+2718N: External Intervention - Fund for Peace,0727: External balance on goods and services  (current LCU) - WDI,0.29798,0.29713276,0.17256,0.29514,6.2094536,0.029107401
+2718N: External Intervention - Fund for Peace,0679: Household final consumption expenditure; PPP  (current international $) - WDI,0.29791,0.22829446,0.11884001,0.29791,6.087463,-0.26384756
+2718N: External Intervention - Fund for Peace,0628: Air transport; freight  (million ton-km) - WDI,0.29674,0.1792249,0.08294,0.29336,6.087463,-0.34280476
+2718N: External Intervention - Fund for Peace,0666: Household final consumption expenditure; etc.  (current US$) - WDI,0.29667,0.19724672,0.07195999,0.29401,6.169925,-0.31531456
+2718N: External Intervention - Fund for Peace,0846: Net taxes on products  (constant LCU) - WDI,0.29588,0.29503065,0.19864999,0.29202,6.044394,0.029143538
+2718N: External Intervention - Fund for Peace,0575: Time required to register property  (days) - WDI,0.29568,0.24270546,0.18938999,0.29197,6.169925,0.23016195
+2718N: External Intervention - Fund for Peace,0654: Armed forces personnel; total - WDI,0.29521,0.29362535,0.26123,0.29521,6.169925,-0.039807577
+2718N: External Intervention - Fund for Peace,0491: Domestic credit provided by financial sector  (% of GDP) - WDI,0.29502,0.019379258,0.03444001,0.29502,6.169925,-0.525015
+2718N: External Intervention - Fund for Peace,0462: Total reserves  (includes gold; current US$) - WDI,0.29474,0.25810215,0.10067999,0.29474,6.2094536,-0.19141017
+2718N: External Intervention - Fund for Peace,1362: Merchandise imports from high-income economies  (% of total merchandise imports) - WDI,0.29452,0.036018074,0.119389996,0.29452,6.2094536,-0.50843084
+2718N: External Intervention - Fund for Peace,0545: Private credit bureau coverage  (% of adults) - WDI,0.29416,0.01630038,0.057860002,0.29416,6.169925,-0.5271239
+2718N: External Intervention - Fund for Peace,1304: Population; total - WDI,0.28959,0.27947065,0.24169001,0.28959,6.2479277,-0.10059495
+2718N: External Intervention - Fund for Peace,0758: Services; etc.; value added  (constant LCU) - WDI,0.28955,0.28884172,0.22616,0.2857,6.169925,0.02661351
+2718N: External Intervention - Fund for Peace,0776: Adjusted savings: net national savings  (current US$) - WDI,0.28907,0.26417115,0.14094001,0.28606,6.087463,-0.1577937
+2718N: External Intervention - Fund for Peace,2730: Merchandise trade-Imports-Iron and steel (US dollar at current prices) - WTO,0.28904,0.112614945,0.07321,0.28904,6.129283,-0.42002982
+2718N: External Intervention - Fund for Peace,0008: Arable land  (% of land area) - WDI,0.28893,0.28307977,0.25538,0.28893,6.2479277,-0.07648679
+2718N: External Intervention - Fund for Peace,0881: School enrollment; secondary (gross); gender parity index  (GPI) - WDI,0.28866,0.14556064,0.08612999,0.28866,5.9541965,-0.37828475
+2718N: External Intervention - Fund for Peace,0465: Total reserves minus gold  (current US$) - WDI,0.28845,0.261635,0.10514,0.28845,6.2094536,-0.1637529
+2718N: External Intervention - Fund for Peace,0670: Household final consumption expenditure; etc.  (constant LCU) - WDI,0.28794,0.28611746,0.21099,0.28794,6.044394,0.042691052
+2718N: External Intervention - Fund for Peace,1354: Food imports  (% of merchandise imports) - WDI,0.28781,0.06546691,0.09441,0.28458,6.087463,0.4715327
+2718N: External Intervention - Fund for Peace,2722: Merchandise trade-Exports-Fuels and mining products (US dollar at current prices) - WTO,0.28667,0.189224,0.0845,0.28398,6.169925,-0.3121634
+2718N: External Intervention - Fund for Peace,2710: Group Grievance - Fund for Peace,0.28547,-0.16385368,0.026089981,0.28547,5.70044,0.6703161
+2718N: External Intervention - Fund for Peace,0685: Final consumption expenditure; etc.  (constant LCU) - WDI,0.28471,0.28328007,0.22258998,0.28471,6.087463,0.037814166
+2718N: External Intervention - Fund for Peace,1313: Urban population growth  (annual %) - WDI,0.28364,0.19415511,0.13780999,0.28364,6.2479277,0.29914024
+2718N: External Intervention - Fund for Peace,0551: Cost to export  (US$ per container) - WDI,0.28331,0.15504412,0.14597,0.28331,6.2094536,0.35814226
+2718N: External Intervention - Fund for Peace,1305: Population; female  (% of total) - WDI,0.28316,0.28310323,0.18487,0.28316,6.2479277,0.0075338464
+2718N: External Intervention - Fund for Peace,0827: GNI  (constant LCU) - WDI,0.28297,0.28171772,0.22329001,0.27758,6.087463,0.03538794
+2718N: External Intervention - Fund for Peace,0798: Forest rents  (% of GDP) - WDI,0.28289,0.1246357,0.09833999,0.28289,6.2094536,0.3978119
+2718N: External Intervention - Fund for Peace,2728: Merchandise trade-Imports-Fuels (US dollar at current prices) - WTO,0.28184,0.14873537,0.051359996,0.28184,6.129283,-0.36483505
+2718N: External Intervention - Fund for Peace,0741: Manufacturing; value added  (constant LCU) - WDI,0.28105,0.28046647,0.21035,0.28105,6.129283,0.024156371
+2718N: External Intervention - Fund for Peace,0427: Population density  (people per sq. km of land area) - WDI,0.28078,0.26651427,0.23960999,0.28078,6.2479277,-0.11943921
+2718N: External Intervention - Fund for Peace,1404: High-technology exports  (% of manufactured exports) - WDI,0.28073,0.1977663,0.054320008,0.27801,6.044394,-0.2880342
+2718N: External Intervention - Fund for Peace,0552: Documents to export  (number) - WDI,0.27985,-0.054843664,0.02144,0.27985,5.5849624,0.57852715
+2718N: External Intervention - Fund for Peace,0696: Gross national expenditure  (% of GDP) - WDI,0.27978,0.111448795,0.059829995,0.27978,6.169925,0.41028187
+2718N: External Intervention - Fund for Peace,1101: Health expenditure; public  (% of total health expenditure) - WDI,0.27949,0.08992551,0.12547,0.27949,6.2479277,-0.43539003
+2718N: External Intervention - Fund for Peace,1213: Ratio of female to male labor force participation rate (%)  (modeled ILO estimate) - WDI,0.27905,0.26508796,0.17369999,0.27608,6.2479277,-0.11816103
+2718N: External Intervention - Fund for Peace,0690: Final consumption expenditure  (constant LCU) - WDI,0.27756,0.27607167,0.21223,0.27756,6.087463,0.03857872
+2718N: External Intervention - Fund for Peace,0747: Industry; value added  (constant LCU) - WDI,0.27744,0.276661,0.20806001,0.27346,6.169925,0.02791078
+2718N: External Intervention - Fund for Peace,1432: Air and GHG emissions - CO2 (MLN_TONNE) - OECD,0.27538,0.23897244,0.13402998,0.27538,6.0,-0.19080763
+2718N: External Intervention - Fund for Peace,1383: ICT goods exports  (% of total goods exports) - WDI,0.275,0.21622741,0.051699996,0.27207,6.044394,-0.24243061
+2718N: External Intervention - Fund for Peace,1266: Refugee population by country or territory of origin - WDI,0.27406,0.18911245,0.06454001,0.27406,6.2479277,0.29145765
+2718N: External Intervention - Fund for Peace,1103: Health expenditure; public  (% of GDP) - WDI,0.2735,0.022388637,0.026069999,0.2735,6.0,-0.50111014
+2718N: External Intervention - Fund for Peace,0821: Gross domestic income  (constant LCU) - WDI,0.27317,0.2717418,0.21801,0.27317,6.087463,0.037791207
+2718N: External Intervention - Fund for Peace,1396: Merchandise exports to low- and middle-income economies in Sub-Saharan Africa  (% of total merchandise exports) - WDI,0.27235,0.18629369,0.13458002,0.26949,6.129283,0.2933536
+2718N: External Intervention - Fund for Peace,0729: External balance on goods and services  (% of GDP) - WDI,0.27181,0.10489312,0.057779998,0.26942,6.2094536,-0.4085546
+2718N: External Intervention - Fund for Peace,0767: Adjusted savings: consumption of fixed capital  (% of GNI) - WDI,0.27181,0.02625294,0.05246,0.26945,6.2479277,-0.49553713
+2718N: External Intervention - Fund for Peace,0655: Armed forces personnel  (% of total labor force) - WDI,0.27146,0.24319156,0.18147999,0.27146,6.169925,0.1681322
+2718N: External Intervention - Fund for Peace,2740: Merchandise trade-Exports-Fuels (US dollar at current prices) - WTO,0.27131,0.21992564,0.06182,0.27131,6.129283,-0.22668119
+2718N: External Intervention - Fund for Peace,0042: Foreign direct investment; net outflows  (% of GDP) - WDI,0.27008,0.25118208,0.10441001,0.26701,6.169925,-0.13746968
+2718N: External Intervention - Fund for Peace,1314: Urban population - WDI,0.26812,0.2401882,0.20730999,0.26812,6.2479277,-0.16712807
+2718N: External Intervention - Fund for Peace,0695: Gross national expenditure  (constant LCU) - WDI,0.26678,0.26535597,0.20777999,0.26678,6.087463,0.03773613
+2718N: External Intervention - Fund for Peace,0896: Primary education; pupils - WDI,0.26537,0.26367304,0.21560001,0.26158,6.129283,-0.041194364
+2718N: External Intervention - Fund for Peace,2751: Merchandise trade-Exports-Clothing (US dollar at current prices) - WTO,0.2649,0.2384236,0.06691,0.26185,6.129283,-0.16271569
+2718N: External Intervention - Fund for Peace,0818: Gross domestic savings  (current LCU) - WDI,0.26489,0.26295573,0.15567999,0.26489,6.169925,0.043980338
+2718N: External Intervention - Fund for Peace,0765: Adjusted savings: net forest depletion  (% of GNI) - WDI,0.26479,0.13150306,0.095589995,0.26479,6.169925,0.36508483
+2718N: External Intervention - Fund for Peace,1211: Labor force participation rate; female (% of female population ages 15+)  (modeled ILO estimate) - WDI,0.26419,0.26418984,0.15949999,0.26205,6.2479277,-3.9938156E-4
+2718N: External Intervention - Fund for Peace,1783: Renewable energy - TOT (KTOE) - OECD,0.26362,0.21924658,0.14295998,0.26362,6.0,-0.21064997
+2718N: External Intervention - Fund for Peace,1231: Labor force; female  (% of total labor force) - WDI,0.26224,0.24555112,0.16702,0.25828,6.2479277,-0.12918538
+2718N: External Intervention - Fund for Peace,0880: School enrollment; primary and secondary (gross); gender parity index  (GPI) - WDI,0.26164,0.08119106,0.07516001,0.26164,5.9541965,-0.42479283
+2718N: External Intervention - Fund for Peace,1232: Labor force; total - WDI,0.26148,0.24804342,0.21347001,0.25814,6.2479277,-0.11591626
+2718N: External Intervention - Fund for Peace,0711: Changes in inventories  (current US$) - WDI,0.26122,0.23800874,0.15087001,0.25812,6.129283,-0.15235245
+2718N: External Intervention - Fund for Peace,0570: Documents to import  (number) - WDI,0.26119,-0.05286151,0.02375999,0.26119,6.087463,0.560403
+2718N: External Intervention - Fund for Peace,1770: Primary energy supply - TOT (MLN_TOE) - OECD,0.26081,0.21643654,0.14205998,0.26081,6.0,-0.21065009
+2718N: External Intervention - Fund for Peace,1092: Tuberculosis case detection rate  (%; all forms) - WDI,0.25966,0.05093576,0.03288001,0.25966,4.4594316,-0.4568635
+2718N: External Intervention - Fund for Peace,0927: Primary education; teachers - WDI,0.25961,0.24285385,0.20424,0.25577,5.9541965,-0.12944551
+2718N: External Intervention - Fund for Peace,1217: Labor force participation rate; total (% of total population ages 15+)  (modeled ILO estimate) - WDI,0.25911,0.25244907,0.17872,0.25691,6.2479277,0.08161464
+2718N: External Intervention - Fund for Peace,0902: Gross intake ratio in first grade of primary education; female  (% of relevant age group) - WDI,0.25766,0.24491039,0.16369,0.25401,6.0,0.11291419
+2718N: External Intervention - Fund for Peace,0879: School enrollment; primary (gross); gender parity index  (GPI) - WDI,0.25643,0.06426445,0.07303999,0.2541,6.087463,-0.43836692
+2718N: External Intervention - Fund for Peace,0078: Personal remittances; received  (% of GDP) - WDI,0.25419,0.159699,0.064909995,0.25419,6.129283,0.3073939
+2718N: External Intervention - Fund for Peace,0761: Adjusted savings: education expenditure  (% of GNI) - WDI,0.25382,0.23274302,0.13679999,0.25382,6.2094536,-0.14517912
+2718N: External Intervention - Fund for Peace,0999: Proportion of seats held by women in national parliaments  (%) - WDI,0.25313,0.16914237,0.15763,0.24921,6.2479277,-0.2898062
+2718N: External Intervention - Fund for Peace,0367: Electricity production from renewable sources; excluding hydroelectric  (% of total) - WDI,0.25283,0.13426092,0.04963,0.25253,6.044394,-0.3443386
+2718N: External Intervention - Fund for Peace,0472: Broad money  (% of GDP) - WDI,0.25221,0.09402855,0.078289986,0.24964,6.087463,-0.3977203
+2718N: External Intervention - Fund for Peace,0440: Capture fisheries production  (metric tons) - WDI,0.2518,0.21138912,0.1416,0.2518,6.2479277,-0.20102455
+2718N: External Intervention - Fund for Peace,1376: Transport services  (% of commercial service imports) - WDI,0.2516,0.050977558,0.08434999,0.2516,6.129283,0.44790897
+2718N: External Intervention - Fund for Peace,2799: Balance of Payments-Exports-Government goods and services n.i.e. (US dollar at current prices) - WTO,0.25101,0.1677196,0.076519996,0.25101,6.087463,-0.28860074
+2718N: External Intervention - Fund for Peace,0364: Electricity production from oil sources  (% of total) - WDI,0.24997,0.13189682,0.13607001,0.2463,6.044394,0.34361777
+2718N: External Intervention - Fund for Peace,1074: People practicing open defecation; urban  (% of urban population) - WDI,0.24989,0.14907883,0.050850004,0.24989,6.2094536,0.31750774
+2718N: External Intervention - Fund for Peace,0664: General government final consumption expenditure  (constant LCU) - WDI,0.24884,0.2473272,0.1931,0.24471,6.087463,0.03889494
+2718N: External Intervention - Fund for Peace,1382: Fuel exports  (% of merchandise exports) - WDI,0.2485,0.245395,0.15528,0.2485,6.044394,0.055722468
+2718N: External Intervention - Fund for Peace,0691: Gross national expenditure deflator  (base year varies by country) - WDI,0.24753,0.22826615,0.049130008,0.24753,6.087463,0.13879427
+2718N: External Intervention - Fund for Peace,0904: Gross intake ratio in first grade of primary education; total  (% of relevant age group) - WDI,0.24668,0.21670851,0.15301001,0.24668,6.0,0.1731228
+2718N: External Intervention - Fund for Peace,1279: Death rate; crude  (per 1;000 people) - WDI,0.24608,0.22338374,0.1635,0.24608,6.2479277,0.15065275
+2718N: External Intervention - Fund for Peace,1207: Labor force participation rate; female (% of female population ages 15-64)  (modeled ILO estimate) - WDI,0.24586,0.2087324,0.13367,0.24373,6.2479277,-0.19268525
+2718N: External Intervention - Fund for Peace,0051: Net errors and omissions  (BoP; current US$) - WDI,0.24582,0.22947218,0.16306001,0.24319,6.169925,0.12785862
+2718N: External Intervention - Fund for Peace,0039: Transport services  (% of service imports; BoP) - WDI,0.2446,0.091977954,0.09793,0.2446,6.129283,0.39066872
+2718N: External Intervention - Fund for Peace,0804: GDP  (constant LCU) - WDI,0.24453,0.24404477,0.18353,0.24142,6.2479277,0.022028038
+2718N: External Intervention - Fund for Peace,2807: Balance of Payments-Imports-Government goods and services n.i.e. (US dollar at current prices) - WTO,0.24423,0.22026703,0.069010004,0.24115,6.129283,-0.15479977
+2718N: External Intervention - Fund for Peace,0732: Agriculture; value added  (current LCU) - WDI,0.24327,0.24204573,0.11211999,0.24327,6.169925,0.034989506
+2718N: External Intervention - Fund for Peace,1359: Ores and metals imports  (% of merchandise imports) - WDI,0.24313,0.17459445,0.095850006,0.24014,6.087463,-0.26179296
+2718N: External Intervention - Fund for Peace,1369: Merchandise imports from low- and middle-income economies in Sub-Saharan Africa  (% of total merchandise imports) - WDI,0.2425,0.12486912,0.10877001,0.2425,6.129283,0.3429736
+2718N: External Intervention - Fund for Peace,0903: Gross intake ratio in first grade of primary education; male  (% of relevant age group) - WDI,0.24177,0.19280249,0.13043,0.23898,6.0,0.22128603
+2718N: External Intervention - Fund for Peace,1150: Employment to population ratio; 15+; female (%)  (modeled ILO estimate) - WDI,0.24169,0.2415969,0.12601998,0.24169,6.2094536,0.009648402
+2718N: External Intervention - Fund for Peace,0900: School enrollment; primary; female  (% gross) - WDI,0.24091,0.22061601,0.1145,0.23816,6.087463,-0.14245692
+2718N: External Intervention - Fund for Peace,0899: School enrollment; primary  (% gross) - WDI,0.24011,0.2372974,0.15351,0.24011,6.087463,-0.053033892
+2718N: External Intervention - Fund for Peace,0759: Services; etc.; value added  (% of GDP) - WDI,0.23762,0.06829828,0.047759995,0.23494,6.169925,-0.4114872
+2718N: External Intervention - Fund for Peace,0718: Gross capital formation  (constant LCU) - WDI,0.23754,0.23587017,0.18174002,0.23754,6.087463,0.04086364
+2718N: External Intervention - Fund for Peace,0477: Money and quasi money  as % of GDP (M2) - WDI,0.23527,0.101191714,0.062189996,0.23527,6.087463,-0.366167
+2718N: External Intervention - Fund for Peace,0633: Liner shipping connectivity index  (maximum value in 2004 = 100) - WDI,0.23437,0.011231542,0.071559995,0.23437,6.0,-0.47237533
+2718N: External Intervention - Fund for Peace,0075: Secondary income receipts  (BoP; current US$) - WDI,0.23404,0.12299516,0.113010004,0.23404,6.129283,-0.33323392
+2718N: External Intervention - Fund for Peace,1096: Out-of-pocket health expenditure  (% of total expenditure on health) - WDI,0.23332,0.062492207,0.066530004,0.23332,6.2479277,0.41331318
+2718N: External Intervention - Fund for Peace,1368: Merchandise imports from low- and middle-income economies in South Asia  (% of total merchandise imports) - WDI,0.2331,0.1724772,0.10868999,0.23052,6.2094536,0.24621697
+2718N: External Intervention - Fund for Peace,0103: Net bilateral aid flows from DAC donors; Japan  (current US$) - WDI,0.23238,0.21979271,0.13168001,0.22831,6.0,0.11219312
+2718N: External Intervention - Fund for Peace,0432: Population in largest city - WDI,0.23213,0.21331453,0.17702001,0.22917,6.087463,-0.1371695
+2718N: External Intervention - Fund for Peace,0815: Oil rents  (% of GDP) - WDI,0.23089,0.2251015,0.15497,0.23089,6.169925,0.07608223
+2718N: External Intervention - Fund for Peace,0009: Land under cereal production  (hectares) - WDI,0.22974,0.20743638,0.17348999,0.22974,6.2094536,-0.14934394
+2718N: External Intervention - Fund for Peace,1389: Merchandise exports to high-income economies  (% of total merchandise exports) - WDI,0.2297,0.07303354,0.08515,0.2297,6.2094536,-0.39581114
+2718N: External Intervention - Fund for Peace,0054: Reserves and related items  (BoP; current US$) - WDI,0.22956,0.21323074,0.1294,0.2268,6.169925,-0.12778598
+2718N: External Intervention - Fund for Peace,0738: Manufacturing; value added  (current LCU) - WDI,0.2281,0.22703674,0.17041,0.2281,6.129283,0.032607608
+2718N: External Intervention - Fund for Peace,0323: Net ODA received per capita  (current US$) - WDI,0.22769,0.14807609,0.10707,0.22459,6.0,0.28215936
+2718N: External Intervention - Fund for Peace,0945: Secondary education; general pupils - WDI,0.22714,0.21637717,0.18728,0.22286,6.087463,-0.103744075
+2718N: External Intervention - Fund for Peace,1202: Labor force participation rate for ages 15-24; female (%)  (modeled ILO estimate) - WDI,0.22581,0.22180155,0.12083001,0.22313,6.2479277,-0.06331232
+2718N: External Intervention - Fund for Peace,0362: Electricity production from natural gas sources  (% of total) - WDI,0.22455,0.21959095,0.12961999,0.2215,6.044394,-0.07042047
+2718N: External Intervention - Fund for Peace,0077: Personal remittances; received  (current US$) - WDI,0.22444,0.20881072,0.12185999,0.22444,6.129283,-0.12501714
+2718N: External Intervention - Fund for Peace,0809: GDP per capita  (current LCU) - WDI,0.22389,0.2184548,0.16962,0.22101,6.2479277,0.073723875
+2718N: External Intervention - Fund for Peace,1370: Merchandise imports by the reporting economy; residual  (% of total merchandise imports) - WDI,0.22317,0.1558125,0.13698,0.22317,6.2094536,0.25953323
+2718N: External Intervention - Fund for Peace,0371: Energy imports; net  (% of energy use) - WDI,0.22304,0.21633859,0.16537,0.21937,6.044394,-0.08186214
+2718N: External Intervention - Fund for Peace,0484: Deposit interest rate  (%) - WDI,0.22273,0.19198486,0.1582,0.21947,6.044394,0.17534289
+2718N: External Intervention - Fund for Peace,0791: GDP deflator  (base year varies by country) - WDI,0.22238,0.20984988,0.055339992,0.21968,6.2479277,0.11193804
+2718N: External Intervention - Fund for Peace,0701: Exports of goods and services  (constant LCU) - WDI,0.22233,0.22139159,0.13433,0.22233,6.087463,0.030633572
+2718N: External Intervention - Fund for Peace,0901: School enrollment; primary; male  (% gross) - WDI,0.22226,0.21985771,0.14462,0.21951,6.087463,0.049013197
+2718N: External Intervention - Fund for Peace,0289: Net official flows from UN agencies; UNDP  (current US$) - WDI,0.22218,0.10836077,0.05099,0.22218,5.9541965,0.33737105
+2718N: External Intervention - Fund for Peace,0587: Total tax rate  (% of commercial profits) - WDI,0.22206,0.19044398,0.17383999,0.22206,6.169925,0.17780894
+2718N: External Intervention - Fund for Peace,1385: Manufactures exports  (% of merchandise exports) - WDI,0.22097,0.087207764,0.107030004,0.21811,6.087463,-0.3657352
+2718N: External Intervention - Fund for Peace,0420: CO2 emissions from electricity and heat production; total  (% of total fuel combustion) - WDI,0.22071,0.19736075,0.1618,0.21729,6.044394,-0.15280457
+2718N: External Intervention - Fund for Peace,0441: Total fisheries production  (metric tons) - WDI,0.21963,0.20256911,0.11355,0.21963,6.2479277,-0.13061734
+2718N: External Intervention - Fund for Peace,1137: Employment to population ratio; ages 15-24; female (%)  (modeled ILO estimate) - WDI,0.21957,0.21883126,0.10936999,0.21957,6.2094536,-0.027179742
+2718N: External Intervention - Fund for Peace,0748: Industry; value added  (% of GDP) - WDI,0.21931,0.1852404,0.07959001,0.21662,6.169925,-0.18457952
+2718N: External Intervention - Fund for Peace,0358: Electricity production from coal sources  (% of total) - WDI,0.21901,0.1920582,0.08979,0.21603,6.044394,-0.16416998
+2718N: External Intervention - Fund for Peace,0578: Time required to start a business  (days) - WDI,0.21873,0.19074617,0.12407,0.21873,6.169925,0.16728367
+2718N: External Intervention - Fund for Peace,0709: Gross fixed capital formation  (constant LCU) - WDI,0.21864,0.2170742,0.16213,0.21542,6.087463,0.039570138
+2718N: External Intervention - Fund for Peace,1209: Labor force participation rate; total (% of total population ages 15-64)  (modeled ILO estimate) - WDI,0.21776,0.17138252,0.13198999,0.21573,6.2479277,-0.21535431
+2718N: External Intervention - Fund for Peace,0423: CO2 emissions from transport  (% of total fuel combustion) - WDI,0.21711,0.19501853,0.14952,0.2136,6.044394,0.14863195
+2718N: External Intervention - Fund for Peace,1387: Merchandise exports to economies in the Arab World  (% of total merchandise exports) - WDI,0.21659,0.17343019,0.11371,0.21386,6.2094536,0.2077494
+2718N: External Intervention - Fund for Peace,0375: Alternative and nuclear energy  (% of total energy use) - WDI,0.21581,0.13731676,0.11443,0.21241,6.044394,-0.28016645
+2718N: External Intervention - Fund for Peace,0439: Aquaculture production  (metric tons) - WDI,0.21508,0.20671998,0.14795999,0.21174,6.2094536,-0.09143309
+2718N: External Intervention - Fund for Peace,1381: Food exports  (% of merchandise exports) - WDI,0.21502,0.14478567,0.11934,0.21199,6.087463,0.2650176
+2718N: External Intervention - Fund for Peace,0007: Arable land  (hectares per person) - WDI,0.21496,0.18663076,0.17171,0.21496,6.2479277,-0.16831292
+2718N: External Intervention - Fund for Peace,1234: Unemployment; youth female (% of female labor force ages 15-24)  (modeled ILO estimate) - WDI,0.21486,0.21440326,0.15581,0.21486,6.2094536,0.021371638
+2718N: External Intervention - Fund for Peace,0795: Gross value added at factor cost  (current LCU) - WDI,0.2148,0.21284255,0.15202999,0.2148,5.807355,0.04424298
+2718N: External Intervention - Fund for Peace,0831: GNI per capita  (current LCU) - WDI,0.21473,0.20900857,0.15994999,0.21209,6.2479277,0.07564007
+2718N: External Intervention - Fund for Peace,0635: Mobile cellular subscriptions - WDI,0.21403,0.18771999,0.12326,0.21403,6.2479277,-0.16220362
+2718N: External Intervention - Fund for Peace,0482: Inflation; consumer prices  (annual %) - WDI,0.21263,0.21203625,0.07415001,0.21004,6.2094536,0.024367018
+2718N: External Intervention - Fund for Peace,1358: Manufactures imports  (% of merchandise imports) - WDI,0.21212,0.08941731,0.100439996,0.20899,6.087463,-0.35028943
+2718N: External Intervention - Fund for Peace,0943: Secondary education; pupils - WDI,0.21045,0.2011846,0.16475,0.21045,6.0,-0.09625691
+2718N: External Intervention - Fund for Peace,1104: Health expenditure; total  (% of GDP) - WDI,0.21014,0.114775285,0.023990005,0.21014,6.2479277,-0.30881178
+2718N: External Intervention - Fund for Peace,1154: Employment to population ratio; 15+; total (%)  (modeled ILO estimate) - WDI,0.20977,0.20360516,0.12869,0.20977,6.2094536,0.0785165
+2718N: External Intervention - Fund for Peace,0377: Energy use (kg of oil equivalent) per $1;000 GDP  (constant 2011 PPP) - WDI,0.2092,0.1663574,0.13672999,0.20584,6.044394,0.20698455
+2718N: External Intervention - Fund for Peace,0046: Current account balance  (% of GDP) - WDI,0.20905,0.20127335,0.08556,0.20611,6.169925,-0.088185266
+2718N: External Intervention - Fund for Peace,1386: Ores and metals exports  (% of merchandise exports) - WDI,0.20865,0.19146167,0.13369998,0.20865,6.044394,0.13110425
+2718N: External Intervention - Fund for Peace,0772: Adjusted savings: particulate emission damage  (current US$) - WDI,0.20816,0.15291488,0.120009996,0.20816,6.2094536,-0.23504281
+2718N: External Intervention - Fund for Peace,0724: Imports of goods and services  (constant LCU) - WDI,0.20729,0.2062392,0.15094,0.20729,6.087463,0.03241598
+2718N: External Intervention - Fund for Peace,0744: Industry; value added  (current LCU) - WDI,0.20682,0.2051146,0.15035,0.20682,6.169925,0.041296396
+2718N: External Intervention - Fund for Peace,0845: Net taxes on products  (current LCU) - WDI,0.20649,0.20435847,0.14400999,0.20649,6.044394,0.046168473
+2718N: External Intervention - Fund for Peace,0040: Travel services  (% of service imports; BoP) - WDI,0.20573,0.19324927,0.14371,0.20573,6.129283,-0.11171724
+2718N: External Intervention - Fund for Peace,0702: Exports of goods and services  (% of GDP) - WDI,0.2052,0.107327506,0.09895,0.2025,6.2094536,-0.3128458
+2718N: External Intervention - Fund for Peace,0370: GDP per unit of energy use  (constant 2011 PPP $ per kg of oil equivalent) - WDI,0.20477,0.20367168,0.13147,0.20183,6.044394,-0.033140887
+2718N: External Intervention - Fund for Peace,1393: Merchandise exports to low- and middle-income economies in Latin America & the Caribbean  (% of total merchandise exports) - WDI,0.2045,0.19972406,0.08438001,0.20187,6.129283,-0.06910821
+2718N: External Intervention - Fund for Peace,0314: Net official development assistance and official aid received  (current US$) - WDI,0.20445,0.118564956,0.123069994,0.20107,6.0,0.2930615
+2718N: External Intervention - Fund for Peace,0315: Net official development assistance and official aid received  (constant 2013 US$) - WDI,0.20423,0.1196935,0.12248,0.20124,6.0,0.2907516
+2718N: External Intervention - Fund for Peace,0024: Cereal production  (metric tons) - WDI,0.20392,0.16571957,0.13779001,0.20392,6.2094536,-0.19544932
+2718N: External Intervention - Fund for Peace,0057: Grants; excluding technical cooperation  (BoP; current US$) - WDI,0.20378,0.110062964,0.12177999,0.20057,6.0,0.30613238
+2718N: External Intervention - Fund for Peace,0656: Military expenditure  (current LCU) - WDI,0.20346,0.1996162,0.120349996,0.20032,6.129283,0.0619984
+2718N: External Intervention - Fund for Peace,1374: Computer; communications and other services  (% of commercial service imports) - WDI,0.20329,0.0839818,0.06973,0.20329,6.129283,-0.3454102
+2718N: External Intervention - Fund for Peace,0318: Net official development assistance received  (current US$) - WDI,0.20264,0.11701358,0.12162,0.19925,6.0,0.2926199
+2718N: External Intervention - Fund for Peace,0321: Net official development assistance received  (constant 2013 US$) - WDI,0.20255,0.11827019,0.12105999,0.19955,6.0,0.29030985
+2718N: External Intervention - Fund for Peace,0422: CO2 emissions from other sectors; excluding residential buildings and commercial and public services  (% of total fuel combustion) - WDI,0.20161,0.1866948,0.122609995,0.19834,6.044394,0.1221278
+2718N: External Intervention - Fund for Peace,0742: Manufacturing; value added  (% of GDP) - WDI,0.20086,0.12038508,0.100899994,0.19799,6.129283,-0.283681
+2718N: External Intervention - Fund for Peace,0667: Household final consumption expenditure; etc.  (current LCU) - WDI,0.20063,0.1986978,0.12497,0.19803,6.169925,0.043956682
+2718N: External Intervention - Fund for Peace,0788: Exports as a capacity to import  (constant LCU) - WDI,0.20036,0.19922921,0.12505001,0.20036,6.087463,0.03362731
+2718N: External Intervention - Fund for Peace,1265: Refugee population by country or territory of asylum - WDI,0.20023,0.18841253,0.097710006,0.20023,6.129283,0.10870816
+2718N: External Intervention - Fund for Peace,0840: Gross savings  (% of GDP) - WDI,0.19991,0.1974542,0.11367,0.19665,6.087463,-0.049556088
+2718N: External Intervention - Fund for Peace,0673: Household final consumption expenditure  (current LCU) - WDI,0.19917,0.1972718,0.12376999,0.19617,6.169925,0.04356825
+2718N: External Intervention - Fund for Peace,0115: Net bilateral aid flows from DAC donors; United States  (current US$) - WDI,0.19896,0.079356305,0.104370005,0.19582,6.0,0.34583768
+2718N: External Intervention - Fund for Peace,1733: Crude oil production - TOT (KTOE) - OECD,0.19867,0.1941002,0.15687001,0.19867,6.0,-0.06760031
+2718N: External Intervention - Fund for Peace,0468: Net domestic credit  (current LCU) - WDI,0.19784,0.19763759,0.12737,0.19784,6.169925,-0.014227496
+2718N: External Intervention - Fund for Peace,1397: Merchandise exports by the reporting economy; residual  (% of total merchandise exports) - WDI,0.19743,0.1637983,0.10666,0.19743,6.2094536,0.18338947
+2718N: External Intervention - Fund for Peace,1100: Health expenditure; private  (% of GDP) - WDI,0.1974,0.15089235,0.12058,0.1974,6.2479277,0.21565636
+2718N: External Intervention - Fund for Peace,1236: Unemployment; youth male (% of male labor force ages 15-24)  (modeled ILO estimate) - WDI,0.19711,0.18832266,0.13622,0.19711,6.2094536,-0.09374075
+2718N: External Intervention - Fund for Peace,1377: Travel services  (% of commercial service imports) - WDI,0.19668,0.19147311,0.14972,0.19668,6.129283,-0.0721587
+2718N: External Intervention - Fund for Peace,0359: Electricity production from oil; gas and coal sources  (% of total) - WDI,0.19432,0.18692638,0.14547,0.19096,6.044394,0.08598612
+2718N: External Intervention - Fund for Peace,1401: Computer; communications and other services  (% of commercial service exports) - WDI,0.19358,0.15823382,0.108490005,0.19358,6.129283,-0.18800579
+2718N: External Intervention - Fund for Peace,0622: Overall level of statistical capacity  (scale 0 - 100) - WDI,0.19349,-0.051531166,0.030760005,0.19349,6.0,-0.49499613
+2718N: External Intervention - Fund for Peace,1206: Labor force participation rate for ages 15-24; total (%)  (modeled ILO estimate) - WDI,0.19332,0.19305588,0.13077,0.19075,6.2479277,-0.016252024
+2718N: External Intervention - Fund for Peace,0369: GDP per unit of energy use  (PPP $ per kg of oil equivalent) - WDI,0.19319,0.19198869,0.12577,0.19022,6.044394,-0.034659714
+2718N: External Intervention - Fund for Peace,0069: Transport services  (% of service exports; BoP) - WDI,0.19299,0.1852298,0.12716001,0.19299,6.129283,-0.088092044
+2718N: External Intervention - Fund for Peace,0838: Gross savings  (current LCU) - WDI,0.19293,0.19240184,0.13062,0.19004,6.087463,0.022981796
+2718N: External Intervention - Fund for Peace,0473: Broad money to total reserves ratio - WDI,0.19239,0.18513858,0.104849994,0.18905,6.087463,-0.0851552
+2718N: External Intervention - Fund for Peace,0816: Total natural resources rents  (% of GDP) - WDI,0.19221,0.15243027,0.08061001,0.19221,6.2094536,0.1994486
+2718N: External Intervention - Fund for Peace,1952: Number of neonatal deaths (thousands) - WHO,0.19117,0.18765372,0.06428,0.19062,6.2479277,0.059298348
+2718N: External Intervention - Fund for Peace,0807: Natural gas rents  (% of GDP) - WDI,0.19112,0.18943182,0.0952,0.19112,6.169925,-0.04108741
+2718N: External Intervention - Fund for Peace,1406: Travel services  (% of commercial service exports) - WDI,0.19103,0.1222937,0.08187,0.19103,6.129283,0.26217607
+2718N: External Intervention - Fund for Peace,1102: Health expenditure; public  (% of government expenditure) - WDI,0.19055,0.06742279,0.04546,0.19055,6.2479277,-0.35089487
+2718N: External Intervention - Fund for Peace,0031: Communications; computer; etc.  (% of service imports; BoP) - WDI,0.19053,0.14398311,0.098670006,0.19053,6.129283,-0.2157473
+2718N: External Intervention - Fund for Peace,1395: Merchandise exports to low- and middle-income economies in South Asia  (% of total merchandise exports) - WDI,0.18985,0.13071227,0.124560006,0.18688,6.169925,0.24318251
+2718N: External Intervention - Fund for Peace,1390: Merchandise exports to low- and middle-income economies outside region  (% of total merchandise exports) - WDI,0.18964,0.18777563,0.09667,0.18673,6.129283,0.043178465
+2718N: External Intervention - Fund for Peace,0731: Agriculture; value added  (current US$) - WDI,0.18954,0.16693535,0.09211,0.18954,6.169925,-0.1503484
+2718N: External Intervention - Fund for Peace,0706: Gross fixed capital formation  (current LCU) - WDI,0.1892,0.18738529,0.12386,0.18622,6.169925,0.042599477
+2718N: External Intervention - Fund for Peace,0478: Money and quasi money  to total reserves ratio (M2) - WDI,0.189,0.18270351,0.103549995,0.18612,6.087463,-0.07935042
+2718N: External Intervention - Fund for Peace,1238: Unemployment; youth total (% of total labor force ages 15-24)  (modeled ILO estimate) - WDI,0.18887,0.18593302,0.13603,0.18887,6.2094536,-0.054193817
+2718N: External Intervention - Fund for Peace,0755: Services; etc.; value added  (current LCU) - WDI,0.18835,0.18675333,0.12351001,0.18543,6.169925,0.039958365
+2718N: External Intervention - Fund for Peace,0698: Exports of goods and services  (current LCU) - WDI,0.1881,0.18691696,0.1347,0.18522,6.2094536,0.03439535
+2718N: External Intervention - Fund for Peace,0070: Travel services  (% of service exports; BoP) - WDI,0.18802,0.15107726,0.093210004,0.18802,6.129283,0.19220498
+2718N: External Intervention - Fund for Peace,0360: Electricity production from hydroelectric sources  (% of total) - WDI,0.18718,0.1620225,0.13417,0.18392,6.044394,0.15861115
+2718N: External Intervention - Fund for Peace,1139: Employment to population ratio; ages 15-24; male (%)  (modeled ILO estimate) - WDI,0.18626,0.17946772,0.13194999,0.18626,6.2094536,0.08241524
+2718N: External Intervention - Fund for Peace,0824: GNI  (current LCU) - WDI,0.18567,0.18438941,0.12812,0.18254,6.2479277,0.03578533
+2718N: External Intervention - Fund for Peace,0721: Imports of goods and services  (current LCU) - WDI,0.18539,0.18436502,0.12913999,0.18279,6.2094536,0.03201527
+2718N: External Intervention - Fund for Peace,0076: Personal transfers; receipts  (BoP; current US$) - WDI,0.1853,0.18464805,0.13628998,0.1853,5.9541965,-0.025533121
+2718N: External Intervention - Fund for Peace,1152: Employment to population ratio; 15+; male (%)  (modeled ILO estimate) - WDI,0.18527,0.14950791,0.10517,0.18527,6.2094536,0.18910864
+2718N: External Intervention - Fund for Peace,0114: Net bilateral aid flows from DAC donors; Total  (current US$) - WDI,0.18492,0.11402038,0.11762,0.18165,6.0,0.26626983
+2718N: External Intervention - Fund for Peace,0801: GDP  (current LCU) - WDI,0.18487,0.18366936,0.12645,0.18194,6.2479277,0.034650277
+2718N: External Intervention - Fund for Peace,0688: Final consumption expenditure  (current LCU) - WDI,0.18473,0.18295287,0.11704999,0.18215,6.169925,0.042155918
+2718N: External Intervention - Fund for Peace,0064: Insurance and financial services  (% of service exports; BoP) - WDI,0.18467,0.115800396,0.057099998,0.18177,6.087463,-0.2624302
+2718N: External Intervention - Fund for Peace,0850: Terms of trade adjustment  (constant LCU) - WDI,0.18455,0.1825758,0.14419,0.18455,6.087463,0.0444319
+2718N: External Intervention - Fund for Peace,1380: Agricultural raw materials exports  (% of merchandise exports) - WDI,0.18367,0.1390557,0.120179996,0.18367,6.044394,0.211221
+2718N: External Intervention - Fund for Peace,1384: Insurance and financial services  (% of commercial service exports) - WDI,0.18337,0.13112302,0.05991999,0.17981,6.087463,-0.22857597
+2718N: External Intervention - Fund for Peace,0661: General government final consumption expenditure  (current LCU) - WDI,0.18207,0.17977427,0.13619,0.1791,6.169925,0.047913756
+2718N: External Intervention - Fund for Peace,1041: Immunization; measles  (% of children ages 12-23 months) - WDI,0.18187,-0.010645941,0.03801,0.18187,6.0,-0.4387664
+2718N: External Intervention - Fund for Peace,0792: Discrepancy in expenditure estimate of GDP  (current LCU) - WDI,0.18178,0.18119986,0.14737,0.1785,6.169925,0.024085904
+2718N: External Intervention - Fund for Peace,0787: Adjusted net savings; excluding particulate emission damage  (% of GNI) - WDI,0.18171,0.11839827,0.094960004,0.17836,6.044394,-0.25161824
+2718N: External Intervention - Fund for Peace,0682: Final consumption expenditure; etc.  (current LCU) - WDI,0.18145,0.1796158,0.11613999,0.18145,6.169925,0.042827487
+2718N: External Intervention - Fund for Peace,0914: School enrollment; primary; private  (% of total primary) - WDI,0.18139,0.18108667,0.13984,0.18139,6.0,0.01741628
+2718N: External Intervention - Fund for Peace,1360: Merchandise imports from economies in the Arab World  (% of total merchandise imports) - WDI,0.18075,0.11968742,0.10605,0.18075,6.169925,0.24710843
+2718N: External Intervention - Fund for Peace,1405: Transport services  (% of commercial service exports) - WDI,0.18049,0.1804668,0.12847,0.18049,6.129283,-0.0048174644
+2718N: External Intervention - Fund for Peace,0363: Electricity production from nuclear sources  (% of total) - WDI,0.18025,0.053317323,0.028340004,0.1785,6.044394,-0.35627612
+2718N: External Intervention - Fund for Peace,0665: General government final consumption expenditure  (% of GDP) - WDI,0.18007,0.17612249,0.084809996,0.17739,6.169925,-0.06282923
+2718N: External Intervention - Fund for Peace,0785: Adjusted net savings; including particulate emission damage  (% of GNI) - WDI,0.17999,0.105257824,0.08716999,0.17999,6.0,-0.27337185
+2718N: External Intervention - Fund for Peace,0469: Net foreign assets  (current LCU) - WDI,0.17916,0.17879432,0.12977,0.17916,6.169925,0.019122588
+2718N: External Intervention - Fund for Peace,0060: ICT service exports  (% of service exports; BoP) - WDI,0.17906,0.14112452,0.07068,0.17579,6.044394,-0.19477035
+2718N: External Intervention - Fund for Peace,0775: Adjusted savings: gross savings  (% of GNI) - WDI,0.17904,0.13098523,0.08789,0.17629,6.087463,-0.21921399
+2718N: External Intervention - Fund for Peace,0839: Gross savings  (% of GNI) - WDI,0.17904,0.13098523,0.08789,0.17629,6.087463,-0.21921399
+2718N: External Intervention - Fund for Peace,0715: Gross capital formation  (current LCU) - WDI,0.17745,0.17563805,0.11868,0.17745,6.169925,0.04256708
+2718N: External Intervention - Fund for Peace,0471: Broad money  (current LCU) - WDI,0.17732,0.17660329,0.12560001,0.17732,6.087463,-0.026771437
+2718N: External Intervention - Fund for Peace,0693: Gross national expenditure  (current LCU) - WDI,0.1754,0.17388646,0.1135,0.17268,6.2094536,0.0389042
+2718N: External Intervention - Fund for Peace,0546: Public credit registry coverage  (% of adults) - WDI,0.17525,0.11709275,0.073599994,0.17525,6.169925,-0.24115813
+2718N: External Intervention - Fund for Peace,0712: Changes in inventories  (current LCU) - WDI,0.17523,0.17259663,0.13503,0.17204,6.129283,0.051316336
+2718N: External Intervention - Fund for Peace,0476: Money and quasi money (M2)  (current LCU) - WDI,0.17443,0.17422809,0.121549994,0.17443,6.087463,-0.014209469
+2718N: External Intervention - Fund for Peace,1392: Merchandise exports to low- and middle-income economies in Europe & Central Asia  (% of total merchandise exports) - WDI,0.17257,0.14474517,0.101320006,0.16727,5.97728,0.16680776
+2718N: External Intervention - Fund for Peace,0481: Consumer price index  (2010 = 100) - WDI,0.17255,0.17216857,0.12629999,0.17255,6.169925,0.019529969
+2718N: External Intervention - Fund for Peace,0757: Services; etc.; value added  (annual % growth) - WDI,0.17219,0.14032714,0.07943,0.16927,6.169925,0.17850168
+2718N: External Intervention - Fund for Peace,0487: Real interest rate  (%) - WDI,0.17218,0.14199921,0.08858,0.16841,5.9541965,0.17372617
+2718N: External Intervention - Fund for Peace,1355: Fuel imports  (% of merchandise imports) - WDI,0.17211,0.1569152,0.11816001,0.16885,6.087463,0.12326719
+2718N: External Intervention - Fund for Peace,1394: Merchandise exports to low- and middle-income economies in Middle East & North Africa  (% of total merchandise exports) - WDI,0.17181,0.15215889,0.09808,0.16905,6.2094536,0.14018242
+2718N: External Intervention - Fund for Peace,0774: Adjusted savings: natural resources depletion  (% of GNI) - WDI,0.1718,0.12877044,0.05856,0.1718,6.169925,0.2074357
+2718N: External Intervention - Fund for Peace,0464: Total reserves in months of imports - WDI,0.17103,0.1612988,0.038210005,0.1679,6.169925,0.09864689
+2718N: External Intervention - Fund for Peace,0663: General government final consumption expenditure  (annual % growth) - WDI,0.17089,0.16521122,0.09961,0.16785,6.087463,0.07535777
+2718N: External Intervention - Fund for Peace,1141: Employment to population ratio; ages 15-24; total (%)  (modeled ILO estimate) - WDI,0.17064,0.17023917,0.10873,0.17064,6.2094536,0.02002107
+2718N: External Intervention - Fund for Peace,1097: Out-of-pocket health expenditure  (% of private expenditure on health) - WDI,0.17051,0.14689855,0.105969995,0.17051,6.2479277,0.15366015
+2718N: External Intervention - Fund for Peace,1364: Merchandise imports from low- and middle-income economies in East Asia & Pacific  (% of total merchandise imports) - WDI,0.16972,0.14945601,0.111719996,0.16972,6.044394,0.14235161
+2718N: External Intervention - Fund for Peace,1363: Merchandise imports from low- and middle-income economies outside region  (% of total merchandise imports) - WDI,0.16921,0.16598263,0.104040004,0.16921,6.129283,0.056809958
+2718N: External Intervention - Fund for Peace,0790: Inflation; GDP deflator  (annual %) - WDI,0.16839,0.12684065,0.06931001,0.16575,6.2479277,0.20383659
+2718N: External Intervention - Fund for Peace,1215: Labor force participation rate; male (% of male population ages 15+)  (modeled ILO estimate) - WDI,0.16833,0.114464715,0.081690006,0.16655,6.2479277,0.23208897
+2718N: External Intervention - Fund for Peace,1366: Merchandise imports from low- and middle-income economies in Latin America & the Caribbean  (% of total merchandise imports) - WDI,0.16825,0.16821608,0.10094,0.16491,6.129283,-0.00582393
+2718N: External Intervention - Fund for Peace,0842: Net income from abroad  (current LCU) - WDI,0.16789,0.16761093,0.10147,0.16524,6.2094536,-0.016705152
+2718N: External Intervention - Fund for Peace,0058: Technical cooperation grants  (BoP; current US$) - WDI,0.1674,0.1673551,0.12295,0.16371,6.0,-0.0067009567
+2718N: External Intervention - Fund for Peace,0034: Insurance and financial services  (% of service imports; BoP) - WDI,0.16711,0.1619147,0.12538,0.16711,6.129283,-0.07207835
+2718N: External Intervention - Fund for Peace,0421: CO2 emissions from manufacturing industries and construction  (% of total fuel combustion) - WDI,0.16701,0.1666388,0.110379994,0.16407,6.044394,0.019266281
+2718N: External Intervention - Fund for Peace,1327: Merchandise trade  (% of GDP) - WDI,0.16643,0.12513734,0.09698,0.16359,6.2479277,-0.20320594
+2718N: External Intervention - Fund for Peace,0713: Changes in inventories  (constant LCU) - WDI,0.16606,0.1660238,0.12607,0.16606,6.0,-0.006016107
+2718N: External Intervention - Fund for Peace,1320: International tourism; receipts  (% of total exports) - WDI,0.16554,0.12753448,0.09267999,0.16249,6.169925,0.19495001
+2718N: External Intervention - Fund for Peace,0419: CO2 emissions from residential buildings and commercial and public services  (% of total fuel combustion) - WDI,0.16514,0.15003498,0.10063,0.16139,6.044394,-0.1229025
+2718N: External Intervention - Fund for Peace,0097: Net bilateral aid flows from DAC donors; France  (current US$) - WDI,0.16487,0.16429298,0.11531,0.16487,5.9541965,0.024021279
+2718N: External Intervention - Fund for Peace,1204: Labor force participation rate for ages 15-24; male (%)  (modeled ILO estimate) - WDI,0.16397,0.16074103,0.114439994,0.16162,6.2479277,0.05682395
+2718N: External Intervention - Fund for Peace,0475: Money  (current LCU) - WDI,0.16383,0.16136092,0.1195,0.1603,6.087463,-0.049689885
+2718N: External Intervention - Fund for Peace,0793: Discrepancy in expenditure estimate of GDP  (constant LCU) - WDI,0.1637,0.16187564,0.13288,0.1637,6.0,0.042712647
+2718N: External Intervention - Fund for Peace,0771: Adjusted savings: energy depletion  (% of GNI) - WDI,0.16356,0.16200538,0.1071,0.16356,6.2094536,0.03942875
+2718N: External Intervention - Fund for Peace,0725: Imports of goods and services  (% of GDP) - WDI,0.16282,0.16279192,0.13362,0.1601,6.2094536,0.005298496
+2718N: External Intervention - Fund for Peace,1040: Immunization; DPT  (% of children ages 12-23 months) - WDI,0.16215,-0.017600343,0.028809994,0.16215,4.4594316,-0.42396975
+2718N: External Intervention - Fund for Peace,1208: Labor force participation rate; male (% of male population ages 15-64)  (modeled ILO estimate) - WDI,0.16062,0.14660423,0.118750006,0.15889,6.2479277,-0.11838825
+2718N: External Intervention - Fund for Peace,0770: Adjusted savings: energy depletion  (current US$) - WDI,0.1602,0.12946159,0.09866,0.1602,6.2479277,-0.17532372
+2718N: External Intervention - Fund for Peace,0474: Broad money growth  (annual %) - WDI,0.15957,0.11792992,0.11613999,0.15679,6.087463,0.20405899
+2718N: External Intervention - Fund for Peace,0717: Gross capital formation  (annual % growth) - WDI,0.15929,0.14933828,0.119430006,0.15574,6.087463,0.09975834
+2718N: External Intervention - Fund for Peace,1365: Merchandise imports from low- and middle-income economies in Europe & Central Asia  (% of total merchandise imports) - WDI,0.15911,0.09186927,0.05167999,0.15911,5.9541965,0.25930816
+2718N: External Intervention - Fund for Peace,0763: Adjusted savings: carbon dioxide damage  (% of GNI) - WDI,0.15902,0.1538068,0.041989997,0.15902,6.169925,0.07220252
+2718N: External Intervention - Fund for Peace,0826: GNI growth  (annual %) - WDI,0.15883,0.13910015,0.07968,0.15568,6.087463,0.14046301
+2718N: External Intervention - Fund for Peace,0466: Claims on central government  (annual growth as % of broad money) - WDI,0.1582,0.15819962,0.117079996,0.15538,6.087463,6.0994783E-4
+2718N: External Intervention - Fund for Peace,0621: Methodology assessment of statistical capacity  (scale 0 - 100) - WDI,0.15759,-0.09540242,0.037880003,0.15759,5.857981,-0.5029835
+2718N: External Intervention - Fund for Peace,0669: Household final consumption expenditure; etc.  (annual % growth) - WDI,0.15736,0.14970224,0.0833,0.15736,6.044394,0.087508656
+2718N: External Intervention - Fund for Peace,0764: Adjusted savings: net forest depletion  (current US$) - WDI,0.15687,0.15680577,0.09777999,0.15687,6.2094536,0.00801378
+2718N: External Intervention - Fund for Peace,0090: Net bilateral aid flows from DAC donors; European Union institutions  (current US$) - WDI,0.1565,0.15275848,0.10005,0.15339,6.0,0.061167933
+2718N: External Intervention - Fund for Peace,0479: Money and quasi money growth  (annual %) - WDI,0.15582,0.118471205,0.111269996,0.15582,6.087463,0.19325836
+2718N: External Intervention - Fund for Peace,0579: Start-up procedures to register a business  (number) - WDI,0.1556,0.061560556,0.016489998,0.1556,5.643856,0.3066585
+2718N: External Intervention - Fund for Peace,1357: Insurance and financial services  (% of commercial service imports) - WDI,0.15515,0.152138,0.12243,0.15515,6.129283,-0.05488166
+2718N: External Intervention - Fund for Peace,0730: Trade  (% of GDP) - WDI,0.15492,0.12597503,0.10149,0.15232,6.2094536,-0.1701322
+2718N: External Intervention - Fund for Peace,0768: Adjusted savings: mineral depletion  (current US$) - WDI,0.15467,0.123957835,0.08158,0.15467,6.2479277,-0.17524886
+2718N: External Intervention - Fund for Peace,0684: Final consumption expenditure; etc.  (annual % growth) - WDI,0.15438,0.13991003,0.06937999,0.15128,6.087463,0.12029119
+2718N: External Intervention - Fund for Peace,0657: Military expenditure  (% of GDP) - WDI,0.15284,0.14172707,0.11501001,0.15016,6.129283,0.10541788
+2718N: External Intervention - Fund for Peace,0719: Gross capital formation  (% of GDP) - WDI,0.15209,0.15091884,0.09699,0.15209,6.169925,-0.034222193
+2718N: External Intervention - Fund for Peace,1379: Export volume index  (2000 = 100) - WDI,0.1514,0.14879869,0.06952,0.14904,6.2479277,0.051003054
+2718N: External Intervention - Fund for Peace,0777: Adjusted savings: net national savings  (% of GNI) - WDI,0.15124,0.15115885,0.10904001,0.14844,6.087463,-0.009008201
+2718N: External Intervention - Fund for Peace,0708: Gross fixed capital formation  (annual % growth) - WDI,0.15049,0.13883929,0.09885,0.15049,6.044394,0.107938476
+2718N: External Intervention - Fund for Peace,1326: International tourism; expenditures  (% of total imports) - WDI,0.14982,0.14964792,0.08538,0.14693,6.169925,0.013117623
+2718N: External Intervention - Fund for Peace,0799: Mineral rents  (% of GDP) - WDI,0.14925,0.13890854,0.0867,0.14683,6.2479277,0.10169303
+2718N: External Intervention - Fund for Peace,0093: Net bilateral aid flows from DAC donors; Germany  (current US$) - WDI,0.14901,0.14214684,0.08996,0.14901,5.9541965,0.082844175
+2718N: External Intervention - Fund for Peace,1378: Net barter terms of trade index  (2000 = 100) - WDI,0.14803,0.14544597,0.094119996,0.1454,6.2479277,0.0508333
+2718N: External Intervention - Fund for Peace,0769: Adjusted savings: mineral depletion  (% of GNI) - WDI,0.1479,0.13567704,0.08936,0.14539,6.2479277,0.110557534
+2718N: External Intervention - Fund for Peace,1353: Agricultural raw materials imports  (% of merchandise imports) - WDI,0.14624,0.1441691,0.116189994,0.14624,6.044394,0.045507047
+2718N: External Intervention - Fund for Peace,0678: Household final consumption expenditure per capita growth  (annual %) - WDI,0.14602,0.142141,0.07708,0.1425,6.044394,0.06228163
+2718N: External Intervention - Fund for Peace,0746: Industry; value added  (annual % growth) - WDI,0.14601,0.12509444,0.10221,0.1435,6.169925,0.14462209
+2718N: External Intervention - Fund for Peace,1255: Unemployment; female (% of female labor force)  (modeled ILO estimate) - WDI,0.14571,0.1345043,0.09808001,0.14571,6.2094536,0.10585698
+2718N: External Intervention - Fund for Peace,0710: Gross fixed capital formation  (% of GDP) - WDI,0.14538,0.14274338,0.08318001,0.14306,6.169925,-0.051348105
+2718N: External Intervention - Fund for Peace,0734: Agriculture; value added  (annual % growth) - WDI,0.14316,0.13985094,0.11285,0.14029,6.169925,0.05752437
+2718N: External Intervention - Fund for Peace,1367: Merchandise imports from low- and middle-income economies in Middle East & North Africa  (% of total merchandise imports) - WDI,0.14315,0.1049732,0.08714,0.14056,6.2094536,0.19538887
+2718N: External Intervention - Fund for Peace,0780: Adjusted net national income  (annual % growth) - WDI,0.1429,0.1360028,0.082710005,0.1429,6.044394,0.08304944
+2718N: External Intervention - Fund for Peace,1373: Import value index  (2000 = 100) - WDI,0.14179,0.102114275,0.05162,0.13929,6.2479277,0.19918767
+2718N: External Intervention - Fund for Peace,1771: Primary energy supply - TOT (TOE_1000USD) - OECD,0.14157,0.12144698,0.072330005,0.14157,6.0,0.14185563
+2718N: External Intervention - Fund for Peace,2773: Merchandise trade-Exports-Total merchandise (Volume index - Previous year = 100) - WTO,0.14153,0.13965522,0.10701001,0.13941,6.2479277,0.04329888
+2718N: External Intervention - Fund for Peace,0675: Household final consumption expenditure  (annual % growth) - WDI,0.14122,0.13224763,0.072270006,0.13842,6.087463,0.094722666
+2718N: External Intervention - Fund for Peace,0803: GDP growth  (annual %) - WDI,0.14086,0.12645875,0.073740005,0.13814,6.2479277,0.12000523
+2718N: External Intervention - Fund for Peace,0061: Communications; computer; etc.  (% of service exports; BoP) - WDI,0.14073,0.14046255,0.09067999,0.14073,6.129283,-0.016353935
+2718N: External Intervention - Fund for Peace,1400: Export value index  (2000 = 100) - WDI,0.13971,0.13186221,0.067949995,0.1374,6.2479277,0.08858771
+2718N: External Intervention - Fund for Peace,0700: Exports of goods and services  (annual % growth) - WDI,0.13814,0.13189156,0.10148999,0.13814,6.087463,0.07904702
+2718N: External Intervention - Fund for Peace,0783: Adjusted net national income per capita  (annual % growth) - WDI,0.13764,0.13484906,0.09303,0.13764,6.044394,0.05282936
+2718N: External Intervention - Fund for Peace,0030: Trade in services  (% of GDP) - WDI,0.13725,0.13605396,0.10660001,0.13725,6.129283,-0.0345839
+2718N: External Intervention - Fund for Peace,0027: Livestock production index  (2004-2006 = 100) - WDI,0.13687,0.11122743,0.042379998,0.13687,6.2479277,0.16013296
+2718N: External Intervention - Fund for Peace,2774: Merchandise trade-Imports-Total merchandise (Unit value index - Prev. year = 100) - WTO,0.13684,0.1318625,0.11558,0.13506,6.2479277,0.07055133
+2718N: External Intervention - Fund for Peace,0833: GNI per capita growth  (annual %) - WDI,0.13452,0.12666738,0.07324,0.1314,6.087463,0.08861494
+2718N: External Intervention - Fund for Peace,0811: GDP per capita growth  (annual %) - WDI,0.13383,0.1301059,0.08452,0.13119,6.2479277,0.061025426
+2718N: External Intervention - Fund for Peace,0624: Source data assessment of statistical capacity  (scale 0 - 100) - WDI,0.13328,-0.037475586,0.015040003,0.13328,4.321928,-0.41322583
+2718N: External Intervention - Fund for Peace,0025: Crop production index  (2004-2006 = 100) - WDI,0.13304,0.11420657,0.09617999,0.13304,6.2479277,0.13723494
+2718N: External Intervention - Fund for Peace,0026: Food production index  (2004-2006 = 100) - WDI,0.13045,0.103087515,0.06138,0.13045,6.2479277,0.16541608
+2718N: External Intervention - Fund for Peace,0723: Imports of goods and services  (annual % growth) - WDI,0.1271,0.12423299,0.09120001,0.1271,6.087463,0.05354449
+2718N: External Intervention - Fund for Peace,0470: Claims on private sector  (annual growth as % of broad money) - WDI,0.12631,0.12600708,0.10622001,0.12631,6.087463,-0.017404655
+2718N: External Intervention - Fund for Peace,1259: Unemployment; total (% of total labor force)  (modeled ILO estimate) - WDI,0.12538,0.12279814,0.08333999,0.12538,6.2094536,0.05081197
+2718N: External Intervention - Fund for Peace,1328: Import volume index  (2000 = 100) - WDI,0.12458,0.09708962,0.03977,0.12219,6.2479277,0.16580224
+2718N: External Intervention - Fund for Peace,0489: Claims on central government; etc.  (% GDP) - WDI,0.12323,0.12310184,0.08708,0.12323,6.169925,0.011320994
+2718N: External Intervention - Fund for Peace,0540: Business extent of disclosure index  (0=less disclosure to 10=more disclosure) - WDI,0.11707,0.04603134,0.039529998,0.11707,4.5849624,-0.26653078
+2718N: External Intervention - Fund for Peace,0740: Manufacturing; value added  (annual % growth) - WDI,0.11574,0.109717846,0.09032,0.1131,6.129283,0.077602535
+2718N: External Intervention - Fund for Peace,0589: Procedures to build a warehouse  (number) - WDI,0.11521,0.09989949,0.0366,0.10666,6.169925,0.123735614
+2718N: External Intervention - Fund for Peace,2775: Merchandise trade-Imports-Total merchandise (Value index - Previous year = 100) - WTO,0.1149,0.10750866,0.0808,0.1149,6.2479277,0.085972905
+2718N: External Intervention - Fund for Peace,0878: Compulsory education; duration  (years) - WDI,0.11278,-0.008549698,0.018069997,0.1094,5.3923173,-0.34832412
+2718N: External Intervention - Fund for Peace,1257: Unemployment; male (% of male labor force)  (modeled ILO estimate) - WDI,0.11173,0.11130552,0.07278,0.11173,6.2094536,0.020603038
+2718N: External Intervention - Fund for Peace,2772: Merchandise trade-Exports-Total merchandise (Value index - Previous year = 100) - WTO,0.11096,0.10834187,0.07873,0.11096,6.2479277,0.05116764
+2718N: External Intervention - Fund for Peace,0072: Foreign direct investment; net inflows  (% of GDP) - WDI,0.10997,0.10775738,0.087330006,0.10742,6.2479277,-0.04703849
+2718N: External Intervention - Fund for Peace,2771: Merchandise trade-Exports-Total merchandise (Unit value index - Prev. year = 100) - WTO,0.10649,0.10164884,0.08162,0.10457,6.2479277,0.06957845
+2718N: External Intervention - Fund for Peace,2776: Merchandise trade-Imports-Total merchandise (Volume index - Previous year = 100) - WTO,0.10638,0.10155933,0.07159,0.10432,6.2479277,0.06943104
+2718N: External Intervention - Fund for Peace,0789: Coal rents  (% of GDP) - WDI,0.10567,0.10562172,0.07093,0.10379,6.2479277,-0.006948306
+2718N: External Intervention - Fund for Peace,0623: Periodicity and timeliness assessment of statistical capacity  (scale 0 - 100) - WDI,0.09413,0.01927416,0.02457,0.09413,6.0,-0.27359796
+2718N: External Intervention - Fund for Peace,0576: Procedures to register property  (number) - WDI,0.07774,0.0019828752,0.021339998,0.07774,6.0,0.27524012
+2718N: External Intervention - Fund for Peace,1091: Tuberculosis treatment success rate  (% of new cases) - WDI,0.07314,0.056443192,0.030910004,0.06584,6.169925,0.12921615
+2718N: External Intervention - Fund for Peace,0883: Preprimary education; duration  (years) - WDI,0.05271,0.050963208,0.01873,0.04302,5.044394,0.041794628
+2718N: External Intervention - Fund for Peace,0895: Primary education; duration  (years) - WDI,0.04863,0.048625264,0.011519998,0.04144,5.044394,0.0021757341
+2718N: External Intervention - Fund for Peace,0938: Lower secondary school starting age  (years) - WDI,0.04767,0.046462476,0.0101,0.04024,5.7813597,0.034749452
+2718N: External Intervention - Fund for Peace,0942: Secondary education; duration  (years) - WDI,0.04599,0.04281361,0.011829998,0.03761,4.169925,-0.056359492
+2718N: External Intervention - Fund for Peace,0891: Primary school starting age  (years) - WDI,0.02827,0.025502123,0.014400001,0.02212,5.044394,0.05261062

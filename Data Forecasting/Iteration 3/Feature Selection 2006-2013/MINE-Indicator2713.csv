@@ -1,0 +1,635 @@
+X var,Y var,MIC (strength),MIC-p^2 (nonlinearity),MAS (non-monotonicity),MEV (functionality),MCN (complexity),Linear regression (p)
+2713N: Legitimacy of the State - Fund for Peace,2713: Legitimacy of the State - Fund for Peace,0.83035,-0.1283015,0.015439987,0.83035,3.321928,0.9791075
+2713N: Legitimacy of the State - Fund for Peace,2715: Human Rights - Fund for Peace,0.62712,-0.1934743,0.039990008,0.62712,5.087463,0.9058666
+2713N: Legitimacy of the State - Fund for Peace,2706: Failed States Index Rank - Fund for Peace,0.62068,-0.14754254,0.05758995,0.61992,6.2479277,-0.876483
+2713N: Legitimacy of the State - Fund for Peace,2707: Failed States Index Total - Fund for Peace,0.61703,-0.24486327,0.03847003,0.61703,6.129283,0.9283821
+2713N: Legitimacy of the State - Fund for Peace,2717: Factionalized Elites - Fund for Peace,0.59143,-0.2034114,0.05028999,0.59143,5.087463,0.8915388
+2713N: Legitimacy of the State - Fund for Peace,2716: Security Apparatus - Fund for Peace,0.55116,-0.21476799,0.048270017,0.55116,5.2479277,0.8751731
+2713N: Legitimacy of the State - Fund for Peace,2704: Corruption perceptions index - Transparency,0.54978,-0.20999843,0.08288002,0.54978,6.2094536,-0.8716527
+2713N: Legitimacy of the State - Fund for Peace,0677: Household final consumption expenditure per capita  (constant 2005 US$) - WDI,0.52526,-0.12080908,0.075889975,0.52526,6.0,-0.8037842
+2713N: Legitimacy of the State - Fund for Peace,0782: Adjusted net national income per capita  (constant 2005 US$) - WDI,0.51851,-0.09146434,0.07933998,0.51851,5.9068904,-0.78100854
+2713N: Legitimacy of the State - Fund for Peace,0642: Secure Internet servers  (per 1 million people) - WDI,0.51221,0.08171648,0.055339992,0.51221,6.2094536,-0.65612006
+2713N: Legitimacy of the State - Fund for Peace,2708: Demographic Pressures - Fund for Peace,0.50695,-0.13464504,0.08041,0.50695,5.2479277,0.8009963
+2713N: Legitimacy of the State - Fund for Peace,0020: Land area  (sq. km) - WDI,0.49826,0.4972944,0.42284998,0.49826,6.2479277,-0.031073887
+2713N: Legitimacy of the State - Fund for Peace,1285: Life expectancy at birth; female  (years) - WDI,0.48567,0.094804615,0.05019,0.48567,5.087463,-0.6251923
+2713N: Legitimacy of the State - Fund for Peace,0832: GNI per capita  (constant 2005 US$) - WDI,0.48539,-0.10834879,0.07396999,0.48539,5.9541965,-0.77054447
+2713N: Legitimacy of the State - Fund for Peace,1098: Health expenditure per capita  (current US$) - WDI,0.48132,-0.11295745,0.041559994,0.48132,6.169925,-0.77089393
+2713N: Legitimacy of the State - Fund for Peace,0353: Agriculture value added per worker  (constant 2005 US$) - WDI,0.47347,0.061409682,0.059029996,0.47056,6.129283,-0.64191926
+2713N: Legitimacy of the State - Fund for Peace,2714: Public Services - Fund for Peace,0.47084,-0.19607493,0.038589984,0.47084,5.087463,0.8166486
+2713N: Legitimacy of the State - Fund for Peace,0028: Surface area  (sq. km) - WDI,0.46882,0.46753553,0.39322,0.46882,6.2479277,-0.03583971
+2713N: Legitimacy of the State - Fund for Peace,1099: Health expenditure per capita; PPP  (constant 2011 international $) - WDI,0.46011,-0.16271657,0.061130017,0.46011,6.2479277,-0.78919363
+2713N: Legitimacy of the State - Fund for Peace,0810: GDP per capita  (constant 2005 US$) - WDI,0.44636,-0.09209818,0.06548002,0.44379,6.2479277,-0.7337971
+2713N: Legitimacy of the State - Fund for Peace,1901: Fixed-broadband subscriptions per 100 inhabitants - ITU,0.44622,-0.19480965,0.027660012,0.44622,6.129283,-0.80064327
+2713N: Legitimacy of the State - Fund for Peace,0640: Fixed broadband subscriptions  (per 100 people) - WDI,0.44509,-0.19612128,0.028549999,0.44509,6.0,-0.8007567
+2713N: Legitimacy of the State - Fund for Peace,0781: Adjusted net national income per capita  (current US$) - WDI,0.43797,-0.14858797,0.044840008,0.43797,4.321928,-0.76587075
+2713N: Legitimacy of the State - Fund for Peace,1289: Survival to age 65; female  (% of cohort) - WDI,0.43644,0.111062616,0.034049988,0.43644,6.2479277,-0.5704186
+2713N: Legitimacy of the State - Fund for Peace,0454: Automated teller machines (ATMs)  (per 100;000 adults) - WDI,0.4355,-0.024374157,0.057390004,0.43277,6.169925,-0.6781402
+2713N: Legitimacy of the State - Fund for Peace,2711: Uneven Development - Fund for Peace,0.43231,-0.18010741,0.04653001,0.43231,5.087463,0.782571
+2713N: Legitimacy of the State - Fund for Peace,1028: Mortality rate; under-5  (per 1;000 live births) - WDI,0.43126,0.13409111,0.031309992,0.43126,6.129283,0.545132
+2713N: Legitimacy of the State - Fund for Peace,0456: Commercial bank branches  (per 100;000 adults) - WDI,0.42868,0.17092377,0.08761001,0.42567,6.2094536,-0.507697
+2713N: Legitimacy of the State - Fund for Peace,2718: External Intervention - Fund for Peace,0.42616,-0.1935102,0.04819998,0.42616,4.4594316,0.78719133
+2713N: Legitimacy of the State - Fund for Peace,0836: GNI per capita; PPP  (constant 2011 international $) - WDI,0.42537,0.063140094,0.06909001,0.42266,6.087463,-0.6018554
+2713N: Legitimacy of the State - Fund for Peace,0855: Price level ratio of PPP conversion factor  to market exchange rate (GDP) - WDI,0.42329,-0.20967072,0.04395002,0.42232,6.2479277,-0.7955883
+2713N: Legitimacy of the State - Fund for Peace,1286: Life expectancy at birth; total  (years) - WDI,0.42076,0.00995484,0.031190008,0.42076,5.087463,-0.64094085
+2713N: Legitimacy of the State - Fund for Peace,1283: Mortality rate; infant  (per 1;000 live births) - WDI,0.42016,0.07783425,0.02489999,0.42016,6.0,0.5850861
+2713N: Legitimacy of the State - Fund for Peace,1297: Population ages 65 and above  (% of total) - WDI,0.41802,-0.085611105,0.06346002,0.41802,6.2094536,-0.7096697
+2713N: Legitimacy of the State - Fund for Peace,0638: Fixed telephone subscriptions  (per 100 people) - WDI,0.41724,-0.13516119,0.067609996,0.41724,6.2479277,-0.74323696
+2713N: Legitimacy of the State - Fund for Peace,1025: Number of neonatal deaths - WDI,0.41675,0.40958443,0.15724,0.41675,6.2479277,0.08464971
+2713N: Legitimacy of the State - Fund for Peace,1898: Fixed-telephone subscriptions per 100 inhabitants - ITU,0.41524,-0.13562077,0.07023999,0.41351,6.2479277,-0.74219996
+2713N: Legitimacy of the State - Fund for Peace,1299: Age dependency ratio; old  (% of working-age population) - WDI,0.40756,-0.09768051,0.07462999,0.40756,6.2094536,-0.71080273
+2713N: Legitimacy of the State - Fund for Peace,0378: Combustible renewables and waste  (% of total energy) - WDI,0.40616,0.27402216,0.23014,0.40231,6.044394,0.3635077
+2713N: Legitimacy of the State - Fund for Peace,1049: Number of maternal deaths - WDI,0.40492,0.37911093,0.10927001,0.40492,6.2479277,0.16065201
+2713N: Legitimacy of the State - Fund for Peace,0490: Claims on other sectors of the domestic economy  (% of GDP) - WDI,0.40471,-0.093125224,0.061020017,0.40471,5.9541965,-0.7055744
+2713N: Legitimacy of the State - Fund for Peace,1051: Lifetime risk of maternal death  (%) - WDI,0.40178,0.22002782,0.04367,0.40178,6.2094536,0.42632404
+2713N: Legitimacy of the State - Fund for Peace,0814: GDP per capita; PPP  (constant 2011 international $) - WDI,0.40142,0.0861831,0.06332001,0.39854,6.2479277,-0.5614596
+2713N: Legitimacy of the State - Fund for Peace,0017: Forest area  (% of land area) - WDI,0.40133,0.39436963,0.35286,0.40133,6.2479277,-0.08342877
+2713N: Legitimacy of the State - Fund for Peace,0379: Electric power consumption  (kWh per capita) - WDI,0.40075,0.10635221,0.09990001,0.39706,6.044394,-0.54258436
+2713N: Legitimacy of the State - Fund for Peace,1050: Lifetime risk of maternal death  (1 in: rate varies by country) - WDI,0.399,-0.02113393,0.04057002,0.399,6.2094536,-0.6481774
+2713N: Legitimacy of the State - Fund for Peace,0830: GNI per capita; Atlas method  (current US$) - WDI,0.39646,-0.14829665,0.026980013,0.39646,5.857981,-0.7380763
+2713N: Legitimacy of the State - Fund for Peace,0643: Internet users  (per 100 people) - WDI,0.3964,-0.20449421,0.026760012,0.3964,6.2479277,-0.77517366
+2713N: Legitimacy of the State - Fund for Peace,1899: Percentage of Individuals using the Internet (%) - ITU,0.39606,-0.20257533,0.021010011,0.39606,6.2094536,-0.77371526
+2713N: Legitimacy of the State - Fund for Peace,1035: Improved water source  (% of population with access) - WDI,0.39134,0.09327319,0.048940003,0.3897,6.2479277,-0.54595494
+2713N: Legitimacy of the State - Fund for Peace,1031: Mortality rate; neonatal  (per 1;000 live births) - WDI,0.39106,0.019474,0.04069999,0.39106,6.2479277,0.60957855
+2713N: Legitimacy of the State - Fund for Peace,1167: GDP per person employed  (constant 2011 PPP $) - WDI,0.39048,0.12396568,0.06871998,0.39048,6.2094536,-0.51625025
+2713N: Legitimacy of the State - Fund for Peace,0004: Agricultural land  (sq. km) - WDI,0.38717,0.38689408,0.30738997,0.38717,6.2479277,-0.016610423
+2713N: Legitimacy of the State - Fund for Peace,0571: Time to import  (days) - WDI,0.38676,0.056063503,0.05092001,0.38676,6.2094536,0.57506216
+2713N: Legitimacy of the State - Fund for Peace,0808: GDP per capita  (current US$) - WDI,0.38495,-0.11970016,0.04339999,0.38495,4.70044,-0.71038735
+2713N: Legitimacy of the State - Fund for Peace,0953: School enrollment; secondary; female  (% gross) - WDI,0.38341,-0.014826208,0.06285,0.38341,5.9541965,-0.6310596
+2713N: Legitimacy of the State - Fund for Peace,1021: Number of infant deaths - WDI,0.38286,0.3696998,0.116349995,0.38286,6.2479277,0.11471795
+2713N: Legitimacy of the State - Fund for Peace,0553: Time to export  (days) - WDI,0.38228,0.07001343,0.055099994,0.38228,6.2094536,0.55880815
+2713N: Legitimacy of the State - Fund for Peace,1093: Incidence of tuberculosis  (per 100;000 people) - WDI,0.38172,0.26969802,0.065320015,0.38172,6.2479277,0.33469686
+2713N: Legitimacy of the State - Fund for Peace,0736: Agriculture; value added  (% of GDP) - WDI,0.38091,0.07880548,0.064720005,0.37778,6.169925,0.54964036
+2713N: Legitimacy of the State - Fund for Peace,1071: Maternal mortality ratio  (modeled estimate; per 100;000 live births) - WDI,0.38082,0.16916691,0.05059001,0.38082,6.2479277,0.4600577
+2713N: Legitimacy of the State - Fund for Peace,1287: Life expectancy at birth; male  (years) - WDI,0.38077,-0.040222824,0.025049984,0.38077,6.169925,-0.6488396
+2713N: Legitimacy of the State - Fund for Peace,0835: GNI per capita; PPP  (current international $) - WDI,0.37886,0.044180274,0.036379993,0.37886,6.2094536,-0.5785151
+2713N: Legitimacy of the State - Fund for Peace,0641: Secure Internet servers - WDI,0.37775,0.30765817,0.045479983,0.37775,6.044394,-0.26474866
+2713N: Legitimacy of the State - Fund for Peace,2719: Human Flight - Fund for Peace,0.37513,-0.1274836,0.04839,0.37513,5.2479277,0.7089525
+2713N: Legitimacy of the State - Fund for Peace,0952: School enrollment; secondary  (% gross) - WDI,0.37491,-0.027376205,0.055049986,0.37313,6.0,-0.63426036
+2713N: Legitimacy of the State - Fund for Peace,0759: Services; etc.; value added  (% of GDP) - WDI,0.37162,0.03904602,0.055040002,0.36888,6.169925,-0.5766923
+2713N: Legitimacy of the State - Fund for Peace,0460: Domestic credit to private sector by banks  (% of GDP) - WDI,0.37039,0.35638767,0.044480026,0.37039,6.169925,-0.11833138
+2713N: Legitimacy of the State - Fund for Peace,0016: Forest area  (sq. km) - WDI,0.37025,0.36929145,0.30822,0.37025,6.2479277,-0.030960301
+2713N: Legitimacy of the State - Fund for Peace,0773: Adjusted savings: particulate emission damage  (% of GNI) - WDI,0.36984,0.11906639,0.08778,0.36706,6.2094536,0.500773
+2713N: Legitimacy of the State - Fund for Peace,2710: Group Grievance - Fund for Peace,0.36741,-0.20304364,0.019990027,0.36741,5.2479277,0.75528383
+2713N: Legitimacy of the State - Fund for Peace,1023: Number of under-five deaths - WDI,0.36672,0.35136953,0.10016999,0.36672,6.2479277,0.12389699
+2713N: Legitimacy of the State - Fund for Peace,0954: School enrollment; secondary; male  (% gross) - WDI,0.36561,-0.034716755,0.04852,0.36561,5.9541965,-0.6327138
+2713N: Legitimacy of the State - Fund for Peace,0813: GDP per capita; PPP  (current international $) - WDI,0.36422,0.051401705,0.03272,0.36185,6.2479277,-0.5593016
+2713N: Legitimacy of the State - Fund for Peace,1433: Air and GHG emissions - CO2 (TONNE_CAP) - OECD,0.36343,0.24126522,0.110520005,0.36343,6.0,-0.34952077
+2713N: Legitimacy of the State - Fund for Peace,1034: Improved water source; urban  (% of urban population with access) - WDI,0.36323,0.14660864,0.034429997,0.35993,6.2479277,-0.465426
+2713N: Legitimacy of the State - Fund for Peace,1033: Improved water source; rural  (% of rural population with access) - WDI,0.36205,0.050700992,0.086600006,0.36031,6.2479277,-0.55798656
+2713N: Legitimacy of the State - Fund for Peace,1310: Rural population - WDI,0.36101,0.35803333,0.24622,0.36101,6.2479277,0.054558843
+2713N: Legitimacy of the State - Fund for Peace,1300: Age dependency ratio; young  (% of working-age population) - WDI,0.3581,0.033126354,0.059470013,0.3581,6.2479277,0.5700646
+2713N: Legitimacy of the State - Fund for Peace,1295: Population ages 0-14  (% of total) - WDI,0.35742,-0.019059002,0.047940016,0.35742,6.2479277,0.61357886
+2713N: Legitimacy of the State - Fund for Peace,0010: Permanent cropland  (% of land area) - WDI,0.35634,0.3397065,0.27289,0.35634,6.2479277,0.12897085
+2713N: Legitimacy of the State - Fund for Peace,1278: Birth rate; crude  (per 1;000 people) - WDI,0.35525,0.0077486634,0.059960008,0.35525,6.2479277,0.58949244
+2713N: Legitimacy of the State - Fund for Peace,0380: Energy use  (kg of oil equivalent per capita) - WDI,0.35517,0.18875788,0.07021999,0.35517,5.9541965,-0.40793642
+2713N: Legitimacy of the State - Fund for Peace,0006: Arable land  (hectares) - WDI,0.35189,0.35031745,0.26060998,0.35189,6.2479277,-0.039655477
+2713N: Legitimacy of the State - Fund for Peace,1383: ICT goods exports  (% of total goods exports) - WDI,0.35148,0.30679563,0.102390006,0.34809,6.044394,-0.21138678
+2713N: Legitimacy of the State - Fund for Peace,0574: Time required to enforce a contract  (days) - WDI,0.3498,0.30210856,0.25621998,0.3498,6.169925,0.21838367
+2713N: Legitimacy of the State - Fund for Peace,0761: Adjusted savings: education expenditure  (% of GNI) - WDI,0.34902,0.27290124,0.15418,0.34902,6.2094536,-0.27589628
+2713N: Legitimacy of the State - Fund for Peace,0492: Domestic credit to private sector  (% of GDP) - WDI,0.34853,-0.08188939,0.05576001,0.34853,6.169925,-0.65606356
+2713N: Legitimacy of the State - Fund for Peace,2743: Merchandise trade-Exports-Pharmaceuticals (US dollar at current prices) - WTO,0.34819,0.13380356,0.054370016,0.34819,6.0,-0.46301883
+2713N: Legitimacy of the State - Fund for Peace,0851: DEC alternative conversion factor  (LCU per US$) - WDI,0.34812,0.32219726,0.16708,0.34514,6.2479277,0.16100545
+2713N: Legitimacy of the State - Fund for Peace,0796: Gross value added at factor cost  (constant 2005 US$) - WDI,0.34609,0.24770144,0.10628998,0.34609,5.9541965,-0.3136695
+2713N: Legitimacy of the State - Fund for Peace,1060: Improved sanitation facilities; urban  (% of urban population with access) - WDI,0.34504,0.12407018,0.07297,0.34277,6.2479277,-0.47007427
+2713N: Legitimacy of the State - Fund for Peace,0570: Documents to import  (number) - WDI,0.34488,-0.043269962,0.04294999,0.34488,6.087463,0.62301683
+2713N: Legitimacy of the State - Fund for Peace,0062: Primary income receipts  (BoP; current US$) - WDI,0.34275,0.15191734,0.04782,0.34275,6.129283,-0.436844
+2713N: Legitimacy of the State - Fund for Peace,1103: Health expenditure; public  (% of GDP) - WDI,0.34222,-0.12919968,0.03419,0.34222,5.321928,-0.6866001
+2713N: Legitimacy of the State - Fund for Peace,0699: Exports of goods and services  (constant 2005 US$) - WDI,0.34105,0.2063561,0.109009996,0.34105,6.044394,-0.3670067
+2713N: Legitimacy of the State - Fund for Peace,1276: Mortality rate; adult; female  (per 1;000 female adults) - WDI,0.3408,0.114437446,0.041750014,0.3408,6.129283,0.47577572
+2713N: Legitimacy of the State - Fund for Peace,0588: Time required to build a warehouse  (days) - WDI,0.34057,0.32740724,0.2918,0.33527,6.169925,0.114729114
+2713N: Legitimacy of the State - Fund for Peace,1058: Improved sanitation facilities  (% of population with access) - WDI,0.34031,0.08181724,0.057070017,0.34031,6.2094536,-0.50842184
+2713N: Legitimacy of the State - Fund for Peace,0552: Documents to export  (number) - WDI,0.33943,-0.082366526,0.04993999,0.33943,5.169925,0.64945865
+2713N: Legitimacy of the State - Fund for Peace,1312: Rural population  (% of total population) - WDI,0.33752,0.028529614,0.08707002,0.33752,6.2479277,0.55586904
+2713N: Legitimacy of the State - Fund for Peace,1315: Urban population  (% of total) - WDI,0.3354,0.026414096,0.084829986,0.3354,6.2479277,-0.555865
+2713N: Legitimacy of the State - Fund for Peace,1288: Fertility rate; total  (births per woman) - WDI,0.33485,0.061622262,0.061380014,0.33485,6.2479277,0.52271193
+2713N: Legitimacy of the State - Fund for Peace,1304: Population; total - WDI,0.33335,0.33288184,0.24132,0.33335,6.2479277,0.021637345
+2713N: Legitimacy of the State - Fund for Peace,0662: General government final consumption expenditure  (constant 2005 US$) - WDI,0.33277,0.22213787,0.08682999,0.32914,6.044394,-0.33261406
+2713N: Legitimacy of the State - Fund for Peace,0366: Electricity production from renewable sources; excluding hydroelectric  (kWh) - WDI,0.33254,0.26116127,0.022200018,0.33254,6.0,-0.267168
+2713N: Legitimacy of the State - Fund for Peace,0580: Time to prepare and pay taxes  (hours) - WDI,0.33196,0.26999125,0.19757,0.33196,6.169925,0.24893522
+2713N: Legitimacy of the State - Fund for Peace,0779: Adjusted net national income  (constant 2005 US$) - WDI,0.33016,0.24801968,0.10918999,0.32633,6.0,-0.2866013
+2713N: Legitimacy of the State - Fund for Peace,2712: Poverty and Economic Decline - Fund for Peace,0.32854,-0.19638798,0.017940015,0.32854,5.2479277,0.72451913
+2713N: Legitimacy of the State - Fund for Peace,2745: Merchandise trade-Exports-Office and telecom equipment (US dollar at current prices) - WTO,0.32839,0.31647748,0.08104999,0.32839,6.087463,-0.10914448
+2713N: Legitimacy of the State - Fund for Peace,1290: Survival to age 65; male  (% of cohort) - WDI,0.32806,-0.051772058,0.030660003,0.32806,5.087463,-0.6163052
+2713N: Legitimacy of the State - Fund for Peace,0577: Cost of business start-up procedures  (% of GNI per capita) - WDI,0.32764,0.21686694,0.081149995,0.32764,6.169925,0.33282587
+2713N: Legitimacy of the State - Fund for Peace,0735: Agriculture; value added  (constant LCU) - WDI,0.32597,0.32450846,0.17977999,0.32212,6.169925,0.03822992
+2713N: Legitimacy of the State - Fund for Peace,0575: Time required to register property  (days) - WDI,0.32558,0.2793513,0.22111,0.32057,6.169925,0.21500859
+2713N: Legitimacy of the State - Fund for Peace,1059: Improved sanitation facilities; rural  (% of rural population with access) - WDI,0.32548,0.06478265,0.065100014,0.32548,6.044394,-0.5105853
+2713N: Legitimacy of the State - Fund for Peace,1362: Merchandise imports from high-income economies  (% of total merchandise imports) - WDI,0.32488,0.027190894,0.121910006,0.32488,6.2094536,-0.54560894
+2713N: Legitimacy of the State - Fund for Peace,0722: Imports of goods and services  (constant 2005 US$) - WDI,0.32425,0.1816372,0.06858,0.32425,6.044394,-0.3776411
+2713N: Legitimacy of the State - Fund for Peace,1213: Ratio of female to male labor force participation rate (%)  (modeled ILO estimate) - WDI,0.32399,0.29312906,0.2252,0.32075,6.2479277,-0.1756728
+2713N: Legitimacy of the State - Fund for Peace,0005: Agricultural land  (% of land area) - WDI,0.32372,0.31602922,0.27035,0.32372,6.2479277,0.08769714
+2713N: Legitimacy of the State - Fund for Peace,1402: Commercial service exports  (current US$) - WDI,0.32307,0.1006019,0.055480003,0.32307,5.9541965,-0.47166523
+2713N: Legitimacy of the State - Fund for Peace,1895: Mobile-cellular telephone subscriptions - ITU,0.3193,0.05146718,0.051339984,0.31687,6.2479277,-0.5175257
+2713N: Legitimacy of the State - Fund for Peace,1896: Mobile-cellular telephone subscriptions per 100 inhabitants - ITU,0.3193,0.05146718,0.051339984,0.31687,6.2479277,-0.5175257
+2713N: Legitimacy of the State - Fund for Peace,2739: Merchandise trade-Imports-Clothing (US dollar at current prices) - WTO,0.31812,0.16264741,0.04820001,0.31812,6.129283,-0.39430013
+2713N: Legitimacy of the State - Fund for Peace,2817: Balance of Payments-Imports-Charges for the use of intellectual property n.i.e. (US dollar at current prices) - WTO,0.31743,0.16902873,0.059620008,0.31743,5.9541965,-0.38522884
+2713N: Legitimacy of the State - Fund for Peace,0491: Domestic credit provided by financial sector  (% of GDP) - WDI,0.31733,-0.098256975,0.03347999,0.31733,6.169925,-0.64466035
+2713N: Legitimacy of the State - Fund for Peace,2709: Refugees and IDPs - Fund for Peace,0.31678,-0.16065988,0.022389993,0.31678,5.2479277,0.69097024
+2713N: Legitimacy of the State - Fund for Peace,0668: Household final consumption expenditure; etc.  (constant 2005 US$) - WDI,0.31673,0.24389206,0.11704999,0.31673,6.0,-0.26988503
+2713N: Legitimacy of the State - Fund for Peace,1211: Labor force participation rate; female (% of female population ages 15+)  (modeled ILO estimate) - WDI,0.31634,0.3159407,0.2296,0.31406,6.2479277,-0.019981984
+2713N: Legitimacy of the State - Fund for Peace,0367: Electricity production from renewable sources; excluding hydroelectric  (% of total) - WDI,0.31593,0.1292728,0.047360003,0.31285,6.044394,-0.43203843
+2713N: Legitimacy of the State - Fund for Peace,1298: Age dependency ratio  (% of working-age population) - WDI,0.31567,0.13767987,0.09004001,0.31567,6.2479277,0.42188877
+2713N: Legitimacy of the State - Fund for Peace,0856: PPP conversion factor; private consumption  (LCU per international $) - WDI,0.31564,0.2928913,0.15759,0.31564,6.169925,0.1508268
+2713N: Legitimacy of the State - Fund for Peace,0037: Charges for the use of intellectual property; payments  (BoP; current US$) - WDI,0.3145,0.14027366,0.05739999,0.3145,5.9541965,-0.4174043
+2713N: Legitimacy of the State - Fund for Peace,0825: GNI  (constant 2005 US$) - WDI,0.3145,0.22715008,0.06929,0.3145,5.9068904,-0.2955502
+2713N: Legitimacy of the State - Fund for Peace,2795: Balance of Payments-Exports-Other business services (US dollar at current prices) - WTO,0.31434,0.11576377,0.037119985,0.31434,6.044394,-0.44561893
+2713N: Legitimacy of the State - Fund for Peace,0636: Mobile cellular subscriptions  (per 100 people) - WDI,0.31412,0.04701066,0.054769993,0.31412,6.2479277,-0.5168262
+2713N: Legitimacy of the State - Fund for Peace,0747: Industry; value added  (constant LCU) - WDI,0.31408,0.31337744,0.23928,0.31047,6.169925,0.026506077
+2713N: Legitimacy of the State - Fund for Peace,0844: Net taxes on products  (current US$) - WDI,0.31349,0.19729498,0.04418999,0.31349,6.0,-0.3408739
+2713N: Legitimacy of the State - Fund for Peace,0689: Final consumption expenditure  (constant 2005 US$) - WDI,0.31346,0.23405781,0.09334999,0.31038,6.044394,-0.2817839
+2713N: Legitimacy of the State - Fund for Peace,0427: Population density  (people per sq. km of land area) - WDI,0.31271,0.30383065,0.26128998,0.31271,6.2479277,-0.09423018
+2713N: Legitimacy of the State - Fund for Peace,2785: Balance of Payments-Exports-Commercial services (US dollar at current prices) - WTO,0.31251,0.096611306,0.056090027,0.31251,6.0,-0.46464902
+2713N: Legitimacy of the State - Fund for Peace,0683: Final consumption expenditure; etc.  (constant 2005 US$) - WDI,0.31218,0.22992538,0.09839001,0.3091,6.044394,-0.28680068
+2713N: Legitimacy of the State - Fund for Peace,0066: Service exports  (BoP; current US$) - WDI,0.31129,0.09224965,0.045789987,0.31129,5.7548876,-0.46801746
+2713N: Legitimacy of the State - Fund for Peace,0433: Population in the largest city  (% of urban population) - WDI,0.3111,0.27750897,0.24900001,0.30667,6.087463,0.1832786
+2713N: Legitimacy of the State - Fund for Peace,1296: Population ages 15-64  (% of total) - WDI,0.31057,0.148532,0.08545001,0.31057,6.2479277,-0.40253943
+2713N: Legitimacy of the State - Fund for Peace,0852: Official exchange rate  (LCU per US$; period average) - WDI,0.31023,0.30880627,0.19013,0.31023,6.129283,0.037732296
+2713N: Legitimacy of the State - Fund for Peace,0674: Household final consumption expenditure  (constant 2005 US$) - WDI,0.31018,0.23869845,0.11544001,0.30697,6.044394,-0.26736033
+2713N: Legitimacy of the State - Fund for Peace,0654: Armed forces personnel; total - WDI,0.30987,0.29981568,0.25178,0.30987,6.169925,0.10027117
+2713N: Legitimacy of the State - Fund for Peace,1277: Mortality rate; adult; male  (per 1;000 male adults) - WDI,0.30972,0.038383424,0.048979998,0.30972,5.70044,0.5208998
+2713N: Legitimacy of the State - Fund for Peace,2746: Merchandise trade-Exports-Electronic data processing and office equipment (US dollar at current prices) - WTO,0.30971,0.3049382,0.050109997,0.30971,6.087463,-0.06907823
+2713N: Legitimacy of the State - Fund for Peace,0059: ICT service exports  (BoP; current US$) - WDI,0.3096,0.090050176,0.028600007,0.3096,5.9541965,-0.46856144
+2713N: Legitimacy of the State - Fund for Peace,1273: Adolescent fertility rate  (births per 1;000 women ages 15-19) - WDI,0.3089,0.084904894,0.09403999,0.3089,6.2479277,0.4732812
+2713N: Legitimacy of the State - Fund for Peace,2797: Balance of Payments-Exports-Services (US dollar at current prices) - WTO,0.30752,0.08749232,0.056950003,0.30752,6.2094536,-0.4690711
+2713N: Legitimacy of the State - Fund for Peace,0848: Net current transfers from abroad  (current LCU) - WDI,0.30729,0.30190587,0.07887998,0.30729,6.087463,0.07337656
+2713N: Legitimacy of the State - Fund for Peace,0551: Cost to export  (US$ per container) - WDI,0.30577,0.1882148,0.16106,0.30577,6.2094536,0.34286326
+2713N: Legitimacy of the State - Fund for Peace,0032: Primary income payments  (BoP; current US$) - WDI,0.3038,0.09755811,0.042590007,0.30361,6.169925,-0.4541386
+2713N: Legitimacy of the State - Fund for Peace,0371: Energy imports; net  (% of energy use) - WDI,0.30168,0.24949878,0.13498,0.29791,6.044394,-0.22843209
+2713N: Legitimacy of the State - Fund for Peace,1403: High-technology exports  (current US$) - WDI,0.29909,0.25793958,0.04903002,0.29909,6.0,-0.20285568
+2713N: Legitimacy of the State - Fund for Peace,0569: Cost to import  (US$ per container) - WDI,0.29905,0.16889805,0.13631,0.29905,6.2094536,0.36076578
+2713N: Legitimacy of the State - Fund for Peace,0741: Manufacturing; value added  (constant LCU) - WDI,0.29886,0.2987495,0.21672001,0.29886,6.129283,0.010512395
+2713N: Legitimacy of the State - Fund for Peace,2747: Merchandise trade-Exports-Telecommunications equipment (US dollar at current prices) - WTO,0.29733,0.28877544,0.065479994,0.29733,6.087463,-0.09249084
+2713N: Legitimacy of the State - Fund for Peace,0361: Electric power transmission and distribution losses  (% of output) - WDI,0.29728,0.1668681,0.05155,0.29728,6.0,0.3611259
+2713N: Legitimacy of the State - Fund for Peace,2744: Merchandise trade-Exports-Machinery and transport equipment (US dollar at current prices) - WTO,0.29711,0.2147226,0.051640004,0.29393,6.129283,-0.28703204
+2713N: Legitimacy of the State - Fund for Peace,0694: Gross national expenditure  (constant 2005 US$) - WDI,0.29667,0.21779,0.08387999,0.29667,6.044394,-0.28085583
+2713N: Legitimacy of the State - Fund for Peace,0707: Gross fixed capital formation  (constant 2005 US$) - WDI,0.29654,0.23996526,0.08117999,0.29654,6.0,-0.23785442
+2713N: Legitimacy of the State - Fund for Peace,1952: Number of neonatal deaths (thousands) - WHO,0.29539,0.288392,0.061340004,0.29537,6.2479277,0.08365414
+2713N: Legitimacy of the State - Fund for Peace,0898: Pupil-teacher ratio; primary - WDI,0.29535,0.062448367,0.08129999,0.29153,5.9541965,0.4825988
+2713N: Legitimacy of the State - Fund for Peace,0767: Adjusted savings: consumption of fixed capital  (% of GNI) - WDI,0.29526,-0.0023505986,0.07170002,0.29265,6.2479277,-0.545537
+2713N: Legitimacy of the State - Fund for Peace,0923: Repeaters; primary; total  (% of total enrollment) - WDI,0.29456,0.14276987,0.16312999,0.29456,5.9541965,0.3896025
+2713N: Legitimacy of the State - Fund for Peace,0756: Services; etc.; value added  (constant 2005 US$) - WDI,0.29449,0.21227205,0.05239001,0.29449,5.9068904,-0.28673676
+2713N: Legitimacy of the State - Fund for Peace,1321: International tourism; receipts for passenger transport items  (current US$) - WDI,0.29441,0.14340875,0.05802001,0.29441,5.3923173,-0.3885888
+2713N: Legitimacy of the State - Fund for Peace,2789: Balance of Payments-Exports-Other commercial services (US dollar at current prices) - WTO,0.29426,0.10501894,0.047509998,0.29128,6.169925,-0.43501845
+2713N: Legitimacy of the State - Fund for Peace,0739: Manufacturing; value added  (constant 2005 US$) - WDI,0.29417,0.18185163,0.07925999,0.29101,6.087463,-0.33513933
+2713N: Legitimacy of the State - Fund for Peace,0834: GNI per capita  (constant LCU) - WDI,0.29358,0.291792,0.19601,0.28928,6.087463,0.042284705
+2713N: Legitimacy of the State - Fund for Peace,0827: GNI  (constant LCU) - WDI,0.29302,0.2924267,0.19644001,0.29018,6.087463,0.024357665
+2713N: Legitimacy of the State - Fund for Peace,1311: Rural population growth  (annual %) - WDI,0.29288,0.13546243,0.119090006,0.29288,6.2479277,0.39675882
+2713N: Legitimacy of the State - Fund for Peace,0847: Net current transfers from abroad  (current US$) - WDI,0.29109,0.21689357,0.043449998,0.29109,5.9541965,0.27239025
+2713N: Legitimacy of the State - Fund for Peace,0885: School enrollment; preprimary  (% gross) - WDI,0.29083,-0.014487714,0.07439999,0.29083,5.9541965,-0.5525556
+2713N: Legitimacy of the State - Fund for Peace,1897: Fixed-telephone subscriptions - ITU,0.29072,0.2837823,0.16592999,0.28779,6.2479277,-0.08329272
+2713N: Legitimacy of the State - Fund for Peace,0927: Primary education; teachers - WDI,0.29068,0.28853178,0.20139998,0.28586,5.9541965,0.04634895
+2713N: Legitimacy of the State - Fund for Peace,0376: Fossil fuel energy consumption  (% of total) - WDI,0.29052,0.2535694,0.15875001,0.29052,6.044394,-0.19222546
+2713N: Legitimacy of the State - Fund for Peace,1266: Refugee population by country or territory of origin - WDI,0.28995,0.23947817,0.05276002,0.28995,6.2479277,0.2246594
+2713N: Legitimacy of the State - Fund for Peace,0853: PPP conversion factor; GDP  (LCU per international $) - WDI,0.28965,0.26659325,0.16647999,0.28701,6.2479277,0.15184447
+2713N: Legitimacy of the State - Fund for Peace,0041: Foreign direct investment; net outflows  (BoP; current US$) - WDI,0.28786,0.14931527,0.072850004,0.28786,5.9541965,-0.372216
+2713N: Legitimacy of the State - Fund for Peace,1319: International tourism; receipts  (current US$) - WDI,0.28716,0.139885,0.061340004,0.28434,6.2094536,-0.38376427
+2713N: Legitimacy of the State - Fund for Peace,0797: Gross value added at factor cost  (constant LCU) - WDI,0.28652,0.28629312,0.19504,0.2831,6.087463,0.01506319
+2713N: Legitimacy of the State - Fund for Peace,0053: Portfolio Investment; net  (BoP; current US$) - WDI,0.28602,0.27043328,0.17666,0.28018,6.087463,0.12484682
+2713N: Legitimacy of the State - Fund for Peace,1232: Labor force; total - WDI,0.28556,0.28514495,0.20145002,0.28221,6.2479277,0.020372996
+2713N: Legitimacy of the State - Fund for Peace,0637: Fixed telephone subscriptions - WDI,0.28443,0.27723274,0.15703,0.28443,6.2479277,-0.08483672
+2713N: Legitimacy of the State - Fund for Peace,2748: Merchandise trade-Exports-Integrated circuits and electronic components (US dollar at current prices) - WTO,0.28421,0.2584627,0.062659994,0.28421,6.044394,-0.16045968
+2713N: Legitimacy of the State - Fund for Peace,2723: Merchandise trade-Exports-Manufactures (US dollar at current prices) - WTO,0.28365,0.19208458,0.063620016,0.28077,6.169925,-0.30259782
+2713N: Legitimacy of the State - Fund for Peace,1150: Employment to population ratio; 15+; female (%)  (modeled ILO estimate) - WDI,0.28327,0.2829672,0.18051,0.28327,6.2094536,-0.017400611
+2713N: Legitimacy of the State - Fund for Peace,0774: Adjusted savings: natural resources depletion  (% of GNI) - WDI,0.28255,0.1578339,0.08099,0.28255,6.169925,0.35315168
+2713N: Legitimacy of the State - Fund for Peace,2753: Merchandise trade-Imports-Integrated circuits and electronic components (US dollar at current prices) - WTO,0.28254,0.28038657,0.0519,0.27975,6.129283,-0.04640504
+2713N: Legitimacy of the State - Fund for Peace,0716: Gross capital formation  (constant 2005 US$) - WDI,0.28249,0.22733289,0.08017999,0.2795,6.044394,-0.23485549
+2713N: Legitimacy of the State - Fund for Peace,2818: Balance of Payments-Imports-Telecommunications; computer; and information services (US dollar at current prices) - WTO,0.28224,0.06564766,0.026950002,0.28224,6.087463,-0.46539482
+2713N: Legitimacy of the State - Fund for Peace,1323: International tourism; receipts for travel items  (current US$) - WDI,0.28204,0.13315031,0.032460004,0.28204,6.169925,-0.38586226
+2713N: Legitimacy of the State - Fund for Peace,0946: Secondary education; general pupils  (% female) - WDI,0.28124,0.12292394,0.08942999,0.27905,6.087463,-0.3978895
+2713N: Legitimacy of the State - Fund for Peace,0578: Time required to start a business  (days) - WDI,0.28051,0.23886608,0.15578002,0.28051,6.169925,0.20406845
+2713N: Legitimacy of the State - Fund for Peace,2791: Balance of Payments-Exports-Insurance and pension services (US dollar at current prices) - WTO,0.28051,0.14572588,0.064380005,0.28051,6.044394,-0.3671296
+2713N: Legitimacy of the State - Fund for Peace,0816: Total natural resources rents  (% of GDP) - WDI,0.27939,0.139873,0.074880004,0.27939,6.2094536,0.37351975
+2713N: Legitimacy of the State - Fund for Peace,1217: Labor force participation rate; total (% of total population ages 15+)  (modeled ILO estimate) - WDI,0.27934,0.26439947,0.19134,0.27714,6.2479277,0.12223147
+2713N: Legitimacy of the State - Fund for Peace,0896: Primary education; pupils - WDI,0.27898,0.27505025,0.18519998,0.27516,6.129283,0.06268749
+2713N: Legitimacy of the State - Fund for Peace,2742: Merchandise trade-Exports-Chemicals (US dollar at current prices) - WTO,0.2786,0.08188112,0.07192001,0.2786,6.087463,-0.44353002
+2713N: Legitimacy of the State - Fund for Peace,2788: Balance of Payments-Exports-Travel (US dollar at current prices) - WTO,0.27815,0.12537661,0.029829994,0.2752,6.169925,-0.39086235
+2713N: Legitimacy of the State - Fund for Peace,0812: GDP per capita  (constant LCU) - WDI,0.27762,0.2765987,0.18991998,0.27424,6.2479277,0.031957723
+2713N: Legitimacy of the State - Fund for Peace,0804: GDP  (constant LCU) - WDI,0.27754,0.2772899,0.19644,0.27474,6.2479277,0.015814498
+2713N: Legitimacy of the State - Fund for Peace,0587: Total tax rate  (% of commercial profits) - WDI,0.2766,0.250789,0.21543,0.2766,6.169925,0.16065806
+2713N: Legitimacy of the State - Fund for Peace,0880: School enrollment; primary and secondary (gross); gender parity index  (GPI) - WDI,0.27645,0.1470103,0.105210006,0.27645,5.9541965,-0.3597773
+2713N: Legitimacy of the State - Fund for Peace,2798: Balance of Payments-Exports-Other services (US dollar at current prices) - WTO,0.27604,0.090571254,0.046459988,0.27604,6.0,-0.4306608
+2713N: Legitimacy of the State - Fund for Peace,2794: Balance of Payments-Exports-Telecommunications; computer; and information services (US dollar at current prices) - WTO,0.27566,0.12674102,0.03446001,0.27566,6.0,-0.38590023
+2713N: Legitimacy of the State - Fund for Peace,2787: Balance of Payments-Exports-Transport (US dollar at current prices) - WTO,0.27554,0.02309215,0.05371,0.27554,6.087463,-0.5024419
+2713N: Legitimacy of the State - Fund for Peace,1301: Population growth  (annual %) - WDI,0.27538,0.19995378,0.124879986,0.27538,6.2479277,0.27463832
+2713N: Legitimacy of the State - Fund for Peace,0008: Arable land  (% of land area) - WDI,0.27518,0.26871207,0.22389,0.27518,6.2479277,-0.0804235
+2713N: Legitimacy of the State - Fund for Peace,1385: Manufactures exports  (% of merchandise exports) - WDI,0.27505,0.115736544,0.11939001,0.27202,6.087463,-0.39914092
+2713N: Legitimacy of the State - Fund for Peace,0691: Gross national expenditure deflator  (base year varies by country) - WDI,0.27324,0.23942013,0.07581,0.27324,6.087463,0.1839018
+2713N: Legitimacy of the State - Fund for Peace,2749: Merchandise trade-Exports-Transport equipment (US dollar at current prices) - WTO,0.27206,0.13874067,0.06526001,0.27206,5.857981,-0.3651292
+2713N: Legitimacy of the State - Fund for Peace,1375: Commercial service imports  (current US$) - WDI,0.27112,0.053728193,0.035440013,0.27112,6.087463,-0.46625295
+2713N: Legitimacy of the State - Fund for Peace,0897: Primary education; pupils  (% female) - WDI,0.27041,0.1771284,0.12613,0.26762,6.129283,-0.30542037
+2713N: Legitimacy of the State - Fund for Peace,0846: Net taxes on products  (constant LCU) - WDI,0.27009,0.26828524,0.17284001,0.26596,6.044394,-0.04248255
+2713N: Legitimacy of the State - Fund for Peace,0485: Lending interest rate  (%) - WDI,0.26966,0.109273836,0.07496999,0.26966,5.9541965,0.40048242
+2713N: Legitimacy of the State - Fund for Peace,2816: Balance of Payments-Imports-Financial services (US dollar at current prices) - WTO,0.26949,0.090149865,0.052520007,0.26949,5.9541965,-0.4234857
+2713N: Legitimacy of the State - Fund for Peace,0902: Gross intake ratio in first grade of primary education; female  (% of relevant age group) - WDI,0.26918,0.2542034,0.15743,0.26527,6.0,0.122378826
+2713N: Legitimacy of the State - Fund for Peace,1075: People practicing open defecation  (% of population) - WDI,0.26876,0.14824373,0.042600006,0.26876,6.2094536,0.34715453
+2713N: Legitimacy of the State - Fund for Peace,0821: Gross domestic income  (constant LCU) - WDI,0.26866,0.26784623,0.18906,0.26866,6.087463,0.028527
+2713N: Legitimacy of the State - Fund for Peace,0036: Service imports  (BoP; current US$) - WDI,0.26767,0.05818659,0.03468001,0.26767,6.087463,-0.45769358
+2713N: Legitimacy of the State - Fund for Peace,0802: GDP  (constant 2005 US$) - WDI,0.26715,0.18126188,0.054620013,0.26385,6.2479277,-0.29306677
+2713N: Legitimacy of the State - Fund for Peace,0289: Net official flows from UN agencies; UNDP  (current US$) - WDI,0.2671,0.16175173,0.09886001,0.2671,5.9541965,0.324574
+2713N: Legitimacy of the State - Fund for Peace,1313: Urban population growth  (annual %) - WDI,0.26699,0.14674702,0.092800006,0.26699,6.2479277,0.3467607
+2713N: Legitimacy of the State - Fund for Peace,1371: Merchandise imports by the reporting economy  (current US$) - WDI,0.26608,0.13013358,0.060689986,0.26608,6.2094536,-0.36870912
+2713N: Legitimacy of the State - Fund for Peace,2750: Merchandise trade-Exports-Automotive products (US dollar at current prices) - WTO,0.26587,0.12926672,0.060149997,0.26587,6.087463,-0.3695988
+2713N: Legitimacy of the State - Fund for Peace,1101: Health expenditure; public  (% of total health expenditure) - WDI,0.26582,0.027770683,0.09303999,0.26582,6.2479277,-0.48790297
+2713N: Legitimacy of the State - Fund for Peace,0791: GDP deflator  (base year varies by country) - WDI,0.2655,0.23664582,0.079430014,0.26303,6.2479277,0.16986519
+2713N: Legitimacy of the State - Fund for Peace,0585: Tax payments  (number) - WDI,0.26473,0.0786946,0.07613,0.26473,6.044394,0.43131822
+2713N: Legitimacy of the State - Fund for Peace,0594: Scientific and technical journal articles - WDI,0.2643,0.20257455,0.026339993,0.2643,6.2479277,-0.24844606
+2713N: Legitimacy of the State - Fund for Peace,0732: Agriculture; value added  (current LCU) - WDI,0.26428,0.26080954,0.12254,0.26428,6.169925,0.058910634
+2713N: Legitimacy of the State - Fund for Peace,1305: Population; female  (% of total) - WDI,0.26425,0.25392827,0.17079002,0.26425,6.2479277,-0.10159592
+2713N: Legitimacy of the State - Fund for Peace,0794: Gross value added at factor cost  (current US$) - WDI,0.26358,0.1676436,0.06321001,0.26358,6.0,-0.30973598
+2713N: Legitimacy of the State - Fund for Peace,2752: Merchandise trade-Imports-Electronic data processing and office equipment (US dollar at current prices) - WTO,0.26322,0.16132405,0.037039995,0.26322,6.044394,-0.31921145
+2713N: Legitimacy of the State - Fund for Peace,0829: GNI; PPP  (constant 2011 international $) - WDI,0.26278,0.23654261,0.118310004,0.25936,6.087463,-0.1619796
+2713N: Legitimacy of the State - Fund for Peace,1324: International tourism; expenditures for travel items  (current US$) - WDI,0.26244,0.10864216,0.053450003,0.26244,6.087463,-0.39217067
+2713N: Legitimacy of the State - Fund for Peace,0903: Gross intake ratio in first grade of primary education; male  (% of relevant age group) - WDI,0.26228,0.21239716,0.13167998,0.25922,6.0,0.22334465
+2713N: Legitimacy of the State - Fund for Peace,0472: Broad money  (% of GDP) - WDI,0.26158,0.07180484,0.099209994,0.2584,6.087463,-0.4356319
+2713N: Legitimacy of the State - Fund for Peace,0745: Industry; value added  (constant 2005 US$) - WDI,0.26136,0.2071261,0.10556999,0.25832,6.129283,-0.23288172
+2713N: Legitimacy of the State - Fund for Peace,1361: Merchandise imports  (current US$) - WDI,0.2613,0.12643012,0.051269993,0.2613,6.2479277,-0.36724633
+2713N: Legitimacy of the State - Fund for Peace,0676: Household final consumption expenditure  (constant LCU) - WDI,0.26085,0.25968942,0.17537001,0.25719,6.087463,0.034067657
+2713N: Legitimacy of the State - Fund for Peace,0068: Exports of goods; services and primary income  (BoP; current US$) - WDI,0.26077,0.09210925,0.04012999,0.258,6.169925,-0.41068327
+2713N: Legitimacy of the State - Fund for Peace,1096: Out-of-pocket health expenditure  (% of total expenditure on health) - WDI,0.26008,0.0067295134,0.06309001,0.26008,6.2479277,0.50333935
+2713N: Legitimacy of the State - Fund for Peace,1231: Labor force; female  (% of total labor force) - WDI,0.26008,0.21793655,0.15295002,0.25694,6.2479277,-0.20528872
+2713N: Legitimacy of the State - Fund for Peace,2781: Merchandise trade-Imports-Total merchandise (US dollar at current prices) - WTO,0.26007,0.12510288,0.05003999,0.26007,6.2479277,-0.3673787
+2713N: Legitimacy of the State - Fund for Peace,0422: CO2 emissions from other sectors; excluding residential buildings and commercial and public services  (% of total fuel combustion) - WDI,0.25983,0.24414802,0.19317,0.25634,6.044394,0.12522769
+2713N: Legitimacy of the State - Fund for Peace,0727: External balance on goods and services  (current LCU) - WDI,0.25942,0.25826824,0.17568001,0.25639,6.2094536,0.033937775
+2713N: Legitimacy of the State - Fund for Peace,0432: Population in largest city - WDI,0.25931,0.2526737,0.19521001,0.25578,6.087463,-0.08146363
+2713N: Legitimacy of the State - Fund for Peace,0818: Gross domestic savings  (current LCU) - WDI,0.25902,0.25611663,0.17319,0.25902,6.169925,0.053882916
+2713N: Legitimacy of the State - Fund for Peace,2822: Balance of Payments-Imports-Other business services (US dollar at current prices) - WTO,0.25899,0.031616002,0.056339994,0.25899,6.044394,-0.4768375
+2713N: Legitimacy of the State - Fund for Peace,0029: Cereal yield  (kg per hectare) - WDI,0.258,0.199923,0.046419993,0.258,6.044394,-0.2409917
+2713N: Legitimacy of the State - Fund for Peace,2732: Merchandise trade-Imports-Pharmaceuticals (US dollar at current prices) - WTO,0.25697,0.061667502,0.056569993,0.25697,5.9541965,-0.4419304
+2713N: Legitimacy of the State - Fund for Peace,1104: Health expenditure; total  (% of GDP) - WDI,0.25669,-0.02173987,0.028249994,0.25669,6.129283,-0.52766454
+2713N: Legitimacy of the State - Fund for Peace,1207: Labor force participation rate; female (% of female population ages 15-64)  (modeled ILO estimate) - WDI,0.25661,0.20259213,0.11557001,0.25419,6.2479277,-0.23241746
+2713N: Legitimacy of the State - Fund for Peace,0766: Adjusted savings: consumption of fixed capital  (current US$) - WDI,0.25656,0.16091137,0.03023,0.2529,6.2479277,-0.30927113
+2713N: Legitimacy of the State - Fund for Peace,0477: Money and quasi money  as % of GDP (M2) - WDI,0.25654,0.06570032,0.09249,0.25654,6.087463,-0.436852
+2713N: Legitimacy of the State - Fund for Peace,0043: Secondary income; other sectors; payments  (BoP; current US$) - WDI,0.25589,0.15133837,0.027660012,0.25589,6.0,-0.32334447
+2713N: Legitimacy of the State - Fund for Peace,0718: Gross capital formation  (constant LCU) - WDI,0.25516,0.2538751,0.18385,0.25516,6.087463,0.03584558
+2713N: Legitimacy of the State - Fund for Peace,0720: Imports of goods and services  (current US$) - WDI,0.25513,0.10353936,0.040719986,0.25243,6.2094536,-0.38934642
+2713N: Legitimacy of the State - Fund for Peace,0670: Household final consumption expenditure; etc.  (constant LCU) - WDI,0.25511,0.25390437,0.16604999,0.25511,6.044394,0.03472193
+2713N: Legitimacy of the State - Fund for Peace,0760: Adjusted savings: education expenditure  (current US$) - WDI,0.25492,0.16026974,0.03893,0.25492,6.044394,-0.30765283
+2713N: Legitimacy of the State - Fund for Peace,0904: Gross intake ratio in first grade of primary education; total  (% of relevant age group) - WDI,0.2549,0.22452164,0.14107001,0.2549,6.0,0.17429392
+2713N: Legitimacy of the State - Fund for Peace,0999: Proportion of seats held by women in national parliaments  (%) - WDI,0.25475,0.12366675,0.14908001,0.24936,6.2479277,-0.36205423
+2713N: Legitimacy of the State - Fund for Peace,0690: Final consumption expenditure  (constant LCU) - WDI,0.2546,0.25374183,0.17374,0.2546,6.087463,0.0292941
+2713N: Legitimacy of the State - Fund for Peace,2734: Merchandise trade-Imports-Office and telecom equipment (US dollar at current prices) - WTO,0.25435,0.20366973,0.03795001,0.25435,6.129283,-0.2251228
+2713N: Legitimacy of the State - Fund for Peace,0737: Manufacturing; value added  (current US$) - WDI,0.25426,0.21785572,0.07142,0.25426,6.129283,-0.19079904
+2713N: Legitimacy of the State - Fund for Peace,2720: Merchandise trade-Exports-Agricultural products (US dollar at current prices) - WTO,0.25425,0.07709131,0.031980008,0.25425,5.9541965,-0.42090222
+2713N: Legitimacy of the State - Fund for Peace,0038: Imports of goods; services and primary income  (BoP; current US$) - WDI,0.25357,0.083064556,0.025019988,0.25355,6.169925,-0.41292304
+2713N: Legitimacy of the State - Fund for Peace,0758: Services; etc.; value added  (constant LCU) - WDI,0.25336,0.2530719,0.17782,0.24984,6.169925,0.016973894
+2713N: Legitimacy of the State - Fund for Peace,2729: Merchandise trade-Imports-Manufactures (US dollar at current prices) - WTO,0.2529,0.124777496,0.05126001,0.2529,6.129283,-0.35794204
+2713N: Legitimacy of the State - Fund for Peace,2741: Merchandise trade-Exports-Iron and steel (US dollar at current prices) - WTO,0.25281,0.16749522,0.095630005,0.25281,6.087463,-0.29208693
+2713N: Legitimacy of the State - Fund for Peace,0009: Land under cereal production  (hectares) - WDI,0.25153,0.2515059,0.17277999,0.25153,6.2094536,-0.004906784
+2713N: Legitimacy of the State - Fund for Peace,0035: Goods imports  (BoP; current US$) - WDI,0.25152,0.12122156,0.044050008,0.24894,6.169925,-0.36096877
+2713N: Legitimacy of the State - Fund for Peace,0798: Forest rents  (% of GDP) - WDI,0.25101,0.17889076,0.13014999,0.25101,6.2094536,0.26855025
+2713N: Legitimacy of the State - Fund for Peace,2805: Balance of Payments-Imports-Services (US dollar at current prices) - WTO,0.25099,0.04565531,0.02790001,0.25099,6.2094536,-0.4531387
+2713N: Legitimacy of the State - Fund for Peace,1325: International tourism; expenditures  (current US$) - WDI,0.25087,0.09408024,0.058719993,0.25087,5.9541965,-0.39596686
+2713N: Legitimacy of the State - Fund for Peace,1317: International tourism; number of arrivals - WDI,0.24994,0.13556209,0.06325999,0.24994,6.169925,-0.338198
+2713N: Legitimacy of the State - Fund for Peace,0063: Exports of goods and services  (BoP; current US$) - WDI,0.24976,0.10202436,0.03882,0.24678,6.169925,-0.38436395
+2713N: Legitimacy of the State - Fund for Peace,1370: Merchandise imports by the reporting economy; residual  (% of total merchandise imports) - WDI,0.24802,0.1833641,0.14376,0.24802,6.2094536,0.25427523
+2713N: Legitimacy of the State - Fund for Peace,0754: Services; etc.; value added  (current US$) - WDI,0.24769,0.16767347,0.05228001,0.24765,6.169925,-0.28287196
+2713N: Legitimacy of the State - Fund for Peace,0881: School enrollment; secondary (gross); gender parity index  (GPI) - WDI,0.24741,0.15042216,0.076670006,0.24741,5.9541965,-0.31142873
+2713N: Legitimacy of the State - Fund for Peace,0685: Final consumption expenditure; etc.  (constant LCU) - WDI,0.24736,0.24666889,0.17232001,0.24736,6.087463,0.026289169
+2713N: Legitimacy of the State - Fund for Peace,0545: Private credit bureau coverage  (% of adults) - WDI,0.24604,-0.06046875,0.058270007,0.24604,6.169925,-0.5536323
+2713N: Legitimacy of the State - Fund for Peace,0629: Air transport; passengers carried - WDI,0.24592,0.18756308,0.062460005,0.24275,6.087463,-0.24157178
+2713N: Legitimacy of the State - Fund for Peace,0052: Foreign direct investment; net  (BoP; current US$) - WDI,0.24551,0.21420857,0.08623999,0.24551,5.9068904,-0.1769221
+2713N: Legitimacy of the State - Fund for Peace,1073: People practicing open defecation; rural  (% of rural population) - WDI,0.24535,0.11935912,0.035820007,0.24535,5.70044,0.35495195
+2713N: Legitimacy of the State - Fund for Peace,0697: Exports of goods and services  (current US$) - WDI,0.24497,0.09529145,0.04908,0.24246,6.2094536,-0.3868831
+2713N: Legitimacy of the State - Fund for Peace,1154: Employment to population ratio; 15+; total (%)  (modeled ILO estimate) - WDI,0.24488,0.2324442,0.13910002,0.24488,6.2094536,0.11151593
+2713N: Legitimacy of the State - Fund for Peace,0944: Secondary education; pupils  (% female) - WDI,0.24458,0.16012019,0.08704001,0.24458,6.0,-0.2906197
+2713N: Legitimacy of the State - Fund for Peace,0033: Imports of goods and services  (BoP; current US$) - WDI,0.24419,0.09435332,0.028219998,0.24147,6.169925,-0.38708743
+2713N: Legitimacy of the State - Fund for Peace,0709: Gross fixed capital formation  (constant LCU) - WDI,0.24404,0.24305844,0.17032999,0.24049,6.087463,0.03132985
+2713N: Legitimacy of the State - Fund for Peace,0664: General government final consumption expenditure  (constant LCU) - WDI,0.24397,0.24387011,0.16058001,0.24022,6.087463,0.009994865
+2713N: Legitimacy of the State - Fund for Peace,2800: Balance of Payments-Imports-Commercial services (US dollar at current prices) - WTO,0.24368,0.03477128,0.02940999,0.24368,6.169925,-0.45706534
+2713N: Legitimacy of the State - Fund for Peace,0695: Gross national expenditure  (constant LCU) - WDI,0.24336,0.24253011,0.17125,0.24336,6.087463,0.0288077
+2713N: Legitimacy of the State - Fund for Peace,1733: Crude oil production - TOT (KTOE) - OECD,0.24327,0.22846659,0.15614,0.24327,6.0,0.12166926
+2713N: Legitimacy of the State - Fund for Peace,0627: Air transport; registered carrier departures worldwide - WDI,0.24321,0.19124696,0.04366,0.24032,6.087463,-0.22795404
+2713N: Legitimacy of the State - Fund for Peace,0784: Adjusted net savings; including particulate emission damage  (current US$) - WDI,0.2429,0.23427477,0.066719994,0.2429,6.0,-0.09287212
+2713N: Legitimacy of the State - Fund for Peace,1314: Urban population - WDI,0.24273,0.24212122,0.17931001,0.24273,6.2479277,-0.024673576
+2713N: Legitimacy of the State - Fund for Peace,2727: Merchandise trade-Imports-Fuels and mining products (US dollar at current prices) - WTO,0.24249,0.14990726,0.05344999,0.23983,6.169925,-0.3042741
+2713N: Legitimacy of the State - Fund for Peace,1404: High-technology exports  (% of manufactured exports) - WDI,0.24193,0.14384928,0.032629997,0.24193,5.9068904,-0.3131784
+2713N: Legitimacy of the State - Fund for Peace,0044: Personal remittances; paid  (current US$) - WDI,0.24149,0.16449437,0.07142,0.23854,6.129283,-0.27748087
+2713N: Legitimacy of the State - Fund for Peace,0065: Goods exports  (BoP; current US$) - WDI,0.2414,0.124989666,0.06206,0.23827,6.169925,-0.3411896
+2713N: Legitimacy of the State - Fund for Peace,1900: Fixed-broadband subscriptions - ITU,0.2405,0.21982491,0.029579997,0.2405,6.169925,-0.14378837
+2713N: Legitimacy of the State - Fund for Peace,2803: Balance of Payments-Imports-Travel (US dollar at current prices) - WTO,0.24041,0.08508997,0.05685,0.24041,5.9541965,-0.39410663
+2713N: Legitimacy of the State - Fund for Peace,0701: Exports of goods and services  (constant LCU) - WDI,0.23966,0.23865058,0.14824998,0.23966,6.087463,0.03177125
+2713N: Legitimacy of the State - Fund for Peace,0671: Household final consumption expenditure; etc.  (% of GDP) - WDI,0.23944,0.1716624,0.07954,0.23645,6.169925,0.2603413
+2713N: Legitimacy of the State - Fund for Peace,0639: Fixed broadband subscriptions - WDI,0.23928,0.21826631,0.027270004,0.23666,6.2094536,-0.14496101
+2713N: Legitimacy of the State - Fund for Peace,2724: Merchandise trade-Exports-Textiles (US dollar at current prices) - WTO,0.23923,0.23500519,0.06501001,0.23587,6.129283,-0.064998604
+2713N: Legitimacy of the State - Fund for Peace,2780: Merchandise trade-Exports-Total merchandise (US dollar at current prices) - WTO,0.23858,0.11777157,0.06262,0.23858,6.2479277,-0.34757507
+2713N: Legitimacy of the State - Fund for Peace,0358: Electricity production from coal sources  (% of total) - WDI,0.23814,0.20453325,0.117750004,0.2356,6.044394,-0.18332145
+2713N: Legitimacy of the State - Fund for Peace,2804: Balance of Payments-Imports-Other commercial services (US dollar at current prices) - WTO,0.23762,0.023527429,0.039579988,0.23762,5.9541965,-0.46270138
+2713N: Legitimacy of the State - Fund for Peace,0003: Fertilizer consumption  (kilograms per hectare of arable land) - WDI,0.23739,0.22748534,0.057579994,0.23739,6.129283,-0.09952211
+2713N: Legitimacy of the State - Fund for Peace,0879: School enrollment; primary (gross); gender parity index  (GPI) - WDI,0.23699,0.10855861,0.08673,0.23386,6.087463,-0.35837325
+2713N: Legitimacy of the State - Fund for Peace,0786: Adjusted net savings; excluding particulate emission damage  (current US$) - WDI,0.23698,0.22821146,0.06046,0.23363,6.044394,-0.09364049
+2713N: Legitimacy of the State - Fund for Peace,2731: Merchandise trade-Imports-Chemicals (US dollar at current prices) - WTO,0.23685,0.08735834,0.044389993,0.23685,6.044394,-0.3866415
+2713N: Legitimacy of the State - Fund for Peace,1382: Fuel exports  (% of merchandise exports) - WDI,0.23651,0.17443758,0.14427999,0.23651,6.044394,0.24914335
+2713N: Legitimacy of the State - Fund for Peace,2721: Merchandise trade-Exports-Food (US dollar at current prices) - WTO,0.23639,0.06344032,0.04164,0.23566,6.169925,-0.4158722
+2713N: Legitimacy of the State - Fund for Peace,2809: Balance of Payments-Exports-Telecommunications services (US dollar at current prices) - WTO,0.2357,0.0898045,0.05653,0.2357,5.9541965,-0.3819627
+2713N: Legitimacy of the State - Fund for Peace,0817: Gross domestic savings  (current US$) - WDI,0.23532,0.19818406,0.05674,0.2327,6.169925,-0.1927069
+2713N: Legitimacy of the State - Fund for Peace,1388: Merchandise exports  (current US$) - WDI,0.235,0.11419509,0.059039995,0.235,6.2479277,-0.34757
+2713N: Legitimacy of the State - Fund for Peace,2806: Balance of Payments-Imports-Other services (US dollar at current prices) - WTO,0.23498,0.03744468,0.037249997,0.23498,6.0,-0.44444945
+2713N: Legitimacy of the State - Fund for Peace,0738: Manufacturing; value added  (current LCU) - WDI,0.23493,0.23415686,0.15459,0.23493,6.129283,0.027805256
+2713N: Legitimacy of the State - Fund for Peace,1368: Merchandise imports from low- and middle-income economies in South Asia  (% of total merchandise imports) - WDI,0.23402,0.16772354,0.07058999,0.23153,6.2094536,0.25748098
+2713N: Legitimacy of the State - Fund for Peace,2735: Merchandise trade-Imports-Telecommunications equipment (US dollar at current prices) - WTO,0.23305,0.13720547,0.03893,0.23305,6.129283,-0.3095877
+2713N: Legitimacy of the State - Fund for Peace,0705: Gross fixed capital formation  (current US$) - WDI,0.23303,0.19262995,0.054880008,0.2299,6.169925,-0.20099767
+2713N: Legitimacy of the State - Fund for Peace,0680: Household final consumption expenditure; PPP  (constant 2011 international $) - WDI,0.23242,0.20261268,0.112009995,0.22921,6.087463,-0.17264795
+2713N: Legitimacy of the State - Fund for Peace,0660: General government final consumption expenditure  (current US$) - WDI,0.23214,0.13050446,0.04496999,0.23214,6.0,-0.3188033
+2713N: Legitimacy of the State - Fund for Peace,0778: Adjusted net national income  (current US$) - WDI,0.23162,0.15579686,0.047629997,0.23162,6.169925,-0.27536002
+2713N: Legitimacy of the State - Fund for Peace,0048: Net primary income  (BoP; current US$) - WDI,0.2316,0.20576128,0.0952,0.2316,6.0,-0.16074426
+2713N: Legitimacy of the State - Fund for Peace,0815: Oil rents  (% of GDP) - WDI,0.2299,0.15575582,0.13597,0.2299,6.169925,0.27229428
+2713N: Legitimacy of the State - Fund for Peace,1322: International tourism; expenditures for passenger transport items  (current US$) - WDI,0.22974,0.06143637,0.07802999,0.22974,6.0,-0.41024825
+2713N: Legitimacy of the State - Fund for Peace,1206: Labor force participation rate for ages 15-24; total (%)  (modeled ILO estimate) - WDI,0.22959,0.22942673,0.14585,0.22733,6.2479277,-0.012777947
+2713N: Legitimacy of the State - Fund for Peace,0806: GDP; PPP  (constant 2011 international $) - WDI,0.22948,0.20298223,0.109299995,0.22705,6.2479277,-0.16278134
+2713N: Legitimacy of the State - Fund for Peace,0788: Exports as a capacity to import  (constant LCU) - WDI,0.22877,0.22747187,0.14101,0.22877,6.087463,0.03602966
+2713N: Legitimacy of the State - Fund for Peace,2815: Balance of Payments-Imports-Insurance and pension services (US dollar at current prices) - WTO,0.22869,0.18892786,0.10998,0.22869,6.129283,-0.19940446
+2713N: Legitimacy of the State - Fund for Peace,0656: Military expenditure  (current LCU) - WDI,0.22836,0.2228648,0.105,0.22577,6.129283,0.0741296
+2713N: Legitimacy of the State - Fund for Peace,0633: Liner shipping connectivity index  (maximum value in 2004 = 100) - WDI,0.22799,0.090617016,0.11299,0.22799,6.0,-0.3706386
+2713N: Legitimacy of the State - Fund for Peace,1432: Air and GHG emissions - CO2 (MLN_TONNE) - OECD,0.22727,0.22586583,0.13995,0.22727,6.0,-0.03747233
+2713N: Legitimacy of the State - Fund for Peace,1396: Merchandise exports to low- and middle-income economies in Sub-Saharan Africa  (% of total merchandise exports) - WDI,0.2267,0.17559619,0.13487999,0.22362,6.129283,0.22606151
+2713N: Legitimacy of the State - Fund for Peace,0628: Air transport; freight  (million ton-km) - WDI,0.22667,0.1429242,0.04671,0.22667,6.0,-0.28938866
+2713N: Legitimacy of the State - Fund for Peace,0744: Industry; value added  (current LCU) - WDI,0.2263,0.22353822,0.14454001,0.2263,6.169925,0.052552722
+2713N: Legitimacy of the State - Fund for Peace,0056: Net capital account  (BoP; current US$) - WDI,0.22609,0.22382359,0.07119,0.22609,6.044394,0.04760683
+2713N: Legitimacy of the State - Fund for Peace,2728: Merchandise trade-Imports-Fuels (US dollar at current prices) - WTO,0.22507,0.11475621,0.049950004,0.22507,6.129283,-0.3321352
+2713N: Legitimacy of the State - Fund for Peace,0687: Final consumption expenditure  (current US$) - WDI,0.22492,0.14714018,0.05002001,0.2217,6.169925,-0.27889037
+2713N: Legitimacy of the State - Fund for Peace,0042: Foreign direct investment; net outflows  (% of GDP) - WDI,0.2249,0.20095916,0.062189996,0.222,6.169925,-0.15472828
+2713N: Legitimacy of the State - Fund for Peace,0795: Gross value added at factor cost  (current LCU) - WDI,0.22469,0.22228238,0.14033,0.22469,6.044394,0.049067482
+2713N: Legitimacy of the State - Fund for Peace,0945: Secondary education; general pupils - WDI,0.22389,0.22260562,0.16120002,0.22042,6.087463,0.035838485
+2713N: Legitimacy of the State - Fund for Peace,0655: Armed forces personnel  (% of total labor force) - WDI,0.22326,0.19002141,0.16128,0.22326,6.169925,0.18231453
+2713N: Legitimacy of the State - Fund for Peace,0055: Net secondary income  (BoP; current US$) - WDI,0.22282,0.10703932,0.047969997,0.21941,6.169925,0.3402656
+2713N: Legitimacy of the State - Fund for Peace,1092: Tuberculosis case detection rate  (%; all forms) - WDI,0.22273,0.015277371,0.053330004,0.22273,5.2479277,-0.45546967
+2713N: Legitimacy of the State - Fund for Peace,1783: Renewable energy - TOT (KTOE) - OECD,0.22255,0.2189565,0.14099,0.22255,6.0,-0.059945807
+2713N: Legitimacy of the State - Fund for Peace,0943: Secondary education; pupils - WDI,0.22241,0.22137634,0.14484,0.22241,6.0,0.03215037
+2713N: Legitimacy of the State - Fund for Peace,1102: Health expenditure; public  (% of government expenditure) - WDI,0.22198,-0.047222942,0.023569986,0.22198,6.2479277,-0.5188477
+2713N: Legitimacy of the State - Fund for Peace,0842: Net income from abroad  (current LCU) - WDI,0.22167,0.22035535,0.12211,0.21864,6.2094536,-0.03625809
+2713N: Legitimacy of the State - Fund for Peace,0900: School enrollment; primary; female  (% gross) - WDI,0.22153,0.2070172,0.11440001,0.21888,6.087463,-0.120469086
+2713N: Legitimacy of the State - Fund for Peace,0899: School enrollment; primary  (% gross) - WDI,0.22138,0.21932901,0.15,0.22138,6.087463,-0.04528779
+2713N: Legitimacy of the State - Fund for Peace,2736: Merchandise trade-Imports-Transport equipment (US dollar at current prices) - WTO,0.22105,0.07252017,0.03887999,0.22105,5.9068904,-0.38539568
+2713N: Legitimacy of the State - Fund for Peace,2733: Merchandise trade-Imports-Machinery and transport equipment (US dollar at current prices) - WTO,0.22053,0.11907717,0.037289992,0.22053,6.129283,-0.3185166
+2713N: Legitimacy of the State - Fund for Peace,1279: Death rate; crude  (per 1;000 people) - WDI,0.22052,0.21360762,0.13684002,0.22052,6.2479277,0.08314077
+2713N: Legitimacy of the State - Fund for Peace,1376: Transport services  (% of commercial service imports) - WDI,0.2205,0.033644468,0.045670003,0.2205,6.129283,0.4322679
+2713N: Legitimacy of the State - Fund for Peace,0823: GNI  (current US$) - WDI,0.22041,0.14629257,0.049600005,0.21784,6.2479277,-0.27224517
+2713N: Legitimacy of the State - Fund for Peace,1209: Labor force participation rate; total (% of total population ages 15-64)  (modeled ILO estimate) - WDI,0.21966,0.17812733,0.11715,0.21765,6.2479277,-0.20379564
+2713N: Legitimacy of the State - Fund for Peace,0800: GDP  (current US$) - WDI,0.21965,0.14496337,0.044850007,0.21965,6.087463,-0.27328855
+2713N: Legitimacy of the State - Fund for Peace,1398: Merchandise exports by the reporting economy  (current US$) - WDI,0.21959,0.09881852,0.046619996,0.21959,6.169925,-0.3475219
+2713N: Legitimacy of the State - Fund for Peace,1770: Primary energy supply - TOT (MLN_TOE) - OECD,0.21947,0.21587649,0.13977,0.21947,6.0,-0.059945807
+2713N: Legitimacy of the State - Fund for Peace,2737: Merchandise trade-Imports-Automotive products (US dollar at current prices) - WTO,0.21915,0.0855201,0.033749998,0.21915,6.129283,-0.36555424
+2713N: Legitimacy of the State - Fund for Peace,0733: Agriculture; value added  (constant 2005 US$) - WDI,0.21914,0.21774837,0.1336,0.21559,6.129283,-0.037304442
+2713N: Legitimacy of the State - Fund for Peace,2751: Merchandise trade-Exports-Clothing (US dollar at current prices) - WTO,0.2191,0.2190997,0.099,0.21601,6.129283,5.4101186E-4
+2713N: Legitimacy of the State - Fund for Peace,0440: Capture fisheries production  (metric tons) - WDI,0.21889,0.21566959,0.12948,0.21889,6.2479277,-0.056748662
+2713N: Legitimacy of the State - Fund for Peace,0681: Final consumption expenditure; etc.  (current US$) - WDI,0.21852,0.14080307,0.045939997,0.21607,6.169925,-0.27877757
+2713N: Legitimacy of the State - Fund for Peace,0714: Gross capital formation  (current US$) - WDI,0.21843,0.18007298,0.03830999,0.21843,6.169925,-0.1958495
+2713N: Legitimacy of the State - Fund for Peace,0822: GNI; Atlas method  (current US$) - WDI,0.21773,0.1413055,0.04648,0.21773,6.129283,-0.2764498
+2713N: Legitimacy of the State - Fund for Peace,1137: Employment to population ratio; ages 15-24; female (%)  (modeled ILO estimate) - WDI,0.21707,0.21214595,0.073479995,0.21707,6.2094536,-0.07017149
+2713N: Legitimacy of the State - Fund for Peace,1095: External resources for health  (% of total expenditure on health) - WDI,0.21706,0.14536479,0.062319994,0.21706,6.087463,0.2677596
+2713N: Legitimacy of the State - Fund for Peace,0692: Gross national expenditure  (current US$) - WDI,0.21682,0.14462346,0.042339996,0.21682,6.169925,-0.26869416
+2713N: Legitimacy of the State - Fund for Peace,1386: Ores and metals exports  (% of merchandise exports) - WDI,0.21556,0.21031998,0.13976,0.21556,6.044394,0.07238802
+2713N: Legitimacy of the State - Fund for Peace,0792: Discrepancy in expenditure estimate of GDP  (current LCU) - WDI,0.21482,0.21185905,0.16679,0.21225,6.169925,0.05441459
+2713N: Legitimacy of the State - Fund for Peace,0665: General government final consumption expenditure  (% of GDP) - WDI,0.21312,0.17985362,0.08516,0.21057,6.169925,-0.18239073
+2713N: Legitimacy of the State - Fund for Peace,0801: GDP  (current LCU) - WDI,0.2129,0.21098721,0.12252,0.20976,6.2479277,0.043735445
+2713N: Legitimacy of the State - Fund for Peace,0375: Alternative and nuclear energy  (% of total energy use) - WDI,0.21241,0.07726838,0.08815,0.20928,6.044394,-0.36761615
+2713N: Legitimacy of the State - Fund for Peace,2726: Merchandise trade-Imports-Food (US dollar at current prices) - WTO,0.21188,0.05282107,0.06469999,0.21188,5.807355,-0.39882192
+2713N: Legitimacy of the State - Fund for Peace,0765: Adjusted savings: net forest depletion  (% of GNI) - WDI,0.21187,0.15639424,0.10483,0.21187,6.169925,0.23553294
+2713N: Legitimacy of the State - Fund for Peace,0071: Foreign direct investment; net inflows  (BoP; current US$) - WDI,0.2103,0.12534504,0.063439995,0.2103,6.2479277,-0.29147035
+2713N: Legitimacy of the State - Fund for Peace,1202: Labor force participation rate for ages 15-24; female (%)  (modeled ILO estimate) - WDI,0.20991,0.1987408,0.09199001,0.20719,6.2479277,-0.10568447
+2713N: Legitimacy of the State - Fund for Peace,0047: Net financial account  (BoP; current US$) - WDI,0.20981,0.20902179,0.12946,0.20694,6.169925,0.02807519
+2713N: Legitimacy of the State - Fund for Peace,0473: Broad money to total reserves ratio - WDI,0.20955,0.20954417,0.113239996,0.20628,6.087463,0.0024151157
+2713N: Legitimacy of the State - Fund for Peace,0713: Changes in inventories  (constant LCU) - WDI,0.20923,0.20920497,0.17169,0.20923,6.0,0.005002906
+2713N: Legitimacy of the State - Fund for Peace,0837: Gross savings  (current US$) - WDI,0.20891,0.17719868,0.05484,0.2061,6.087463,-0.17807671
+2713N: Legitimacy of the State - Fund for Peace,0441: Total fisheries production  (metric tons) - WDI,0.20874,0.20850407,0.11901999,0.20874,6.2479277,0.015359793
+2713N: Legitimacy of the State - Fund for Peace,0845: Net taxes on products  (current LCU) - WDI,0.20855,0.20854968,0.13992,0.20855,6.044394,-5.692146E-4
+2713N: Legitimacy of the State - Fund for Peace,0363: Electricity production from nuclear sources  (% of total) - WDI,0.20815,0.05442086,0.057669997,0.20689,6.044394,-0.39208308
+2713N: Legitimacy of the State - Fund for Peace,0819: Gross domestic savings  (% of GDP) - WDI,0.20754,0.17354263,0.08800001,0.20754,6.169925,-0.18438376
+2713N: Legitimacy of the State - Fund for Peace,0686: Final consumption expenditure; etc.  (% of GDP) - WDI,0.2071,0.17312399,0.08670001,0.2071,6.169925,0.18432584
+2713N: Legitimacy of the State - Fund for Peace,0362: Electricity production from natural gas sources  (% of total) - WDI,0.20704,0.18927233,0.13811,0.20375,6.044394,0.13329542
+2713N: Legitimacy of the State - Fund for Peace,0482: Inflation; consumer prices  (annual %) - WDI,0.20678,0.20509116,0.07582,0.20396,6.2094536,0.041095432
+2713N: Legitimacy of the State - Fund for Peace,0468: Net domestic credit  (current LCU) - WDI,0.20665,0.2036231,0.12132,0.20665,6.169925,-0.05501725
+2713N: Legitimacy of the State - Fund for Peace,0045: Current account balance  (BoP; current US$) - WDI,0.20639,0.20603229,0.113189995,0.20371,6.169925,0.018912917
+2713N: Legitimacy of the State - Fund for Peace,0673: Household final consumption expenditure  (current LCU) - WDI,0.20639,0.20406273,0.12562999,0.2036,6.169925,0.048241675
+2713N: Legitimacy of the State - Fund for Peace,0465: Total reserves minus gold  (current US$) - WDI,0.20623,0.20484386,0.10661,0.20623,6.2094536,-0.037230887
+2713N: Legitimacy of the State - Fund for Peace,0439: Aquaculture production  (metric tons) - WDI,0.20621,0.20386548,0.13982001,0.2028,6.2094536,0.048420195
+2713N: Legitimacy of the State - Fund for Peace,1074: People practicing open defecation; urban  (% of urban population) - WDI,0.2062,0.1527095,0.04106,0.2062,6.129283,0.23128015
+2713N: Legitimacy of the State - Fund for Peace,0841: Net income from abroad  (current US$) - WDI,0.20542,0.18487023,0.076409996,0.20446,6.2094536,-0.14335191
+2713N: Legitimacy of the State - Fund for Peace,2802: Balance of Payments-Imports-Transport (US dollar at current prices) - WTO,0.20531,0.051336944,0.060890004,0.20232,6.169925,-0.392394
+2713N: Legitimacy of the State - Fund for Peace,1215: Labor force participation rate; male (% of male population ages 15+)  (modeled ILO estimate) - WDI,0.2053,0.097832955,0.07833001,0.20344,6.2479277,0.32782167
+2713N: Legitimacy of the State - Fund for Peace,0785: Adjusted net savings; including particulate emission damage  (% of GNI) - WDI,0.2052,0.16377932,0.11505,0.2052,6.0,-0.20352073
+2713N: Legitimacy of the State - Fund for Peace,0901: School enrollment; primary; male  (% gross) - WDI,0.20503,0.2036149,0.14025,0.2024,6.087463,0.03761764
+2713N: Legitimacy of the State - Fund for Peace,2725: Merchandise trade-Imports-Agricultural products (US dollar at current prices) - WTO,0.20498,0.07141101,0.052479997,0.20498,6.129283,-0.36547092
+2713N: Legitimacy of the State - Fund for Peace,0478: Money and quasi money  to total reserves ratio (M2) - WDI,0.20487,0.2048687,0.10167,0.20193,6.087463,-0.0011376962
+2713N: Legitimacy of the State - Fund for Peace,0421: CO2 emissions from manufacturing industries and construction  (% of total fuel combustion) - WDI,0.20467,0.19456646,0.14059,0.20173,6.044394,0.10051634
+2713N: Legitimacy of the State - Fund for Peace,0762: Adjusted savings: carbon dioxide damage  (current US$) - WDI,0.20423,0.20123811,0.09303,0.20423,6.2479277,-0.05469808
+2713N: Legitimacy of the State - Fund for Peace,0850: Terms of trade adjustment  (constant LCU) - WDI,0.20415,0.20037328,0.15258001,0.20415,6.087463,0.06145509
+2713N: Legitimacy of the State - Fund for Peace,1374: Computer; communications and other services  (% of commercial service imports) - WDI,0.20371,0.11849007,0.08776,0.20371,6.129283,-0.29192454
+2713N: Legitimacy of the State - Fund for Peace,0039: Transport services  (% of service imports; BoP) - WDI,0.20355,0.045055345,0.052279994,0.20355,6.129283,0.39811388
+2713N: Legitimacy of the State - Fund for Peace,0755: Services; etc.; value added  (current LCU) - WDI,0.20353,0.2013864,0.13145,0.2005,6.169925,0.04629886
+2713N: Legitimacy of the State - Fund for Peace,0423: CO2 emissions from transport  (% of total fuel combustion) - WDI,0.20349,0.20154853,0.13705,0.20006,6.044394,0.044062097
+2713N: Legitimacy of the State - Fund for Peace,0672: Household final consumption expenditure  (current US$) - WDI,0.20299,0.1320807,0.03926999,0.20299,6.129283,-0.26628798
+2713N: Legitimacy of the State - Fund for Peace,0667: Household final consumption expenditure; etc.  (current LCU) - WDI,0.20287,0.20044,0.11779,0.19987,6.169925,0.0492949
+2713N: Legitimacy of the State - Fund for Peace,1393: Merchandise exports to low- and middle-income economies in Latin America & the Caribbean  (% of total merchandise exports) - WDI,0.20263,0.2009676,0.103819996,0.19975,6.129283,-0.040772576
+2713N: Legitimacy of the State - Fund for Peace,1152: Employment to population ratio; 15+; male (%)  (modeled ILO estimate) - WDI,0.2024,0.12917447,0.08518001,0.2024,6.2094536,0.27060217
+2713N: Legitimacy of the State - Fund for Peace,0474: Broad money growth  (annual %) - WDI,0.20144,0.10812117,0.13225001,0.1985,6.087463,0.3054813
+2713N: Legitimacy of the State - Fund for Peace,0076: Personal transfers; receipts  (BoP; current US$) - WDI,0.20132,0.1990945,0.17251001,0.20132,5.9541965,0.04717524
+2713N: Legitimacy of the State - Fund for Peace,0666: Household final consumption expenditure; etc.  (current US$) - WDI,0.20126,0.13091767,0.041550003,0.20126,6.129283,-0.26522127
+2713N: Legitimacy of the State - Fund for Peace,0360: Electricity production from hydroelectric sources  (% of total) - WDI,0.20093,0.18712853,0.13806,0.19746,6.044394,0.11747967
+2713N: Legitimacy of the State - Fund for Peace,0790: Inflation; GDP deflator  (annual %) - WDI,0.20068,0.1266303,0.077920005,0.19823,6.2479277,0.27212074
+2713N: Legitimacy of the State - Fund for Peace,0050: Net trade in goods  (BoP; current US$) - WDI,0.20064,0.19652326,0.13372,0.19756,6.169925,0.064161696
+2713N: Legitimacy of the State - Fund for Peace,1389: Merchandise exports to high-income economies  (% of total merchandise exports) - WDI,0.20051,0.0318861,0.040319994,0.20051,6.2094536,-0.4106384
+2713N: Legitimacy of the State - Fund for Peace,0838: Gross savings  (current LCU) - WDI,0.20004,0.19982423,0.12545,0.19711,6.087463,0.0146890255
+2713N: Legitimacy of the State - Fund for Peace,0772: Adjusted savings: particulate emission damage  (current US$) - WDI,0.1999,0.18809782,0.12951,0.1999,6.2094536,-0.10863785
+2713N: Legitimacy of the State - Fund for Peace,1265: Refugee population by country or territory of asylum - WDI,0.19951,0.19065462,0.12798999,0.19951,6.129283,0.09410296
+2713N: Legitimacy of the State - Fund for Peace,0007: Arable land  (hectares per person) - WDI,0.19931,0.18216991,0.12915,0.19931,6.2479277,-0.13092017
+2713N: Legitimacy of the State - Fund for Peace,0031: Communications; computer; etc.  (% of service imports; BoP) - WDI,0.19879,0.13705005,0.10677,0.19879,6.129283,-0.24847525
+2713N: Legitimacy of the State - Fund for Peace,1365: Merchandise imports from low- and middle-income economies in Europe & Central Asia  (% of total merchandise imports) - WDI,0.19866,0.117736794,0.094060004,0.19866,5.9541965,0.28447005
+2713N: Legitimacy of the State - Fund for Peace,0711: Changes in inventories  (current US$) - WDI,0.1986,0.19859955,0.13760999,0.1956,6.129283,-6.6613656E-4
+2713N: Legitimacy of the State - Fund for Peace,1320: International tourism; receipts  (% of total exports) - WDI,0.19849,0.19334167,0.12092999,0.19554,6.169925,0.071751826
+2713N: Legitimacy of the State - Fund for Peace,1204: Labor force participation rate for ages 15-24; male (%)  (modeled ILO estimate) - WDI,0.19837,0.18788193,0.114489995,0.19664,6.2479277,0.10241126
+2713N: Legitimacy of the State - Fund for Peace,0049: Net trade in goods and services  (BoP; current US$) - WDI,0.19833,0.19831707,0.11327,0.19536,6.169925,0.0035962688
+2713N: Legitimacy of the State - Fund for Peace,0824: GNI  (current LCU) - WDI,0.19828,0.19633125,0.11500001,0.19556,6.2479277,0.044144683
+2713N: Legitimacy of the State - Fund for Peace,1238: Unemployment; youth total (% of total labor force ages 15-24)  (modeled ILO estimate) - WDI,0.19799,0.19330107,0.13983,0.19799,6.2094536,-0.068475835
+2713N: Legitimacy of the State - Fund for Peace,1356: ICT goods imports  (% total goods imports) - WDI,0.19728,0.14595513,0.07501,0.19422,6.087463,-0.22654994
+2713N: Legitimacy of the State - Fund for Peace,0743: Industry; value added  (current US$) - WDI,0.19638,0.15613665,0.046229996,0.19638,6.169925,-0.20060746
+2713N: Legitimacy of the State - Fund for Peace,0805: GDP; PPP  (current international $) - WDI,0.19635,0.1703276,0.07531999,0.19342,6.2479277,-0.16131455
+2713N: Legitimacy of the State - Fund for Peace,1397: Merchandise exports by the reporting economy; residual  (% of total merchandise exports) - WDI,0.19496,0.16514193,0.099989995,0.19496,6.2094536,0.17267911
+2713N: Legitimacy of the State - Fund for Peace,0484: Deposit interest rate  (%) - WDI,0.19468,0.14029618,0.14626001,0.19099,6.044394,0.2332034
+2713N: Legitimacy of the State - Fund for Peace,0706: Gross fixed capital formation  (current LCU) - WDI,0.19453,0.19216874,0.09396999,0.19173,6.169925,0.04859273
+2713N: Legitimacy of the State - Fund for Peace,1236: Unemployment; youth male (% of male labor force ages 15-24)  (modeled ILO estimate) - WDI,0.19352,0.18074696,0.12319999,0.19352,6.2094536,-0.113017835
+2713N: Legitimacy of the State - Fund for Peace,0369: GDP per unit of energy use  (PPP $ per kg of oil equivalent) - WDI,0.19302,0.19010581,0.11571,0.18994,6.044394,-0.053983267
+2713N: Legitimacy of the State - Fund for Peace,0787: Adjusted net savings; excluding particulate emission damage  (% of GNI) - WDI,0.193,0.15893787,0.114140004,0.18981,6.044394,-0.1845593
+2713N: Legitimacy of the State - Fund for Peace,0715: Gross capital formation  (current LCU) - WDI,0.19284,0.19003199,0.10736,0.19284,6.169925,0.0529906
+2713N: Legitimacy of the State - Fund for Peace,0479: Money and quasi money growth  (annual %) - WDI,0.1926,0.10028992,0.12454001,0.1926,6.087463,0.30382574
+2713N: Legitimacy of the State - Fund for Peace,0724: Imports of goods and services  (constant LCU) - WDI,0.19227,0.19095759,0.1129,0.19227,6.087463,0.03622707
+2713N: Legitimacy of the State - Fund for Peace,0688: Final consumption expenditure  (current LCU) - WDI,0.19204,0.1898155,0.11367,0.18903,6.169925,0.047164544
+2713N: Legitimacy of the State - Fund for Peace,2799: Balance of Payments-Exports-Government goods and services n.i.e. (US dollar at current prices) - WTO,0.19202,0.12491218,0.07175,0.19202,6.087463,-0.25905177
+2713N: Legitimacy of the State - Fund for Peace,0064: Insurance and financial services  (% of service exports; BoP) - WDI,0.19191,0.09920876,0.06807,0.18864,6.087463,-0.30446878
+2713N: Legitimacy of the State - Fund for Peace,0712: Changes in inventories  (current LCU) - WDI,0.19187,0.18529472,0.16081001,0.18866,6.129283,0.08108817
+2713N: Legitimacy of the State - Fund for Peace,0809: GDP per capita  (current LCU) - WDI,0.19122,0.18284084,0.12019,0.18865,6.2479277,0.09153778
+2713N: Legitimacy of the State - Fund for Peace,0742: Manufacturing; value added  (% of GDP) - WDI,0.19114,0.16057085,0.13163999,0.18805,6.129283,-0.17484036
+2713N: Legitimacy of the State - Fund for Peace,0370: GDP per unit of energy use  (constant 2011 PPP $ per kg of oil equivalent) - WDI,0.19085,0.18820633,0.10649,0.18784,6.044394,-0.051416703
+2713N: Legitimacy of the State - Fund for Peace,0693: Gross national expenditure  (current LCU) - WDI,0.19032,0.18816258,0.11123,0.18708,6.2094536,0.04644803
+2713N: Legitimacy of the State - Fund for Peace,0726: External balance on goods and services  (current US$) - WDI,0.19001,0.18974802,0.10781,0.18732,6.2094536,0.016185556
+2713N: Legitimacy of the State - Fund for Peace,0684: Final consumption expenditure; etc.  (annual % growth) - WDI,0.18987,0.15066716,0.08045,0.18678,6.087463,0.19799705
+2713N: Legitimacy of the State - Fund for Peace,0078: Personal remittances; received  (% of GDP) - WDI,0.18929,0.09900311,0.031770006,0.18929,6.087463,0.30047777
+2713N: Legitimacy of the State - Fund for Peace,0682: Final consumption expenditure; etc.  (current LCU) - WDI,0.18912,0.18689537,0.10999999,0.18912,6.169925,0.047165904
+2713N: Legitimacy of the State - Fund for Peace,1377: Travel services  (% of commercial service imports) - WDI,0.18899,0.18424065,0.13881,0.18899,6.129283,-0.06891549
+2713N: Legitimacy of the State - Fund for Peace,1369: Merchandise imports from low- and middle-income economies in Sub-Saharan Africa  (% of total merchandise imports) - WDI,0.18862,0.113757275,0.08838,0.18862,6.129283,0.27361053
+2713N: Legitimacy of the State - Fund for Peace,0359: Electricity production from oil; gas and coal sources  (% of total) - WDI,0.18855,0.16177173,0.09842999,0.18542,6.044394,0.16364066
+2713N: Legitimacy of the State - Fund for Peace,1359: Ores and metals imports  (% of merchandise imports) - WDI,0.18839,0.15479866,0.083850004,0.18497,6.087463,-0.1832794
+2713N: Legitimacy of the State - Fund for Peace,0696: Gross national expenditure  (% of GDP) - WDI,0.18836,0.14662975,0.050220013,0.18836,6.044394,0.20427985
+2713N: Legitimacy of the State - Fund for Peace,0748: Industry; value added  (% of GDP) - WDI,0.18783,0.18245336,0.1268,0.18476,6.169925,0.07332558
+2713N: Legitimacy of the State - Fund for Peace,0323: Net ODA received per capita  (current US$) - WDI,0.18746,0.18388031,0.12176,0.18418,6.0,-0.05983053
+2713N: Legitimacy of the State - Fund for Peace,0679: Household final consumption expenditure; PPP  (current international $) - WDI,0.18736,0.15214281,0.062010005,0.18736,6.087463,-0.18766244
+2713N: Legitimacy of the State - Fund for Peace,0663: General government final consumption expenditure  (annual % growth) - WDI,0.18728,0.17587799,0.09503,0.18437,6.087463,0.106780194
+2713N: Legitimacy of the State - Fund for Peace,0831: GNI per capita  (current LCU) - WDI,0.18696,0.17920336,0.11614,0.18423,6.2479277,0.088071726
+2713N: Legitimacy of the State - Fund for Peace,2730: Merchandise trade-Imports-Iron and steel (US dollar at current prices) - WTO,0.18686,0.07475331,0.06754,0.18686,6.129283,-0.33482337
+2713N: Legitimacy of the State - Fund for Peace,0828: GNI; PPP  (current international $) - WDI,0.18659,0.16036764,0.070930004,0.18659,6.2094536,-0.16193323
+2713N: Legitimacy of the State - Fund for Peace,0377: Energy use (kg of oil equivalent) per $1;000 GDP  (constant 2011 PPP) - WDI,0.18642,0.1312769,0.11096999,0.18347,6.044394,0.23482566
+2713N: Legitimacy of the State - Fund for Peace,1381: Food exports  (% of merchandise exports) - WDI,0.18631,0.16139998,0.13351999,0.18287,6.087463,0.15782909
+2713N: Legitimacy of the State - Fund for Peace,1364: Merchandise imports from low- and middle-income economies in East Asia & Pacific  (% of total merchandise imports) - WDI,0.18563,0.13170625,0.081999995,0.18563,6.044394,0.23221485
+2713N: Legitimacy of the State - Fund for Peace,0462: Total reserves  (includes gold; current US$) - WDI,0.18534,0.18145905,0.065460004,0.18534,6.2094536,-0.06229725
+2713N: Legitimacy of the State - Fund for Peace,0040: Travel services  (% of service imports; BoP) - WDI,0.18492,0.17446093,0.12755999,0.18492,6.129283,-0.10226955
+2713N: Legitimacy of the State - Fund for Peace,0698: Exports of goods and services  (current LCU) - WDI,0.1846,0.1819659,0.11216,0.18168,6.2094536,0.051323373
+2713N: Legitimacy of the State - Fund for Peace,0420: CO2 emissions from electricity and heat production; total  (% of total fuel combustion) - WDI,0.18455,0.174829,0.11183,0.18115,6.044394,-0.0985951
+2713N: Legitimacy of the State - Fund for Peace,0729: External balance on goods and services  (% of GDP) - WDI,0.18368,0.14417562,0.047659993,0.18368,6.087463,-0.19875707
+2713N: Legitimacy of the State - Fund for Peace,0914: School enrollment; primary; private  (% of total primary) - WDI,0.18353,0.1820906,0.14489001,0.18353,6.0,0.037939563
+2713N: Legitimacy of the State - Fund for Peace,1395: Merchandise exports to low- and middle-income economies in South Asia  (% of total merchandise exports) - WDI,0.18299,0.11457665,0.08398,0.18007,6.169925,0.26155946
+2713N: Legitimacy of the State - Fund for Peace,1354: Food imports  (% of merchandise imports) - WDI,0.18256,0.05244559,0.044130005,0.17939,6.087463,0.36071375
+2713N: Legitimacy of the State - Fund for Peace,0757: Services; etc.; value added  (annual % growth) - WDI,0.18207,0.11438966,0.06778,0.17923,6.169925,0.26015446
+2713N: Legitimacy of the State - Fund for Peace,0771: Adjusted savings: energy depletion  (% of GNI) - WDI,0.18164,0.116564944,0.088649996,0.18164,6.2094536,0.25509813
+2713N: Legitimacy of the State - Fund for Peace,0469: Net foreign assets  (current LCU) - WDI,0.18114,0.18082352,0.13143,0.18114,6.169925,0.017790157
+2713N: Legitimacy of the State - Fund for Peace,0364: Electricity production from oil sources  (% of total) - WDI,0.18105,0.13401869,0.09618,0.17794,6.044394,0.21686703
+2713N: Legitimacy of the State - Fund for Peace,0320: Net ODA received  (% of GNI) - WDI,0.18095,0.16227874,0.09997,0.18095,5.9541965,0.1366428
+2713N: Legitimacy of the State - Fund for Peace,0721: Imports of goods and services  (current LCU) - WDI,0.18053,0.17811194,0.09877,0.17763,6.2094536,0.04917374
+2713N: Legitimacy of the State - Fund for Peace,1141: Employment to population ratio; ages 15-24; total (%)  (modeled ILO estimate) - WDI,0.18045,0.17997797,0.07010001,0.18045,6.2094536,0.021726329
+2713N: Legitimacy of the State - Fund for Peace,0675: Household final consumption expenditure  (annual % growth) - WDI,0.18013,0.1500477,0.083950005,0.17686,6.087463,0.1734425
+2713N: Legitimacy of the State - Fund for Peace,0780: Adjusted net national income  (annual % growth) - WDI,0.18001,0.15948454,0.11615001,0.18001,6.044394,0.14326715
+2713N: Legitimacy of the State - Fund for Peace,0776: Adjusted savings: net national savings  (current US$) - WDI,0.17993,0.17992814,0.0898,0.17682,6.087463,-0.0013673826
+2713N: Legitimacy of the State - Fund for Peace,0069: Transport services  (% of service exports; BoP) - WDI,0.17961,0.17960179,0.13279,0.17961,6.129283,-0.0028647704
+2713N: Legitimacy of the State - Fund for Peace,1097: Out-of-pocket health expenditure  (% of private expenditure on health) - WDI,0.1789,0.1304453,0.107590005,0.1789,6.2479277,0.22012427
+2713N: Legitimacy of the State - Fund for Peace,1328: Import volume index  (2000 = 100) - WDI,0.17841,0.08543721,0.054419994,0.17619,6.2479277,0.30491439
+2713N: Legitimacy of the State - Fund for Peace,1384: Insurance and financial services  (% of commercial service exports) - WDI,0.1784,0.10280453,0.06421,0.17559,6.087463,-0.2749463
+2713N: Legitimacy of the State - Fund for Peace,1100: Health expenditure; private  (% of GDP) - WDI,0.17838,0.16315332,0.121199995,0.17838,6.2479277,0.12339642
+2713N: Legitimacy of the State - Fund for Peace,0710: Gross fixed capital formation  (% of GDP) - WDI,0.17825,0.17822187,0.11477,0.17573,6.169925,0.0053041773
+2713N: Legitimacy of the State - Fund for Peace,0075: Secondary income receipts  (BoP; current US$) - WDI,0.17795,0.11979668,0.076929994,0.17795,6.129283,-0.24114999
+2713N: Legitimacy of the State - Fund for Peace,0763: Adjusted savings: carbon dioxide damage  (% of GNI) - WDI,0.1777,0.105713464,0.020679995,0.1777,6.087463,0.26830307
+2713N: Legitimacy of the State - Fund for Peace,0024: Cereal production  (metric tons) - WDI,0.17769,0.17579363,0.09191,0.17769,6.2094536,-0.04354737
+2713N: Legitimacy of the State - Fund for Peace,2738: Merchandise trade-Imports-Textiles (US dollar at current prices) - WTO,0.17722,0.10277125,0.05222,0.17722,6.129283,-0.272853
+2713N: Legitimacy of the State - Fund for Peace,1326: International tourism; expenditures  (% of total imports) - WDI,0.17706,0.17562023,0.117879994,0.17399,6.169925,-0.037944295
+2713N: Legitimacy of the State - Fund for Peace,0777: Adjusted savings: net national savings  (% of GNI) - WDI,0.17689,0.15015092,0.11772,0.17404,6.087463,0.16352089
+2713N: Legitimacy of the State - Fund for Peace,0793: Discrepancy in expenditure estimate of GDP  (constant LCU) - WDI,0.17631,0.17345916,0.13527,0.17631,6.0,0.053393353
+2713N: Legitimacy of the State - Fund for Peace,0060: ICT service exports  (% of service exports; BoP) - WDI,0.17629,0.14575325,0.07299001,0.17323,6.044394,-0.17474769
+2713N: Legitimacy of the State - Fund for Peace,1234: Unemployment; youth female (% of female labor force ages 15-24)  (modeled ILO estimate) - WDI,0.17612,0.17550814,0.11438,0.17612,6.2094536,0.024735669
+2713N: Legitimacy of the State - Fund for Peace,1363: Merchandise imports from low- and middle-income economies outside region  (% of total merchandise imports) - WDI,0.17583,0.17084719,0.13868001,0.17583,6.129283,0.070589006
+2713N: Legitimacy of the State - Fund for Peace,1360: Merchandise imports from economies in the Arab World  (% of total merchandise imports) - WDI,0.1756,0.11065893,0.11146001,0.1756,6.169925,0.2548354
+2713N: Legitimacy of the State - Fund for Peace,0775: Adjusted savings: gross savings  (% of GNI) - WDI,0.17535,0.17255029,0.12595999,0.172,6.087463,-0.052912164
+2713N: Legitimacy of the State - Fund for Peace,0839: Gross savings  (% of GNI) - WDI,0.17535,0.17255029,0.12595999,0.172,6.087463,-0.052912164
+2713N: Legitimacy of the State - Fund for Peace,0661: General government final consumption expenditure  (current LCU) - WDI,0.17467,0.1728783,0.10048,0.17208,6.169925,0.04232857
+2713N: Legitimacy of the State - Fund for Peace,0702: Exports of goods and services  (% of GDP) - WDI,0.17436,0.13270235,0.114180006,0.17158,6.2094536,-0.20410208
+2713N: Legitimacy of the State - Fund for Peace,0077: Personal remittances; received  (current US$) - WDI,0.1737,0.17142487,0.1098,0.1737,6.129283,-0.047698375
+2713N: Legitimacy of the State - Fund for Peace,0476: Money and quasi money (M2)  (current LCU) - WDI,0.17365,0.17252165,0.09298,0.17365,6.087463,-0.03359088
+2713N: Legitimacy of the State - Fund for Peace,0051: Net errors and omissions  (BoP; current US$) - WDI,0.17359,0.17208439,0.119160004,0.17359,6.129283,0.038802147
+2713N: Legitimacy of the State - Fund for Peace,0070: Travel services  (% of service exports; BoP) - WDI,0.17355,0.15234898,0.07199,0.17355,6.129283,0.1456057
+2713N: Legitimacy of the State - Fund for Peace,0826: GNI growth  (annual %) - WDI,0.17315,0.13911073,0.09025,0.16988,6.087463,0.18449736
+2713N: Legitimacy of the State - Fund for Peace,1387: Merchandise exports to economies in the Arab World  (% of total merchandise exports) - WDI,0.17204,0.1461895,0.11158,0.16936,6.2094536,0.1607809
+2713N: Legitimacy of the State - Fund for Peace,0546: Public credit registry coverage  (% of adults) - WDI,0.17158,0.12718056,0.103130005,0.17158,6.169925,-0.21071175
+2713N: Legitimacy of the State - Fund for Peace,1355: Fuel imports  (% of merchandise imports) - WDI,0.17119,0.17012316,0.11779,0.16805,6.087463,0.03266235
+2713N: Legitimacy of the State - Fund for Peace,1373: Import value index  (2000 = 100) - WDI,0.171,0.08610927,0.056090005,0.16855,6.2479277,0.29136014
+2713N: Legitimacy of the State - Fund for Peace,2740: Merchandise trade-Exports-Fuels (US dollar at current prices) - WTO,0.17002,0.16700904,0.08561,0.17002,6.129283,-0.05487214
+2713N: Legitimacy of the State - Fund for Peace,2722: Merchandise trade-Exports-Fuels and mining products (US dollar at current prices) - WTO,0.16944,0.14813675,0.07212,0.16643,6.169925,-0.14595634
+2713N: Legitimacy of the State - Fund for Peace,0464: Total reserves in months of imports - WDI,0.16922,0.12875792,0.029630005,0.16615,6.169925,0.20115189
+2713N: Legitimacy of the State - Fund for Peace,1405: Transport services  (% of commercial service exports) - WDI,0.16915,0.16510262,0.11783999,0.16915,6.129283,0.06361896
+2713N: Legitimacy of the State - Fund for Peace,0115: Net bilateral aid flows from DAC donors; United States  (current US$) - WDI,0.16884,0.12348728,0.10880001,0.16575,6.0,0.21296181
+2713N: Legitimacy of the State - Fund for Peace,0471: Broad money  (current LCU) - WDI,0.16877,0.16596793,0.09179,0.16877,6.087463,-0.05293463
+2713N: Legitimacy of the State - Fund for Peace,0026: Food production index  (2004-2006 = 100) - WDI,0.16809,0.110950634,0.0817,0.16809,6.2479277,0.23903842
+2713N: Legitimacy of the State - Fund for Peace,0803: GDP growth  (annual %) - WDI,0.16682,0.13009958,0.075710006,0.16438,6.2479277,0.19162574
+2713N: Legitimacy of the State - Fund for Peace,0678: Household final consumption expenditure per capita growth  (annual %) - WDI,0.16531,0.14884579,0.09913,0.1624,6.044394,0.1283129
+2713N: Legitimacy of the State - Fund for Peace,1378: Net barter terms of trade index  (2000 = 100) - WDI,0.1652,0.110520415,0.10682999,0.16268,6.2479277,0.23383665
+2713N: Legitimacy of the State - Fund for Peace,1401: Computer; communications and other services  (% of commercial service exports) - WDI,0.16459,0.1296564,0.058630005,0.16459,6.129283,-0.18690532
+2713N: Legitimacy of the State - Fund for Peace,0669: Household final consumption expenditure; etc.  (annual % growth) - WDI,0.16448,0.14807786,0.07204,0.16448,6.044394,0.12807083
+2713N: Legitimacy of the State - Fund for Peace,1139: Employment to population ratio; ages 15-24; male (%)  (modeled ILO estimate) - WDI,0.16359,0.14869738,0.08368,0.16359,6.2094536,0.12203534
+2713N: Legitimacy of the State - Fund for Peace,0466: Claims on central government  (annual growth as % of broad money) - WDI,0.16344,0.16309536,0.11936,0.16041,6.087463,-0.018564554
+2713N: Legitimacy of the State - Fund for Peace,0840: Gross savings  (% of GDP) - WDI,0.16314,0.16203062,0.11637,0.16014,6.087463,0.033307277
+2713N: Legitimacy of the State - Fund for Peace,1392: Merchandise exports to low- and middle-income economies in Europe & Central Asia  (% of total merchandise exports) - WDI,0.16309,0.12804,0.0873,0.16309,5.9541965,0.18721646
+2713N: Legitimacy of the State - Fund for Peace,0058: Technical cooperation grants  (BoP; current US$) - WDI,0.16288,0.1499356,0.12071,0.1596,6.0,0.11377349
+2713N: Legitimacy of the State - Fund for Peace,1353: Agricultural raw materials imports  (% of merchandise imports) - WDI,0.16282,0.15912645,0.1074,0.16282,6.044394,0.060774606
+2713N: Legitimacy of the State - Fund for Peace,0731: Agriculture; value added  (current US$) - WDI,0.16263,0.16262406,0.07073001,0.16263,6.169925,-0.002438234
+2713N: Legitimacy of the State - Fund for Peace,0783: Adjusted net national income per capita  (annual % growth) - WDI,0.16175,0.15024711,0.11756,0.16175,6.044394,0.10725155
+2713N: Legitimacy of the State - Fund for Peace,1380: Agricultural raw materials exports  (% of merchandise exports) - WDI,0.16168,0.14676325,0.094289996,0.16168,6.044394,0.12213412
+2713N: Legitimacy of the State - Fund for Peace,0419: CO2 emissions from residential buildings and commercial and public services  (% of total fuel combustion) - WDI,0.16137,0.14597246,0.11016999,0.15813,6.044394,-0.12408678
+2713N: Legitimacy of the State - Fund for Peace,1406: Travel services  (% of commercial service exports) - WDI,0.16105,0.12125051,0.060210004,0.16105,6.129283,0.1994981
+2713N: Legitimacy of the State - Fund for Peace,0719: Gross capital formation  (% of GDP) - WDI,0.16056,0.15975216,0.11328,0.16056,6.169925,0.028422553
+2713N: Legitimacy of the State - Fund for Peace,0103: Net bilateral aid flows from DAC donors; Japan  (current US$) - WDI,0.15971,0.1508449,0.11801,0.15651,6.0,0.09415467
+2713N: Legitimacy of the State - Fund for Peace,0061: Communications; computer; etc.  (% of service exports; BoP) - WDI,0.15939,0.15765412,0.093710005,0.15939,6.129283,-0.041663885
+2713N: Legitimacy of the State - Fund for Peace,0093: Net bilateral aid flows from DAC donors; Germany  (current US$) - WDI,0.15937,0.1459126,0.11811,0.15937,5.9541965,0.11600603
+2713N: Legitimacy of the State - Fund for Peace,0481: Consumer price index  (2010 = 100) - WDI,0.15927,0.15758345,0.11037,0.15927,6.169925,-0.04106766
+2713N: Legitimacy of the State - Fund for Peace,0057: Grants; excluding technical cooperation  (BoP; current US$) - WDI,0.15924,0.10881698,0.07416001,0.15603,6.0,0.22455071
+2713N: Legitimacy of the State - Fund for Peace,0657: Military expenditure  (% of GDP) - WDI,0.15906,0.11716318,0.09096,0.15635,6.129283,0.20468712
+2713N: Legitimacy of the State - Fund for Peace,0318: Net official development assistance received  (current US$) - WDI,0.15876,0.112564236,0.089499995,0.15536,6.0,0.214932
+2713N: Legitimacy of the State - Fund for Peace,1357: Insurance and financial services  (% of commercial service imports) - WDI,0.15853,0.13463508,0.123849995,0.15853,6.129283,-0.15457982
+2713N: Legitimacy of the State - Fund for Peace,0475: Money  (current LCU) - WDI,0.15817,0.15039946,0.08687,0.15512,6.087463,-0.088150665
+2713N: Legitimacy of the State - Fund for Peace,0054: Reserves and related items  (BoP; current US$) - WDI,0.15766,0.1572935,0.115779996,0.1548,6.169925,0.019143919
+2713N: Legitimacy of the State - Fund for Peace,0487: Real interest rate  (%) - WDI,0.15748,0.14438555,0.10266,0.15358,5.9541965,0.11443101
+2713N: Legitimacy of the State - Fund for Peace,0314: Net official development assistance and official aid received  (current US$) - WDI,0.15742,0.111356944,0.08821999,0.15393,6.0,0.21462305
+2713N: Legitimacy of the State - Fund for Peace,0769: Adjusted savings: mineral depletion  (% of GNI) - WDI,0.15708,0.14821158,0.094809994,0.15463,6.2479277,0.09417227
+2713N: Legitimacy of the State - Fund for Peace,0114: Net bilateral aid flows from DAC donors; Total  (current US$) - WDI,0.15657,0.11633842,0.09604,0.15284,6.0,0.20057812
+2713N: Legitimacy of the State - Fund for Peace,0717: Gross capital formation  (annual % growth) - WDI,0.15579,0.13490535,0.111090004,0.15273,6.087463,0.14451522
+2713N: Legitimacy of the State - Fund for Peace,2807: Balance of Payments-Imports-Government goods and services n.i.e. (US dollar at current prices) - WTO,0.15509,0.14992782,0.053340003,0.15201,6.129283,-0.07184833
+2713N: Legitimacy of the State - Fund for Peace,1366: Merchandise imports from low- and middle-income economies in Latin America & the Caribbean  (% of total merchandise imports) - WDI,0.15477,0.15410617,0.101,0.15182,6.129283,0.025764948
+2713N: Legitimacy of the State - Fund for Peace,0097: Net bilateral aid flows from DAC donors; France  (current US$) - WDI,0.15464,0.14850469,0.12066001,0.15464,5.9541965,0.07832823
+2713N: Legitimacy of the State - Fund for Peace,0770: Adjusted savings: energy depletion  (current US$) - WDI,0.15439,0.15303527,0.12216,0.15439,6.2479277,0.036806732
+2713N: Legitimacy of the State - Fund for Peace,0579: Start-up procedures to register a business  (number) - WDI,0.15405,-0.028387025,0.037580006,0.15405,5.643856,0.42712647
+2713N: Legitimacy of the State - Fund for Peace,1771: Primary energy supply - TOT (TOE_1000USD) - OECD,0.15398,0.118588015,0.08642,0.15398,6.0,0.18812759
+2713N: Legitimacy of the State - Fund for Peace,0321: Net official development assistance received  (constant 2013 US$) - WDI,0.1534,0.10672942,0.08489,0.15024,6.0,0.21603376
+2713N: Legitimacy of the State - Fund for Peace,0489: Claims on central government; etc.  (% GDP) - WDI,0.15333,0.14775309,0.11758,0.15333,6.169925,-0.074678674
+2713N: Legitimacy of the State - Fund for Peace,0027: Livestock production index  (2004-2006 = 100) - WDI,0.15332,0.0912675,0.05257,0.15332,6.2479277,0.2491034
+2713N: Legitimacy of the State - Fund for Peace,0708: Gross fixed capital formation  (annual % growth) - WDI,0.15305,0.13252121,0.09735,0.15305,6.044394,0.14327875
+2713N: Legitimacy of the State - Fund for Peace,0807: Natural gas rents  (% of GDP) - WDI,0.15283,0.13397904,0.101150006,0.15283,6.169925,0.13729884
+2713N: Legitimacy of the State - Fund for Peace,1367: Merchandise imports from low- and middle-income economies in Middle East & North Africa  (% of total merchandise imports) - WDI,0.15263,0.117608994,0.100490004,0.14999,6.2094536,0.187139
+2713N: Legitimacy of the State - Fund for Peace,0730: Trade  (% of GDP) - WDI,0.15253,0.1329075,0.12035,0.14967,6.2094536,-0.14008036
+2713N: Legitimacy of the State - Fund for Peace,0315: Net official development assistance and official aid received  (constant 2013 US$) - WDI,0.15251,0.10597418,0.08387,0.14937,6.0,0.21572162
+2713N: Legitimacy of the State - Fund for Peace,0622: Overall level of statistical capacity  (scale 0 - 100) - WDI,0.15189,-0.021803603,0.043659993,0.15189,6.0,-0.41676563
+2713N: Legitimacy of the State - Fund for Peace,0725: Imports of goods and services  (% of GDP) - WDI,0.14939,0.14679474,0.11109,0.1466,6.2094536,-0.050943673
+2713N: Legitimacy of the State - Fund for Peace,0799: Mineral rents  (% of GDP) - WDI,0.14881,0.14172745,0.089049995,0.14643,6.2479277,0.08415788
+2713N: Legitimacy of the State - Fund for Peace,0030: Trade in services  (% of GDP) - WDI,0.14865,0.13362065,0.11246,0.14865,6.129283,-0.1225943
+2713N: Legitimacy of the State - Fund for Peace,1327: Merchandise trade  (% of GDP) - WDI,0.14861,0.13761333,0.11013,0.14577,6.2479277,-0.10486503
+2713N: Legitimacy of the State - Fund for Peace,1208: Labor force participation rate; male (% of male population ages 15-64)  (modeled ILO estimate) - WDI,0.14809,0.14649397,0.09706001,0.14609,6.2479277,-0.039950393
+2713N: Legitimacy of the State - Fund for Peace,0700: Exports of goods and services  (annual % growth) - WDI,0.14775,0.13855673,0.10391001,0.14775,6.087463,0.09588155
+2713N: Legitimacy of the State - Fund for Peace,0764: Adjusted savings: net forest depletion  (current US$) - WDI,0.14764,0.14599842,0.083050005,0.14764,6.2094536,0.04051646
+2713N: Legitimacy of the State - Fund for Peace,0034: Insurance and financial services  (% of service imports; BoP) - WDI,0.14654,0.11804643,0.10899,0.14654,6.129283,-0.16880038
+2713N: Legitimacy of the State - Fund for Peace,1390: Merchandise exports to low- and middle-income economies outside region  (% of total merchandise exports) - WDI,0.14565,0.14523193,0.083790004,0.14276,6.129283,0.020446619
+2713N: Legitimacy of the State - Fund for Peace,0833: GNI per capita growth  (annual %) - WDI,0.14535,0.13192727,0.09008999,0.14207,6.087463,0.115856476
+2713N: Legitimacy of the State - Fund for Peace,0746: Industry; value added  (annual % growth) - WDI,0.1451,0.120381966,0.09239,0.14249,6.169925,0.1572197
+2713N: Legitimacy of the State - Fund for Peace,1040: Immunization; DPT  (% of children ages 12-23 months) - WDI,0.14499,-0.0032581538,0.024449997,0.14499,5.087463,-0.38503006
+2713N: Legitimacy of the State - Fund for Peace,1379: Export volume index  (2000 = 100) - WDI,0.14121,0.13845901,0.06097001,0.13866,6.2479277,0.05244993
+2713N: Legitimacy of the State - Fund for Peace,0768: Adjusted savings: mineral depletion  (current US$) - WDI,0.14108,0.13909492,0.10955001,0.14108,6.2479277,-0.044554282
+2713N: Legitimacy of the State - Fund for Peace,0025: Crop production index  (2004-2006 = 100) - WDI,0.13962,0.11484122,0.09059001,0.13962,6.2479277,0.15741278
+2713N: Legitimacy of the State - Fund for Peace,1394: Merchandise exports to low- and middle-income economies in Middle East & North Africa  (% of total merchandise exports) - WDI,0.1371,0.11697229,0.098639995,0.13444,6.2094536,0.14187214
+2713N: Legitimacy of the State - Fund for Peace,0072: Foreign direct investment; net inflows  (% of GDP) - WDI,0.13692,0.12471575,0.10552001,0.13441,6.2479277,-0.11047284
+2713N: Legitimacy of the State - Fund for Peace,2771: Merchandise trade-Exports-Total merchandise (Unit value index - Prev. year = 100) - WTO,0.13671,0.12544565,0.10106,0.13434,6.2479277,0.106133655
+2713N: Legitimacy of the State - Fund for Peace,0734: Agriculture; value added  (annual % growth) - WDI,0.13669,0.1276638,0.104660004,0.13415,6.169925,0.09500629
+2713N: Legitimacy of the State - Fund for Peace,1358: Manufactures imports  (% of merchandise imports) - WDI,0.13658,0.08404204,0.057960004,0.1332,6.087463,-0.22921161
+2713N: Legitimacy of the State - Fund for Peace,1259: Unemployment; total (% of total labor force)  (modeled ILO estimate) - WDI,0.13652,0.13637832,0.09565999,0.13384,6.228819,0.011902958
+2713N: Legitimacy of the State - Fund for Peace,0635: Mobile cellular subscriptions - WDI,0.13566,0.135072,0.06887999,0.13566,6.2479277,-0.024248779
+2713N: Legitimacy of the State - Fund for Peace,0811: GDP per capita growth  (annual %) - WDI,0.13525,0.12248569,0.07572,0.13263,6.2479277,0.112979256
+2713N: Legitimacy of the State - Fund for Peace,1400: Export value index  (2000 = 100) - WDI,0.13471,0.12197484,0.06536,0.1323,6.2479277,0.11285016
+2713N: Legitimacy of the State - Fund for Peace,0621: Methodology assessment of statistical capacity  (scale 0 - 100) - WDI,0.13416,-0.04132192,0.035959996,0.13416,5.0,-0.41890562
+2713N: Legitimacy of the State - Fund for Peace,0046: Current account balance  (% of GDP) - WDI,0.13412,0.13404828,0.03407,0.13131,6.169925,0.008468434
+2713N: Legitimacy of the State - Fund for Peace,1255: Unemployment; female (% of female labor force)  (modeled ILO estimate) - WDI,0.1338,0.12548797,0.076120004,0.1338,6.2094536,0.09117031
+2713N: Legitimacy of the State - Fund for Peace,1041: Immunization; measles  (% of children ages 12-23 months) - WDI,0.13355,0.008281112,0.017830007,0.13355,5.2479277,-0.35393345
+2713N: Legitimacy of the State - Fund for Peace,0723: Imports of goods and services  (annual % growth) - WDI,0.13307,0.119643666,0.08374001,0.13307,6.087463,0.1158721
+2713N: Legitimacy of the State - Fund for Peace,0090: Net bilateral aid flows from DAC donors; European Union institutions  (current US$) - WDI,0.12809,0.12797211,0.079909995,0.12511,6.0,0.010857311
+2713N: Legitimacy of the State - Fund for Peace,0470: Claims on private sector  (annual growth as % of broad money) - WDI,0.12447,0.11990233,0.09706,0.12447,6.087463,0.067584574
+2713N: Legitimacy of the State - Fund for Peace,0878: Compulsory education; duration  (years) - WDI,0.12387,0.004015878,0.021279998,0.1177,5.3923173,-0.34619954
+2713N: Legitimacy of the State - Fund for Peace,0740: Manufacturing; value added  (annual % growth) - WDI,0.12181,0.10573255,0.0896,0.11896,6.129283,0.12679686
+2713N: Legitimacy of the State - Fund for Peace,2776: Merchandise trade-Imports-Total merchandise (Volume index - Previous year = 100) - WTO,0.12137,0.10158378,0.07405,0.11925,6.2479277,0.14066352
+2713N: Legitimacy of the State - Fund for Peace,0589: Procedures to build a warehouse  (number) - WDI,0.11908,0.08470845,0.053629998,0.11097,6.169925,0.18539564
+2713N: Legitimacy of the State - Fund for Peace,1257: Unemployment; male (% of male labor force)  (modeled ILO estimate) - WDI,0.11772,0.11733782,0.07213,0.11772,6.2094536,-0.019549273
+2713N: Legitimacy of the State - Fund for Peace,2773: Merchandise trade-Exports-Total merchandise (Volume index - Previous year = 100) - WTO,0.1175,0.11652705,0.08773,0.11549,6.2479277,0.031192103
+2713N: Legitimacy of the State - Fund for Peace,2775: Merchandise trade-Imports-Total merchandise (Value index - Previous year = 100) - WTO,0.11736,0.09814157,0.07164,0.11736,6.2479277,0.13863055
+2713N: Legitimacy of the State - Fund for Peace,2772: Merchandise trade-Exports-Total merchandise (Value index - Previous year = 100) - WTO,0.11606,0.11387568,0.078250006,0.11606,6.2479277,0.04673673
+2713N: Legitimacy of the State - Fund for Peace,0540: Business extent of disclosure index  (0=less disclosure to 10=more disclosure) - WDI,0.11376,0.0627795,0.052240003,0.11376,5.0,-0.22578862
+2713N: Legitimacy of the State - Fund for Peace,2774: Merchandise trade-Imports-Total merchandise (Unit value index - Prev. year = 100) - WTO,0.10999,0.10473745,0.093260005,0.10838,6.2479277,0.072474465
+2713N: Legitimacy of the State - Fund for Peace,0624: Source data assessment of statistical capacity  (scale 0 - 100) - WDI,0.105,-0.025888123,0.03232,0.105,5.0,-0.36178464
+2713N: Legitimacy of the State - Fund for Peace,0789: Coal rents  (% of GDP) - WDI,0.10119,0.1005382,0.07858,0.09933,6.2479277,0.02553034
+2713N: Legitimacy of the State - Fund for Peace,0576: Procedures to register property  (number) - WDI,0.07844,0.010395594,0.017580003,0.07486,6.169925,0.26085323
+2713N: Legitimacy of the State - Fund for Peace,0883: Preprimary education; duration  (years) - WDI,0.06249,0.06240072,0.021730002,0.0438,6.2479277,0.009448882
+2713N: Legitimacy of the State - Fund for Peace,0623: Periodicity and timeliness assessment of statistical capacity  (scale 0 - 100) - WDI,0.06198,0.016149364,0.015999999,0.06198,6.0,-0.21408091
+2713N: Legitimacy of the State - Fund for Peace,1091: Tuberculosis treatment success rate  (% of new cases) - WDI,0.05985,0.035595693,0.01676,0.05806,6.169925,0.15573795
+2713N: Legitimacy of the State - Fund for Peace,0938: Lower secondary school starting age  (years) - WDI,0.05573,0.05038354,0.01464,0.03908,6.2479277,-0.073119484
+2713N: Legitimacy of the State - Fund for Peace,0942: Secondary education; duration  (years) - WDI,0.05546,0.054473862,0.017380003,0.0507,5.70044,-0.03140278
+2713N: Legitimacy of the State - Fund for Peace,0891: Primary school starting age  (years) - WDI,0.05089,0.043913182,0.027409999,0.04156,5.044394,0.08352734
+2713N: Legitimacy of the State - Fund for Peace,0895: Primary education; duration  (years) - WDI,0.03195,0.015784584,0.010300001,0.03027,5.4594316,-0.1271433

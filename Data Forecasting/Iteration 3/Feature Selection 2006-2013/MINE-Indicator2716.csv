@@ -1,0 +1,635 @@
+X var,Y var,MIC (strength),MIC-p^2 (nonlinearity),MAS (non-monotonicity),MEV (functionality),MCN (complexity),Linear regression (p)
+2716N: Security Apparatus - Fund for Peace,2716: Security Apparatus - Fund for Peace,0.79737,-0.15495783,0.015540004,0.77045,5.169925,0.9758729
+2716N: Security Apparatus - Fund for Peace,2707: Failed States Index Total - Fund for Peace,0.66277,-0.19064814,0.081499994,0.66277,6.2094536,0.9238063
+2716N: Security Apparatus - Fund for Peace,2706: Failed States Index Rank - Fund for Peace,0.63413,-0.15778339,0.06305003,0.63389,6.2479277,-0.88989514
+2716N: Security Apparatus - Fund for Peace,2715: Human Rights - Fund for Peace,0.57649,-0.17069864,0.06099999,0.57649,5.4594316,0.86440074
+2716N: Security Apparatus - Fund for Peace,0782: Adjusted net national income per capita  (constant 2005 US$) - WDI,0.57146,0.0412066,0.07032001,0.57146,5.3923173,-0.728185
+2716N: Security Apparatus - Fund for Peace,2713: Legitimacy of the State - Fund for Peace,0.56343,-0.19974017,0.03558001,0.56343,5.2479277,0.87359613
+2716N: Security Apparatus - Fund for Peace,0677: Household final consumption expenditure per capita  (constant 2005 US$) - WDI,0.56044,0.020419836,0.060279995,0.56044,5.9541965,-0.73486066
+2716N: Security Apparatus - Fund for Peace,0832: GNI per capita  (constant 2005 US$) - WDI,0.53667,0.0023210645,0.073600024,0.53667,5.523562,-0.7309918
+2716N: Security Apparatus - Fund for Peace,2717: Factionalized Elites - Fund for Peace,0.52135,-0.2318725,0.04528001,0.52135,4.5849624,0.8678839
+2716N: Security Apparatus - Fund for Peace,2708: Demographic Pressures - Fund for Peace,0.50904,-0.10579091,0.086349994,0.50904,5.4594316,0.78411156
+2716N: Security Apparatus - Fund for Peace,2714: Public Services - Fund for Peace,0.50034,-0.14864302,0.031679988,0.50034,4.321928,0.8055948
+2716N: Security Apparatus - Fund for Peace,0810: GDP per capita  (constant 2005 US$) - WDI,0.49711,0.015502453,0.08245,0.49711,6.169925,-0.6939795
+2716N: Security Apparatus - Fund for Peace,2704: Corruption perceptions index - Transparency,0.48513,-0.18682724,0.037479997,0.48513,6.129283,-0.81973
+2716N: Security Apparatus - Fund for Peace,1098: Health expenditure per capita  (current US$) - WDI,0.47888,0.03235215,0.055900007,0.47888,6.0,-0.6682274
+2716N: Security Apparatus - Fund for Peace,0353: Agriculture value added per worker  (constant 2005 US$) - WDI,0.47004,0.14466125,0.09266999,0.46945,6.129283,-0.5704198
+2716N: Security Apparatus - Fund for Peace,0028: Surface area  (sq. km) - WDI,0.46702,0.46696377,0.38376,0.46702,6.2479277,0.007498247
+2716N: Security Apparatus - Fund for Peace,0781: Adjusted net national income per capita  (current US$) - WDI,0.46274,-0.03432852,0.04394999,0.46274,6.169925,-0.70503086
+2716N: Security Apparatus - Fund for Peace,1297: Population ages 65 and above  (% of total) - WDI,0.46155,0.033369005,0.108940005,0.46155,6.2094536,-0.6543554
+2716N: Security Apparatus - Fund for Peace,0020: Land area  (sq. km) - WDI,0.46081,0.46067354,0.375,0.46081,6.2479277,0.011681359
+2716N: Security Apparatus - Fund for Peace,0379: Electric power consumption  (kWh per capita) - WDI,0.45956,0.14722812,0.10225001,0.45596,6.044394,-0.5588666
+2716N: Security Apparatus - Fund for Peace,0642: Secure Internet servers  (per 1 million people) - WDI,0.45948,0.14172268,0.068670005,0.45948,6.2094536,-0.56369966
+2716N: Security Apparatus - Fund for Peace,2711: Uneven Development - Fund for Peace,0.45873,-0.14793417,0.033790022,0.45873,5.70044,0.7788865
+2716N: Security Apparatus - Fund for Peace,1025: Number of neonatal deaths - WDI,0.45219,0.41845003,0.16075,0.45219,6.2479277,0.18368447
+2716N: Security Apparatus - Fund for Peace,0830: GNI per capita; Atlas method  (current US$) - WDI,0.45038,-0.03062597,0.04934001,0.45038,6.2094536,-0.69354594
+2716N: Security Apparatus - Fund for Peace,1099: Health expenditure per capita; PPP  (constant 2011 international $) - WDI,0.44949,-0.063631654,0.049390018,0.44949,6.087463,-0.7163251
+2716N: Security Apparatus - Fund for Peace,1028: Mortality rate; under-5  (per 1;000 live births) - WDI,0.44463,0.1351127,0.048160017,0.44463,4.169925,0.5563428
+2716N: Security Apparatus - Fund for Peace,2710: Group Grievance - Fund for Peace,0.44249,-0.21790794,0.02076,0.44249,5.4594316,0.8126487
+2716N: Security Apparatus - Fund for Peace,1283: Mortality rate; infant  (per 1;000 live births) - WDI,0.44202,0.0852083,0.04918,0.44202,4.321928,0.5973372
+2716N: Security Apparatus - Fund for Peace,1299: Age dependency ratio; old  (% of working-age population) - WDI,0.44125,0.024844408,0.13054001,0.44125,6.169925,-0.64529496
+2716N: Security Apparatus - Fund for Peace,2718: External Intervention - Fund for Peace,0.4377,-0.1570876,0.060799986,0.4377,6.129283,0.77122474
+2716N: Security Apparatus - Fund for Peace,0836: GNI per capita; PPP  (constant 2011 international $) - WDI,0.43563,0.007457584,0.056430012,0.43563,6.044394,-0.65434885
+2716N: Security Apparatus - Fund for Peace,0640: Fixed broadband subscriptions  (per 100 people) - WDI,0.43129,-0.11080995,0.049219996,0.42959,6.2094536,-0.73627436
+2716N: Security Apparatus - Fund for Peace,1901: Fixed-broadband subscriptions per 100 inhabitants - ITU,0.42835,-0.11503366,0.049219996,0.42835,6.169925,-0.7371456
+2716N: Security Apparatus - Fund for Peace,0808: GDP per capita  (current US$) - WDI,0.42447,-0.028907716,0.03678,0.42424,6.2479277,-0.6733333
+2716N: Security Apparatus - Fund for Peace,1051: Lifetime risk of maternal death  (%) - WDI,0.42283,0.22003715,0.06707001,0.42283,6.2479277,0.45032525
+2716N: Security Apparatus - Fund for Peace,1050: Lifetime risk of maternal death  (1 in: rate varies by country) - WDI,0.42066,0.028772056,0.057310015,0.42066,6.2479277,-0.6260095
+2716N: Security Apparatus - Fund for Peace,1285: Life expectancy at birth; female  (years) - WDI,0.41656,0.061852932,0.03812,0.41656,6.087463,-0.5955729
+2716N: Security Apparatus - Fund for Peace,0643: Internet users  (per 100 people) - WDI,0.41591,-0.1313811,0.03659001,0.41591,6.2094536,-0.7397913
+2716N: Security Apparatus - Fund for Peace,1021: Number of infant deaths - WDI,0.41587,0.36928028,0.11887002,0.41587,6.2479277,0.21584658
+2716N: Security Apparatus - Fund for Peace,0952: School enrollment; secondary  (% gross) - WDI,0.41484,0.0121383965,0.04148999,0.41484,5.857981,-0.63458776
+2716N: Security Apparatus - Fund for Peace,0638: Fixed telephone subscriptions  (per 100 people) - WDI,0.41473,-0.071567714,0.064910024,0.41473,6.2479277,-0.6973505
+2716N: Security Apparatus - Fund for Peace,1899: Percentage of Individuals using the Internet (%) - ITU,0.41451,-0.13131398,0.03593999,0.41451,6.2094536,-0.73879904
+2716N: Security Apparatus - Fund for Peace,1898: Fixed-telephone subscriptions per 100 inhabitants - ITU,0.41424,-0.071635425,0.061499983,0.41424,6.0,-0.69704765
+2716N: Security Apparatus - Fund for Peace,1034: Improved water source; urban  (% of urban population with access) - WDI,0.41348,0.17755203,0.049280018,0.41016,6.2479277,-0.48572418
+2716N: Security Apparatus - Fund for Peace,1035: Improved water source  (% of population with access) - WDI,0.41164,0.09821233,0.048480004,0.41164,6.087463,-0.5598461
+2716N: Security Apparatus - Fund for Peace,0004: Agricultural land  (sq. km) - WDI,0.41106,0.41094136,0.32232,0.41106,6.2479277,0.010892797
+2716N: Security Apparatus - Fund for Peace,1023: Number of under-five deaths - WDI,0.41016,0.35966498,0.11486,0.41016,6.2479277,0.224711
+2716N: Security Apparatus - Fund for Peace,1031: Mortality rate; neonatal  (per 1;000 live births) - WDI,0.40995,0.004566014,0.04843998,0.40995,5.4594316,0.6366977
+2716N: Security Apparatus - Fund for Peace,0454: Automated teller machines (ATMs)  (per 100;000 adults) - WDI,0.40594,0.0074109435,0.055680007,0.40594,6.0,-0.63129157
+2716N: Security Apparatus - Fund for Peace,1049: Number of maternal deaths - WDI,0.40539,0.3365585,0.09718001,0.40539,6.2479277,0.2623576
+2716N: Security Apparatus - Fund for Peace,1295: Population ages 0-14  (% of total) - WDI,0.40493,-0.006824076,0.06875998,0.40493,6.2479277,0.64168066
+2716N: Security Apparatus - Fund for Peace,0953: School enrollment; secondary; female  (% gross) - WDI,0.40262,-6.553531E-5,0.05173999,0.40262,5.857981,-0.63457507
+2716N: Security Apparatus - Fund for Peace,0380: Energy use  (kg of oil equivalent per capita) - WDI,0.40013,0.16070756,0.063710004,0.40013,5.9541965,-0.48930812
+2716N: Security Apparatus - Fund for Peace,1071: Maternal mortality ratio  (modeled estimate; per 100;000 live births) - WDI,0.3993,0.17191434,0.046030015,0.3993,6.2094536,0.47684973
+2716N: Security Apparatus - Fund for Peace,1433: Air and GHG emissions - CO2 (TONNE_CAP) - OECD,0.39871,0.1849541,0.075250015,0.39871,6.0,-0.46233743
+2716N: Security Apparatus - Fund for Peace,0736: Agriculture; value added  (% of GDP) - WDI,0.39716,0.075036705,0.06239,0.39426,6.169925,0.56755906
+2716N: Security Apparatus - Fund for Peace,0954: School enrollment; secondary; male  (% gross) - WDI,0.39239,0.0013821125,0.030320019,0.39239,5.807355,-0.62530625
+2716N: Security Apparatus - Fund for Peace,1300: Age dependency ratio; young  (% of working-age population) - WDI,0.39236,0.028433144,0.063109994,0.39236,6.169925,0.6032635
+2716N: Security Apparatus - Fund for Peace,1310: Rural population - WDI,0.39102,0.37987536,0.25084,0.39102,6.2479277,0.105568156
+2716N: Security Apparatus - Fund for Peace,0814: GDP per capita; PPP  (constant 2011 international $) - WDI,0.38955,0.017262489,0.06444001,0.38955,4.5849624,-0.6101537
+2716N: Security Apparatus - Fund for Peace,1289: Survival to age 65; female  (% of cohort) - WDI,0.38427,0.088232666,0.040520012,0.38427,6.2479277,-0.54409313
+2716N: Security Apparatus - Fund for Peace,0855: Price level ratio of PPP conversion factor  to market exchange rate (GDP) - WDI,0.38356,-0.11084455,0.057359993,0.38356,6.129283,-0.70313907
+2716N: Security Apparatus - Fund for Peace,0835: GNI per capita; PPP  (current international $) - WDI,0.38288,4.5919418E-4,0.031729996,0.38288,4.5849624,-0.6184018
+2716N: Security Apparatus - Fund for Peace,1278: Birth rate; crude  (per 1;000 people) - WDI,0.382,0.01619637,0.05689001,0.382,5.7548876,0.60481703
+2716N: Security Apparatus - Fund for Peace,1167: GDP per person employed  (constant 2011 PPP $) - WDI,0.37639,0.08721995,0.047560006,0.37639,6.2094536,-0.53774536
+2716N: Security Apparatus - Fund for Peace,1266: Refugee population by country or territory of origin - WDI,0.37582,0.29655403,0.11324,0.37582,6.2479277,0.28154212
+2716N: Security Apparatus - Fund for Peace,0813: GDP per capita; PPP  (current international $) - WDI,0.37396,0.008017898,0.03522998,0.37396,4.5849624,-0.6049315
+2716N: Security Apparatus - Fund for Peace,1058: Improved sanitation facilities  (% of population with access) - WDI,0.37291,0.089849085,0.09324999,0.37291,6.2094536,-0.5320347
+2716N: Security Apparatus - Fund for Peace,1033: Improved water source; rural  (% of rural population with access) - WDI,0.37102,0.046445996,0.06910998,0.36922,6.2479277,-0.56971395
+2716N: Security Apparatus - Fund for Peace,1286: Life expectancy at birth; total  (years) - WDI,0.36783,0.0029381514,0.034259975,0.36783,6.2479277,-0.6040628
+2716N: Security Apparatus - Fund for Peace,1060: Improved sanitation facilities; urban  (% of urban population with access) - WDI,0.36413,0.11912148,0.10756001,0.36374,6.2479277,-0.49498335
+2716N: Security Apparatus - Fund for Peace,0641: Secure Internet servers - WDI,0.36408,0.3111134,0.039349973,0.36408,6.2094536,-0.23014478
+2716N: Security Apparatus - Fund for Peace,0574: Time required to enforce a contract  (days) - WDI,0.36077,0.28937104,0.25664,0.36077,6.169925,0.2672058
+2716N: Security Apparatus - Fund for Peace,0006: Arable land  (hectares) - WDI,0.35696,0.3564119,0.25866,0.35696,6.2479277,0.02341114
+2716N: Security Apparatus - Fund for Peace,0017: Forest area  (% of land area) - WDI,0.35536,0.34580404,0.28608,0.35536,6.2479277,-0.09775459
+2716N: Security Apparatus - Fund for Peace,1059: Improved sanitation facilities; rural  (% of rural population with access) - WDI,0.35452,0.06689423,0.08453001,0.35185,6.2479277,-0.5363075
+2716N: Security Apparatus - Fund for Peace,2712: Poverty and Economic Decline - Fund for Peace,0.35344,-0.13800696,0.0388,0.35344,5.2479277,0.70103276
+2716N: Security Apparatus - Fund for Peace,0490: Claims on other sectors of the domestic economy  (% of GDP) - WDI,0.35232,-0.024216741,0.06496,0.35232,5.9541965,-0.6136259
+2716N: Security Apparatus - Fund for Peace,2709: Refugees and IDPs - Fund for Peace,0.35028,-0.19319212,0.027549982,0.35028,5.4594316,0.7372056
+2716N: Security Apparatus - Fund for Peace,0456: Commercial bank branches  (per 100;000 adults) - WDI,0.34894,0.16201168,0.08345002,0.34625,6.2094536,-0.4323521
+2716N: Security Apparatus - Fund for Peace,0851: DEC alternative conversion factor  (LCU per US$) - WDI,0.34844,0.32803375,0.17666999,0.34492,6.2479277,0.14285038
+2716N: Security Apparatus - Fund for Peace,0460: Domestic credit to private sector by banks  (% of GDP) - WDI,0.34646,0.3363814,0.051210016,0.34646,6.169925,-0.10039224
+2716N: Security Apparatus - Fund for Peace,0834: GNI per capita  (constant LCU) - WDI,0.3463,0.34346175,0.2723,0.34254,6.087463,0.053275254
+2716N: Security Apparatus - Fund for Peace,2719: Human Flight - Fund for Peace,0.34564,-0.118756294,0.03397,0.34564,4.4594316,0.6814663
+2716N: Security Apparatus - Fund for Peace,1093: Incidence of tuberculosis  (per 100;000 people) - WDI,0.34547,0.26050884,0.0862,0.34547,6.2479277,0.29148102
+2716N: Security Apparatus - Fund for Peace,0571: Time to import  (days) - WDI,0.34304,0.03366056,0.046909988,0.34304,6.129283,0.55621886
+2716N: Security Apparatus - Fund for Peace,1287: Life expectancy at birth; male  (years) - WDI,0.3424,-0.023205817,0.045839995,0.3424,5.4594316,-0.6046535
+2716N: Security Apparatus - Fund for Peace,2795: Balance of Payments-Exports-Other business services (US dollar at current prices) - WTO,0.34166,0.21572001,0.06628999,0.34062,6.087463,-0.35488024
+2716N: Security Apparatus - Fund for Peace,0037: Charges for the use of intellectual property; payments  (BoP; current US$) - WDI,0.34058,0.1862289,0.06008999,0.34058,5.70044,-0.3928754
+2716N: Security Apparatus - Fund for Peace,0767: Adjusted savings: consumption of fixed capital  (% of GNI) - WDI,0.3401,-0.008123785,0.057300016,0.33719,6.2479277,-0.5901049
+2716N: Security Apparatus - Fund for Peace,0796: Gross value added at factor cost  (constant 2005 US$) - WDI,0.33951,0.27399552,0.08383,0.33242,6.044394,-0.25595796
+2716N: Security Apparatus - Fund for Peace,0016: Forest area  (sq. km) - WDI,0.33889,0.33878973,0.28495,0.33889,6.2479277,0.01001285
+2716N: Security Apparatus - Fund for Peace,0059: ICT service exports  (BoP; current US$) - WDI,0.33869,0.20214103,0.016559988,0.33598,6.044394,-0.36952534
+2716N: Security Apparatus - Fund for Peace,1288: Fertility rate; total  (births per woman) - WDI,0.33774,0.034673125,0.059599996,0.33774,6.169925,0.5505151
+2716N: Security Apparatus - Fund for Peace,0812: GDP per capita  (constant LCU) - WDI,0.3368,0.3351871,0.26380002,0.33355,6.2479277,0.040161088
+2716N: Security Apparatus - Fund for Peace,0553: Time to export  (days) - WDI,0.33654,0.047869354,0.05359,0.33654,6.2094536,0.5372808
+2716N: Security Apparatus - Fund for Peace,1276: Mortality rate; adult; female  (per 1;000 female adults) - WDI,0.33499,0.14005771,0.05059001,0.33499,4.70044,0.44151136
+2716N: Security Apparatus - Fund for Peace,0577: Cost of business start-up procedures  (% of GNI per capita) - WDI,0.33128,0.20104845,0.056649983,0.33128,6.129283,0.36087608
+2716N: Security Apparatus - Fund for Peace,2787: Balance of Payments-Exports-Transport (US dollar at current prices) - WTO,0.33055,0.12577859,0.05790001,0.33055,6.087463,-0.45251673
+2716N: Security Apparatus - Fund for Peace,0580: Time to prepare and pay taxes  (hours) - WDI,0.32982,0.27714735,0.18215,0.32982,6.169925,0.22950523
+2716N: Security Apparatus - Fund for Peace,0062: Primary income receipts  (BoP; current US$) - WDI,0.32934,0.19281396,0.05986002,0.32934,6.129283,-0.36949432
+2716N: Security Apparatus - Fund for Peace,2739: Merchandise trade-Imports-Clothing (US dollar at current prices) - WTO,0.32881,0.22413924,0.066440016,0.32881,6.129283,-0.32352862
+2716N: Security Apparatus - Fund for Peace,0735: Agriculture; value added  (constant LCU) - WDI,0.32856,0.32309315,0.17851,0.32493,6.169925,0.07393819
+2716N: Security Apparatus - Fund for Peace,0361: Electric power transmission and distribution losses  (% of output) - WDI,0.32781,0.19191064,0.056720003,0.32781,5.857981,0.36864528
+2716N: Security Apparatus - Fund for Peace,1304: Population; total - WDI,0.32688,0.32190812,0.18609,0.32688,6.2479277,0.07051164
+2716N: Security Apparatus - Fund for Peace,1075: People practicing open defecation  (% of population) - WDI,0.32598,0.17989416,0.04649,0.32598,6.2094536,0.38221177
+2716N: Security Apparatus - Fund for Peace,0844: Net taxes on products  (current US$) - WDI,0.32597,0.25688016,0.042559996,0.32597,6.044394,-0.26284945
+2716N: Security Apparatus - Fund for Peace,0896: Primary education; pupils - WDI,0.32268,0.30571842,0.20368,0.3187,6.129283,0.13023663
+2716N: Security Apparatus - Fund for Peace,0010: Permanent cropland  (% of land area) - WDI,0.32261,0.2989099,0.24862999,0.32261,6.2479277,0.15394835
+2716N: Security Apparatus - Fund for Peace,2818: Balance of Payments-Imports-Telecommunications; computer; and information services (US dollar at current prices) - WTO,0.32175,0.17747854,0.045140013,0.32175,6.044394,-0.3798308
+2716N: Security Apparatus - Fund for Peace,0654: Armed forces personnel; total - WDI,0.32168,0.3021518,0.25815,0.32168,6.169925,0.13974342
+2716N: Security Apparatus - Fund for Peace,2745: Merchandise trade-Exports-Office and telecom equipment (US dollar at current prices) - WTO,0.32012,0.30009463,0.04593,0.32012,5.857981,-0.14151104
+2716N: Security Apparatus - Fund for Peace,1312: Rural population  (% of total population) - WDI,0.31951,0.018353373,0.086420015,0.31951,6.2479277,0.5487774
+2716N: Security Apparatus - Fund for Peace,1315: Urban population  (% of total) - WDI,0.31951,0.01835227,0.087740004,0.31951,6.2479277,-0.5487784
+2716N: Security Apparatus - Fund for Peace,2785: Balance of Payments-Exports-Commercial services (US dollar at current prices) - WTO,0.31717,0.167591,0.036899984,0.31717,6.0,-0.38675442
+2716N: Security Apparatus - Fund for Peace,0552: Documents to export  (number) - WDI,0.31691,-0.038347363,0.02809,0.31691,5.5849624,0.5960347
+2716N: Security Apparatus - Fund for Peace,0378: Combustible renewables and waste  (% of total energy) - WDI,0.31593,0.17297103,0.15850002,0.31199,6.044394,0.37809917
+2716N: Security Apparatus - Fund for Peace,0492: Domestic credit to private sector  (% of GDP) - WDI,0.31587,-0.02011782,0.052439988,0.31587,6.169925,-0.57964456
+2716N: Security Apparatus - Fund for Peace,2744: Merchandise trade-Exports-Machinery and transport equipment (US dollar at current prices) - WTO,0.31429,0.24257165,0.040879995,0.31088,6.129283,-0.2678028
+2716N: Security Apparatus - Fund for Peace,1402: Commercial service exports  (current US$) - WDI,0.31428,0.16134274,0.040520012,0.31428,6.129283,-0.39107195
+2716N: Security Apparatus - Fund for Peace,0739: Manufacturing; value added  (constant 2005 US$) - WDI,0.31398,0.2402134,0.05173999,0.31398,5.523562,-0.2716001
+2716N: Security Apparatus - Fund for Peace,2817: Balance of Payments-Imports-Charges for the use of intellectual property n.i.e. (US dollar at current prices) - WTO,0.31374,0.17814313,0.052670017,0.31374,5.7548876,-0.36823478
+2716N: Security Apparatus - Fund for Peace,1073: People practicing open defecation; rural  (% of rural population) - WDI,0.31209,0.1560419,0.040820003,0.31209,6.169925,0.39502925
+2716N: Security Apparatus - Fund for Peace,1952: Number of neonatal deaths (thousands) - WHO,0.31188,0.27828363,0.043500006,0.3118,6.2479277,0.18329313
+2716N: Security Apparatus - Fund for Peace,0848: Net current transfers from abroad  (current LCU) - WDI,0.31062,0.30237016,0.08973001,0.31062,6.087463,0.09082866
+2716N: Security Apparatus - Fund for Peace,1290: Survival to age 65; male  (% of cohort) - WDI,0.31057,-0.0017858744,0.06651999,0.31057,4.5849624,-0.5588881
+2716N: Security Apparatus - Fund for Peace,2743: Merchandise trade-Exports-Pharmaceuticals (US dollar at current prices) - WTO,0.30963,0.16848856,0.040030003,0.30963,5.643856,-0.37568796
+2716N: Security Apparatus - Fund for Peace,1232: Labor force; total - WDI,0.3091,0.30697447,0.19929999,0.3058,6.2479277,0.046103332
+2716N: Security Apparatus - Fund for Peace,0773: Adjusted savings: particulate emission damage  (% of GNI) - WDI,0.30872,0.060704485,0.07057999,0.30629,6.2094536,0.49801156
+2716N: Security Apparatus - Fund for Peace,2746: Merchandise trade-Exports-Electronic data processing and office equipment (US dollar at current prices) - WTO,0.30829,0.2984226,0.041909993,0.30829,6.044394,-0.0993348
+2716N: Security Apparatus - Fund for Peace,1103: Health expenditure; public  (% of GDP) - WDI,0.30709,-0.07886922,0.05517,0.30709,6.2479277,-0.6212562
+2716N: Security Apparatus - Fund for Peace,0756: Services; etc.; value added  (constant 2005 US$) - WDI,0.30677,0.25058287,0.060389996,0.30677,5.9068904,-0.23703821
+2716N: Security Apparatus - Fund for Peace,0066: Service exports  (BoP; current US$) - WDI,0.30664,0.15603518,0.047439992,0.30582,6.169925,-0.38807836
+2716N: Security Apparatus - Fund for Peace,0856: PPP conversion factor; private consumption  (LCU per international $) - WDI,0.30636,0.28728637,0.1597,0.30636,6.169925,0.13810731
+2716N: Security Apparatus - Fund for Peace,0853: PPP conversion factor; GDP  (LCU per international $) - WDI,0.30603,0.28785568,0.17145,0.30306,6.2479277,0.13481218
+2716N: Security Apparatus - Fund for Peace,1362: Merchandise imports from high-income economies  (% of total merchandise imports) - WDI,0.30534,0.0061415136,0.09000999,0.30534,6.2094536,-0.5469904
+2716N: Security Apparatus - Fund for Peace,1403: High-technology exports  (current US$) - WDI,0.30493,0.25968248,0.051090002,0.30493,4.807355,-0.21271467
+2716N: Security Apparatus - Fund for Peace,2797: Balance of Payments-Exports-Services (US dollar at current prices) - WTO,0.30468,0.15776521,0.046089977,0.30468,6.2094536,-0.38329464
+2716N: Security Apparatus - Fund for Peace,2749: Merchandise trade-Exports-Transport equipment (US dollar at current prices) - WTO,0.3034,0.20726244,0.041689992,0.3034,5.857981,-0.3100606
+2716N: Security Apparatus - Fund for Peace,0885: School enrollment; preprimary  (% gross) - WDI,0.30272,-0.022746861,0.05675,0.30272,5.9541965,-0.57049704
+2716N: Security Apparatus - Fund for Peace,0032: Primary income payments  (BoP; current US$) - WDI,0.30232,0.16171512,0.049620003,0.30232,6.044394,-0.37497318
+2716N: Security Apparatus - Fund for Peace,0827: GNI  (constant LCU) - WDI,0.30164,0.29757258,0.21907,0.29742,6.087463,0.06377623
+2716N: Security Apparatus - Fund for Peace,0699: Exports of goods and services  (constant 2005 US$) - WDI,0.30056,0.19246972,0.075880006,0.30056,5.643856,-0.32877088
+2716N: Security Apparatus - Fund for Peace,0759: Services; etc.; value added  (% of GDP) - WDI,0.29791,0.05120437,0.05486001,0.29507,6.169925,-0.4966947
+2716N: Security Apparatus - Fund for Peace,0674: Household final consumption expenditure  (constant 2005 US$) - WDI,0.29781,0.24963088,0.10678999,0.29781,5.643856,-0.21949738
+2716N: Security Apparatus - Fund for Peace,0662: General government final consumption expenditure  (constant 2005 US$) - WDI,0.29756,0.22024703,0.07816,0.29756,5.9541965,-0.27805212
+2716N: Security Apparatus - Fund for Peace,0852: Official exchange rate  (LCU per US$; period average) - WDI,0.29754,0.2953689,0.16206001,0.29754,6.129283,0.046595022
+2716N: Security Apparatus - Fund for Peace,0366: Electricity production from renewable sources; excluding hydroelectric  (kWh) - WDI,0.29711,0.25852835,0.044180006,0.29711,4.5849624,-0.19642207
+2716N: Security Apparatus - Fund for Peace,0761: Adjusted savings: education expenditure  (% of GNI) - WDI,0.29658,0.21410671,0.12472999,0.29658,6.2094536,-0.28718162
+2716N: Security Apparatus - Fund for Peace,0818: Gross domestic savings  (current LCU) - WDI,0.29642,0.2895504,0.21316001,0.29642,6.169925,0.08288314
+2716N: Security Apparatus - Fund for Peace,2723: Merchandise trade-Exports-Manufactures (US dollar at current prices) - WTO,0.29633,0.22061695,0.044420004,0.29633,5.9068904,-0.27516004
+2716N: Security Apparatus - Fund for Peace,0005: Agricultural land  (% of land area) - WDI,0.2963,0.28345057,0.24734,0.2963,6.2479277,0.11335534
+2716N: Security Apparatus - Fund for Peace,0689: Final consumption expenditure  (constant 2005 US$) - WDI,0.29629,0.24231492,0.09908001,0.29629,6.0,-0.23232539
+2716N: Security Apparatus - Fund for Peace,2747: Merchandise trade-Exports-Telecommunications equipment (US dollar at current prices) - WTO,0.29571,0.28111362,0.030599982,0.29571,6.0,-0.12081548
+2716N: Security Apparatus - Fund for Peace,1273: Adolescent fertility rate  (births per 1;000 women ages 15-19) - WDI,0.29411,0.05275169,0.07231,0.29411,6.2479277,0.4912823
+2716N: Security Apparatus - Fund for Peace,2748: Merchandise trade-Exports-Integrated circuits and electronic components (US dollar at current prices) - WTO,0.29203,0.2534595,0.048769996,0.29203,5.857981,-0.1963937
+2716N: Security Apparatus - Fund for Peace,1101: Health expenditure; public  (% of total health expenditure) - WDI,0.2916,0.019837469,0.09003998,0.2916,6.2479277,-0.5213085
+2716N: Security Apparatus - Fund for Peace,1305: Population; female  (% of total) - WDI,0.29125,0.2911456,0.18745999,0.29125,6.2479277,0.010216941
+2716N: Security Apparatus - Fund for Peace,0585: Tax payments  (number) - WDI,0.291,0.13602449,0.06736001,0.291,6.169925,0.3936693
+2716N: Security Apparatus - Fund for Peace,0570: Documents to import  (number) - WDI,0.29042,-0.07166773,0.03711,0.29042,6.087463,0.60173726
+2716N: Security Apparatus - Fund for Peace,0683: Final consumption expenditure; etc.  (constant 2005 US$) - WDI,0.28972,0.23404229,0.09187999,0.28972,5.9068904,-0.23596126
+2716N: Security Apparatus - Fund for Peace,2798: Balance of Payments-Exports-Other services (US dollar at current prices) - WTO,0.28968,0.17827857,0.042840004,0.28968,6.129283,-0.33376855
+2716N: Security Apparatus - Fund for Peace,0825: GNI  (constant 2005 US$) - WDI,0.2896,0.22739585,0.04773,0.2896,6.0,-0.24940763
+2716N: Security Apparatus - Fund for Peace,0691: Gross national expenditure deflator  (base year varies by country) - WDI,0.28948,0.25257626,0.08193,0.28948,6.087463,0.19210343
+2716N: Security Apparatus - Fund for Peace,1096: Out-of-pocket health expenditure  (% of total expenditure on health) - WDI,0.28942,0.010353088,0.05523999,0.28942,6.2479277,0.52826786
+2716N: Security Apparatus - Fund for Peace,2750: Merchandise trade-Exports-Automotive products (US dollar at current prices) - WTO,0.28718,0.19424748,0.029970005,0.28718,6.044394,-0.30484834
+2716N: Security Apparatus - Fund for Peace,0745: Industry; value added  (constant 2005 US$) - WDI,0.28692,0.24600948,0.078940004,0.28692,6.087463,-0.2022635
+2716N: Security Apparatus - Fund for Peace,0758: Services; etc.; value added  (constant LCU) - WDI,0.28677,0.28394628,0.19373998,0.28283,6.169925,0.053138718
+2716N: Security Apparatus - Fund for Peace,2794: Balance of Payments-Exports-Telecommunications; computer; and information services (US dollar at current prices) - WTO,0.28669,0.21004924,0.034919992,0.28669,6.0,-0.27684066
+2716N: Security Apparatus - Fund for Peace,0797: Gross value added at factor cost  (constant LCU) - WDI,0.28646,0.28456667,0.18136,0.28224,6.087463,0.043512564
+2716N: Security Apparatus - Fund for Peace,1213: Ratio of female to male labor force participation rate (%)  (modeled ILO estimate) - WDI,0.28623,0.2286453,0.19501,0.28294,6.2479277,-0.23996814
+2716N: Security Apparatus - Fund for Peace,0491: Domestic credit provided by financial sector  (% of GDP) - WDI,0.28589,-0.021153748,0.04663001,0.28589,6.169925,-0.5541153
+2716N: Security Apparatus - Fund for Peace,0371: Energy imports; net  (% of energy use) - WDI,0.28565,0.2648003,0.17823002,0.28179,6.044394,-0.1443943
+2716N: Security Apparatus - Fund for Peace,0898: Pupil-teacher ratio; primary - WDI,0.28479,0.050841495,0.06179002,0.28095,5.9541965,0.48368225
+2716N: Security Apparatus - Fund for Peace,0741: Manufacturing; value added  (constant LCU) - WDI,0.28412,0.2819313,0.18028,0.28412,6.129283,0.046783276
+2716N: Security Apparatus - Fund for Peace,2752: Merchandise trade-Imports-Electronic data processing and office equipment (US dollar at current prices) - WTO,0.28329,0.20223787,0.042679995,0.28329,6.044394,-0.28469655
+2716N: Security Apparatus - Fund for Peace,0043: Secondary income; other sectors; payments  (BoP; current US$) - WDI,0.28297,0.20601454,0.03749001,0.27963,6.129283,-0.27740848
+2716N: Security Apparatus - Fund for Peace,0041: Foreign direct investment; net outflows  (BoP; current US$) - WDI,0.28292,0.18579656,0.083340004,0.28292,5.9541965,-0.31164634
+2716N: Security Apparatus - Fund for Peace,2789: Balance of Payments-Exports-Other commercial services (US dollar at current prices) - WTO,0.2815,0.16819158,0.04564999,0.2815,6.044394,-0.33661318
+2716N: Security Apparatus - Fund for Peace,0779: Adjusted net national income  (constant 2005 US$) - WDI,0.28135,0.22562283,0.05066,0.27456,6.0,-0.23606598
+2716N: Security Apparatus - Fund for Peace,1895: Mobile-cellular telephone subscriptions - ITU,0.27994,-0.002454847,0.052780002,0.27741,6.2479277,-0.53140837
+2716N: Security Apparatus - Fund for Peace,1896: Mobile-cellular telephone subscriptions per 100 inhabitants - ITU,0.27994,-0.002454847,0.052780002,0.27741,6.2479277,-0.53140837
+2716N: Security Apparatus - Fund for Peace,0668: Household final consumption expenditure; etc.  (constant 2005 US$) - WDI,0.27969,0.23233373,0.08782001,0.27969,6.0,-0.21761495
+2716N: Security Apparatus - Fund for Peace,0722: Imports of goods and services  (constant 2005 US$) - WDI,0.27928,0.17036463,0.04756999,0.27928,5.643856,-0.3300233
+2716N: Security Apparatus - Fund for Peace,0847: Net current transfers from abroad  (current US$) - WDI,0.27901,0.2012254,0.066190004,0.27901,6.087463,0.2788989
+2716N: Security Apparatus - Fund for Peace,2742: Merchandise trade-Exports-Chemicals (US dollar at current prices) - WTO,0.27869,0.13759138,0.043650016,0.27869,6.087463,-0.37563097
+2716N: Security Apparatus - Fund for Peace,0804: GDP  (constant LCU) - WDI,0.27778,0.27504525,0.17563999,0.27486,6.2479277,0.05229485
+2716N: Security Apparatus - Fund for Peace,1211: Labor force participation rate; female (% of female population ages 15+)  (modeled ILO estimate) - WDI,0.27727,0.26942655,0.17255,0.27513,6.2479277,-0.08856314
+2716N: Security Apparatus - Fund for Peace,2734: Merchandise trade-Imports-Office and telecom equipment (US dollar at current prices) - WTO,0.27725,0.2292359,0.040109992,0.27725,6.129283,-0.21912117
+2716N: Security Apparatus - Fund for Peace,0670: Household final consumption expenditure; etc.  (constant LCU) - WDI,0.27583,0.27047452,0.16788,0.27583,6.044394,0.073181115
+2716N: Security Apparatus - Fund for Peace,2753: Merchandise trade-Imports-Integrated circuits and electronic components (US dollar at current prices) - WTO,0.27447,0.26738003,0.035969988,0.27447,5.7548876,-0.08420203
+2716N: Security Apparatus - Fund for Peace,0676: Household final consumption expenditure  (constant LCU) - WDI,0.27434,0.2692425,0.17449,0.27085,6.087463,0.07139694
+2716N: Security Apparatus - Fund for Peace,0029: Cereal yield  (kg per hectare) - WDI,0.27293,0.16882049,0.04196,0.27293,6.044394,-0.32266006
+2716N: Security Apparatus - Fund for Peace,1277: Mortality rate; adult; male  (per 1;000 male adults) - WDI,0.27271,0.064046904,0.07000999,0.27271,4.321928,0.45679656
+2716N: Security Apparatus - Fund for Peace,0008: Arable land  (% of land area) - WDI,0.27252,0.2644849,0.2256,0.27252,6.2479277,-0.08963872
+2716N: Security Apparatus - Fund for Peace,0636: Mobile cellular subscriptions  (per 100 people) - WDI,0.27124,-0.008308649,0.051019996,0.27124,6.2479277,-0.5287236
+2716N: Security Apparatus - Fund for Peace,1324: International tourism; expenditures for travel items  (current US$) - WDI,0.27113,0.16732588,0.056439996,0.27113,6.087463,-0.32218644
+2716N: Security Apparatus - Fund for Peace,0055: Net secondary income  (BoP; current US$) - WDI,0.27071,0.15809454,0.06429,0.26779,6.169925,0.33558226
+2716N: Security Apparatus - Fund for Peace,2822: Balance of Payments-Imports-Other business services (US dollar at current prices) - WTO,0.27033,0.113588706,0.044149995,0.27033,6.087463,-0.39590567
+2716N: Security Apparatus - Fund for Peace,0846: Net taxes on products  (constant LCU) - WDI,0.27031,0.2683816,0.18926,0.26546,6.044394,-0.04391362
+2716N: Security Apparatus - Fund for Peace,0946: Secondary education; general pupils  (% female) - WDI,0.26989,0.071760446,0.08481,0.26675,6.087463,-0.44511747
+2716N: Security Apparatus - Fund for Peace,0943: Secondary education; pupils - WDI,0.26977,0.26148623,0.17583,0.26977,6.0,0.09101522
+2716N: Security Apparatus - Fund for Peace,0588: Time required to build a warehouse  (days) - WDI,0.26932,0.25729838,0.21509,0.26447,6.169925,0.10964319
+2716N: Security Apparatus - Fund for Peace,0053: Portfolio Investment; net  (BoP; current US$) - WDI,0.26908,0.2608781,0.18359001,0.26908,6.0,0.09056455
+2716N: Security Apparatus - Fund for Peace,1150: Employment to population ratio; 15+; female (%)  (modeled ILO estimate) - WDI,0.26812,0.26116294,0.17547,0.26812,6.2094536,-0.08340893
+2716N: Security Apparatus - Fund for Peace,0664: General government final consumption expenditure  (constant LCU) - WDI,0.26791,0.26545292,0.18504,0.26462,6.087463,0.04956899
+2716N: Security Apparatus - Fund for Peace,1325: International tourism; expenditures  (current US$) - WDI,0.26767,0.16061583,0.052,0.26767,5.857981,-0.32719135
+2716N: Security Apparatus - Fund for Peace,0594: Scientific and technical journal articles - WDI,0.26753,0.22097597,0.046499997,0.26753,6.2479277,-0.21576382
+2716N: Security Apparatus - Fund for Peace,0927: Primary education; teachers - WDI,0.26738,0.2647722,0.17651999,0.26316,5.9541965,0.05106644
+2716N: Security Apparatus - Fund for Peace,2803: Balance of Payments-Imports-Travel (US dollar at current prices) - WTO,0.26608,0.1622452,0.047529995,0.26608,6.129283,-0.32223406
+2716N: Security Apparatus - Fund for Peace,1361: Merchandise imports  (current US$) - WDI,0.26572,0.16519257,0.049200013,0.26572,6.129283,-0.31706062
+2716N: Security Apparatus - Fund for Peace,0068: Exports of goods; services and primary income  (BoP; current US$) - WDI,0.26555,0.14172813,0.06552999,0.26555,5.523562,-0.3518833
+2716N: Security Apparatus - Fund for Peace,2816: Balance of Payments-Imports-Financial services (US dollar at current prices) - WTO,0.26519,0.1464765,0.05114001,0.26519,5.9068904,-0.34454826
+2716N: Security Apparatus - Fund for Peace,2804: Balance of Payments-Imports-Other commercial services (US dollar at current prices) - WTO,0.26501,0.12129128,0.055219993,0.25949,6.169925,-0.37910253
+2716N: Security Apparatus - Fund for Peace,2736: Merchandise trade-Imports-Transport equipment (US dollar at current prices) - WTO,0.26398,0.16509007,0.044240013,0.26398,6.087463,-0.3144677
+2716N: Security Apparatus - Fund for Peace,0760: Adjusted savings: education expenditure  (current US$) - WDI,0.2636,0.20106626,0.0492,0.2636,6.2094536,-0.25006744
+2716N: Security Apparatus - Fund for Peace,0903: Gross intake ratio in first grade of primary education; male  (% of relevant age group) - WDI,0.26309,0.23175628,0.13976002,0.25972,6.0,0.17701337
+2716N: Security Apparatus - Fund for Peace,2781: Merchandise trade-Imports-Total merchandise (US dollar at current prices) - WTO,0.26285,0.16227672,0.048260003,0.26285,6.129283,-0.3171329
+2716N: Security Apparatus - Fund for Peace,1231: Labor force; female  (% of total labor force) - WDI,0.26219,0.20927274,0.16578001,0.25869,6.2479277,-0.23003756
+2716N: Security Apparatus - Fund for Peace,2720: Merchandise trade-Exports-Agricultural products (US dollar at current prices) - WTO,0.26216,0.15616435,0.02723001,0.26216,5.9541965,-0.32556975
+2716N: Security Apparatus - Fund for Peace,0816: Total natural resources rents  (% of GDP) - WDI,0.26214,0.16030186,0.105440006,0.26214,6.2094536,0.31912088
+2716N: Security Apparatus - Fund for Peace,0038: Imports of goods; services and primary income  (BoP; current US$) - WDI,0.26205,0.14137179,0.05544001,0.25996,6.169925,-0.3473877
+2716N: Security Apparatus - Fund for Peace,1217: Labor force participation rate; total (% of total population ages 15+)  (modeled ILO estimate) - WDI,0.26186,0.26052204,0.19778001,0.26001,6.2479277,0.03657826
+2716N: Security Apparatus - Fund for Peace,2729: Merchandise trade-Imports-Manufactures (US dollar at current prices) - WTO,0.26096,0.16633856,0.04156001,0.26096,6.0,-0.307606
+2716N: Security Apparatus - Fund for Peace,1371: Merchandise imports by the reporting economy  (current US$) - WDI,0.26073,0.15842731,0.041559994,0.26073,6.129283,-0.3198479
+2716N: Security Apparatus - Fund for Peace,2800: Balance of Payments-Imports-Commercial services (US dollar at current prices) - WTO,0.26072,0.11231603,0.057660013,0.26072,6.0,-0.3852324
+2716N: Security Apparatus - Fund for Peace,0774: Adjusted savings: natural resources depletion  (% of GNI) - WDI,0.2607,0.16821755,0.099509984,0.2607,6.169925,0.30410925
+2716N: Security Apparatus - Fund for Peace,1301: Population growth  (annual %) - WDI,0.26063,0.22481896,0.10919002,0.26063,6.2479277,0.18923809
+2716N: Security Apparatus - Fund for Peace,0694: Gross national expenditure  (constant 2005 US$) - WDI,0.25977,0.20531887,0.08178,0.25977,5.5849624,-0.23334767
+2716N: Security Apparatus - Fund for Peace,0697: Exports of goods and services  (current US$) - WDI,0.25961,0.14642479,0.057050005,0.25961,6.129283,-0.3364301
+2716N: Security Apparatus - Fund for Peace,0802: GDP  (constant 2005 US$) - WDI,0.25882,0.19981444,0.05167,0.25882,5.9068904,-0.24291058
+2716N: Security Apparatus - Fund for Peace,0690: Final consumption expenditure  (constant LCU) - WDI,0.25837,0.25389495,0.16311002,0.25837,6.087463,0.06689591
+2716N: Security Apparatus - Fund for Peace,0427: Population density  (people per sq. km of land area) - WDI,0.25786,0.23551112,0.20417,0.25786,6.2479277,-0.14949542
+2716N: Security Apparatus - Fund for Peace,0880: School enrollment; primary and secondary (gross); gender parity index  (GPI) - WDI,0.25777,0.085744545,0.052080005,0.25777,5.9541965,-0.41475952
+2716N: Security Apparatus - Fund for Peace,2733: Merchandise trade-Imports-Machinery and transport equipment (US dollar at current prices) - WTO,0.25761,0.17872946,0.04377,0.25761,6.087463,-0.2808568
+2716N: Security Apparatus - Fund for Peace,1319: International tourism; receipts  (current US$) - WDI,0.25741,0.16299139,0.04022999,0.25216,6.2094536,-0.3072761
+2716N: Security Apparatus - Fund for Peace,0685: Final consumption expenditure; etc.  (constant LCU) - WDI,0.25737,0.25323945,0.16872999,0.25737,6.087463,0.064269386
+2716N: Security Apparatus - Fund for Peace,0766: Adjusted savings: consumption of fixed capital  (current US$) - WDI,0.25732,0.18843284,0.042659998,0.25702,6.2479277,-0.2624636
+2716N: Security Apparatus - Fund for Peace,1311: Rural population growth  (annual %) - WDI,0.25707,0.13437663,0.11502001,0.25707,6.2479277,0.35027614
+2716N: Security Apparatus - Fund for Peace,0433: Population in the largest city  (% of urban population) - WDI,0.25704,0.24264869,0.20078999,0.25342,6.087463,0.119963765
+2716N: Security Apparatus - Fund for Peace,0063: Exports of goods and services  (BoP; current US$) - WDI,0.25674,0.14718968,0.06402999,0.25674,5.9541965,-0.33098388
+2716N: Security Apparatus - Fund for Peace,1388: Merchandise exports  (current US$) - WDI,0.25658,0.15975055,0.05579999,0.25658,6.129283,-0.3111743
+2716N: Security Apparatus - Fund for Peace,2780: Merchandise trade-Exports-Total merchandise (US dollar at current prices) - WTO,0.25658,0.15974699,0.05579999,0.25658,6.129283,-0.31118003
+2716N: Security Apparatus - Fund for Peace,2737: Merchandise trade-Imports-Automotive products (US dollar at current prices) - WTO,0.25647,0.16880712,0.03825,0.25647,6.044394,-0.2960792
+2716N: Security Apparatus - Fund for Peace,1323: International tourism; receipts for travel items  (current US$) - WDI,0.2561,0.16322048,0.032130003,0.2561,6.087463,-0.3047614
+2716N: Security Apparatus - Fund for Peace,1298: Age dependency ratio  (% of working-age population) - WDI,0.25563,0.016159043,0.06932001,0.25563,6.2479277,0.48935768
+2716N: Security Apparatus - Fund for Peace,0791: GDP deflator  (base year varies by country) - WDI,0.25534,0.22799028,0.06914002,0.25264,6.2479277,0.16537751
+2716N: Security Apparatus - Fund for Peace,0375: Alternative and nuclear energy  (% of total energy use) - WDI,0.25533,0.14057304,0.13032,0.25231,6.044394,-0.33875796
+2716N: Security Apparatus - Fund for Peace,1398: Merchandise exports by the reporting economy  (current US$) - WDI,0.25528,0.15813681,0.056309983,0.25528,6.2094536,-0.311678
+2716N: Security Apparatus - Fund for Peace,0720: Imports of goods and services  (current US$) - WDI,0.25519,0.14483997,0.054330006,0.25519,6.169925,-0.33218977
+2716N: Security Apparatus - Fund for Peace,0902: Gross intake ratio in first grade of primary education; female  (% of relevant age group) - WDI,0.25514,0.2516888,0.162,0.25125,6.0,0.058747005
+2716N: Security Apparatus - Fund for Peace,1296: Population ages 15-64  (% of total) - WDI,0.25469,0.017630368,0.06747,0.25469,6.2479277,-0.4868877
+2716N: Security Apparatus - Fund for Peace,0009: Land under cereal production  (hectares) - WDI,0.25458,0.2524286,0.15561,0.25458,6.2094536,0.0463833
+2716N: Security Apparatus - Fund for Peace,1375: Commercial service imports  (current US$) - WDI,0.2541,0.10456596,0.05403,0.2541,5.857981,-0.3866963
+2716N: Security Apparatus - Fund for Peace,0821: Gross domestic income  (constant LCU) - WDI,0.254,0.24945031,0.16579,0.254,6.087463,0.06745144
+2716N: Security Apparatus - Fund for Peace,0795: Gross value added at factor cost  (current LCU) - WDI,0.25388,0.24816073,0.14339998,0.25388,6.044394,0.07562574
+2716N: Security Apparatus - Fund for Peace,0754: Services; etc.; value added  (current US$) - WDI,0.25346,0.20022139,0.04463999,0.25346,5.9541965,-0.23073491
+2716N: Security Apparatus - Fund for Peace,1074: People practicing open defecation; urban  (% of urban population) - WDI,0.25259,0.19048461,0.02933,0.25259,6.044394,0.24920951
+2716N: Security Apparatus - Fund for Peace,0794: Gross value added at factor cost  (current US$) - WDI,0.25255,0.19325823,0.05438,0.25255,6.044394,-0.24349903
+2716N: Security Apparatus - Fund for Peace,0999: Proportion of seats held by women in national parliaments  (%) - WDI,0.25165,0.16609287,0.17031,0.24829,6.2479277,-0.2925015
+2716N: Security Apparatus - Fund for Peace,0707: Gross fixed capital formation  (constant 2005 US$) - WDI,0.25163,0.20834701,0.051929995,0.25163,6.0,-0.20804568
+2716N: Security Apparatus - Fund for Peace,0036: Service imports  (BoP; current US$) - WDI,0.25134,0.10768741,0.05416,0.25134,5.7548876,-0.3790153
+2716N: Security Apparatus - Fund for Peace,0065: Goods exports  (BoP; current US$) - WDI,0.25101,0.16148579,0.059990004,0.24992,6.169925,-0.29920596
+2716N: Security Apparatus - Fund for Peace,2805: Balance of Payments-Imports-Services (US dollar at current prices) - WTO,0.25089,0.10805337,0.057859987,0.25089,6.129283,-0.37793732
+2716N: Security Apparatus - Fund for Peace,0732: Agriculture; value added  (current LCU) - WDI,0.25055,0.24313188,0.085549995,0.25055,6.169925,0.08612858
+2716N: Security Apparatus - Fund for Peace,0716: Gross capital formation  (constant 2005 US$) - WDI,0.25015,0.20892459,0.043259993,0.25015,5.9541965,-0.20304039
+2716N: Security Apparatus - Fund for Peace,0945: Secondary education; general pupils - WDI,0.24938,0.24433911,0.16445,0.24504,6.087463,0.07099925
+2716N: Security Apparatus - Fund for Peace,2735: Merchandise trade-Imports-Telecommunications equipment (US dollar at current prices) - WTO,0.24856,0.1770971,0.0388,0.24856,6.129283,-0.26732546
+2716N: Security Apparatus - Fund for Peace,1207: Labor force participation rate; female (% of female population ages 15-64)  (modeled ILO estimate) - WDI,0.24827,0.16840237,0.13518,0.24585,6.2479277,-0.28260863
+2716N: Security Apparatus - Fund for Peace,0737: Manufacturing; value added  (current US$) - WDI,0.24821,0.22038619,0.048590004,0.24821,5.9541965,-0.16680469
+2716N: Security Apparatus - Fund for Peace,0035: Goods imports  (BoP; current US$) - WDI,0.24813,0.15303409,0.05179,0.24813,6.0,-0.30837625
+2716N: Security Apparatus - Fund for Peace,2741: Merchandise trade-Exports-Iron and steel (US dollar at current prices) - WTO,0.24809,0.175711,0.033480003,0.24809,6.044394,-0.26903346
+2716N: Security Apparatus - Fund for Peace,0033: Imports of goods and services  (BoP; current US$) - WDI,0.24802,0.14071417,0.04069999,0.24802,6.044394,-0.32757568
+2716N: Security Apparatus - Fund for Peace,2732: Merchandise trade-Imports-Pharmaceuticals (US dollar at current prices) - WTO,0.24793,0.11819866,0.039910004,0.24793,5.9541965,-0.36018237
+2716N: Security Apparatus - Fund for Peace,2788: Balance of Payments-Exports-Travel (US dollar at current prices) - WTO,0.24727,0.15112843,0.024080008,0.24727,6.087463,-0.31006706
+2716N: Security Apparatus - Fund for Peace,2806: Balance of Payments-Imports-Other services (US dollar at current prices) - WTO,0.24724,0.11557005,0.044290006,0.24724,6.0,-0.36286354
+2716N: Security Apparatus - Fund for Peace,0701: Exports of goods and services  (constant LCU) - WDI,0.24717,0.24549712,0.16514,0.24717,6.087463,0.04090089
+2716N: Security Apparatus - Fund for Peace,0727: External balance on goods and services  (current LCU) - WDI,0.24714,0.2433135,0.14149001,0.24411,6.2094536,0.061858673
+2716N: Security Apparatus - Fund for Peace,0747: Industry; value added  (constant LCU) - WDI,0.24708,0.24272093,0.15891,0.24405,6.169925,0.0660232
+2716N: Security Apparatus - Fund for Peace,0944: Secondary education; pupils  (% female) - WDI,0.24666,0.13170803,0.075289994,0.24666,6.0,-0.33904567
+2716N: Security Apparatus - Fund for Peace,1321: International tourism; receipts for passenger transport items  (current US$) - WDI,0.24658,0.1438514,0.04896,0.24658,5.857981,-0.32051304
+2716N: Security Apparatus - Fund for Peace,0656: Military expenditure  (current LCU) - WDI,0.24595,0.23784767,0.12065999,0.24299,6.129283,0.09001291
+2716N: Security Apparatus - Fund for Peace,0923: Repeaters; primary; total  (% of total enrollment) - WDI,0.24566,0.07045521,0.08248001,0.24566,5.9541965,0.41857472
+2716N: Security Apparatus - Fund for Peace,0900: School enrollment; primary; female  (% gross) - WDI,0.24485,0.21101287,0.09306,0.24237,6.087463,-0.18394873
+2716N: Security Apparatus - Fund for Peace,2724: Merchandise trade-Exports-Textiles (US dollar at current prices) - WTO,0.24426,0.24016331,0.03779,0.24426,5.807355,-0.06400533
+2716N: Security Apparatus - Fund for Peace,1383: ICT goods exports  (% of total goods exports) - WDI,0.24324,0.1778875,0.040820003,0.24012,6.044394,-0.25564134
+2716N: Security Apparatus - Fund for Peace,1317: International tourism; number of arrivals - WDI,0.24294,0.16479595,0.043149993,0.24294,6.129283,-0.27954257
+2716N: Security Apparatus - Fund for Peace,0485: Lending interest rate  (%) - WDI,0.24281,0.10292128,0.06825,0.24281,5.9541965,0.374017
+2716N: Security Apparatus - Fund for Peace,0376: Fossil fuel energy consumption  (% of total) - WDI,0.2422,0.20553719,0.14215,0.2422,6.044394,-0.19147536
+2716N: Security Apparatus - Fund for Peace,0575: Time required to register property  (days) - WDI,0.24215,0.2133184,0.1426,0.22471,6.169925,0.16979872
+2716N: Security Apparatus - Fund for Peace,0695: Gross national expenditure  (constant LCU) - WDI,0.24172,0.23722474,0.15197,0.24172,6.087463,0.06704668
+2716N: Security Apparatus - Fund for Peace,0551: Cost to export  (US$ per container) - WDI,0.24129,0.117446944,0.119330004,0.24129,6.2094536,0.35191342
+2716N: Security Apparatus - Fund for Peace,1215: Labor force participation rate; male (% of male population ages 15+)  (modeled ILO estimate) - WDI,0.24081,0.15404388,0.11049001,0.23877,6.2479277,0.2945609
+2716N: Security Apparatus - Fund for Peace,0904: Gross intake ratio in first grade of primary education; total  (% of relevant age group) - WDI,0.24078,0.22664666,0.14504,0.24078,6.0,0.11888367
+2716N: Security Apparatus - Fund for Peace,2731: Merchandise trade-Imports-Chemicals (US dollar at current prices) - WTO,0.24058,0.139152,0.027250007,0.24058,6.044394,-0.31847763
+2716N: Security Apparatus - Fund for Peace,0660: General government final consumption expenditure  (current US$) - WDI,0.23965,0.17143357,0.04998,0.23965,6.0,-0.26118276
+2716N: Security Apparatus - Fund for Peace,1783: Renewable energy - TOT (KTOE) - OECD,0.23948,0.23652837,0.12382001,0.23948,6.0,-0.054328907
+2716N: Security Apparatus - Fund for Peace,0569: Cost to import  (US$ per container) - WDI,0.23941,0.10701595,0.09922999,0.23941,6.2094536,0.36385992
+2716N: Security Apparatus - Fund for Peace,1314: Urban population - WDI,0.23682,0.23651008,0.13725,0.23682,6.2479277,0.017604256
+2716N: Security Apparatus - Fund for Peace,0587: Total tax rate  (% of commercial profits) - WDI,0.23628,0.20383136,0.18369,0.23628,6.169925,0.18013504
+2716N: Security Apparatus - Fund for Peace,0639: Fixed broadband subscriptions - WDI,0.23626,0.21788943,0.021760002,0.2337,6.2094536,-0.1355381
+2716N: Security Apparatus - Fund for Peace,0289: Net official flows from UN agencies; UNDP  (current US$) - WDI,0.23612,0.09299296,0.085429996,0.23612,5.9541965,0.37832135
+2716N: Security Apparatus - Fund for Peace,0755: Services; etc.; value added  (current LCU) - WDI,0.23552,0.22994858,0.14097,0.23238,6.169925,0.07464196
+2716N: Security Apparatus - Fund for Peace,1364: Merchandise imports from low- and middle-income economies in East Asia & Pacific  (% of total merchandise imports) - WDI,0.23548,0.19663431,0.12594,0.23548,6.044394,0.1970931
+2716N: Security Apparatus - Fund for Peace,0788: Exports as a capacity to import  (constant LCU) - WDI,0.23527,0.23307781,0.15538,0.23527,6.087463,0.046820723
+2716N: Security Apparatus - Fund for Peace,0044: Personal remittances; paid  (current US$) - WDI,0.23523,0.17838998,0.061529994,0.23213,6.129283,-0.23841144
+2716N: Security Apparatus - Fund for Peace,1770: Primary energy supply - TOT (MLN_TOE) - OECD,0.23502,0.23206834,0.11837,0.23502,6.0,-0.05432914
+2716N: Security Apparatus - Fund for Peace,0578: Time required to start a business  (days) - WDI,0.23475,0.19270627,0.11113,0.23475,6.169925,0.20504567
+2716N: Security Apparatus - Fund for Peace,0367: Electricity production from renewable sources; excluding hydroelectric  (% of total) - WDI,0.23425,0.10982115,0.032680005,0.23425,5.087463,-0.35274473
+2716N: Security Apparatus - Fund for Peace,1206: Labor force participation rate for ages 15-24; total (%)  (modeled ILO estimate) - WDI,0.23384,0.23383933,0.17879,0.2315,6.2479277,-8.202018E-4
+2716N: Security Apparatus - Fund for Peace,2721: Merchandise trade-Exports-Food (US dollar at current prices) - WTO,0.23354,0.12955534,0.02283001,0.23354,6.129283,-0.32246652
+2716N: Security Apparatus - Fund for Peace,0042: Foreign direct investment; net outflows  (% of GDP) - WDI,0.23336,0.21560283,0.07094,0.23058,6.169925,-0.13325606
+2716N: Security Apparatus - Fund for Peace,0829: GNI; PPP  (constant 2011 international $) - WDI,0.23301,0.21885258,0.05302,0.23301,6.044394,-0.1189849
+2716N: Security Apparatus - Fund for Peace,2727: Merchandise trade-Imports-Fuels and mining products (US dollar at current prices) - WTO,0.23299,0.16438018,0.04144001,0.23299,6.044394,-0.26193476
+2716N: Security Apparatus - Fund for Peace,1154: Employment to population ratio; 15+; total (%)  (modeled ILO estimate) - WDI,0.2324,0.23135675,0.17051,0.2324,6.2094536,0.032299407
+2716N: Security Apparatus - Fund for Peace,1897: Fixed-telephone subscriptions - ITU,0.23232,0.22456506,0.08311999,0.22909,6.2479277,-0.088062115
+2716N: Security Apparatus - Fund for Peace,0778: Adjusted net national income  (current US$) - WDI,0.2319,0.1820344,0.03283,0.2319,6.044394,-0.22330607
+2716N: Security Apparatus - Fund for Peace,0897: Primary education; pupils  (% female) - WDI,0.23142,0.09529437,0.060340002,0.22844,6.129283,-0.36895207
+2716N: Security Apparatus - Fund for Peace,1900: Fixed-broadband subscriptions - ITU,0.23138,0.21324363,0.023650005,0.23138,5.5849624,-0.13467133
+2716N: Security Apparatus - Fund for Peace,0709: Gross fixed capital formation  (constant LCU) - WDI,0.2313,0.22676648,0.12783,0.22767,6.087463,0.067331396
+2716N: Security Apparatus - Fund for Peace,0422: CO2 emissions from other sectors; excluding residential buildings and commercial and public services  (% of total fuel combustion) - WDI,0.23078,0.21571454,0.17461,0.22713,6.044394,0.12274146
+2716N: Security Apparatus - Fund for Peace,0798: Forest rents  (% of GDP) - WDI,0.23058,0.15285519,0.103599995,0.23058,6.2094536,0.2787917
+2716N: Security Apparatus - Fund for Peace,1209: Labor force participation rate; total (% of total population ages 15-64)  (modeled ILO estimate) - WDI,0.22938,0.15993455,0.10572,0.2274,6.2479277,-0.26352504
+2716N: Security Apparatus - Fund for Peace,1370: Merchandise imports by the reporting economy; residual  (% of total merchandise imports) - WDI,0.22934,0.15138197,0.12263,0.22934,6.2094536,0.27920967
+2716N: Security Apparatus - Fund for Peace,0881: School enrollment; secondary (gross); gender parity index  (GPI) - WDI,0.22862,0.09620337,0.06299999,0.22862,5.9541965,-0.36389095
+2716N: Security Apparatus - Fund for Peace,0879: School enrollment; primary (gross); gender parity index  (GPI) - WDI,0.22839,0.045464993,0.054639995,0.2258,6.087463,-0.42769733
+2716N: Security Apparatus - Fund for Peace,0692: Gross national expenditure  (current US$) - WDI,0.22789,0.18011914,0.041899994,0.22789,6.169925,-0.21856546
+2716N: Security Apparatus - Fund for Peace,2791: Balance of Payments-Exports-Insurance and pension services (US dollar at current prices) - WTO,0.22789,0.14782546,0.044489995,0.22789,5.7548876,-0.28295678
+2716N: Security Apparatus - Fund for Peace,1385: Manufactures exports  (% of merchandise exports) - WDI,0.2278,0.090275824,0.111729994,0.22435,6.087463,-0.37084252
+2716N: Security Apparatus - Fund for Peace,0705: Gross fixed capital formation  (current US$) - WDI,0.2273,0.1974319,0.04006,0.22567,6.169925,-0.17282388
+2716N: Security Apparatus - Fund for Peace,0822: GNI; Atlas method  (current US$) - WDI,0.2268,0.17524955,0.04336001,0.2268,5.9541965,-0.22704725
+2716N: Security Apparatus - Fund for Peace,1396: Merchandise exports to low- and middle-income economies in Sub-Saharan Africa  (% of total merchandise exports) - WDI,0.22635,0.1743655,0.1388,0.22337,6.129283,0.22800107
+2716N: Security Apparatus - Fund for Peace,0637: Fixed telephone subscriptions - WDI,0.22589,0.21792096,0.08237,0.22589,6.2479277,-0.08926949
+2716N: Security Apparatus - Fund for Peace,1313: Urban population growth  (annual %) - WDI,0.22461,0.14745024,0.06238,0.22461,6.2479277,0.27777645
+2716N: Security Apparatus - Fund for Peace,1092: Tuberculosis case detection rate  (%; all forms) - WDI,0.22457,0.012059808,0.05498001,0.22457,5.4594316,-0.46098828
+2716N: Security Apparatus - Fund for Peace,0800: GDP  (current US$) - WDI,0.22412,0.17412613,0.046900004,0.22412,6.2094536,-0.22359309
+2716N: Security Apparatus - Fund for Peace,0056: Net capital account  (BoP; current US$) - WDI,0.2241,0.22284602,0.092889994,0.2241,6.044394,0.035411593
+2716N: Security Apparatus - Fund for Peace,0671: Household final consumption expenditure; etc.  (% of GDP) - WDI,0.22405,0.11724499,0.046430007,0.22141,6.169925,0.32681036
+2716N: Security Apparatus - Fund for Peace,0817: Gross domestic savings  (current US$) - WDI,0.22391,0.19506925,0.056360006,0.22391,6.044394,-0.16982563
+2716N: Security Apparatus - Fund for Peace,0838: Gross savings  (current LCU) - WDI,0.2229,0.22150092,0.13235,0.21999,6.087463,0.03740426
+2716N: Security Apparatus - Fund for Peace,0432: Population in largest city - WDI,0.22272,0.22261739,0.17567,0.21959,6.087463,0.010129326
+2716N: Security Apparatus - Fund for Peace,1404: High-technology exports  (% of manufactured exports) - WDI,0.22234,0.13290519,0.031619996,0.22178,6.044394,-0.29905656
+2716N: Security Apparatus - Fund for Peace,1095: External resources for health  (% of total expenditure on health) - WDI,0.22201,0.1729066,0.05054,0.22201,6.087463,0.22159284
+2716N: Security Apparatus - Fund for Peace,0667: Household final consumption expenditure; etc.  (current LCU) - WDI,0.22144,0.21531267,0.10904,0.21845,6.169925,0.07827721
+2716N: Security Apparatus - Fund for Peace,1202: Labor force participation rate for ages 15-24; female (%)  (modeled ILO estimate) - WDI,0.22121,0.20993286,0.15867999,0.2188,6.2479277,-0.10619391
+2716N: Security Apparatus - Fund for Peace,0823: GNI  (current US$) - WDI,0.21997,0.17022589,0.036010012,0.21997,6.169925,-0.2230339
+2716N: Security Apparatus - Fund for Peace,0714: Gross capital formation  (current US$) - WDI,0.21987,0.19180122,0.039079994,0.21987,6.129283,-0.16753742
+2716N: Security Apparatus - Fund for Peace,0681: Final consumption expenditure; etc.  (current US$) - WDI,0.21936,0.168626,0.047140002,0.21936,5.9541965,-0.2252421
+2716N: Security Apparatus - Fund for Peace,0718: Gross capital formation  (constant LCU) - WDI,0.21872,0.21329759,0.124970004,0.21872,6.087463,0.07363703
+2716N: Security Apparatus - Fund for Peace,0052: Foreign direct investment; net  (BoP; current US$) - WDI,0.21845,0.19824335,0.092319995,0.21845,5.9541965,-0.1421501
+2716N: Security Apparatus - Fund for Peace,0672: Household final consumption expenditure  (current US$) - WDI,0.21834,0.17255616,0.049060002,0.21834,5.9068904,-0.21397156
+2716N: Security Apparatus - Fund for Peace,0687: Final consumption expenditure  (current US$) - WDI,0.21811,0.16732804,0.047519997,0.21811,6.044394,-0.2253485
+2716N: Security Apparatus - Fund for Peace,0793: Discrepancy in expenditure estimate of GDP  (constant LCU) - WDI,0.2181,0.21150981,0.15718,0.2181,6.0,0.08117998
+2716N: Security Apparatus - Fund for Peace,2802: Balance of Payments-Imports-Transport (US dollar at current prices) - WTO,0.21809,0.10470003,0.041250005,0.21809,6.0,-0.33673427
+2716N: Security Apparatus - Fund for Peace,0363: Electricity production from nuclear sources  (% of total) - WDI,0.2178,0.038962588,0.039560005,0.21665,6.044394,-0.42289174
+2716N: Security Apparatus - Fund for Peace,1733: Crude oil production - TOT (KTOE) - OECD,0.21779,0.20164812,0.15535998,0.21779,6.0,0.1270507
+2716N: Security Apparatus - Fund for Peace,0743: Industry; value added  (current US$) - WDI,0.21774,0.18896714,0.054379992,0.21774,5.9541965,-0.16962565
+2716N: Security Apparatus - Fund for Peace,0688: Final consumption expenditure  (current LCU) - WDI,0.21771,0.211839,0.115210004,0.21463,6.169925,0.07662241
+2716N: Security Apparatus - Fund for Peace,0680: Household final consumption expenditure; PPP  (constant 2011 international $) - WDI,0.21763,0.20433576,0.07005,0.21452,6.087463,-0.115300626
+2716N: Security Apparatus - Fund for Peace,1137: Employment to population ratio; ages 15-24; female (%)  (modeled ILO estimate) - WDI,0.21736,0.21209054,0.14183,0.21736,6.2094536,-0.072591096
+2716N: Security Apparatus - Fund for Peace,0477: Money and quasi money  as % of GDP (M2) - WDI,0.21703,0.083483055,0.059919998,0.21703,6.087463,-0.36544076
+2716N: Security Apparatus - Fund for Peace,0715: Gross capital formation  (current LCU) - WDI,0.21697,0.21051721,0.110089995,0.21697,6.169925,0.080329224
+2716N: Security Apparatus - Fund for Peace,0806: GDP; PPP  (constant 2011 international $) - WDI,0.21689,0.20241429,0.06955001,0.21689,6.169925,-0.120315075
+2716N: Security Apparatus - Fund for Peace,0738: Manufacturing; value added  (current LCU) - WDI,0.21631,0.21264459,0.101349995,0.21631,6.129283,0.060542565
+2716N: Security Apparatus - Fund for Peace,0682: Final consumption expenditure; etc.  (current LCU) - WDI,0.21618,0.21031785,0.11242,0.21618,6.169925,0.07656463
+2716N: Security Apparatus - Fund for Peace,1152: Employment to population ratio; 15+; male (%)  (modeled ILO estimate) - WDI,0.2161,0.15859523,0.10756001,0.2161,6.2094536,0.23980153
+2716N: Security Apparatus - Fund for Peace,0744: Industry; value added  (current LCU) - WDI,0.21529,0.20785715,0.118049994,0.21529,6.169925,0.08621394
+2716N: Security Apparatus - Fund for Peace,1279: Death rate; crude  (per 1;000 people) - WDI,0.21425,0.20839418,0.1528,0.21425,6.2479277,0.076523334
+2716N: Security Apparatus - Fund for Peace,0686: Final consumption expenditure; etc.  (% of GDP) - WDI,0.21404,0.14677975,0.07980999,0.21404,6.169925,0.2593458
+2716N: Security Apparatus - Fund for Peace,0673: Household final consumption expenditure  (current LCU) - WDI,0.21394,0.20793429,0.10689999,0.21101,6.169925,0.07749653
+2716N: Security Apparatus - Fund for Peace,0899: School enrollment; primary  (% gross) - WDI,0.21391,0.2039167,0.10701,0.21391,6.087463,-0.099966474
+2716N: Security Apparatus - Fund for Peace,0819: Gross domestic savings  (% of GDP) - WDI,0.21329,0.14599973,0.07655001,0.21329,6.169925,-0.25940368
+2716N: Security Apparatus - Fund for Peace,0733: Agriculture; value added  (constant 2005 US$) - WDI,0.21284,0.2128169,0.097289994,0.20923,6.129283,0.0048076496
+2716N: Security Apparatus - Fund for Peace,0666: Household final consumption expenditure; etc.  (current US$) - WDI,0.2126,0.16728467,0.05331,0.2126,5.9068904,-0.21287395
+2716N: Security Apparatus - Fund for Peace,0845: Net taxes on products  (current LCU) - WDI,0.21254,0.21248025,0.13859999,0.21254,6.044394,-0.007730125
+2716N: Security Apparatus - Fund for Peace,0362: Electricity production from natural gas sources  (% of total) - WDI,0.21248,0.20730622,0.14119999,0.20967,6.044394,0.07192894
+2716N: Security Apparatus - Fund for Peace,1040: Immunization; DPT  (% of children ages 12-23 months) - WDI,0.21234,-0.010241434,0.073290005,0.21234,4.5849624,-0.47178537
+2716N: Security Apparatus - Fund for Peace,0713: Changes in inventories  (constant LCU) - WDI,0.21222,0.21203788,0.15338999,0.21222,6.0,-0.013495276
+2716N: Security Apparatus - Fund for Peace,1432: Air and GHG emissions - CO2 (MLN_TONNE) - OECD,0.21166,0.20948976,0.10094,0.21166,6.0,-0.04658578
+2716N: Security Apparatus - Fund for Peace,0801: GDP  (current LCU) - WDI,0.21129,0.20581794,0.10179,0.20846,6.2479277,0.07397343
+2716N: Security Apparatus - Fund for Peace,1102: Health expenditure; public  (% of government expenditure) - WDI,0.21116,-0.0037900507,0.07586001,0.21116,6.2479277,-0.46362707
+2716N: Security Apparatus - Fund for Peace,0665: General government final consumption expenditure  (% of GDP) - WDI,0.21055,0.18882687,0.10279,0.20785,6.169925,-0.14738765
+2716N: Security Apparatus - Fund for Peace,0039: Transport services  (% of service imports; BoP) - WDI,0.21051,0.057262465,0.05832,0.21051,6.129283,0.39146844
+2716N: Security Apparatus - Fund for Peace,0048: Net primary income  (BoP; current US$) - WDI,0.20995,0.18384188,0.11926,0.20995,6.129283,-0.16158006
+2716N: Security Apparatus - Fund for Peace,0809: GDP per capita  (current LCU) - WDI,0.20949,0.20323281,0.15418,0.20698,6.2479277,0.079102434
+2716N: Security Apparatus - Fund for Peace,0655: Armed forces personnel  (% of total labor force) - WDI,0.20915,0.18380441,0.15999,0.20915,6.169925,0.159203
+2716N: Security Apparatus - Fund for Peace,2809: Balance of Payments-Exports-Telecommunications services (US dollar at current prices) - WTO,0.20902,0.10457119,0.043620005,0.20902,5.9541965,-0.3231854
+2716N: Security Apparatus - Fund for Peace,0078: Personal remittances; received  (% of GDP) - WDI,0.20833,0.118901365,0.06091,0.20833,6.129283,0.29904622
+2716N: Security Apparatus - Fund for Peace,2726: Merchandise trade-Imports-Food (US dollar at current prices) - WTO,0.20816,0.109177336,0.03554,0.20816,5.9068904,-0.3146151
+2716N: Security Apparatus - Fund for Peace,0472: Broad money  (% of GDP) - WDI,0.20786,0.07707079,0.06403999,0.20465,6.087463,-0.3616479
+2716N: Security Apparatus - Fund for Peace,1097: Out-of-pocket health expenditure  (% of private expenditure on health) - WDI,0.20782,0.16585991,0.16023,0.20782,6.2479277,0.20484164
+2716N: Security Apparatus - Fund for Peace,0628: Air transport; freight  (million ton-km) - WDI,0.20747,0.12085316,0.05506,0.20409,6.087463,-0.29430738
+2716N: Security Apparatus - Fund for Peace,2730: Merchandise trade-Imports-Iron and steel (US dollar at current prices) - WTO,0.20746,0.12634149,0.036799997,0.20746,5.857981,-0.2848131
+2716N: Security Apparatus - Fund for Peace,0724: Imports of goods and services  (constant LCU) - WDI,0.2072,0.20530674,0.11455001,0.2072,6.087463,0.043511637
+2716N: Security Apparatus - Fund for Peace,0824: GNI  (current LCU) - WDI,0.20718,0.20166378,0.104669996,0.20421,6.2479277,0.07427125
+2716N: Security Apparatus - Fund for Peace,0765: Adjusted savings: net forest depletion  (% of GNI) - WDI,0.20706,0.14698671,0.089789994,0.20706,6.169925,0.24509852
+2716N: Security Apparatus - Fund for Peace,0545: Private credit bureau coverage  (% of adults) - WDI,0.20698,-0.024988547,0.044579998,0.20698,6.129283,-0.48163113
+2716N: Security Apparatus - Fund for Peace,0831: GNI per capita  (current LCU) - WDI,0.20616,0.20016609,0.15111,0.2038,6.2479277,0.077420264
+2716N: Security Apparatus - Fund for Peace,1376: Transport services  (% of commercial service imports) - WDI,0.20602,0.029405922,0.054330006,0.20602,6.129283,0.42025477
+2716N: Security Apparatus - Fund for Peace,0721: Imports of goods and services  (current LCU) - WDI,0.20599,0.20338233,0.09791,0.20239,6.2094536,0.051065397
+2716N: Security Apparatus - Fund for Peace,1104: Health expenditure; total  (% of GDP) - WDI,0.20557,0.01103057,0.05405,0.20557,6.2479277,-0.44106624
+2716N: Security Apparatus - Fund for Peace,1041: Immunization; measles  (% of children ages 12-23 months) - WDI,0.20529,-7.696003E-4,0.054169998,0.20529,5.4594316,-0.4539379
+2716N: Security Apparatus - Fund for Peace,0901: School enrollment; primary; male  (% gross) - WDI,0.20493,0.20492978,0.12535998,0.20205,6.087463,-4.6391712E-4
+2716N: Security Apparatus - Fund for Peace,0057: Grants; excluding technical cooperation  (BoP; current US$) - WDI,0.20462,0.12096754,0.10587,0.20118,6.0,0.28922737
+2716N: Security Apparatus - Fund for Peace,0441: Total fisheries production  (metric tons) - WDI,0.20457,0.2045597,0.13898,0.20457,6.2479277,0.0032090964
+2716N: Security Apparatus - Fund for Peace,0706: Gross fixed capital formation  (current LCU) - WDI,0.20417,0.19827394,0.08742,0.20154,6.169925,0.076785855
+2716N: Security Apparatus - Fund for Peace,1393: Merchandise exports to low- and middle-income economies in Latin America & the Caribbean  (% of total merchandise exports) - WDI,0.20388,0.20384975,0.12343,0.20098,6.129283,-0.005499511
+2716N: Security Apparatus - Fund for Peace,2725: Merchandise trade-Imports-Agricultural products (US dollar at current prices) - WTO,0.20379,0.11835472,0.02696,0.20379,6.087463,-0.29229313
+2716N: Security Apparatus - Fund for Peace,0071: Foreign direct investment; net inflows  (BoP; current US$) - WDI,0.20376,0.13944927,0.053159997,0.20376,6.2479277,-0.2535956
+2716N: Security Apparatus - Fund for Peace,0914: School enrollment; primary; private  (% of total primary) - WDI,0.20332,0.20112553,0.16832,0.20332,6.0,0.046845116
+2716N: Security Apparatus - Fund for Peace,0792: Discrepancy in expenditure estimate of GDP  (current LCU) - WDI,0.20291,0.20016514,0.15755,0.19992,6.169925,0.052391473
+2716N: Security Apparatus - Fund for Peace,2728: Merchandise trade-Imports-Fuels (US dollar at current prices) - WTO,0.20289,0.12392821,0.026260003,0.20289,6.129283,-0.2810014
+2716N: Security Apparatus - Fund for Peace,0842: Net income from abroad  (current LCU) - WDI,0.20251,0.19911754,0.12805,0.19969,6.2094536,-0.058244813
+2716N: Security Apparatus - Fund for Peace,0439: Aquaculture production  (metric tons) - WDI,0.20231,0.20200363,0.12575,0.19861,6.2094536,0.017503569
+2716N: Security Apparatus - Fund for Peace,0318: Net official development assistance received  (current US$) - WDI,0.2023,0.10953291,0.12021,0.19858,6.0,0.3045769
+2716N: Security Apparatus - Fund for Peace,0321: Net official development assistance received  (constant 2013 US$) - WDI,0.20202,0.108978674,0.113010004,0.19889,6.0,0.30502677
+2716N: Security Apparatus - Fund for Peace,0693: Gross national expenditure  (current LCU) - WDI,0.20187,0.19603996,0.096109994,0.19898,6.2094536,0.076354645
+2716N: Security Apparatus - Fund for Peace,0698: Exports of goods and services  (current LCU) - WDI,0.20174,0.1984831,0.11318,0.1988,6.2094536,0.057069242
+2716N: Security Apparatus - Fund for Peace,0314: Net official development assistance and official aid received  (current US$) - WDI,0.20081,0.10848372,0.11831,0.1971,6.0,0.3038524
+2716N: Security Apparatus - Fund for Peace,0007: Arable land  (hectares per person) - WDI,0.20073,0.1829817,0.14188999,0.20073,6.2479277,-0.13322273
+2716N: Security Apparatus - Fund for Peace,0784: Adjusted net savings; including particulate emission damage  (current US$) - WDI,0.20015,0.19273333,0.028830007,0.20015,5.857981,-0.0861201
+2716N: Security Apparatus - Fund for Peace,0315: Net official development assistance and official aid received  (constant 2013 US$) - WDI,0.20005,0.107449286,0.111829996,0.19693,6.0,0.30430365
+2716N: Security Apparatus - Fund for Peace,0815: Oil rents  (% of GDP) - WDI,0.19982,0.15494165,0.13874,0.19982,6.169925,0.21184511
+2716N: Security Apparatus - Fund for Peace,0114: Net bilateral aid flows from DAC donors; Total  (current US$) - WDI,0.19969,0.11438294,0.13088,0.19623,6.0,0.29207373
+2716N: Security Apparatus - Fund for Peace,0364: Electricity production from oil sources  (% of total) - WDI,0.19961,0.12993923,0.08325999,0.19624,6.044394,0.26395223
+2716N: Security Apparatus - Fund for Peace,1265: Refugee population by country or territory of asylum - WDI,0.19958,0.17467171,0.1306,0.19958,6.129283,0.1578236
+2716N: Security Apparatus - Fund for Peace,0786: Adjusted net savings; excluding particulate emission damage  (current US$) - WDI,0.19955,0.1921257,0.028549999,0.19955,6.0,-0.08616447
+2716N: Security Apparatus - Fund for Peace,1389: Merchandise exports to high-income economies  (% of total merchandise exports) - WDI,0.19934,0.04595636,0.02956,0.19934,6.129283,-0.39164224
+2716N: Security Apparatus - Fund for Peace,0661: General government final consumption expenditure  (current LCU) - WDI,0.19754,0.19217871,0.10843,0.19489,6.169925,0.07322083
+2716N: Security Apparatus - Fund for Peace,0627: Air transport; registered carrier departures worldwide - WDI,0.19719,0.16184112,0.0529,0.19719,4.169925,-0.18801299
+2716N: Security Apparatus - Fund for Peace,0076: Personal transfers; receipts  (BoP; current US$) - WDI,0.19671,0.16152371,0.13169,0.19671,5.9541965,0.18758008
+2716N: Security Apparatus - Fund for Peace,0837: Gross savings  (current US$) - WDI,0.1966,0.17207657,0.034040004,0.1966,5.70044,-0.1565996
+2716N: Security Apparatus - Fund for Peace,1354: Food imports  (% of merchandise imports) - WDI,0.19454,0.056711704,0.036510006,0.19454,6.0,0.37125233
+2716N: Security Apparatus - Fund for Peace,0633: Liner shipping connectivity index  (maximum value in 2004 = 100) - WDI,0.19387,0.09069645,0.09998,0.19387,6.0,-0.3212064
+2716N: Security Apparatus - Fund for Peace,0024: Cereal production  (metric tons) - WDI,0.19358,0.19282737,0.07942,0.19358,6.2094536,-0.027434025
+2716N: Security Apparatus - Fund for Peace,0359: Electricity production from oil; gas and coal sources  (% of total) - WDI,0.19341,0.1753411,0.14204,0.19024,6.044394,0.1344206
+2716N: Security Apparatus - Fund for Peace,0799: Mineral rents  (% of GDP) - WDI,0.19276,0.18049672,0.122080006,0.19029,6.2479277,0.110739715
+2716N: Security Apparatus - Fund for Peace,0358: Electricity production from coal sources  (% of total) - WDI,0.19216,0.1542159,0.08847,0.18923,6.044394,-0.19479245
+2716N: Security Apparatus - Fund for Peace,0828: GNI; PPP  (current international $) - WDI,0.19184,0.17752305,0.049799994,0.19184,6.129283,-0.119653426
+2716N: Security Apparatus - Fund for Peace,0805: GDP; PPP  (current international $) - WDI,0.19172,0.17767075,0.048149988,0.19172,6.169925,-0.11852951
+2716N: Security Apparatus - Fund for Peace,1322: International tourism; expenditures for passenger transport items  (current US$) - WDI,0.19099,0.08424081,0.06453,0.19099,5.9541965,-0.32672495
+2716N: Security Apparatus - Fund for Peace,0027: Livestock production index  (2004-2006 = 100) - WDI,0.19036,0.15030234,0.08892,0.19036,6.2479277,0.20014408
+2716N: Security Apparatus - Fund for Peace,0423: CO2 emissions from transport  (% of total fuel combustion) - WDI,0.19017,0.17831853,0.14452,0.18678,6.044394,0.108864464
+2716N: Security Apparatus - Fund for Peace,1204: Labor force participation rate for ages 15-24; male (%)  (modeled ILO estimate) - WDI,0.18981,0.16867165,0.12290999,0.18757,6.2479277,0.14539032
+2716N: Security Apparatus - Fund for Peace,1368: Merchandise imports from low- and middle-income economies in South Asia  (% of total merchandise imports) - WDI,0.18975,0.13146241,0.060179994,0.18755,6.2094536,0.24142824
+2716N: Security Apparatus - Fund for Peace,0468: Net domestic credit  (current LCU) - WDI,0.18803,0.18511276,0.10029001,0.18803,6.169925,-0.05401154
+2716N: Security Apparatus - Fund for Peace,0771: Adjusted savings: energy depletion  (% of GNI) - WDI,0.18803,0.15130076,0.12948,0.18803,6.2094536,0.19164877
+2716N: Security Apparatus - Fund for Peace,0769: Adjusted savings: mineral depletion  (% of GNI) - WDI,0.18787,0.17297497,0.11027999,0.18556,6.2479277,0.122045144
+2716N: Security Apparatus - Fund for Peace,1238: Unemployment; youth total (% of total labor force ages 15-24)  (modeled ILO estimate) - WDI,0.18724,0.18416366,0.12808001,0.18724,6.2094536,-0.055464856
+2716N: Security Apparatus - Fund for Peace,0712: Changes in inventories  (current LCU) - WDI,0.18679,0.17706624,0.14021,0.18346,6.129283,0.098609135
+2716N: Security Apparatus - Fund for Peace,1139: Employment to population ratio; ages 15-24; male (%)  (modeled ILO estimate) - WDI,0.18653,0.1644212,0.12183999,0.18653,6.2094536,0.14869025
+2716N: Security Apparatus - Fund for Peace,0762: Adjusted savings: carbon dioxide damage  (current US$) - WDI,0.1861,0.18278083,0.04997,0.1861,6.044394,-0.057612244
+2716N: Security Apparatus - Fund for Peace,0003: Fertilizer consumption  (kilograms per hectare of arable land) - WDI,0.18603,0.1496779,0.042549998,0.18603,6.129283,-0.19066228
+2716N: Security Apparatus - Fund for Peace,2751: Merchandise trade-Exports-Clothing (US dollar at current prices) - WTO,0.18582,0.18571113,0.03978,0.18582,6.087463,-0.010434307
+2716N: Security Apparatus - Fund for Peace,0785: Adjusted net savings; including particulate emission damage  (% of GNI) - WDI,0.18498,0.12935185,0.08269001,0.18498,6.0,-0.2358562
+2716N: Security Apparatus - Fund for Peace,0629: Air transport; passengers carried - WDI,0.18476,0.14483793,0.038550004,0.18163,6.087463,-0.1998051
+2716N: Security Apparatus - Fund for Peace,1359: Ores and metals imports  (% of merchandise imports) - WDI,0.18436,0.14273125,0.045820005,0.18107,6.087463,-0.20403124
+2716N: Security Apparatus - Fund for Peace,0440: Capture fisheries production  (metric tons) - WDI,0.18326,0.18267104,0.11794999,0.18326,6.2479277,-0.024268439
+2716N: Security Apparatus - Fund for Peace,0702: Exports of goods and services  (% of GDP) - WDI,0.18323,0.07703679,0.10813,0.18072,6.2094536,-0.325873
+2716N: Security Apparatus - Fund for Peace,1234: Unemployment; youth female (% of female labor force ages 15-24)  (modeled ILO estimate) - WDI,0.18281,0.18125203,0.117709994,0.18281,6.2094536,0.039470937
+2716N: Security Apparatus - Fund for Peace,1395: Merchandise exports to low- and middle-income economies in South Asia  (% of total merchandise exports) - WDI,0.18279,0.11517235,0.10833,0.17993,6.169925,0.26003394
+2716N: Security Apparatus - Fund for Peace,0464: Total reserves in months of imports - WDI,0.18267,0.13784158,0.076969996,0.17948,6.169925,0.2117272
+2716N: Security Apparatus - Fund for Peace,0850: Terms of trade adjustment  (constant LCU) - WDI,0.18246,0.17521884,0.14199999,0.18246,6.087463,0.08509497
+2716N: Security Apparatus - Fund for Peace,1360: Merchandise imports from economies in the Arab World  (% of total merchandise imports) - WDI,0.18211,0.10357798,0.100219995,0.18211,6.169925,0.28023565
+2716N: Security Apparatus - Fund for Peace,1320: International tourism; receipts  (% of total exports) - WDI,0.18189,0.17969501,0.068069994,0.17918,6.169925,0.046850726
+2716N: Security Apparatus - Fund for Peace,0763: Adjusted savings: carbon dioxide damage  (% of GNI) - WDI,0.18188,0.13876997,0.079229996,0.18188,6.2094536,0.20762953
+2716N: Security Apparatus - Fund for Peace,1355: Fuel imports  (% of merchandise imports) - WDI,0.18148,0.17776705,0.13271001,0.17807,6.087463,0.060934026
+2716N: Security Apparatus - Fund for Peace,0058: Technical cooperation grants  (BoP; current US$) - WDI,0.18128,0.155301,0.12506,0.1779,6.0,0.16118
+2716N: Security Apparatus - Fund for Peace,1356: ICT goods imports  (% total goods imports) - WDI,0.18089,0.1150115,0.05366999,0.18076,6.087463,-0.25666806
+2716N: Security Apparatus - Fund for Peace,0469: Net foreign assets  (current LCU) - WDI,0.18027,0.17791001,0.10431,0.18027,6.169925,0.048579663
+2716N: Security Apparatus - Fund for Peace,1236: Unemployment; youth male (% of male labor force ages 15-24)  (modeled ILO estimate) - WDI,0.1801,0.17024942,0.11372999,0.1801,6.2094536,-0.0992501
+2716N: Security Apparatus - Fund for Peace,0696: Gross national expenditure  (% of GDP) - WDI,0.17854,0.11545624,0.03938999,0.17854,6.169925,0.25116482
+2716N: Security Apparatus - Fund for Peace,2738: Merchandise trade-Imports-Textiles (US dollar at current prices) - WTO,0.17852,0.12336807,0.025649995,0.17852,5.2479277,-0.23484446
+2716N: Security Apparatus - Fund for Peace,0787: Adjusted net savings; excluding particulate emission damage  (% of GNI) - WDI,0.1781,0.13103709,0.08478001,0.17496,6.044394,-0.21693991
+2716N: Security Apparatus - Fund for Peace,0482: Inflation; consumer prices  (annual %) - WDI,0.17769,0.17519312,0.0686,0.17497,6.2094536,0.049968842
+2716N: Security Apparatus - Fund for Peace,0064: Insurance and financial services  (% of service exports; BoP) - WDI,0.17767,0.1149933,0.08692,0.17491,6.087463,-0.25035316
+2716N: Security Apparatus - Fund for Peace,0478: Money and quasi money  to total reserves ratio (M2) - WDI,0.17758,0.17701973,0.11228,0.1744,6.087463,0.02366985
+2716N: Security Apparatus - Fund for Peace,0841: Net income from abroad  (current US$) - WDI,0.17727,0.15847908,0.07639,0.17727,6.087463,-0.13707995
+2716N: Security Apparatus - Fund for Peace,1374: Computer; communications and other services  (% of commercial service imports) - WDI,0.17723,0.113456264,0.06515,0.17723,6.129283,-0.25253463
+2716N: Security Apparatus - Fund for Peace,0377: Energy use (kg of oil equivalent) per $1;000 GDP  (constant 2011 PPP) - WDI,0.17721,0.1369656,0.122880004,0.1734,6.044394,0.20061009
+2716N: Security Apparatus - Fund for Peace,1387: Merchandise exports to economies in the Arab World  (% of total merchandise exports) - WDI,0.17676,0.1343395,0.08620001,0.17378,6.2094536,0.20596239
+2716N: Security Apparatus - Fund for Peace,1382: Fuel exports  (% of merchandise exports) - WDI,0.17674,0.12668139,0.08329,0.17674,6.044394,0.22373782
+2716N: Security Apparatus - Fund for Peace,0663: General government final consumption expenditure  (annual % growth) - WDI,0.17599,0.16426396,0.09035,0.17291,6.087463,0.10828686
+2716N: Security Apparatus - Fund for Peace,0370: GDP per unit of energy use  (constant 2011 PPP $ per kg of oil equivalent) - WDI,0.17598,0.17550458,0.11968,0.17266,6.044394,-0.021804096
+2716N: Security Apparatus - Fund for Peace,0360: Electricity production from hydroelectric sources  (% of total) - WDI,0.17554,0.15289658,0.13201,0.17233,6.044394,0.15047728
+2716N: Security Apparatus - Fund for Peace,0679: Household final consumption expenditure; PPP  (current international $) - WDI,0.17522,0.16131082,0.03662,0.17522,6.087463,-0.1179372
+2716N: Security Apparatus - Fund for Peace,0026: Food production index  (2004-2006 = 100) - WDI,0.17503,0.13389532,0.094239995,0.17503,6.2479277,0.20281683
+2716N: Security Apparatus - Fund for Peace,0323: Net ODA received per capita  (current US$) - WDI,0.17475,0.16751221,0.10951,0.17093,6.0,-0.08507519
+2716N: Security Apparatus - Fund for Peace,0757: Services; etc.; value added  (annual % growth) - WDI,0.17416,0.126995,0.082540005,0.17128,6.169925,0.21717507
+2716N: Security Apparatus - Fund for Peace,0047: Net financial account  (BoP; current US$) - WDI,0.17395,0.17383774,0.113350004,0.17093,6.169925,-0.010595762
+2716N: Security Apparatus - Fund for Peace,0484: Deposit interest rate  (%) - WDI,0.17359,0.13313085,0.12932,0.17002,6.044394,0.2011446
+2716N: Security Apparatus - Fund for Peace,1377: Travel services  (% of commercial service imports) - WDI,0.17342,0.16170023,0.123119995,0.17342,6.129283,-0.10825788
+2716N: Security Apparatus - Fund for Peace,0730: Trade  (% of GDP) - WDI,0.1732,0.109168574,0.11661,0.17064,6.2094536,-0.2530443
+2716N: Security Apparatus - Fund for Peace,2815: Balance of Payments-Imports-Insurance and pension services (US dollar at current prices) - WTO,0.17293,0.14163901,0.034829997,0.17293,6.129283,-0.17689261
+2716N: Security Apparatus - Fund for Peace,0421: CO2 emissions from manufacturing industries and construction  (% of total fuel combustion) - WDI,0.17258,0.16950703,0.12672001,0.16972,6.044394,0.05543444
+2716N: Security Apparatus - Fund for Peace,0711: Changes in inventories  (current US$) - WDI,0.17249,0.17196716,0.10495,0.16946,6.129283,0.022865618
+2716N: Security Apparatus - Fund for Peace,0419: CO2 emissions from residential buildings and commercial and public services  (% of total fuel combustion) - WDI,0.17226,0.16143766,0.10691,0.169,6.044394,-0.104030475
+2716N: Security Apparatus - Fund for Peace,1363: Merchandise imports from low- and middle-income economies outside region  (% of total merchandise imports) - WDI,0.17174,0.16539957,0.12343,0.17174,6.129283,0.07962679
+2716N: Security Apparatus - Fund for Peace,0050: Net trade in goods  (BoP; current US$) - WDI,0.1717,0.17095967,0.10484,0.16833,6.169925,0.027209105
+2716N: Security Apparatus - Fund for Peace,1397: Merchandise exports by the reporting economy; residual  (% of total merchandise exports) - WDI,0.17143,0.1556188,0.08123001,0.17143,6.2094536,0.1257426
+2716N: Security Apparatus - Fund for Peace,1100: Health expenditure; private  (% of GDP) - WDI,0.17095,0.14145799,0.116689995,0.17095,6.2479277,0.17173237
+2716N: Security Apparatus - Fund for Peace,0729: External balance on goods and services  (% of GDP) - WDI,0.17082,0.10873973,0.04166001,0.16834,6.2094536,-0.24915911
+2716N: Security Apparatus - Fund for Peace,0476: Money and quasi money (M2)  (current LCU) - WDI,0.17052,0.1703701,0.08078999,0.17052,6.087463,-0.012243044
+2716N: Security Apparatus - Fund for Peace,0097: Net bilateral aid flows from DAC donors; France  (current US$) - WDI,0.1705,0.15778655,0.10364,0.1705,5.9541965,0.11275389
+2716N: Security Apparatus - Fund for Peace,0115: Net bilateral aid flows from DAC donors; United States  (current US$) - WDI,0.16982,0.07989792,0.081939995,0.16715,6.0,0.2998701
+2716N: Security Apparatus - Fund for Peace,0420: CO2 emissions from electricity and heat production; total  (% of total fuel combustion) - WDI,0.16963,0.14952354,0.10946001,0.16637,6.044394,-0.14179727
+2716N: Security Apparatus - Fund for Peace,0473: Broad money to total reserves ratio - WDI,0.1689,0.16819279,0.10489,0.16599,6.087463,0.026593538
+2716N: Security Apparatus - Fund for Peace,2722: Merchandise trade-Exports-Fuels and mining products (US dollar at current prices) - WTO,0.16874,0.15695512,0.052810006,0.16627,6.169925,-0.10855816
+2716N: Security Apparatus - Fund for Peace,2799: Balance of Payments-Exports-Government goods and services n.i.e. (US dollar at current prices) - WTO,0.16864,0.12205985,0.046830006,0.16864,6.087463,-0.21582435
+2716N: Security Apparatus - Fund for Peace,1390: Merchandise exports to low- and middle-income economies outside region  (% of total merchandise exports) - WDI,0.16863,0.16754633,0.08628,0.166,6.129283,0.03291908
+2716N: Security Apparatus - Fund for Peace,0726: External balance on goods and services  (current US$) - WDI,0.16837,0.167913,0.07221999,0.16601,6.2094536,-0.021377152
+2716N: Security Apparatus - Fund for Peace,0772: Adjusted savings: particulate emission damage  (current US$) - WDI,0.16798,0.16425528,0.06486,0.16798,6.2094536,-0.06103051
+2716N: Security Apparatus - Fund for Peace,1369: Merchandise imports from low- and middle-income economies in Sub-Saharan Africa  (% of total merchandise imports) - WDI,0.16786,0.10393368,0.06933,0.16786,6.129283,0.25283656
+2716N: Security Apparatus - Fund for Peace,0465: Total reserves minus gold  (current US$) - WDI,0.1677,0.16552852,0.063269995,0.1677,6.2094536,-0.046599124
+2716N: Security Apparatus - Fund for Peace,0030: Trade in services  (% of GDP) - WDI,0.16712,0.14980827,0.115559995,0.16712,6.129283,-0.13157402
+2716N: Security Apparatus - Fund for Peace,0040: Travel services  (% of service imports; BoP) - WDI,0.16696,0.14745964,0.107700005,0.16696,6.129283,-0.13964368
+2716N: Security Apparatus - Fund for Peace,1401: Computer; communications and other services  (% of commercial service exports) - WDI,0.16577,0.15206572,0.054299995,0.16577,6.129283,-0.117065206
+2716N: Security Apparatus - Fund for Peace,0045: Current account balance  (BoP; current US$) - WDI,0.1657,0.16541818,0.0863,0.1657,5.9541965,-0.016787454
+2716N: Security Apparatus - Fund for Peace,0049: Net trade in goods and services  (BoP; current US$) - WDI,0.16517,0.1643021,0.07154,0.16231,6.169925,-0.029460322
+2716N: Security Apparatus - Fund for Peace,0471: Broad money  (current LCU) - WDI,0.16464,0.16346788,0.079749994,0.16464,6.087463,-0.03423613
+2716N: Security Apparatus - Fund for Peace,0621: Methodology assessment of statistical capacity  (scale 0 - 100) - WDI,0.16432,-0.0011396408,0.05106,0.16432,5.0,-0.4067673
+2716N: Security Apparatus - Fund for Peace,0060: ICT service exports  (% of service exports; BoP) - WDI,0.16381,0.15734044,0.04186,0.16081,6.044394,-0.08043358
+2716N: Security Apparatus - Fund for Peace,0764: Adjusted savings: net forest depletion  (current US$) - WDI,0.16359,0.14555788,0.09626,0.16359,6.2094536,0.1342837
+2716N: Security Apparatus - Fund for Peace,2740: Merchandise trade-Exports-Fuels (US dollar at current prices) - WTO,0.16345,0.16235612,0.06351999,0.16345,6.129283,-0.03307385
+2716N: Security Apparatus - Fund for Peace,1392: Merchandise exports to low- and middle-income economies in Europe & Central Asia  (% of total merchandise exports) - WDI,0.16331,0.14550029,0.09176001,0.16331,5.9541965,0.13345307
+2716N: Security Apparatus - Fund for Peace,0034: Insurance and financial services  (% of service imports; BoP) - WDI,0.16319,0.14208713,0.119710006,0.16319,6.129283,-0.14526828
+2716N: Security Apparatus - Fund for Peace,0710: Gross fixed capital formation  (% of GDP) - WDI,0.16276,0.15654013,0.08843,0.15998,6.169925,-0.07886618
+2716N: Security Apparatus - Fund for Peace,0369: GDP per unit of energy use  (PPP $ per kg of oil equivalent) - WDI,0.16189,0.16150355,0.108339995,0.15841,6.044394,-0.019658327
+2716N: Security Apparatus - Fund for Peace,0840: Gross savings  (% of GDP) - WDI,0.16184,0.16157006,0.11231001,0.15855,6.087463,0.016430082
+2716N: Security Apparatus - Fund for Peace,0669: Household final consumption expenditure; etc.  (annual % growth) - WDI,0.16173,0.15506019,0.086940005,0.16173,6.044394,0.081669
+2716N: Security Apparatus - Fund for Peace,0746: Industry; value added  (annual % growth) - WDI,0.16157,0.1453243,0.12866,0.15842,6.169925,0.12745859
+2716N: Security Apparatus - Fund for Peace,0725: Imports of goods and services  (% of GDP) - WDI,0.16105,0.14252102,0.12166001,0.1582,6.2094536,-0.13612118
+2716N: Security Apparatus - Fund for Peace,1386: Ores and metals exports  (% of merchandise exports) - WDI,0.16049,0.15621623,0.08742001,0.16049,6.044394,0.06537409
+2716N: Security Apparatus - Fund for Peace,0657: Military expenditure  (% of GDP) - WDI,0.16048,0.12576772,0.10886999,0.15766,6.129283,0.18631229
+2716N: Security Apparatus - Fund for Peace,0675: Household final consumption expenditure  (annual % growth) - WDI,0.15982,0.14383143,0.077980004,0.15697,6.087463,0.12644596
+2716N: Security Apparatus - Fund for Peace,1141: Employment to population ratio; ages 15-24; total (%)  (modeled ILO estimate) - WDI,0.15979,0.1591663,0.08717,0.15979,6.2094536,0.024973623
+2716N: Security Apparatus - Fund for Peace,0031: Communications; computer; etc.  (% of service imports; BoP) - WDI,0.15944,0.10470893,0.059279993,0.15944,6.129283,-0.23394671
+2716N: Security Apparatus - Fund for Peace,1381: Food exports  (% of merchandise exports) - WDI,0.15923,0.1405264,0.07688999,0.15603,6.087463,0.13676108
+2716N: Security Apparatus - Fund for Peace,0070: Travel services  (% of service exports; BoP) - WDI,0.15896,0.14412451,0.039710008,0.15896,6.087463,0.121801056
+2716N: Security Apparatus - Fund for Peace,0678: Household final consumption expenditure per capita growth  (annual %) - WDI,0.15884,0.1477594,0.08783,0.15523,6.044394,0.10526443
+2716N: Security Apparatus - Fund for Peace,1366: Merchandise imports from low- and middle-income economies in Latin America & the Caribbean  (% of total merchandise imports) - WDI,0.15818,0.15634505,0.09341,0.15518,6.129283,0.042836208
+2716N: Security Apparatus - Fund for Peace,0790: Inflation; GDP deflator  (annual %) - WDI,0.15817,0.10438952,0.055869997,0.1557,6.2479277,0.23190619
+2716N: Security Apparatus - Fund for Peace,1365: Merchandise imports from low- and middle-income economies in Europe & Central Asia  (% of total merchandise imports) - WDI,0.15817,0.09728871,0.05369,0.15817,5.9541965,0.24674132
+2716N: Security Apparatus - Fund for Peace,0684: Final consumption expenditure; etc.  (annual % growth) - WDI,0.15784,0.13446413,0.070829995,0.15487,6.087463,0.15289171
+2716N: Security Apparatus - Fund for Peace,0748: Industry; value added  (% of GDP) - WDI,0.1575,0.15668367,0.108459994,0.15434,6.169925,-0.028571405
+2716N: Security Apparatus - Fund for Peace,0777: Adjusted savings: net national savings  (% of GNI) - WDI,0.15734,0.14231941,0.105790004,0.15404,6.087463,0.122558504
+2716N: Security Apparatus - Fund for Peace,0546: Public credit registry coverage  (% of adults) - WDI,0.15713,0.1244861,0.09708001,0.15713,6.169925,-0.18067624
+2716N: Security Apparatus - Fund for Peace,1406: Travel services  (% of commercial service exports) - WDI,0.15705,0.1244905,0.030330002,0.15705,6.129283,0.1804425
+2716N: Security Apparatus - Fund for Peace,0320: Net ODA received  (% of GNI) - WDI,0.15683,0.14612032,0.0828,0.15683,5.9541965,0.10348758
+2716N: Security Apparatus - Fund for Peace,0061: Communications; computer; etc.  (% of service exports; BoP) - WDI,0.15657,0.1558023,0.047470003,0.15657,6.129283,0.027707554
+2716N: Security Apparatus - Fund for Peace,0474: Broad money growth  (annual %) - WDI,0.15648,0.10807712,0.1031,0.15349,6.087463,0.22000656
+2716N: Security Apparatus - Fund for Peace,0479: Money and quasi money growth  (annual %) - WDI,0.15614,0.1086673,0.1013,0.15614,6.087463,0.2178823
+2716N: Security Apparatus - Fund for Peace,0475: Money  (current LCU) - WDI,0.15558,0.15244271,0.06647,0.15249,6.087463,-0.056011576
+2716N: Security Apparatus - Fund for Peace,1357: Insurance and financial services  (% of commercial service imports) - WDI,0.15521,0.13835931,0.11931001,0.15521,6.129283,-0.12981021
+2716N: Security Apparatus - Fund for Peace,0731: Agriculture; value added  (current US$) - WDI,0.15479,0.15384139,0.06745,0.15479,6.169925,0.030799402
+2716N: Security Apparatus - Fund for Peace,0770: Adjusted savings: energy depletion  (current US$) - WDI,0.15451,0.15262726,0.12183,0.15451,6.2479277,0.043390673
+2716N: Security Apparatus - Fund for Peace,1384: Insurance and financial services  (% of commercial service exports) - WDI,0.15428,0.10629149,0.06695001,0.1514,6.087463,-0.21906282
+2716N: Security Apparatus - Fund for Peace,0775: Adjusted savings: gross savings  (% of GNI) - WDI,0.15419,0.14254546,0.101490006,0.15089,6.087463,-0.10790985
+2716N: Security Apparatus - Fund for Peace,0839: Gross savings  (% of GNI) - WDI,0.15419,0.14254546,0.101490006,0.15089,6.087463,-0.10790985
+2716N: Security Apparatus - Fund for Peace,0093: Net bilateral aid flows from DAC donors; Germany  (current US$) - WDI,0.15411,0.13033992,0.06746,0.15411,5.9541965,0.1541755
+2716N: Security Apparatus - Fund for Peace,0103: Net bilateral aid flows from DAC donors; Japan  (current US$) - WDI,0.15319,0.1417443,0.087280005,0.15013,6.0,0.10698458
+2716N: Security Apparatus - Fund for Peace,0719: Gross capital formation  (% of GDP) - WDI,0.15298,0.15065612,0.091680005,0.15298,6.169925,-0.048206665
+2716N: Security Apparatus - Fund for Peace,0807: Natural gas rents  (% of GDP) - WDI,0.15288,0.144415,0.12038,0.15288,6.169925,0.09200536
+2716N: Security Apparatus - Fund for Peace,0462: Total reserves  (includes gold; current US$) - WDI,0.15229,0.14787386,0.05139,0.14172,6.228819,-0.06645398
+2716N: Security Apparatus - Fund for Peace,0803: GDP growth  (annual %) - WDI,0.15118,0.12953214,0.08209,0.14872,6.2479277,0.14713208
+2716N: Security Apparatus - Fund for Peace,0742: Manufacturing; value added  (% of GDP) - WDI,0.15065,0.1132438,0.047659993,0.14737,6.129283,-0.1934068
+2716N: Security Apparatus - Fund for Peace,1358: Manufactures imports  (% of merchandise imports) - WDI,0.1501,0.08278729,0.06621999,0.14683,6.087463,-0.25944692
+2716N: Security Apparatus - Fund for Peace,0734: Agriculture; value added  (annual % growth) - WDI,0.14985,0.14453666,0.120639995,0.14698,6.169925,0.07289265
+2716N: Security Apparatus - Fund for Peace,1378: Net barter terms of trade index  (2000 = 100) - WDI,0.14981,0.11089033,0.09509,0.14709,6.2479277,0.19728069
+2716N: Security Apparatus - Fund for Peace,1380: Agricultural raw materials exports  (% of merchandise exports) - WDI,0.14879,0.11971593,0.09487,0.14879,6.044394,0.17051122
+2716N: Security Apparatus - Fund for Peace,0075: Secondary income receipts  (BoP; current US$) - WDI,0.14849,0.12775104,0.040359996,0.14849,6.129283,-0.14401029
+2716N: Security Apparatus - Fund for Peace,0051: Net errors and omissions  (BoP; current US$) - WDI,0.14821,0.14739084,0.08727001,0.1454,6.169925,0.02862102
+2716N: Security Apparatus - Fund for Peace,1367: Merchandise imports from low- and middle-income economies in Middle East & North Africa  (% of total merchandise imports) - WDI,0.14817,0.09110524,0.08288,0.14545,6.2094536,0.23888232
+2716N: Security Apparatus - Fund for Peace,0635: Mobile cellular subscriptions - WDI,0.14796,0.14744666,0.06262001,0.14796,6.2479277,0.022657005
+2716N: Security Apparatus - Fund for Peace,0780: Adjusted net national income  (annual % growth) - WDI,0.14731,0.13867705,0.0957,0.14731,6.044394,0.09291375
+2716N: Security Apparatus - Fund for Peace,0579: Start-up procedures to register a business  (number) - WDI,0.14605,-0.021390662,0.023029998,0.14605,5.643856,0.40919515
+2716N: Security Apparatus - Fund for Peace,1328: Import volume index  (2000 = 100) - WDI,0.14604,0.09934953,0.07430999,0.14361,6.2479277,0.21607977
+2716N: Security Apparatus - Fund for Peace,0025: Crop production index  (2004-2006 = 100) - WDI,0.14541,0.12683688,0.09722,0.14541,6.2479277,0.13628322
+2716N: Security Apparatus - Fund for Peace,0776: Adjusted savings: net national savings  (current US$) - WDI,0.14499,0.14494412,0.049599998,0.14221,6.087463,-0.0067732637
+2716N: Security Apparatus - Fund for Peace,0090: Net bilateral aid flows from DAC donors; European Union institutions  (current US$) - WDI,0.14497,0.13327774,0.08166,0.142,6.0,0.10813073
+2716N: Security Apparatus - Fund for Peace,1327: Merchandise trade  (% of GDP) - WDI,0.1448,0.08057115,0.08689001,0.14208,6.2479277,-0.25343412
+2716N: Security Apparatus - Fund for Peace,0768: Adjusted savings: mineral depletion  (current US$) - WDI,0.14429,0.1427457,0.09797,0.14429,6.2479277,-0.03929763
+2716N: Security Apparatus - Fund for Peace,0717: Gross capital formation  (annual % growth) - WDI,0.1441,0.12593119,0.1191,0.14062,6.087463,0.13479172
+2716N: Security Apparatus - Fund for Peace,1326: International tourism; expenditures  (% of total imports) - WDI,0.14354,0.14157811,0.092029996,0.14126,6.169925,-0.04429316
+2716N: Security Apparatus - Fund for Peace,0077: Personal remittances; received  (current US$) - WDI,0.14325,0.14003359,0.049279995,0.14325,6.129283,0.05671343
+2716N: Security Apparatus - Fund for Peace,0708: Gross fixed capital formation  (annual % growth) - WDI,0.14281,0.123944804,0.09884,0.14281,6.044394,0.13735063
+2716N: Security Apparatus - Fund for Peace,0811: GDP per capita growth  (annual %) - WDI,0.14225,0.1331677,0.096540004,0.13954,6.2479277,0.095301084
+2716N: Security Apparatus - Fund for Peace,0826: GNI growth  (annual %) - WDI,0.14204,0.12337869,0.07894,0.13913,6.087463,0.13660643
+2716N: Security Apparatus - Fund for Peace,2807: Balance of Payments-Imports-Government goods and services n.i.e. (US dollar at current prices) - WTO,0.14123,0.13900806,0.041399993,0.13811,6.129283,-0.04713751
+2716N: Security Apparatus - Fund for Peace,0833: GNI per capita growth  (annual %) - WDI,0.14096,0.13176747,0.10156,0.13776,6.087463,0.09587768
+2716N: Security Apparatus - Fund for Peace,1373: Import value index  (2000 = 100) - WDI,0.14069,0.095146656,0.04647,0.13817,6.2479277,0.21340887
+2716N: Security Apparatus - Fund for Peace,0487: Real interest rate  (%) - WDI,0.14062,0.12545064,0.08111999,0.13704,5.9541965,0.12316392
+2716N: Security Apparatus - Fund for Peace,1353: Agricultural raw materials imports  (% of merchandise imports) - WDI,0.13954,0.1357536,0.109160006,0.13954,6.044394,0.061533697
+2716N: Security Apparatus - Fund for Peace,0069: Transport services  (% of service exports; BoP) - WDI,0.13859,0.13212782,0.08806999,0.13859,6.129283,-0.08038763
+2716N: Security Apparatus - Fund for Peace,1259: Unemployment; total (% of total labor force)  (modeled ILO estimate) - WDI,0.1361,0.13560048,0.08418,0.1361,6.2094536,0.022349855
+2716N: Security Apparatus - Fund for Peace,0783: Adjusted net national income per capita  (annual % growth) - WDI,0.13586,0.13082702,0.09715,0.13586,6.044394,0.07094346
+2716N: Security Apparatus - Fund for Peace,0046: Current account balance  (% of GDP) - WDI,0.13537,0.1351134,0.0598,0.13269,6.169925,0.01601856
+2716N: Security Apparatus - Fund for Peace,1208: Labor force participation rate; male (% of male population ages 15-64)  (modeled ILO estimate) - WDI,0.13536,0.13442905,0.090440005,0.13356,6.2479277,-0.030511508
+2716N: Security Apparatus - Fund for Peace,0072: Foreign direct investment; net inflows  (% of GDP) - WDI,0.13523,0.120452404,0.0907,0.13268,6.2479277,-0.12156315
+2716N: Security Apparatus - Fund for Peace,0740: Manufacturing; value added  (annual % growth) - WDI,0.13515,0.1256469,0.11196,0.13212,6.129283,0.09748381
+2716N: Security Apparatus - Fund for Peace,1394: Merchandise exports to low- and middle-income economies in Middle East & North Africa  (% of total merchandise exports) - WDI,0.13338,0.10565755,0.07029,0.13052,6.2094536,0.1665006
+2716N: Security Apparatus - Fund for Peace,1379: Export volume index  (2000 = 100) - WDI,0.13224,0.13203725,0.08353999,0.12968,6.2479277,0.014239047
+2716N: Security Apparatus - Fund for Peace,1405: Transport services  (% of commercial service exports) - WDI,0.1322,0.13218391,0.08797,0.1322,6.129283,-0.0040120226
+2716N: Security Apparatus - Fund for Peace,0481: Consumer price index  (2010 = 100) - WDI,0.13156,0.13100666,0.091309994,0.13156,6.169925,0.023523023
+2716N: Security Apparatus - Fund for Peace,2771: Merchandise trade-Exports-Total merchandise (Unit value index - Prev. year = 100) - WTO,0.12777,0.11720498,0.09938001,0.12582,6.2479277,0.102786325
+2716N: Security Apparatus - Fund for Peace,0622: Overall level of statistical capacity  (scale 0 - 100) - WDI,0.12768,-0.021181896,0.026030004,0.12768,5.0,-0.38582626
+2716N: Security Apparatus - Fund for Peace,0723: Imports of goods and services  (annual % growth) - WDI,0.12706,0.121848136,0.09888999,0.12706,6.087463,0.07219323
+2716N: Security Apparatus - Fund for Peace,0470: Claims on private sector  (annual growth as % of broad money) - WDI,0.12678,0.12641907,0.09869,0.12678,6.087463,-0.018998384
+2716N: Security Apparatus - Fund for Peace,0054: Reserves and related items  (BoP; current US$) - WDI,0.12667,0.12666437,0.07112,0.12377,6.169925,-0.002374686
+2716N: Security Apparatus - Fund for Peace,0489: Claims on central government; etc.  (% GDP) - WDI,0.12655,0.12616836,0.09471001,0.12655,6.169925,-0.019535882
+2716N: Security Apparatus - Fund for Peace,0466: Claims on central government  (annual growth as % of broad money) - WDI,0.12579,0.12578957,0.0788,0.12293,6.087463,6.5709325E-4
+2716N: Security Apparatus - Fund for Peace,0700: Exports of goods and services  (annual % growth) - WDI,0.12409,0.120204896,0.09306,0.12409,6.087463,0.06233061
+2716N: Security Apparatus - Fund for Peace,1771: Primary energy supply - TOT (TOE_1000USD) - OECD,0.11966,0.08821732,0.055099994,0.11966,6.0,0.17732082
+2716N: Security Apparatus - Fund for Peace,2774: Merchandise trade-Imports-Total merchandise (Unit value index - Prev. year = 100) - WTO,0.11953,0.11523786,0.10348,0.1177,6.2479277,0.06551439
+2716N: Security Apparatus - Fund for Peace,1257: Unemployment; male (% of male labor force)  (modeled ILO estimate) - WDI,0.11787,0.11765456,0.06456,0.11787,6.2094536,-0.014677814
+2716N: Security Apparatus - Fund for Peace,0878: Compulsory education; duration  (years) - WDI,0.11623,0.03191337,0.035950005,0.11623,4.807355,-0.29037327
+2716N: Security Apparatus - Fund for Peace,0589: Procedures to build a warehouse  (number) - WDI,0.11136,0.09086805,0.05511,0.11136,6.087463,0.14315009
+2716N: Security Apparatus - Fund for Peace,1400: Export value index  (2000 = 100) - WDI,0.11011,0.1058049,0.04444,0.10799,6.2479277,0.06561329
+2716N: Security Apparatus - Fund for Peace,1255: Unemployment; female (% of female labor force)  (modeled ILO estimate) - WDI,0.10931,0.09754411,0.036470003,0.10931,6.2094536,0.10847068
+2716N: Security Apparatus - Fund for Peace,0540: Business extent of disclosure index  (0=less disclosure to 10=more disclosure) - WDI,0.10646,0.07971152,0.025609996,0.09305,5.5849624,-0.16354962
+2716N: Security Apparatus - Fund for Peace,2773: Merchandise trade-Exports-Total merchandise (Volume index - Previous year = 100) - WTO,0.1059,0.105627656,0.08377,0.1039,6.2479277,0.016502807
+2716N: Security Apparatus - Fund for Peace,2772: Merchandise trade-Exports-Total merchandise (Value index - Previous year = 100) - WTO,0.1041,0.10304537,0.07518999,0.1041,6.2479277,0.032475032
+2716N: Security Apparatus - Fund for Peace,2776: Merchandise trade-Imports-Total merchandise (Volume index - Previous year = 100) - WTO,0.10207,0.0932144,0.07143,0.10019,6.2479277,0.09410419
+2716N: Security Apparatus - Fund for Peace,0789: Coal rents  (% of GDP) - WDI,0.1015,0.10149917,0.06852999,0.09958,6.2479277,-9.080758E-4
+2716N: Security Apparatus - Fund for Peace,2775: Merchandise trade-Imports-Total merchandise (Value index - Previous year = 100) - WTO,0.095,0.08505297,0.06561,0.095,6.2479277,0.09973479
+2716N: Security Apparatus - Fund for Peace,0576: Procedures to register property  (number) - WDI,0.09275,0.015589863,0.013529994,0.09275,6.0,0.27777714
+2716N: Security Apparatus - Fund for Peace,0624: Source data assessment of statistical capacity  (scale 0 - 100) - WDI,0.09075,-0.012313105,0.02538,0.09075,4.169925,-0.32103443
+2716N: Security Apparatus - Fund for Peace,1091: Tuberculosis treatment success rate  (% of new cases) - WDI,0.06593,0.038596764,0.032720003,0.06559,6.2094536,0.16532767
+2716N: Security Apparatus - Fund for Peace,0942: Secondary education; duration  (years) - WDI,0.06498,0.06343523,0.02213,0.0536,6.169925,-0.039303612
+2716N: Security Apparatus - Fund for Peace,0895: Primary education; duration  (years) - WDI,0.05996,0.053941485,0.02892,0.05346,5.044394,-0.0775791
+2716N: Security Apparatus - Fund for Peace,0623: Periodicity and timeliness assessment of statistical capacity  (scale 0 - 100) - WDI,0.05948,0.024211735,0.020179998,0.05872,6.0,-0.18779847
+2716N: Security Apparatus - Fund for Peace,0938: Lower secondary school starting age  (years) - WDI,0.05717,0.055486087,0.015889999,0.04238,5.9068904,-0.041035533
+2716N: Security Apparatus - Fund for Peace,0891: Primary school starting age  (years) - WDI,0.04372,0.04053962,0.02341,0.0421,5.044394,0.05639487
+2716N: Security Apparatus - Fund for Peace,0883: Preprimary education; duration  (years) - WDI,0.03305,0.032591514,0.01073,0.02523,6.044394,-0.021412306

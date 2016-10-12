@@ -1,0 +1,1013 @@
+808,score,p-value
+0808: GDP per capita  (current US$) - WDI,108289.69749165064,0.0
+0810: GDP per capita  (constant 2005 US$) - WDI,10314.110898376935,0.0
+0830: GNI per capita; Atlas method  (current US$) - WDI,8790.9963148651295,0.0
+1098: Health expenditure per capita  (current US$) - WDI,2399.0381447314908,0.0
+1099: Health expenditure per capita; PPP  (constant 2011 international $) - WDI,2330.7380253131987,0.0
+0814: GDP per capita; PPP  (constant 2011 international $) - WDI,2305.3205486455358,0.0
+0813: GDP per capita; PPP  (current international $) - WDI,2268.3683433330762,4.6442170709077175e-322
+0835: GNI per capita; PPP  (current international $) - WDI,2152.7540043189965,1.0002675633263191e-310
+0781: Adjusted net national income per capita  (current US$) - WDI,2099.2546705409127,2.278812755308795e-305
+1901: Fixed-broadband subscriptions per 100 inhabitants - ITU,2092.6915215231556,1.0471299014728999e-304
+0782: Adjusted net national income per capita  (constant 2005 US$) - WDI,1893.1649874022416,5.0585144760734713e-284
+1898: Fixed-telephone subscriptions per 100 inhabitants - ITU,1863.1005320031313,8.2574864071736039e-281
+1899: Percentage of Individuals using the Internet (%) - ITU,1714.8643520813932,1.4197318091585133e-264
+1167: GDP per person employed  (constant 2011 PPP $) - WDI,1643.2318322856433,1.7527709276059472e-256
+0832: GNI per capita  (constant 2005 US$) - WDI,1598.5129613176609,2.401976491171777e-251
+0836: GNI per capita; PPP  (constant 2011 international $) - WDI,1469.8587367555165,3.494542397614094e-236
+1986: Per capita government expenditure on health at average exchange rate (US$) - WHO,1201.6529651954309,1.451121541034983e-202
+1946: Per capita government expenditure on health (PPP int. $) - WHO,1198.9612564858305,3.2662782893969844e-202
+1955: Per capita total expenditure on health at average exchange rate (US$) - WHO,1168.8633868940151,2.9889121188709321e-198
+1971: Per capita total expenditure on health (PPP int. $) - WHO,1102.074603885364,2.5764398904405609e-189
+0855: Price level ratio of PPP conversion factor  to market exchange rate (GDP) - WDI,1086.4092380141149,3.4395712068371264e-187
+2704: Corruption perceptions index - Transparency,964.82497389050684,2.7215323983570612e-170
+1287: Life expectancy at birth; male  (years) - WDI,897.22260705440397,1.4247672814356305e-160
+1286: Life expectancy at birth; total  (years) - WDI,814.1680483573158,2.7046663232445178e-148
+2707: Failed States Index Total - Fund for Peace,802.44103805432405,1.5741223603041098e-146
+2714: Public Services - Fund for Peace,778.72697852427814,6.1714452996778394e-143
+2708: Demographic Pressures - Fund for Peace,739.83723484971267,5.6915749872021157e-137
+2712: Poverty and Economic Decline - Fund for Peace,722.8501013035243,2.4509545876626223e-134
+1315: Urban population  (% of total) - WDI,722.2353286734766,3.0548942924568612e-134
+1312: Rural population  (% of total population) - WDI,722.18794269240277,3.1072098770589833e-134
+1285: Life expectancy at birth; female  (years) - WDI,718.05559784569539,1.3677141857541019e-133
+1290: Survival to age 65; male  (% of cohort) - WDI,698.07649765449673,1.8312133590966738e-130
+2719: Human Flight - Fund for Peace,640.34213888172769,2.7573104040931103e-121
+2711: Uneven Development - Fund for Peace,630.34154966575147,1.1277977646422611e-119
+1031: Mortality rate; neonatal  (per 1;000 live births) - WDI,629.70745457700696,1.4277375478997943e-119
+2706: Failed States Index Rank - Fund for Peace,620.05838191176224,5.2052352650858055e-118
+1295: Population ages 0-14  (% of total) - WDI,607.36398419678574,6.0345909445156839e-116
+1433: Air and GHG emissions - CO2 (TONNE_CAP) - OECD,602.18330777908773,4.2285567351246329e-115
+1278: Birth rate; crude  (per 1;000 people) - WDI,594.30463913912467,8.2333713650388442e-114
+2713: Legitimacy of the State - Fund for Peace,594.11561805243116,8.8422756471946051e-114
+1059: Improved sanitation facilities; rural  (% of rural population with access) - WDI,557.35682837214586,1.0457054084648749e-107
+2718: External Intervention - Fund for Peace,550.42660239198779,1.4960226082956781e-106
+1058: Improved sanitation facilities  (% of population with access) - WDI,545.77773297792976,8.9534458786567415e-106
+2716: Security Apparatus - Fund for Peace,536.87760142313118,2.7793386281914942e-104
+1283: Mortality rate; infant  (per 1;000 live births) - WDI,533.45461508489871,1.0453438318849159e-103
+1300: Age dependency ratio; young  (% of working-age population) - WDI,533.30999629533028,1.1055656042627196e-103
+1050: Lifetime risk of maternal death  (1 in: rate varies by country) - WDI,524.02334990255781,4.0625251525770911e-102
+1289: Survival to age 65; female  (% of cohort) - WDI,519.04922025333724,2.8166522351647078e-101
+0954: School enrollment; secondary; male  (% gross) - WDI,513.50737723683301,2.4478110961769295e-100
+2715: Human Rights - Fund for Peace,508.25310276251457,1.9106310148149828e-99
+0736: Agriculture; value added  (% of GDP) - WDI,483.17437701807961,3.7053261113212515e-95
+0952: School enrollment; secondary  (% gross) - WDI,467.58733408326378,1.8094432830246273e-92
+1297: Population ages 65 and above  (% of total) - WDI,465.19004247096495,4.7066664707924593e-92
+1299: Age dependency ratio; old  (% of working-age population) - WDI,444.09666025845007,2.2121856928758552e-88
+1028: Mortality rate; under-5  (per 1;000 live births) - WDI,441.95855824244251,5.2356492146893784e-88
+1277: Mortality rate; adult; male  (per 1;000 male adults) - WDI,440.26623970809607,1.0360131144881904e-87
+1060: Improved sanitation facilities; urban  (% of urban population with access) - WDI,438.78815654610582,1.8811455033438297e-87
+2717: Factionalized Elites - Fund for Peace,438.50258655265907,2.1110220434916129e-87
+1273: Adolescent fertility rate  (births per 1;000 women ages 15-19) - WDI,423.66084379692637,8.6224894038096249e-85
+1288: Fertility rate; total  (births per woman) - WDI,414.27838550492135,3.9386964210458975e-83
+1033: Improved water source; rural  (% of rural population with access) - WDI,408.68346238971469,3.8764867767540168e-82
+0953: School enrollment; secondary; female  (% gross) - WDI,407.31168954384788,6.796896697299815e-82
+1035: Improved water source  (% of population with access) - WDI,396.97409941843654,4.7318575505583107e-80
+1296: Population ages 15-64  (% of total) - WDI,387.76032328537315,2.1124761253706858e-78
+0064: Insurance and financial services  (% of service exports; BoP) - WDI,378.08224139988243,1.1620721417861879e-76
+1350: Share of tariff lines with specific rates; primary products  (%) - WDI,374.86609845312438,4.4190254081864556e-76
+2709: Refugees and IDPs - Fund for Peace,372.63097054574968,1.1193964966252645e-75
+1298: Age dependency ratio  (% of working-age population) - WDI,370.56497379779404,2.6452636330161692e-75
+1362: Merchandise imports from high-income economies  (% of total merchandise imports) - WDI,368.62469613742928,5.9368088531045895e-75
+2816: Balance of Payments-Imports-Financial services (US dollar at current prices) - WTO,360.60884080429253,1.6879014728553314e-73
+1276: Mortality rate; adult; female  (per 1;000 female adults) - WDI,346.80920999591666,5.5322388618193927e-71
+0978: School enrollment; tertiary  (% gross) - WDI,346.01611335595476,7.726288875257584e-71
+0767: Adjusted savings: consumption of fixed capital  (% of GNI) - WDI,344.48590551884786,1.4723916361595961e-70
+2710: Group Grievance - Fund for Peace,339.23844458205582,1.3487354079600834e-69
+0898: Pupil-teacher ratio; primary - WDI,336.15209505272071,4.9750096959715355e-69
+0979: School enrollment; tertiary; female  (% gross) - WDI,334.60924012175826,9.5604653299074483e-69
+1895: Mobile-cellular telephone subscriptions - ITU,330.51135277496883,5.4320743108184382e-68
+1896: Mobile-cellular telephone subscriptions per 100 inhabitants - ITU,330.51135277496883,5.4320743108184382e-68
+1185: Employment in services  (% of total employment) - WDI,329.28182511299332,9.1543500443101948e-68
+0980: School enrollment; tertiary; male  (% gross) - WDI,328.74276733428388,1.1509165464682961e-67
+1376: Transport services  (% of commercial service imports) - WDI,322.67884719496374,1.5175607000556325e-66
+1384: Insurance and financial services  (% of commercial service exports) - WDI,314.3737108305084,5.2541339154553567e-65
+0957: School enrollment; secondary; male  (% net) - WDI,310.79440270493603,2.4311603941172397e-64
+0773: Adjusted savings: particulate emission damage  (% of GNI) - WDI,307.47040146316607,1.0108683629980584e-63
+0885: School enrollment; preprimary  (% gross) - WDI,307.44765069685849,1.0207840509144161e-63
+1101: Health expenditure; public  (% of total health expenditure) - WDI,302.00686092504924,1.0570111759687527e-62
+1092: Tuberculosis case detection rate  (%; all forms) - WDI,300.45605774432119,2.0602376053000326e-62
+1071: Maternal mortality ratio  (modeled estimate; per 100;000 live births) - WDI,297.87501653140396,6.2630121771609931e-62
+0887: School enrollment; preprimary; male  (% gross) - WDI,297.30657573125546,8.0021963074921743e-62
+0886: School enrollment; preprimary; female  (% gross) - WDI,294.59020282293255,2.5833593336239179e-61
+0955: School enrollment; secondary  (% net) - WDI,290.10218686757935,1.7971695641462641e-60
+1096: Out-of-pocket health expenditure  (% of total expenditure on health) - WDI,288.65756187620747,3.3584373974087419e-60
+1073: People practicing open defecation; rural  (% of rural population) - WDI,288.07121562517875,4.3292038935523149e-60
+0039: Transport services  (% of service imports; BoP) - WDI,283.48378209437669,3.1639403747919368e-59
+0956: School enrollment; secondary; female  (% net) - WDI,272.43992938905865,3.8704593581849929e-57
+0729: External balance on goods and services  (% of GDP) - WDI,258.20474280344877,1.9738564485621771e-54
+2823: Balance of Payments-Imports-Personal; cultural; and recreational services (US dollar at current prices) - WTO,258.18844396959094,1.9880466379096356e-54
+1342: Share of tariff lines with specific rates; all products  (%) - WDI,252.83533842641901,2.0967812085765992e-53
+2743: Merchandise trade-Exports-Pharmaceuticals (US dollar at current prices) - WTO,252.14131309253179,2.8470839287531686e-53
+1160: Wage and salaried workers; total  (% of total employed) - WDI,250.68862836628074,5.4027563186620632e-53
+1034: Improved water source; urban  (% of urban population with access) - WDI,249.79596924325256,8.010795032637172e-53
+1148: Self-employed; total  (% of total employed) - WDI,249.6926643301199,8.3844940120584832e-53
+1075: People practicing open defecation  (% of population) - WDI,249.42351468176889,9.4421657227524546e-53
+2800: Balance of Payments-Imports-Commercial services (US dollar at current prices) - WTO,248.71857405735611,1.2889569114188555e-52
+1332: Tariff rate; applied; simple mean; manufactured products  (%) - WDI,248.38662879360749,1.4924602179502385e-52
+2805: Balance of Payments-Imports-Services (US dollar at current prices) - WTO,247.26628420788285,2.4482379893474593e-52
+1340: Tariff rate; applied; simple mean; all products  (%) - WDI,243.14045008007781,1.5187354379071602e-51
+0759: Services; etc.; value added  (% of GDP) - WDI,242.52921129976397,1.9908972445898527e-51
+2797: Balance of Payments-Exports-Services (US dollar at current prices) - WTO,240.13591656553334,5.750779348778195e-51
+1103: Health expenditure; public  (% of GDP) - WDI,239.91820809880886,6.3337400029835713e-51
+0941: Lower secondary completion rate; total  (% of relevant age group) - WDI,238.78787877286254,1.0458043167128544e-50
+2785: Balance of Payments-Exports-Commercial services (US dollar at current prices) - WTO,238.09397011897104,1.4230269477915909e-50
+0940: Lower secondary completion rate; male  (% of relevant age group) - WDI,237.67157901978348,1.7165603685114397e-50
+1051: Lifetime risk of maternal death  (%) - WDI,233.58394536792648,1.0561810608504707e-49
+2787: Balance of Payments-Exports-Transport (US dollar at current prices) - WTO,233.38976944501695,1.1514968219777593e-49
+0939: Lower secondary completion rate; female  (% of relevant age group) - WDI,231.09025760144516,3.2056949358087144e-49
+2804: Balance of Payments-Imports-Other commercial services (US dollar at current prices) - WTO,223.34777472694793,1.0160454717090693e-47
+2742: Merchandise trade-Exports-Chemicals (US dollar at current prices) - WTO,221.29949028604449,2.540927021978598e-47
+2822: Balance of Payments-Imports-Other business services (US dollar at current prices) - WTO,221.20494203912,2.6508030077179283e-47
+2792: Balance of Payments-Exports-Financial services (US dollar at current prices) - WTO,220.25018538165074,4.0652121535507734e-47
+2818: Balance of Payments-Imports-Telecommunications; computer; and information services (US dollar at current prices) - WTO,215.83829036915563,2.9403622792641203e-46
+1333: Tariff rate; most favored nation; simple mean; manufactured products  (%) - WDI,213.27143768056933,9.3164144109717613e-46
+2806: Balance of Payments-Imports-Other services (US dollar at current prices) - WTO,210.05230691392018,3.9655613567935306e-45
+0928: Primary education; teachers  (% female) - WDI,208.13396787398932,9.4116728452808702e-45
+1093: Incidence of tuberculosis  (per 100;000 people) - WDI,201.55983255844393,1.8317110140967856e-43
+2732: Merchandise trade-Imports-Pharmaceuticals (US dollar at current prices) - WTO,201.49213779682159,1.8886643258394783e-43
+0948: Pupil-teacher ratio; secondary - WDI,197.86272680454462,9.7677445094741564e-43
+1135: Employment in agriculture  (% of total employment) - WDI,197.21068566855499,1.3126410193998842e-42
+0819: Gross domestic savings  (% of GDP) - WDI,195.68006764178526,2.6279281942103547e-42
+1389: Merchandise exports to high-income economies  (% of total merchandise exports) - WDI,190.56081275106601,2.6893410700308648e-41
+1341: Tariff rate; most favored nation; simple mean; all products  (%) - WDI,188.59833234706829,6.5699753814256045e-41
+0947: Pupil-teacher ratio; lower secondary - WDI,188.39850580130002,7.195903373263594e-41
+0922: Repeaters; primary; male  (% of male enrollment) - WDI,183.61690644258269,6.3683793171905121e-40
+0923: Repeaters; primary; total  (% of total enrollment) - WDI,181.55490248269814,1.6335205767207781e-39
+2789: Balance of Payments-Exports-Other commercial services (US dollar at current prices) - WTO,179.39428320959149,4.3879826522838994e-39
+1344: Tariff rate; most favored nation; weighted mean; all products  (%) - WDI,179.10533672064133,5.0083249234813827e-39
+1095: External resources for health  (% of total expenditure on health) - WDI,176.81625503390052,1.4287463828335271e-38
+0921: Repeaters; primary; female  (% of female enrollment) - WDI,176.39474604165989,1.7331939764920685e-38
+2798: Balance of Payments-Exports-Other services (US dollar at current prices) - WTO,175.87195379516606,2.2025387489259741e-38
+1922: Private expenditure on health as a percentage of total expenditure on health - WHO,173.12723622879068,7.7591225871970899e-38
+1339: Share of tariff lines with international peaks; all products  (%) - WDI,170.29011404643981,2.8573115234041987e-37
+1347: Share of tariff lines with international peaks; primary products  (%) - WDI,169.6089048666052,3.9085928964953928e-37
+1336: Tariff rate; most favored nation; weighted mean; manufactured products  (%) - WDI,169.60409006624414,3.9172592109980304e-37
+1994: General government expenditure on health as a percentage of total expenditure on health - WHO,169.43318357006896,4.2376647797157951e-37
+1040: Immunization; DPT  (% of children ages 12-23 months) - WDI,168.7231662674522,5.8750269489165049e-37
+1331: Share of tariff lines with international peaks; manufactured products  (%) - WDI,167.79281318264736,9.0158143443658654e-37
+2795: Balance of Payments-Exports-Other business services (US dollar at current prices) - WTO,167.6031643439168,9.8385422522235144e-37
+2726: Merchandise trade-Imports-Food (US dollar at current prices) - WTO,166.75854244107097,1.4517253855424219e-36
+0882: School enrollment; tertiary (gross); gender parity index  (GPI) - WDI,164.53433842249055,4.0473493963302323e-36
+2803: Balance of Payments-Imports-Travel (US dollar at current prices) - WTO,160.53607351379699,2.5643189428289541e-35
+0976: Adolescents out of school  (% of lower secondary school age) - WDI,157.9337122223038,8.5462995575737742e-35
+1102: Health expenditure; public  (% of government expenditure) - WDI,155.4469791806338,2.7042571945825049e-34
+1041: Immunization; measles  (% of children ages 12-23 months) - WDI,152.37448328280081,1.1248626835847736e-33
+1974: Total expenditure on health as a percentage of gross domestic product - WHO,150.19721732481307,3.0932226450998362e-33
+1348: Tariff rate; applied; simple mean; primary products  (%) - WDI,148.64662030913928,6.3620907043684178e-33
+2817: Balance of Payments-Imports-Charges for the use of intellectual property n.i.e. (US dollar at current prices) - WTO,148.61880755542037,6.4449552624202045e-33
+2739: Merchandise trade-Imports-Clothing (US dollar at current prices) - WTO,147.57017877844766,1.0499693297577848e-32
+2802: Balance of Payments-Imports-Transport (US dollar at current prices) - WTO,146.76985353828866,1.5241477934903474e-32
+2736: Merchandise trade-Imports-Transport equipment (US dollar at current prices) - WTO,146.62542552419876,1.6302061376942614e-32
+2731: Merchandise trade-Imports-Chemicals (US dollar at current prices) - WTO,145.45889669071914,2.8073600431759831e-32
+0055: Net secondary income  (BoP; current US$) - WDI,145.02749194336479,3.4326909273565852e-32
+0042: Foreign direct investment; net outflows  (% of GDP) - WDI,144.10856873122421,5.2691154848778083e-32
+2788: Balance of Payments-Exports-Travel (US dollar at current prices) - WTO,143.29113096488629,7.7155618089486019e-32
+2780: Merchandise trade-Exports-Total merchandise (US dollar at current prices) - WTO,143.10592111589347,8.4121185507329885e-32
+1074: People practicing open defecation; urban  (% of urban population) - WDI,140.05326546816994,3.500810038595248e-31
+2725: Merchandise trade-Imports-Agricultural products (US dollar at current prices) - WTO,139.28691395597724,5.0095307404668926e-31
+2791: Balance of Payments-Exports-Insurance and pension services (US dollar at current prices) - WTO,137.91398684077535,9.52301611657375e-31
+2729: Merchandise trade-Imports-Manufactures (US dollar at current prices) - WTO,137.51193017605098,1.1495100710010519e-30
+0937: Children out of school  (% of primary school age) - WDI,135.47648481036299,2.9826586678880624e-30
+0929: Adjusted net enrollment rate; primary  (% of primary school age children) - WDI,135.4205133928256,3.0619429107731166e-30
+2720: Merchandise trade-Exports-Agricultural products (US dollar at current prices) - WTO,134.92106878521705,3.8697231852180138e-30
+1910: General government expenditure on health as a percentage of total government expenditure - WHO,133.99021052601304,5.9878593552707504e-30
+0906: School enrollment; primary; female  (% net) - WDI,133.88123401612791,6.3019333985225179e-30
+0905: School enrollment; primary  (% net) - WDI,131.36471515981597,2.0537897107576083e-29
+2737: Merchandise trade-Imports-Automotive products (US dollar at current prices) - WTO,131.17787755862264,2.2422226601470778e-29
+0798: Forest rents  (% of GDP) - WDI,130.97875239079946,2.4621422756024797e-29
+2721: Merchandise trade-Exports-Food (US dollar at current prices) - WTO,130.84699315308288,2.6194075807197049e-29
+0884: Pupil-teacher ratio; preprimary - WDI,130.81446709468767,2.6597537771319445e-29
+0930: Adjusted net enrollment rate; primary; female  (% of primary school age children) - WDI,130.61195756380332,2.9253313242039201e-29
+0934: Children out of school; female  (% of female primary school age) - WDI,130.58652691995761,2.9605061851076982e-29
+2781: Merchandise trade-Imports-Total merchandise (US dollar at current prices) - WTO,130.43373801689771,3.1809355948639658e-29
+2819: Balance of Payments-Imports-Telecommunications services (US dollar at current prices) - WTO,129.3698912777177,5.2455855570804498e-29
+2809: Balance of Payments-Exports-Telecommunications services (US dollar at current prices) - WTO,126.38485910178979,2.1381985891933369e-28
+1406: Travel services  (% of commercial service exports) - WDI,126.18648396613555,2.3476885662328333e-28
+0892: Primary completion rate; female  (% of relevant age group) - WDI,124.4268918606996,5.3814501277870606e-28
+0894: Primary completion rate; total  (% of relevant age group) - WDI,123.39434714824233,8.7593671352130803e-28
+1335: Tariff rate; applied; weighted mean; manufactured products  (%) - WDI,123.23430124842335,9.4466583740984414e-28
+0029: Cereal yield  (kg per hectare) - WDI,120.61252317697341,3.2592052155713229e-27
+1343: Tariff rate; applied; weighted mean; all products  (%) - WDI,119.9014261772039,4.5617130037039162e-27
+0999: Proportion of seats held by women in national parliaments  (%) - WDI,119.15052619909098,6.5070333686347796e-27
+2722: Merchandise trade-Exports-Fuels and mining products (US dollar at current prices) - WTO,118.27054989566942,9.8682455965937646e-27
+2752: Merchandise trade-Imports-Electronic data processing and office equipment (US dollar at current prices) - WTO,117.83680338525949,1.2117690235744845e-26
+0907: School enrollment; primary; male  (% net) - WDI,117.8006751774377,1.2326760617865088e-26
+2730: Merchandise trade-Imports-Iron and steel (US dollar at current prices) - WTO,117.72907880837238,1.2751812885573785e-26
+0893: Primary completion rate; male  (% of relevant age group) - WDI,116.98470819001203,1.8141775593579384e-26
+1352: Tariff rate; most favored nation; weighted mean; primary products  (%) - WDI,116.87791427796084,1.9083211584736769e-26
+2733: Merchandise trade-Imports-Machinery and transport equipment (US dollar at current prices) - WTO,116.15337865885938,2.6900051467094313e-26
+2794: Balance of Payments-Exports-Telecommunications; computer; and information services (US dollar at current prices) - WTO,115.85788832697159,3.0944258472015257e-26
+0936: Children out of school; male  (% of male primary school age) - WDI,115.84031864847225,3.1203057279143632e-26
+0931: Adjusted net enrollment rate; primary; male  (% of primary school age children) - WDI,115.7616678102148,3.2388396602846546e-26
+0878: Compulsory education; duration  (years) - WDI,114.80232288802391,5.1045292882627305e-26
+1104: Health expenditure; total  (% of GDP) - WDI,111.72984614962257,2.195089165391766e-25
+1354: Food imports  (% of merchandise imports) - WDI,111.31124256258998,2.678249905625779e-25
+1374: Computer; communications and other services  (% of commercial service imports) - WDI,111.13787054818995,2.9083122834824038e-25
+0084: Stocks traded; total value  (% of GDP) - WDI,108.4775789004492,1.0310543328056442e-24
+0224: Average interest on new external debt commitments; private  (%) - WDI,108.20862039494116,1.1719243941887691e-24
+0763: Adjusted savings: carbon dioxide damage  (% of GNI) - WDI,106.66106635307067,2.4495925177566978e-24
+2749: Merchandise trade-Exports-Transport equipment (US dollar at current prices) - WTO,105.03420864934469,5.3213144875437545e-24
+0879: School enrollment; primary (gross); gender parity index  (GPI) - WDI,104.08902999746039,8.3544856025750402e-24
+2735: Merchandise trade-Imports-Telecommunications equipment (US dollar at current prices) - WTO,102.87387167092545,1.4925983822481987e-23
+1963: Private prepaid plans as a percentage of private expenditure on health - WHO,99.211099390545385,8.6047003355155797e-23
+2750: Merchandise trade-Exports-Automotive products (US dollar at current prices) - WTO,98.973310344118588,9.6424225283696335e-23
+0256: Average maturity on new external debt commitments; private  (years) - WDI,98.960118837744517,9.7035280512536044e-23
+2723: Merchandise trade-Exports-Manufactures (US dollar at current prices) - WTO,97.18094412104989,2.2759346351606151e-22
+1149: Employment to population ratio; 15+; female (%)  (national estimate) - WDI,96.776509455839175,2.7629696963803259e-22
+0070: Travel services  (% of service exports; BoP) - WDI,96.660392525295165,2.9211868365581964e-22
+1404: High-technology exports  (% of manufactured exports) - WDI,95.324595072296887,5.5448122759663073e-22
+0221: Average grant element on new external debt commitments; private  (%) - WDI,94.240079640864622,9.3331582181830033e-22
+1358: Manufactures imports  (% of merchandise imports) - WDI,94.107712018426156,9.9458137750505476e-22
+0844: Net taxes on products  (current US$) - WDI,93.717244262439664,1.1997886768632841e-21
+0078: Personal remittances; received  (% of GDP) - WDI,92.989786758732478,1.7018839345994325e-21
+0946: Secondary education; general pupils  (% female) - WDI,92.410242155462214,2.2487167766322459e-21
+2728: Merchandise trade-Imports-Fuels (US dollar at current prices) - WTO,90.412038915214282,5.88149262285097e-21
+0766: Adjusted savings: consumption of fixed capital  (current US$) - WDI,89.995636686286147,7.1873332452280183e-21
+0765: Adjusted savings: net forest depletion  (% of GNI) - WDI,89.383298333139621,9.6530698433917368e-21
+0760: Adjusted savings: education expenditure  (current US$) - WDI,88.394388217985849,1.5546990378423169e-20
+0026: Food production index  (2004-2006 = 100) - WDI,87.304391428112169,2.6298928845229741e-20
+1385: Manufactures exports  (% of merchandise exports) - WDI,87.088367189982463,2.9187835074035218e-20
+2744: Merchandise trade-Exports-Machinery and transport equipment (US dollar at current prices) - WTO,86.96113227615291,3.103591425991288e-20
+1369: Merchandise imports from low- and middle-income economies in Sub-Saharan Africa  (% of total merchandise imports) - WDI,85.867441678309049,5.261911448221133e-20
+2740: Merchandise trade-Exports-Fuels (US dollar at current prices) - WTO,85.742068956858773,5.5903224930211434e-20
+0031: Communications; computer; etc.  (% of service imports; BoP) - WDI,84.869426717743536,8.5213480385819201e-20
+0973: Secondary education; teachers  (% female) - WDI,82.68712112315896,2.4479034545067764e-19
+0005: Agricultural land  (% of land area) - WDI,82.625518224656261,2.5219736869412034e-19
+0897: Primary education; pupils  (% female) - WDI,81.95889949360523,3.4823219168249279e-19
+2727: Merchandise trade-Imports-Fuels and mining products (US dollar at current prices) - WTO,81.067382305415975,5.3625341119690828e-19
+1209: Labor force participation rate; total (% of total population ages 15-64)  (modeled ILO estimate) - WDI,79.963560273597835,9.1554103272473378e-19
+0790: Inflation; GDP deflator  (annual %) - WDI,79.564655712484864,1.110894435123304e-18
+0030: Trade in services  (% of GDP) - WDI,79.561732217451748,1.1124703833351943e-18
+0730: Trade  (% of GDP) - WDI,79.299492214023843,1.2633370365471256e-18
+2738: Merchandise trade-Imports-Textiles (US dollar at current prices) - WTO,78.062319795684019,2.3025788397519214e-18
+2741: Merchandise trade-Exports-Iron and steel (US dollar at current prices) - WTO,77.329108531880266,3.2871497053673455e-18
+1210: Labor force participation rate; female (% of female population ages 15+)  (national estimate) - WDI,75.885617151388828,6.6285945074878276e-18
+1254: Unemployment; female (% of female labor force)  (national estimate) - WDI,75.707339481981307,7.2287331489429786e-18
+1396: Merchandise exports to low- and middle-income economies in Sub-Saharan Africa  (% of total merchandise exports) - WDI,74.573649117748857,1.2546810447626463e-17
+0152: Currency composition of PPG debt; SDR  (%) - WDI,73.733139701854753,1.888850313934389e-17
+0847: Net current transfers from abroad  (current US$) - WDI,72.843566336254483,2.9130424105794365e-17
+2799: Balance of Payments-Exports-Government goods and services n.i.e. (US dollar at current prices) - WTO,72.776138581998111,3.0103217980683436e-17
+2734: Merchandise trade-Imports-Office and telecom equipment (US dollar at current prices) - WTO,71.793604971539423,4.8592693135027957e-17
+0003: Fertilizer consumption  (kilograms per hectare of arable land) - WDI,71.551694460718764,5.4675750815749201e-17
+0949: Pupil-teacher ratio; upper secondary - WDI,71.445016191409678,5.7595207101010093e-17
+1381: Food exports  (% of merchandise exports) - WDI,70.454282230967451,9.3385486479991447e-17
+0034: Insurance and financial services  (% of service imports; BoP) - WDI,70.015612704340668,1.1568094523061719e-16
+1370: Merchandise imports by the reporting economy; residual  (% of total merchandise imports) - WDI,69.81139881809257,1.2780798120697932e-16
+1212: Ratio of female to male labor force participation rate (%)  (national estimate) - WDI,69.702439879464549,1.3479114864850901e-16
+2793: Balance of Payments-Exports-Charges for the use of intellectual property n.i.e. (US dollar at current prices) - WTO,68.47508259419979,2.4548971711767365e-16
+0839: Gross savings  (% of GNI) - WDI,68.385021977369419,2.5653577628900172e-16
+0775: Adjusted savings: gross savings  (% of GNI) - WDI,68.385015647906371,2.5653656984308265e-16
+0027: Livestock production index  (2004-2006 = 100) - WDI,67.541408007103882,3.8748891243726535e-16
+1351: Tariff rate; applied; weighted mean; primary products  (%) - WDI,66.613868396312824,6.0998259299359621e-16
+0218: Average grace period on new external debt commitments; private  (years) - WDI,66.054228070283543,8.0219486360248127e-16
+0025: Crop production index  (2004-2006 = 100) - WDI,64.046693761014978,2.1450130213070821e-15
+1215: Labor force participation rate; male (% of male population ages 15+)  (modeled ILO estimate) - WDI,63.144018253032627,3.3396927664244457e-15
+1311: Rural population growth  (annual %) - WDI,63.051702727771385,3.4944422452125965e-15
+1269: Prevalence of undernourishment  (% of population) - WDI,62.955391429203281,3.6635502365658006e-15
+0067: Charges for the use of intellectual property; receipts  (BoP; current US$) - WDI,62.712327287992359,4.1276867214338222e-15
+0010: Permanent cropland  (% of land area) - WDI,61.71646159159269,6.7306666854677196e-15
+1357: Insurance and financial services  (% of commercial service imports) - WDI,60.960357038382107,9.7587436665718375e-15
+0903: Gross intake ratio in first grade of primary education; male  (% of relevant age group) - WDI,60.821444283008994,1.0448287962260283e-14
+1270: Depth of the food deficit  (kilocalories per person per day) - WDI,60.558096778784325,1.1892305836204614e-14
+1255: Unemployment; female (% of female labor force)  (modeled ILO estimate) - WDI,59.769365829937108,1.7527441433499823e-14
+1313: Urban population growth  (annual %) - WDI,59.223784155734535,2.292461682096963e-14
+0041: Foreign direct investment; net outflows  (BoP; current US$) - WDI,58.787079147689248,2.8422130379481515e-14
+0062: Primary income receipts  (BoP; current US$) - WDI,57.470431087036317,5.4364446426903548e-14
+0769: Adjusted savings: mineral depletion  (% of GNI) - WDI,56.872446331257244,7.3002133008389207e-14
+1207: Labor force participation rate; female (% of female population ages 15-64)  (modeled ILO estimate) - WDI,55.36156094615712,1.5384246874897475e-13
+1373: Import value index  (2000 = 100) - WDI,54.949942955989869,1.8851456054385723e-13
+1153: Employment to population ratio; 15+; total (%)  (national estimate) - WDI,54.457741904814029,2.4039976918323305e-13
+0046: Current account balance  (% of GDP) - WDI,53.933465603431266,3.1149591600602578e-13
+0043: Secondary income; other sectors; payments  (BoP; current US$) - WDI,53.23835991585424,4.3924903427679489e-13
+0799: Mineral rents  (% of GDP) - WDI,51.737529433523179,9.231782113890941e-13
+0880: School enrollment; primary and secondary (gross); gender parity index  (GPI) - WDI,51.376352440448059,1.104019196127196e-12
+1258: Unemployment; total (% of total labor force)  (national estimate) - WDI,51.026792342912572,1.3127813389583666e-12
+2748: Merchandise trade-Exports-Integrated circuits and electronic components (US dollar at current prices) - WTO,50.764838404100395,1.4947651938804206e-12
+0074: Portfolio equity; net inflows  (BoP; current US$) - WDI,50.702106678995605,1.541972859493882e-12
+2815: Balance of Payments-Imports-Insurance and pension services (US dollar at current prices) - WTO,49.117258409198307,3.38443789413256e-12
+1279: Death rate; crude  (per 1;000 people) - WDI,48.990407991393283,3.6044084576303311e-12
+0032: Primary income payments  (BoP; current US$) - WDI,48.817040650035686,3.9283944100377003e-12
+0837: Gross savings  (current US$) - WDI,48.182755638626524,5.3830576739562695e-12
+0037: Charges for the use of intellectual property; payments  (BoP; current US$) - WDI,47.76847243525777,6.6135166758944823e-12
+0757: Services; etc.; value added  (annual % growth) - WDI,46.935728919598098,1.0005658259889341e-11
+1368: Merchandise imports from low- and middle-income economies in South Asia  (% of total merchandise imports) - WDI,45.004906720601234,2.6164698258071741e-11
+0904: Gross intake ratio in first grade of primary education; total  (% of relevant age group) - WDI,44.820697310811809,2.8680404028154335e-11
+0796: Gross value added at factor cost  (constant 2005 US$) - WDI,44.811032952191987,2.8818885348122192e-11
+1399: Merchandise exports to low- and middle-income economies within region  (% of total merchandise exports) - WDI,43.803900734112538,4.7619813257349784e-11
+0083: Stocks traded; total value  (current US$) - WDI,43.587209605816348,5.3057204069798389e-11
+1356: ICT goods imports  (% total goods imports) - WDI,43.374118645075534,5.901072039068976e-11
+1027: Prevalence of HIV; total  (% of population ages 15-49) - WDI,42.790301843593497,7.8980899290412919e-11
+1216: Labor force participation rate; total (% of total population ages 15+)  (national estimate) - WDI,42.314407039804173,1.0017706586029808e-10
+0794: Gross value added at factor cost  (current US$) - WDI,41.744993612719263,1.3315906308162416e-10
+1359: Ores and metals imports  (% of merchandise imports) - WDI,41.739439591251696,1.3352934048771007e-10
+0059: ICT service exports  (BoP; current US$) - WDI,41.719480470694229,1.3486851903295524e-10
+1259: Unemployment; total (% of total labor force)  (modeled ILO estimate) - WDI,41.632786673571651,1.408432924011526e-10
+1355: Fuel imports  (% of merchandise imports) - WDI,40.857821066997708,2.075377309510352e-10
+0756: Services; etc.; value added  (constant 2005 US$) - WDI,40.700166863043293,2.2457656658430455e-10
+1401: Computer; communications and other services  (% of commercial service exports) - WDI,40.666366547867447,2.284083403137794e-10
+0149: Currency composition of PPG debt; Japanese yen  (%) - WDI,39.748728823612481,3.616524411371424e-10
+1328: Import volume index  (2000 = 100) - WDI,39.59640470772726,3.9033743909225033e-10
+1365: Merchandise imports from low- and middle-income economies in Europe & Central Asia  (% of total merchandise imports) - WDI,39.551391611693795,3.9924274940429622e-10
+0150: Currency composition of PPG debt; Multiple currencies  (%) - WDI,39.491964436611354,4.113123533241374e-10
+1349: Tariff rate; most favored nation; simple mean; primary products  (%) - WDI,39.462165463523249,4.1750147769457317e-10
+1402: Commercial service exports  (current US$) - WDI,39.40862129722823,4.288578596578404e-10
+0066: Service exports  (BoP; current US$) - WDI,39.356040306912767,4.403112122422917e-10
+0044: Personal remittances; paid  (current US$) - WDI,38.586230075847183,6.4776459959423509e-10
+1256: Unemployment; male (% of male labor force)  (national estimate) - WDI,38.402779324393251,7.1021951288403628e-10
+0739: Manufacturing; value added  (constant 2005 US$) - WDI,38.090853203009971,8.3058302203665045e-10
+2814: Balance of Payments-Imports-Construction (US dollar at current prices) - WTO,37.858055108312861,9.3355924874130428e-10
+1038: Prevalence of HIV; male  (% ages 15-24) - WDI,36.659941972625646,1.7044907438623811e-09
+0060: ICT service exports  (% of service exports; BoP) - WDI,36.399931723509177,1.9425997125516822e-09
+0151: Currency composition of PPG debt; all other currencies  (%) - WDI,36.219260066333462,2.1274246461529235e-09
+0816: Total natural resources rents  (% of GDP) - WDI,36.181742384211375,2.1679619700017076e-09
+1321: International tourism; receipts for passenger transport items  (current US$) - WDI,36.070881646769649,2.2923266343292861e-09
+0754: Services; etc.; value added  (current US$) - WDI,36.03342629998653,2.3359407911519554e-09
+1037: Prevalence of HIV; female  (% ages 15-24) - WDI,35.96388011772062,2.4191407972085217e-09
+1372: Merchandise imports from low- and middle-income economies within region  (% of total merchandise imports) - WDI,35.798587936793353,2.6290021034772243e-09
+0052: Foreign direct investment; net  (BoP; current US$) - WDI,35.691129508279687,2.7751296269628243e-09
+1326: International tourism; expenditures  (% of total imports) - WDI,35.689246268900298,2.7777618664253828e-09
+0825: GNI  (constant 2005 US$) - WDI,35.685789485356565,2.7825999935436554e-09
+0779: Adjusted net national income  (constant 2005 US$) - WDI,35.410476408522747,3.1963459180526101e-09
+0802: GDP  (constant 2005 US$) - WDI,34.843922369342877,4.2521418168719181e-09
+0881: School enrollment; secondary (gross); gender parity index  (GPI) - WDI,34.728073230909636,4.5078013662675226e-09
+1237: Unemployment; youth total (% of total labor force ages 15-24)  (national estimate) - WDI,33.666420778316272,7.700420749638003e-09
+1305: Population; female  (% of total) - WDI,33.445751868962063,8.6077813478566632e-09
+1375: Commercial service imports  (current US$) - WDI,33.178269041780588,9.8525775384037955e-09
+1383: ICT goods exports  (% of total goods exports) - WDI,33.140420935763565,1.0042725426419334e-08
+0774: Adjusted savings: natural resources depletion  (% of GNI) - WDI,32.903107013651493,1.1321771835869329e-08
+1322: International tourism; expenditures for passenger transport items  (current US$) - WDI,32.815826663054295,1.1832226294536843e-08
+0036: Service imports  (BoP; current US$) - WDI,32.761424362050356,1.2162005480566776e-08
+1325: International tourism; expenditures  (current US$) - WDI,32.593341819938694,1.3240272227664841e-08
+0048: Net primary income  (BoP; current US$) - WDI,32.48232348630421,1.4004528259144056e-08
+0785: Adjusted net savings; including particulate emission damage  (% of GNI) - WDI,31.95089870789818,1.8322398287662879e-08
+1324: International tourism; expenditures for travel items  (current US$) - WDI,31.582106961607018,2.2081506853727141e-08
+0068: Exports of goods; services and primary income  (BoP; current US$) - WDI,31.541469235259605,2.25404148298005e-08
+0038: Imports of goods; services and primary income  (BoP; current US$) - WDI,31.484699263795459,2.319755628386333e-08
+1380: Agricultural raw materials exports  (% of merchandise exports) - WDI,31.420958299827905,2.395831511479723e-08
+0851: DEC alternative conversion factor  (LCU per US$) - WDI,31.173758440718199,2.715297791772339e-08
+0154: Currency composition of PPG debt; Pound sterling  (%) - WDI,31.093742932950885,2.8275977479079493e-08
+1049: Number of maternal deaths - WDI,30.945970104318633,3.0473825507133256e-08
+0822: GNI; Atlas method  (current US$) - WDI,30.481215913298506,3.8567037743265931e-08
+1091: Tuberculosis treatment success rate  (% of new cases) - WDI,29.80505942296266,5.4344962260321848e-08
+0722: Imports of goods and services  (constant 2005 US$) - WDI,29.662843280656627,5.8412496900858218e-08
+0053: Portfolio Investment; net  (BoP; current US$) - WDI,29.519655945125532,6.2816418426137715e-08
+1319: International tourism; receipts  (current US$) - WDI,29.428102502746565,6.5805299750679004e-08
+0071: Foreign direct investment; net inflows  (BoP; current US$) - WDI,29.413237494742187,6.6303873502133359e-08
+0823: GNI  (current US$) - WDI,29.258330749377667,7.1730420765540314e-08
+0778: Adjusted net national income  (current US$) - WDI,29.182398390313523,7.4550944149168139e-08
+1234: Unemployment; youth female (% of female labor force ages 15-24)  (modeled ILO estimate) - WDI,29.020591333055098,8.0937995343374215e-08
+0841: Net income from abroad  (current US$) - WDI,28.865708690802478,8.7565387173190965e-08
+2807: Balance of Payments-Imports-Government goods and services n.i.e. (US dollar at current prices) - WTO,28.842680023710546,8.8596226938125432e-08
+0147: Currency composition of PPG debt; Euro  (%) - WDI,28.767109076310632,9.2065328461153294e-08
+0800: GDP  (current US$) - WDI,28.733110526934386,9.3670168862354243e-08
+1097: Out-of-pocket health expenditure  (% of private expenditure on health) - WDI,28.429292045988145,1.0931691787665261e-07
+1323: International tourism; receipts for travel items  (current US$) - WDI,28.247789371074909,1.1988932160114682e-07
+0720: Imports of goods and services  (current US$) - WDI,28.146482235540425,1.2623038357242272e-07
+0853: PPP conversion factor; GDP  (LCU per international $) - WDI,28.10928361890938,1.2864227386165626e-07
+1100: Health expenditure; private  (% of GDP) - WDI,27.968533676104204,1.3819420606279305e-07
+0033: Imports of goods and services  (BoP; current US$) - WDI,27.907601241574742,1.4254706888049305e-07
+0196: Multilateral debt  (% of total external debt) - WDI,27.855298411116539,1.4639301023715953e-07
+0902: Gross intake ratio in first grade of primary education; female  (% of relevant age group) - WDI,27.677276410364605,1.6028072766198194e-07
+0746: Industry; value added  (annual % growth) - WDI,27.676231344423766,1.6036604014681882e-07
+1395: Merchandise exports to low- and middle-income economies in South Asia  (% of total merchandise exports) - WDI,27.436543346913361,1.8118668963582809e-07
+0944: Secondary education; pupils  (% female) - WDI,27.103826580483688,2.1466019914261885e-07
+0035: Goods imports  (BoP; current US$) - WDI,26.555375592403429,2.8392714176444362e-07
+1266: Refugee population by country or territory of origin - WDI,26.365779123235619,3.1276654747089048e-07
+0063: Exports of goods and services  (BoP; current US$) - WDI,26.283725135805653,3.2614242280578994e-07
+1361: Merchandise imports  (current US$) - WDI,26.138162362720845,3.5129932456032491e-07
+1403: High-technology exports  (current US$) - WDI,26.116777433180228,3.5515577040569164e-07
+2745: Merchandise trade-Exports-Office and telecom equipment (US dollar at current prices) - WTO,26.105829530857175,3.5714647030887289e-07
+0270: Net financial flows; IDA  (NFL; current US$) - WDI,26.036730996463664,3.6997189313928404e-07
+0105: Net bilateral aid flows from DAC donors; Luxembourg  (current US$) - WDI,26.00089506969147,3.7680440933221394e-07
+0933: Children out of school; primary; female - WDI,25.951320710902131,3.8646556384930277e-07
+1371: Merchandise imports by the reporting economy  (current US$) - WDI,25.861966663245546,4.0451127182866193e-07
+0901: School enrollment; primary; male  (% gross) - WDI,25.748189646310379,4.287186800600734e-07
+0932: Children out of school; primary - WDI,25.65479436914039,4.4967250970534575e-07
+0856: PPP conversion factor; private consumption  (LCU per international $) - WDI,25.641312220676262,4.5278105741254981e-07
+1213: Ratio of female to male labor force participation rate (%)  (modeled ILO estimate) - WDI,25.213833027981774,5.6336709163488267e-07
+0787: Adjusted net savings; excluding particulate emission damage  (% of GNI) - WDI,24.92596392211701,6.5274415017034529e-07
+0935: Children out of school; primary; male - WDI,24.804720205130355,6.9452566383027567e-07
+0716: Gross capital formation  (constant 2005 US$) - WDI,24.616733628873611,7.6467864209664041e-07
+0100: Net bilateral aid flows from DAC donors; Ireland  (current US$) - WDI,24.513950668089556,8.059993610457438e-07
+0791: GDP deflator  (base year varies by country) - WDI,24.253314044935994,9.211125350393863e-07
+0115: Net bilateral aid flows from DAC donors; United States  (current US$) - WDI,24.200796639264389,9.4623422628394186e-07
+1900: Fixed-broadband subscriptions - ITU,24.198296967068206,9.4744694554024922e-07
+1397: Merchandise exports by the reporting economy; residual  (% of total merchandise exports) - WDI,24.137352580178167,9.7750184316715706e-07
+1257: Unemployment; male (% of male labor force)  (modeled ILO estimate) - WDI,24.058937285843626,1.0175849879385342e-06
+0803: GDP growth  (annual %) - WDI,23.85871356467236,1.1275801504565116e-06
+1398: Merchandise exports by the reporting economy  (current US$) - WDI,23.550507331669383,1.3206872927339655e-06
+0914: School enrollment; primary; private  (% of total primary) - WDI,23.356824927241938,1.458695588322032e-06
+0981: Tertiary education; academic staff  (% female) - WDI,23.333333307617654,1.4763905614186212e-06
+1388: Merchandise exports  (current US$) - WDI,23.213720465427095,1.5698873887929933e-06
+0811: GDP per capita growth  (annual %) - WDI,23.123821969539541,1.644051521263948e-06
+0097: Net bilateral aid flows from DAC donors; France  (current US$) - WDI,23.084702233737577,1.6774134201576942e-06
+0166: PPG; IDA  (DIS; current US$) - WDI,23.064085834364281,1.6952680634066469e-06
+0065: Goods exports  (BoP; current US$) - WDI,22.92391859547568,1.8218243213653155e-06
+0143: Commitments; IDA  (COM; current US$) - WDI,22.779820051555664,1.9618297294559444e-06
+0103: Net bilateral aid flows from DAC donors; Japan  (current US$) - WDI,22.733197207264293,2.009403121058618e-06
+0098: Net bilateral aid flows from DAC donors; United Kingdom  (current US$) - WDI,22.716351922883462,2.0268753031670772e-06
+0094: Net bilateral aid flows from DAC donors; Denmark  (current US$) - WDI,22.35962256065153,2.434911628009663e-06
+0089: Net bilateral aid flows from DAC donors; Canada  (current US$) - WDI,22.211915567280329,2.6271434645255318e-06
+0088: Net bilateral aid flows from DAC donors; Belgium  (current US$) - WDI,22.156494496438881,2.7031410752289632e-06
+1952: Number of neonatal deaths (thousands) - WHO,22.144459255227677,2.7199343632611642e-06
+0236: PPG; IDA  (INT; current US$) - WDI,21.868077400314913,3.1357828220606089e-06
+0745: Industry; value added  (constant 2005 US$) - WDI,21.736181192889529,3.3561869071156871e-06
+0177: Concessional debt  (% of total external debt) - WDI,21.509583252547351,3.7717970736458629e-06
+0114: Net bilateral aid flows from DAC donors; Total  (current US$) - WDI,21.465264150111413,3.8589397823743853e-06
+1929: Out-of-pocket expenditure as a percentage of private expenditure on health - WHO,21.084935469408627,4.6950169037642371e-06
+0194: PPG; IDA  (DOD; current US$) - WDI,20.961163312153872,5.0046160637215897e-06
+0266: Net official flows from UN agencies; IFAD  (current US$) - WDI,20.869654983554515,5.2466287648089982e-06
+0164: IDA grants  (current US$) - WDI,20.652034470024343,5.8704785285961426e-06
+0153: Currency composition of PPG debt; Swiss franc  (%) - WDI,20.507935096691586,6.324070445714133e-06
+0134: Principal arrears; long-term DOD  (US$) - WDI,20.240615832494974,7.2608980399838046e-06
+0096: Net bilateral aid flows from DAC donors; Finland  (current US$) - WDI,20.167019208898058,7.5424858377520657e-06
+1392: Merchandise exports to low- and middle-income economies in Europe & Central Asia  (% of total merchandise exports) - WDI,20.113355529907349,7.7547036813628509e-06
+1360: Merchandise imports from economies in the Arab World  (% of total merchandise imports) - WDI,20.080456660796088,7.887761806846688e-06
+1152: Employment to population ratio; 15+; male (%)  (modeled ILO estimate) - WDI,19.903103816403988,8.6456027633836676e-06
+0135: Principal arrears; official creditors  (current US$) - WDI,19.870328461774001,8.7934664107318582e-06
+0246: Interest arrears; long-term DOD  (US$) - WDI,19.736523945348296,9.4239586468045145e-06
+0248: Interest arrears; official creditors  (current US$) - WDI,19.630443228457843,9.955958450310756e-06
+0093: Net bilateral aid flows from DAC donors; Germany  (current US$) - WDI,19.358270127971419,1.1463188842900981e-05
+0104: Net bilateral aid flows from DAC donors; Korea; Rep.  (current US$) - WDI,19.236402945582512,1.2210478541050217e-05
+0102: Net bilateral aid flows from DAC donors; Italy  (current US$) - WDI,19.205565084357158,1.2407218989098001e-05
+1366: Merchandise imports from low- and middle-income economies in Latin America & the Caribbean  (% of total merchandise imports) - WDI,19.072638444592545,1.3292407347685592e-05
+0764: Adjusted savings: net forest depletion  (current US$) - WDI,19.011095493763765,1.3723475276208691e-05
+0197: PPG; multilateral concessional  (DOD; current US$) - WDI,18.971412852908859,1.4008851375144634e-05
+1023: Number of under-five deaths - WDI,18.908063873856474,1.4476840407117002e-05
+0168: PPG; multilateral concessional  (DIS; current US$) - WDI,18.89893159439826,1.4545589103383454e-05
+1021: Number of infant deaths - WDI,18.749345151234639,1.5719585022579801e-05
+0092: Net bilateral aid flows from DAC donors; Czech Republic  (current US$) - WDI,18.680783484982847,1.6289074923397316e-05
+0124: PPG; IDA  (AMT; current US$) - WDI,18.31228490586021,1.9724972992666326e-05
+1026: Women's share of population ages 15+ living with HIV  (%) - WDI,18.207620080699837,2.0827699152010418e-05
+1320: International tourism; receipts  (% of total exports) - WDI,18.194734898180116,2.0967673021102195e-05
+1025: Number of neonatal deaths - WDI,18.080827206785056,2.2246961629561028e-05
+1208: Labor force participation rate; male (% of male population ages 15-64)  (modeled ILO estimate) - WDI,18.047759034073575,2.2632845992391896e-05
+0126: PPG; multilateral concessional  (AMT; current US$) - WDI,18.04249873606657,2.2694847938046079e-05
+0086: Net bilateral aid flows from DAC donors; Australia  (current US$) - WDI,18.036462828737545,2.2766202318507242e-05
+0198: IBRD loans and IDA credits  (DOD; current US$) - WDI,17.987161731136201,2.3357535616269707e-05
+0176: External debt stocks; concessional  (DOD; current US$) - WDI,17.870586281360289,2.4817976761831119e-05
+0090: Net bilateral aid flows from DAC donors; European Union institutions  (current US$) - WDI,17.856418622596657,2.5001616251648618e-05
+0178: PPG; bilateral  (DOD; current US$) - WDI,17.520851471211476,2.9774381912416859e-05
+0714: Gross capital formation  (current US$) - WDI,17.424411818263231,3.1308571943986142e-05
+0238: PPG; multilateral concessional  (INT; current US$) - WDI,17.416297151846454,3.1441234620242301e-05
+1386: Ores and metals exports  (% of merchandise exports) - WDI,17.393880426062719,3.1810661152106596e-05
+0179: PPG; bilateral concessional  (DOD; current US$) - WDI,17.333207873483737,3.2832597393172318e-05
+0737: Manufacturing; value added  (current US$) - WDI,17.265349125697021,3.4014762505752213e-05
+0107: Net bilateral aid flows from DAC donors; Norway  (current US$) - WDI,17.144746834863689,3.6222484986869525e-05
+1318: International tourism; number of departures - WDI,17.142989469677389,3.6255698856329175e-05
+0072: Foreign direct investment; net inflows  (% of GDP) - WDI,17.124357190869425,3.660973584128164e-05
+0225: PPG; bilateral  (INT; current US$) - WDI,17.059551581371867,3.7868439786331034e-05
+0136: Principal arrears; private creditors  (current US$) - WDI,17.021116566785935,3.8635434302296239e-05
+0226: PPG; bilateral concessional  (INT; current US$) - WDI,17.013534142908032,3.8788582600447407e-05
+1310: Rural population - WDI,17.008948543205992,3.8881497918591601e-05
+0117: PPG; bilateral concessional  (AMT; current US$) - WDI,17.005669093054959,3.8948084826971484e-05
+0113: Net bilateral aid flows from DAC donors; Sweden  (current US$) - WDI,16.875718801564179,4.168109611657366e-05
+2776: Merchandise trade-Imports-Total merchandise (Volume index - Previous year = 100) - WTO,16.852264468683607,4.2194550520987754e-05
+0249: Interest arrears; private creditors  (current US$) - WDI,16.823664273719928,4.282927823452323e-05
+0833: GNI per capita growth  (annual %) - WDI,16.69731554674388,4.5750372262103102e-05
+0826: GNI growth  (annual %) - WDI,16.667426231427768,4.6470230868987231e-05
+2747: Merchandise trade-Exports-Telecommunications equipment (US dollar at current prices) - WTO,16.599636676953178,4.8145421236777651e-05
+0199: PPG; official creditors  (DOD; current US$) - WDI,16.525323937207876,5.0051743321101291e-05
+0116: PPG; bilateral  (AMT; current US$) - WDI,16.51847185581742,5.0231298660870809e-05
+0158: PPG; bilateral concessional  (DIS; current US$) - WDI,16.446987024359547,5.2143634278004758e-05
+0183: External debt stocks  (% of GNI) - WDI,16.340670538467311,5.5124199067995618e-05
+1317: International tourism; number of arrivals - WDI,16.184654378428238,5.9811494212216351e-05
+0239: PPG; official creditors  (INT; current US$) - WDI,16.172682356286238,6.0187340306744683e-05
+0817: Gross domestic savings  (current US$) - WDI,16.157083749450155,6.0680607955963399e-05
+0786: Adjusted net savings; excluding particulate emission damage  (current US$) - WDI,16.107702117320496,6.2269180796922772e-05
+0195: PPG; multilateral  (DOD; current US$) - WDI,16.080816703177319,6.3151602117275736e-05
+0784: Adjusted net savings; including particulate emission damage  (current US$) - WDI,16.020649442244725,6.5172275850625103e-05
+2746: Merchandise trade-Exports-Electronic data processing and office equipment (US dollar at current prices) - WTO,15.815844549404385,7.2551393736647294e-05
+0743: Industry; value added  (current US$) - WDI,15.809398104131212,7.2796846516574488e-05
+0076: Personal transfers; receipts  (BoP; current US$) - WDI,15.73906155501118,7.5529917049551681e-05
+0157: PPG; bilateral  (DIS; current US$) - WDI,15.579634868323394,8.2113588883791223e-05
+1137: Employment to population ratio; ages 15-24; female (%)  (modeled ILO estimate) - WDI,15.501542980437847,8.5546407821945699e-05
+0237: PPG; multilateral  (INT; current US$) - WDI,15.50037788430545,8.5598703668325257e-05
+0127: PPG; official creditors  (AMT; current US$) - WDI,15.49653808579003,8.577128272905824e-05
+0840: Gross savings  (% of GDP) - WDI,15.479168638468453,8.6556338154456221e-05
+0087: Net bilateral aid flows from DAC donors; Austria  (current US$) - WDI,15.209989576116243,9.9690691704125471e-05
+0770: Adjusted savings: energy depletion  (current US$) - WDI,15.153534837740121,0.00010269062179673579
+1400: Export value index  (2000 = 100) - WDI,15.040858879963187,0.00010895279473285687
+0095: Net bilateral aid flows from DAC donors; Spain  (current US$) - WDI,15.040677081894206,0.00010896320329226898
+0789: Coal rents  (% of GDP) - WDI,14.971078007800823,0.00011302251426318255
+2775: Merchandise trade-Imports-Total merchandise (Value index - Previous year = 100) - WTO,14.95942232264904,0.00011371706837904366
+0167: PPG; multilateral  (DIS; current US$) - WDI,14.884316853115278,0.00011829687070060974
+0144: Commitments; official creditors  (COM; current US$) - WDI,14.822078683388952,0.00012223258432258408
+0204: PPG; other private creditors  (DOD; current US$) - WDI,14.797130638252058,0.00012384701524939225
+0169: PPG; official creditors  (DIS; current US$) - WDI,14.782180795365647,0.0001248247239344483
+1094: Newborns protected against tetanus  (%) - WDI,14.693435701724693,0.000130790858462126
+0125: PPG; multilateral  (AMT; current US$) - WDI,14.604185540725631,0.00013708091663257725
+0207: External debt stocks; long-term public sector  (DOD; current US$) - WDI,14.466617687831226,0.0001473788601221429
+0187: External debt stocks; public and publicly guaranteed (PPG)  (DOD; current US$) - WDI,14.445534540127079,0.00014902459810625757
+0896: Primary education; pupils - WDI,14.171409325096459,0.00017218818263317799
+0106: Net bilateral aid flows from DAC donors; Netherlands  (current US$) - WDI,14.146881269927107,0.00017443002612789804
+0235: PPG; IBRD  (INT; current US$) - WDI,14.143921508074195,0.0001747025281888002
+0122: Principal repayments on external debt; public and publicly guaranteed (PPG)  (AMT; current US$) - WDI,14.082725831546087,0.00018043394156959855
+0193: PPG; IBRD  (DOD; current US$) - WDI,13.974458955046385,0.00019104242705171535
+0244: PPG; other private creditors  (INT; current US$) - WDI,13.968790852909853,0.00019161482900489991
+0211: Residual; debt stock-flow reconciliation  (current US$) - WDI,13.851038271273051,0.00020390540820661027
+0182: External debt stocks  (% of exports of goods; services and primary income) - WDI,13.766896968913073,0.00021317208734535455
+0201: PPG; commercial banks  (DOD; current US$) - WDI,13.663472623169795,0.00022514663387076836
+1394: Merchandise exports to low- and middle-income economies in Middle East & North Africa  (% of total merchandise exports) - WDI,13.404617524283703,0.00025817872675686093
+1202: Labor force participation rate for ages 15-24; female (%)  (modeled ILO estimate) - WDI,13.198477307520667,0.00028795167383640301
+0185: External debt stocks; long-term  (DOD; current US$) - WDI,13.17601136345518,0.00029139908658584794
+0091: Net bilateral aid flows from DAC donors; Switzerland  (current US$) - WDI,13.095155627622333,0.00030415486178724476
+0173: PNG; commercial banks and other creditors  (DIS; current US$) - WDI,13.079087977734497,0.00030675605051004421
+0120: Principal repayments on external debt; long-term  (AMT; current US$) - WDI,13.073256376525048,0.00030770567060508624
+0119: Principal repayments on external debt; long-term + IMF  (AMT; current US$) - WDI,13.072947895940318,0.0003077559862426179
+0243: PNG; commercial banks and other creditors  (INT; current US$) - WDI,13.06566399047599,0.00030894646509603004
+0772: Adjusted savings: particulate emission damage  (current US$) - WDI,12.957457162292901,0.00032718926497277585
+0241: PPG; commercial banks  (INT; current US$) - WDI,12.919851042625648,0.00033378084380077989
+1387: Merchandise exports to economies in the Arab World  (% of total merchandise exports) - WDI,12.914619962703803,0.00033470830437975168
+0163: Disbursements on external debt; public and publicly guaranteed (PPG)  (DIS; current US$) - WDI,12.893144313240642,0.00033854323989612658
+0717: Gross capital formation  (annual % growth) - WDI,12.881517490988962,0.00034063793341713511
+0141: Commitments; public and publicly guaranteed  (COM; current US$) - WDI,12.880263374996685,0.00034086465583270669
+0123: PPG; IBRD  (AMT; current US$) - WDI,12.765312644068242,0.00036230613424053108
+0203: PNG; commercial banks and other creditors  (DOD; current US$) - WDI,12.728417379034719,0.00036947286753614549
+0082: Listed domestic companies; total - WDI,12.696959390514413,0.00037569639210904024
+0129: PPG; commercial banks  (AMT; current US$) - WDI,12.683918256996913,0.0003783073352726125
+0180: External debt stocks; total  (DOD; current US$) - WDI,12.663506178092012,0.00038243083501362119
+0165: PPG; IBRD  (DIS; current US$) - WDI,12.633925323504373,0.00038848722603873089
+0132: PPG; other private creditors  (AMT; current US$) - WDI,12.602195789597145,0.00039509125365675888
+0265: Net official flows from UN agencies; IAEA  (current US$) - WDI,12.59775628643186,0.00039602426709933118
+0133: PPG; private creditors  (AMT; current US$) - WDI,12.564627116261939,0.00040305736853797007
+0160: Disbursements on external debt; long-term + IMF  (DIS; current US$) - WDI,12.517513710789119,0.00041327705411168511
+0231: Interest payments on external debt; long-term  (INT; current US$) - WDI,12.5152836140579,0.00041376723494555953
+0161: Disbursements on external debt; long-term  (DIS; current US$) - WDI,12.447398611212588,0.00042897287362426718
+0233: Interest payments on external debt; public and publicly guaranteed (PPG)  (INT; current US$) - WDI,12.370940308020923,0.000446775955938635
+0162: Disbursements on external debt; private nonguaranteed (PNG)  (DIS; current US$) - WDI,12.358613649589239,0.00044971525490731905
+0142: Commitments; IBRD  (COM; current US$) - WDI,12.356650855129743,0.00045018508386230661
+0131: PNG; commercial banks and other creditors  (AMT; current US$) - WDI,12.329893743720586,0.0004566395349641626
+0232: Interest payments on external debt; private nonguaranteed (PNG)  (INT; current US$) - WDI,12.288950809656349,0.00046669739084727069
+0230: IMF charges  (INT; current US$) - WDI,12.276688450285443,0.00046975303830543781
+0121: Principal repayments on external debt; private nonguaranteed (PNG)  (AMT; current US$) - WDI,12.244075943327909,0.00047797844695230199
+0212: External debt stocks; variable rate  (DOD; current US$) - WDI,12.209737583371883,0.00048679647770221606
+0227: Interest payments on external debt; total  (INT; current US$) - WDI,12.162446941091101,0.00049921035480042237
+0186: External debt stocks; private nonguaranteed (PNG)  (DOD; current US$) - WDI,12.152461048032047,0.00050187230228309655
+0205: External debt stocks; long-term private sector  (DOD; current US$) - WDI,12.127329748689251,0.00050863521461150881
+2772: Merchandise trade-Exports-Total merchandise (Value index - Previous year = 100) - WTO,12.03530022820908,0.00053419641959739298
+1265: Refugee population by country or territory of asylum - WDI,11.853974432133761,0.00058842334232230302
+0206: PPG; private creditors  (DOD; current US$) - WDI,11.771738035162699,0.00061481917199578161
+0184: Use of IMF credit  (DOD; current US$) - WDI,11.682092324352773,0.00064495930738684543
+0181: Total change in external debt stocks  (current US$) - WDI,11.651024030273291,0.00065574990695594932
+0170: PPG; bonds  (DIS; current US$) - WDI,11.575219253760078,0.00068285078353733705
+0175: PPG; private creditors  (DIS; current US$) - WDI,11.477149752689416,0.00071959951289145686
+0740: Manufacturing; value added  (annual % growth) - WDI,11.46529055566257,0.00072417690057347396
+0073: Primary income on FDI; payments  (current US$) - WDI,11.436946953373694,0.00073523656287271979
+0719: Gross capital formation  (% of GDP) - WDI,11.306875135926838,0.00078822312131976717
+0262: Net flows on external debt; private nonguaranteed (PNG)  (NFL; current US$) - WDI,11.297304258512723,0.00079227127535696237
+1771: Primary energy supply - TOT (TOE_1000USD) - OECD,11.25945781354339,0.00080848612355408143
+0200: PPG; bonds  (DOD; current US$) - WDI,11.191391042352578,0.00083849827486827465
+1327: Merchandise trade  (% of GDP) - WDI,11.128815610107097,0.00086708303360783325
+0261: Net flows on external debt; long-term  (NFL; current US$) - WDI,11.114055475235364,0.00087396804699385947
+0260: Net flows on external debt; total  (NFL; current US$) - WDI,11.066624000742037,0.00089646973627820171
+1238: Unemployment; youth total (% of total labor force ages 15-24)  (modeled ILO estimate) - WDI,11.047854351172527,0.00090553523284789196
+0128: PPG; bonds  (AMT; current US$) - WDI,10.775937362458054,0.0010477786913140167
+1367: Merchandise imports from low- and middle-income economies in Middle East & North Africa  (% of total merchandise imports) - WDI,10.704936046509888,0.0010885129821253858
+0188: External debt stocks; short-term  (DOD; current US$) - WDI,10.639810849127324,0.0011272851656678785
+0138: Principal rescheduled  (current US$) - WDI,10.583545047399941,0.0011619076898559239
+0245: PPG; private creditors  (INT; current US$) - WDI,10.524499860910227,0.0011993996051723175
+0145: Commitments; private creditors  (COM; current US$) - WDI,10.487070272945269,0.0012237985800302371
+0139: Principal rescheduled; official  (current US$) - WDI,10.389229197304193,0.0012899799408674869
+2753: Merchandise trade-Imports-Integrated circuits and electronic components (US dollar at current prices) - WTO,10.134406783024707,0.0014798908372667357
+1379: Export volume index  (2000 = 100) - WDI,10.113345644503905,0.0014968023304106554
+0251: Interest rescheduled (capitalized)  (current US$) - WDI,10.020955319188925,0.0015733351824993125
+0099: Net bilateral aid flows from DAC donors; Greece  (current US$) - WDI,9.9445826591987245,0.0016395880980562968
+0250: Interest forgiven  (current US$) - WDI,9.9167374917804771,0.0016644414690520338
+0242: PNG; bonds  (INT; current US$) - WDI,9.8419619492734558,0.0017330904675376293
+0130: PNG; bonds  (AMT; current US$) - WDI,9.8094820087798222,0.0017637973280141956
+0240: PPG; bonds  (INT; current US$) - WDI,9.784719957998167,0.0017875779279840668
+0202: PNG; bonds  (DOD; current US$) - WDI,9.703499214820102,0.0018678872236945244
+1231: Labor force; female  (% of total labor force) - WDI,9.6346657407977396,0.0019388092345036169
+0829: GNI; PPP  (constant 2011 international $) - WDI,9.48519164767281,0.0021023784420255601
+0171: PPG; commercial banks  (DIS; current US$) - WDI,9.4559545896094921,0.0021359755251961756
+0942: Secondary education; duration  (years) - WDI,9.2863986343935565,0.0023418547556850649
+0075: Secondary income receipts  (BoP; current US$) - WDI,9.2015590127252995,0.0024523237151876766
+0734: Agriculture; value added  (annual % growth) - WDI,9.1921897678541349,0.0024648435352744419
+0252: Interest rescheduled; official  (current US$) - WDI,8.940484587440956,0.0028266420300292246
+1364: Merchandise imports from low- and middle-income economies in East Asia & Pacific  (% of total merchandise imports) - WDI,8.8763196924641399,0.0029272190889185379
+0214: Debt stock reduction  (current US$) - WDI,8.7487192546740342,0.0031381808710548281
+1334: Share of tariff lines with specific rates; manufactured products  (%) - WDI,8.7443604111852835,0.0031456544494864814
+0828: GNI; PPP  (current international $) - WDI,8.6427513870775137,0.003325096620853246
+0264: Net flows on external debt; short-term  (NFL; current US$) - WDI,8.4633876014361977,0.0036676821930650815
+1897: Fixed-telephone subscriptions - ITU,8.4210356541915949,0.0037536904618058454
+0891: Primary school starting age  (years) - WDI,8.3608442820827822,0.0038794736844289784
+0806: GDP; PPP  (constant 2011 international $) - WDI,8.3448113980764003,0.0039136961915581317
+0805: GDP; PPP  (current international $) - WDI,8.2950674948545533,0.0040218451771506488
+2773: Merchandise trade-Exports-Total merchandise (Volume index - Previous year = 100) - WTO,8.123938581839603,0.0044177114794118847
+0159: IMF purchases  (DIS; current US$) - WDI,8.078363805725699,0.004529684481385951
+0234: Interest payments on external debt; short-term  (INT; current US$) - WDI,8.0304180384851929,0.0046506083089440887
+0263: Net flows on external debt; public and publicly guaranteed (PPG)  (NFL; current US$) - WDI,8.0259098717210513,0.0046621462869977058
+0118: IMF repurchases  (AMT; current US$) - WDI,7.9639311999328415,0.0048237630229430225
+0228: Interest payments on external debt  (% of exports of goods; services and primary income) - WDI,7.8314735356446725,0.005188591296864495
+0267: Net financial flows; IMF concessional  (NFL; current US$) - WDI,7.7166776278287799,0.0055275004450793513
+1393: Merchandise exports to low- and middle-income economies in Latin America & the Caribbean  (% of total merchandise exports) - WDI,7.6150125320462232,0.0058464867966665519
+1304: Population; total - WDI,7.5149099422839694,0.0061789532543412087
+0259: Portfolio investment; bonds (PPG + PNG)  (NFL; current US$) - WDI,7.3594807808896743,0.0067339155304213857
+2724: Merchandise trade-Exports-Textiles (US dollar at current prices) - WTO,7.31941478349228,0.0068850616157797324
+0174: PPG; other private creditors  (DIS; current US$) - WDI,7.3156723614567891,0.0068993555959786877
+0172: PNG; bonds  (DIS; current US$) - WDI,7.2639325998832476,0.0071001116565533864
+0156: Debt forgiveness or reduction  (current US$) - WDI,7.176827389556153,0.0074516874875094983
+0258: PPG; bilateral concessional  (NFL; current US$) - WDI,7.0441217567730581,0.0080219052122081809
+0783: Adjusted net national income per capita  (annual % growth) - WDI,6.9833935616678575,0.0082975588743122112
+1204: Labor force participation rate for ages 15-24; male (%)  (modeled ILO estimate) - WDI,6.967297827507239,0.0083722329007734804
+0762: Adjusted savings: carbon dioxide damage  (current US$) - WDI,6.8346181997789177,0.0090146208343830272
+0040: Travel services  (% of service imports; BoP) - WDI,6.7273478485868177,0.0095707981865446046
+0780: Adjusted net national income  (annual % growth) - WDI,6.6478165160386977,0.010005778951667422
+0899: School enrollment; primary  (% gross) - WDI,6.5832217273933455,0.010373966035403442
+0213: Debt buyback  (current US$) - WDI,6.5200830282703723,0.010747300613322061
+0943: Secondary education; pupils - WDI,6.4828880034311824,0.01097366132941258
+0137: Principal forgiven  (current US$) - WDI,6.4579664393452028,0.011128062482182835
+1353: Agricultural raw materials imports  (% of merchandise imports) - WDI,6.3151967029842133,0.012056643495593601
+0831: GNI per capita  (current LCU) - WDI,6.2307711499984606,0.012642872787170746
+0809: GDP per capita  (current LCU) - WDI,6.2249929046670838,0.012684051943971661
+0061: Communications; computer; etc.  (% of service exports; BoP) - WDI,6.1855646521078622,0.012968748581492441
+0723: Imports of goods and services  (annual % growth) - WDI,6.157950528112158,0.013172047767183849
+1151: Employment to population ratio; 15+; male (%)  (national estimate) - WDI,5.9939970336542547,0.014448569843152674
+0732: Agriculture; value added  (current LCU) - WDI,5.9598161050965173,0.014730376162825961
+1232: Labor force; total - WDI,5.9532723794116942,0.01478496896560853
+0725: Imports of goods and services  (% of GDP) - WDI,5.6991268088174811,0.017075003063864214
+0927: Primary education; teachers - WDI,5.6592824987577961,0.017465938060916772
+0842: Net income from abroad  (current LCU) - WDI,5.6195457735061884,0.017865032223762713
+0190: Short-term debt  (% of exports of goods; services and primary income) - WDI,5.5606532086184295,0.018473930656847579
+0958: School enrollment; secondary; private  (% of total secondary) - WDI,5.3458883741961385,0.020882447002974792
+0189: Short-term debt  (% of total reserves) - WDI,5.3210876831142393,0.021180792696793641
+0735: Agriculture; value added  (constant LCU) - WDI,5.3069316519363818,0.021353062385625596
+0192: Debt forgiveness grants  (current US$) - WDI,5.169629391919746,0.023101270351659025
+0057: Grants; excluding technical cooperation  (BoP; current US$) - WDI,5.0503614638876639,0.024740297117023392
+0721: Imports of goods and services  (current LCU) - WDI,4.9879359089093889,0.025645890355998537
+0253: Interest rescheduled; private  (current US$) - WDI,4.860075091030339,0.027609997788017118
+1378: Net barter terms of trade index  (2000 = 100) - WDI,4.8584293277486887,0.027636275516884318
+0269: Net financial flows; IBRD  (NFL; current US$) - WDI,4.6581979242577063,0.03103616248163836
+0724: Imports of goods and services  (constant LCU) - WDI,4.4074350146178061,0.03592016339202371
+0788: Exports as a capacity to import  (constant LCU) - WDI,4.2974446966006914,0.038310267190752478
+0140: Principal rescheduled; private  (current US$) - WDI,4.1959357166174769,0.040664326190986352
+0215: Debt stock rescheduled  (current US$) - WDI,4.1826019545772173,0.040984653365417123
+0895: Primary education; duration  (years) - WDI,4.1424657464997692,0.041964986457179256
+0191: Short-term debt  (% of total external debt) - WDI,3.974754667872046,0.046336362808664988
+0744: Industry; value added  (current LCU) - WDI,3.9586596365397098,0.046780415625941103
+1141: Employment to population ratio; ages 15-24; total (%)  (modeled ILO estimate) - WDI,3.8692504877529519,0.049330344326997524
+2771: Merchandise trade-Exports-Total merchandise (Unit value index - Prev. year = 100) - WTO,3.8676970052417294,0.04937592591003491
+0801: GDP  (current LCU) - WDI,3.8144110687725559,0.050966694955286843
+0058: Technical cooperation grants  (BoP; current US$) - WDI,3.7983896961840267,0.051455522202313989
+0718: Gross capital formation  (constant LCU) - WDI,3.7487113350947339,0.053003072679606925
+0824: GNI  (current LCU) - WDI,3.7162906104951765,0.054039561531040579
+0747: Industry; value added  (constant LCU) - WDI,3.6992721887482665,0.054592221313315217
+0715: Gross capital formation  (current LCU) - WDI,3.6970188275479541,0.05466584566752028
+0834: GNI per capita  (constant LCU) - WDI,3.528607166852511,0.060478349744590189
+0804: GDP  (constant LCU) - WDI,3.5206659040118744,0.060768176545087642
+0812: GDP per capita  (constant LCU) - WDI,3.4717969620134457,0.062584602397291009
+0821: Gross domestic income  (constant LCU) - WDI,3.4633393397218151,0.062904799398346992
+1139: Employment to population ratio; ages 15-24; male (%)  (modeled ILO estimate) - WDI,3.3739145919266602,0.066399359269170594
+0818: Gross domestic savings  (current LCU) - WDI,3.3711807628438022,0.066509406540389407
+0223: Average interest on new external debt commitments; official  (%) - WDI,3.3704565002774145,0.066538593591902492
+0827: GNI  (constant LCU) - WDI,3.3354209752177399,0.067966979524763244
+0748: Industry; value added  (% of GDP) - WDI,3.3317655729851952,0.068117888058025863
+0056: Net capital account  (BoP; current US$) - WDI,3.3231666781482274,0.068474298197376271
+1170: Employment in industry  (% of total employment) - WDI,3.3122333921068776,0.068930350600913834
+1301: Population growth  (annual %) - WDI,3.2369999636336839,0.072158132587580012
+0738: Manufacturing; value added  (current LCU) - WDI,3.177059345847578,0.074845854451481147
+0229: Interest payments on external debt  (% of GNI) - WDI,3.1531187808608885,0.075949237434739261
+0761: Adjusted savings: education expenditure  (% of GNI) - WDI,3.1066356484221069,0.078141879403896636
+0755: Services; etc.; value added  (current LCU) - WDI,3.036575930282519,0.081576550871675382
+0777: Adjusted savings: net national savings  (% of GNI) - WDI,2.9511176089108662,0.085988473264661539
+0758: Services; etc.; value added  (constant LCU) - WDI,2.856673481934803,0.091166935701935001
+0049: Net trade in goods and services  (BoP; current US$) - WDI,2.8262758767211906,0.09290493925635647
+0002: Fertilizer consumption  (% of fertilizer production) - WDI,2.7763334999796934,0.095839217284548195
+0945: Secondary education; general pupils - WDI,2.773418847389244,0.09601355321767592
+0741: Manufacturing; value added  (constant LCU) - WDI,2.7214759536942847,0.099179178665318751
+0254: Average maturity on new external debt commitments  (years) - WDI,2.7092405775634112,0.099941325771360098
+0220: Average grant element on new external debt commitments; official  (%) - WDI,2.6652682535592898,0.10273370549382152
+1377: Travel services  (% of commercial service imports) - WDI,2.6561450198491969,0.10332369076417866
+0771: Adjusted savings: energy depletion  (% of GNI) - WDI,2.5866493348908781,0.10794173137240688
+0009: Land under cereal production  (hectares) - WDI,2.581902845377019,0.10826530657805708
+0004: Agricultural land  (sq. km) - WDI,2.5384282582529867,0.11127916972415566
+0838: Gross savings  (current LCU) - WDI,2.4800061105489584,0.11547579704644172
+1217: Labor force participation rate; total (% of total population ages 15+)  (modeled ILO estimate) - WDI,2.4312007747408129,0.11911580733202395
+0883: Preprimary education; duration  (years) - WDI,2.3987300009120416,0.12160784932829938
+1150: Employment to population ratio; 15+; female (%)  (modeled ILO estimate) - WDI,2.3591611686821765,0.12472315286566531
+0017: Forest area  (% of land area) - WDI,2.3136526471830465,0.12841627682787518
+0069: Transport services  (% of service exports; BoP) - WDI,2.3103667859824819,0.12868760900834694
+0776: Adjusted savings: net national savings  (current US$) - WDI,2.1834760677923355,0.1396722896579039
+0971: Secondary education; teachers - WDI,2.1630401855130628,0.14153780282450504
+0712: Changes in inventories  (current LCU) - WDI,2.1466247766270969,0.14305660902207515
+0255: Average maturity on new external debt commitments; official  (years) - WDI,1.9971758905627524,0.15776378118540421
+1236: Unemployment; youth male (% of male labor force ages 15-24)  (modeled ILO estimate) - WDI,1.9596548572976564,0.16172085406807879
+2774: Merchandise trade-Imports-Total merchandise (Unit value index - Prev. year = 100) - WTO,1.8860050812692812,0.16982253587628129
+1206: Labor force participation rate for ages 15-24; total (%)  (modeled ILO estimate) - WDI,1.7849179730499589,0.18171379318482911
+0051: Net errors and omissions  (BoP; current US$) - WDI,1.6982150921123811,0.19268658856209694
+0007: Arable land  (hectares per person) - WDI,1.6498420248240271,0.19914407975303766
+0795: Gross value added at factor cost  (current LCU) - WDI,1.5509048479850955,0.21316239546689567
+0726: External balance on goods and services  (current US$) - WDI,1.5429288637738443,0.21434258450759597
+1314: Urban population - WDI,1.4316174362739316,0.23165666564798418
+0247: Net change in interest arrears  (current US$) - WDI,1.317240463294981,0.25123890716172359
+0848: Net current transfers from abroad  (current LCU) - WDI,1.2840153130653964,0.2573032008532522
+0731: Agriculture; value added  (current US$) - WDI,1.244049416551962,0.26483946911190087
+0815: Oil rents  (% of GDP) - WDI,1.2167150774362148,0.27015227338940895
+1390: Merchandise exports to low- and middle-income economies outside region  (% of total merchandise exports) - WDI,1.0453747868972765,0.30671075484579036
+1363: Merchandise imports from low- and middle-income economies outside region  (% of total merchandise imports) - WDI,1.0387724869209043,0.30824273977607014
+0222: Average interest on new external debt commitments  (%) - WDI,0.96945684859396519,0.32494669221641892
+0850: Terms of trade adjustment  (constant LCU) - WDI,0.92169225025852197,0.33715869669036602
+0257: Net financial flows; bilateral  (NFL; current US$) - WDI,0.91961218930094113,0.33770433180491932
+0054: Reserves and related items  (BoP; current US$) - WDI,0.91376717771523985,0.33924393803826003
+0797: Gross value added at factor cost  (constant LCU) - WDI,0.91176450125624653,0.33977362310768422
+1391: Merchandise exports to low- and middle-income economies in East Asia & Pacific  (% of total merchandise exports) - WDI,0.89877044703550035,0.34323761048009094
+1214: Labor force participation rate; male (% of male population ages 15+)  (national estimate) - WDI,0.86358300955694356,0.35286131943377463
+2751: Merchandise trade-Exports-Clothing (US dollar at current prices) - WTO,0.8609394106872359,0.35359910556812779
+0845: Net taxes on products  (current LCU) - WDI,0.82804900106271939,0.36295791312785242
+0793: Discrepancy in expenditure estimate of GDP  (constant LCU) - WDI,0.81560889976102935,0.366586799362422
+0008: Arable land  (% of land area) - WDI,0.76306866973055731,0.38248526110414971
+0972: Secondary education; teachers; female - WDI,0.59893670179220171,0.43908463431804201
+0155: Currency composition of PPG debt; U.S. dollars  (%) - WDI,0.56468636402600736,0.45247543712360738
+0020: Land area  (sq. km) - WDI,0.5445862493969541,0.46063346843455466
+0077: Personal remittances; received  (current US$) - WDI,0.41279755601670159,0.52063399378531572
+0028: Surface area  (sq. km) - WDI,0.41110897232206345,0.52148798948651787
+0852: Official exchange rate  (LCU per US$; period average) - WDI,0.40789875431119049,0.52311839430706586
+0711: Changes in inventories  (current US$) - WDI,0.40227006638209961,0.52599901900171142
+0006: Arable land  (hectares) - WDI,0.36854380839255668,0.54387489806477807
+0217: Average grace period on new external debt commitments; official  (years) - WDI,0.35730189919934013,0.55008297129643746
+0807: Natural gas rents  (% of GDP) - WDI,0.33078251351391641,0.56526984856128526
+0768: Adjusted savings: mineral depletion  (current US$) - WDI,0.31293735754348118,0.5759521815865789
+1211: Labor force participation rate; female (% of female population ages 15+)  (modeled ILO estimate) - WDI,0.29558279963917994,0.58673161314804723
+0050: Net trade in goods  (BoP; current US$) - WDI,0.27930048811179625,0.59722457554439778
+1039: Antiretroviral therapy coverage  (% of people living with HIV) - WDI,0.22611654712399146,0.63447554966426067
+0045: Current account balance  (BoP; current US$) - WDI,0.21778341660276559,0.64078997538891713
+0727: External balance on goods and services  (current LCU) - WDI,0.21536700980255261,0.64264849095314547
+0792: Discrepancy in expenditure estimate of GDP  (current LCU) - WDI,0.20376163138053885,0.65175538576662029
+1405: Transport services  (% of commercial service exports) - WDI,0.16692858088075649,0.68290414507165331
+0713: Changes in inventories  (constant LCU) - WDI,0.13745698862290059,0.71086550680247218
+0950: Secondary education; vocational pupils - WDI,0.13630574966171402,0.71202456719445673
+0951: Secondary education; vocational pupils  (% female) - WDI,0.12683440127268555,0.72177841062074921
+1770: Primary energy supply - TOT (MLN_TOE) - OECD,0.12665915711055334,0.72196269502094335
+1783: Renewable energy - TOT (KTOE) - OECD,0.12665687967908015,0.72196509088248928
+1382: Fuel exports  (% of merchandise exports) - WDI,0.12411544875745287,0.72465395354352502
+0846: Net taxes on products  (constant LCU) - WDI,0.12395296754028888,0.72482690937599548
+0742: Manufacturing; value added  (% of GDP) - WDI,0.088673055101048504,0.76590494231475881
+1432: Air and GHG emissions - CO2 (MLN_TONNE) - OECD,0.081754818981179617,0.77496584586096318
+1154: Employment to population ratio; 15+; total (%)  (modeled ILO estimate) - WDI,0.055995594789067238,0.81296748989695111
+0047: Net financial account  (BoP; current US$) - WDI,0.03475128127402255,0.85213859540519965
+0219: Average grant element on new external debt commitments  (%) - WDI,0.029447668784255764,0.86376856554264125
+1733: Crude oil production - TOT (KTOE) - OECD,0.028828904204280661,0.86519358009040714
+0733: Agriculture; value added  (constant 2005 US$) - WDI,0.028647780611294728,0.86561367868295691
+0024: Cereal production  (metric tons) - WDI,0.011951038498930484,0.91296011003639588
+0216: Average grace period on new external debt commitments  (years) - WDI,0.011661638582405692,0.91401628102438326
+0016: Forest area  (sq. km) - WDI,0.0032685346487242185,0.95441518214975352
+0900: School enrollment; primary; female  (% gross) - WDI,0.0019307840326356679,0.96495650803074673
+0938: Lower secondary school starting age  (years) - WDI,0.0012946430994586647,0.9713013400963294
+0268: Net financial flows; IMF nonconcessional  (NFL; current US$) - WDI,0.00086431053576869685,0.97654947057938057
+0274: EBRD; private nonguaranteed  (NFL; current US$) - WDI,nan,nan
+0640: Fixed broadband subscriptions  (per 100 people) - WDI,2648.6054473062745,0.0
+0638: Fixed telephone subscriptions  (per 100 people) - WDI,2306.1462906659472,0.0
+0643: Internet users  (per 100 people) - WDI,2164.5592940095703,6.7240326886560564e-312
+0642: Secure Internet servers  (per 1 million people) - WDI,1869.7487854039803,1.6000328373606368e-281
+0677: Household final consumption expenditure per capita  (constant 2005 US$) - WDI,1781.7185277047349,5.5883676378934003e-272
+0379: Electric power consumption  (kWh per capita) - WDI,861.08878993846918,2.8093518193781749e-155
+0353: Agriculture value added per worker  (constant 2005 US$) - WDI,801.48649170296051,2.1930440073065464e-146
+0380: Energy use  (kg of oil equivalent per capita) - WDI,760.15363883708937,4.2448266736404523e-140
+0454: Automated teller machines (ATMs)  (per 100;000 adults) - WDI,628.76583393587737,2.0266810573742261e-119
+0552: Documents to export  (number) - WDI,502.94265305863541,1.5317412751537803e-98
+0490: Claims on other sectors of the domestic economy  (% of GDP) - WDI,470.29898469198463,6.1441960196629405e-93
+0492: Domestic credit to private sector  (% of GDP) - WDI,439.3680866143668,1.4885387425547114e-87
+0491: Domestic credit provided by financial sector  (% of GDP) - WDI,421.55360062842732,2.0313388897515493e-84
+0570: Documents to import  (number) - WDI,417.24006291341777,1.1767431980406161e-83
+0636: Mobile cellular subscriptions  (per 100 people) - WDI,409.54553039607316,2.7243231468293203e-82
+0571: Time to import  (days) - WDI,332.94244433572919,1.9372517771416093e-68
+0553: Time to export  (days) - WDI,309.44174743675319,4.3404947329564165e-64
+0671: Household final consumption expenditure; etc.  (% of GDP) - WDI,289.67364162144406,2.1633331901795377e-60
+0427: Population density  (people per sq. km of land area) - WDI,288.05566921562774,4.3584512509407474e-60
+0456: Commercial bank branches  (per 100;000 adults) - WDI,286.14806636091561,9.9610404549033657e-60
+0585: Tax payments  (number) - WDI,271.87189705869685,4.9595164125530002e-57
+0696: Gross national expenditure  (% of GDP) - WDI,259.946391339581,9.183901553567857e-55
+0686: Final consumption expenditure; etc.  (% of GDP) - WDI,215.5132759140823,3.4023709450814569e-46
+0545: Private credit bureau coverage  (% of adults) - WDI,206.28284187549443,2.1688516266620455e-44
+0702: Exports of goods and services  (% of GDP) - WDI,199.7078443240641,4.2347364425523532e-43
+0361: Electric power transmission and distribution losses  (% of output) - WDI,175.97481638427024,2.1010848806894386e-38
+0455: Bank capital to assets ratio  (%) - WDI,163.08197832637555,7.9108357160582779e-36
+0378: Combustible renewables and waste  (% of total energy) - WDI,154.04256050637969,5.1866059910814049e-34
+0485: Lending interest rate  (%) - WDI,151.97091132786966,1.3567173918624022e-33
+0580: Time to prepare and pay taxes  (hours) - WDI,126.00443852977489,2.557970574448006e-28
+0577: Cost of business start-up procedures  (% of GNI per capita) - WDI,120.49831686331223,3.4400019709723416e-27
+0363: Electricity production from nuclear sources  (% of total) - WDI,117.14834859506796,1.678862950696317e-26
+0579: Start-up procedures to register a business  (number) - WDI,115.85935051510531,3.0922817770616489e-26
+0322: Net ODA received  (% of imports of goods; services and primary income) - WDI,109.64825500536305,5.9061087138564363e-25
+0435: Population in urban agglomerations of more than 1 million  (% of total population) - WDI,107.48560956781921,1.65369680252576e-24
+0569: Cost to import  (US$ per container) - WDI,105.42936401047542,4.4070811821201982e-24
+0375: Alternative and nuclear energy  (% of total energy use) - WDI,97.678782133062569,1.792763419635548e-22
+0367: Electricity production from renewable sources; excluding hydroelectric  (% of total) - WDI,95.042869571814379,6.3477099722378838e-22
+0484: Deposit interest rate  (%) - WDI,91.308783900812429,3.8197439405800661e-21
+0633: Liner shipping connectivity index  (maximum value in 2004 = 100) - WDI,90.371272868705134,5.9980729221550938e-21
+0477: Money and quasi money  as % of GDP (M2) - WDI,85.913351552286315,5.1465452639230769e-20
+0486: Interest rate spread  (lending rate minus deposit rate; %) - WDI,85.789000907560037,5.4650480058699638e-20
+0540: Business extent of disclosure index  (0=less disclosure to 10=more disclosure) - WDI,80.889071094330973,5.846357348231045e-19
+0472: Broad money  (% of GDP) - WDI,80.749567324844421,6.2551681861364596e-19
+0551: Cost to export  (US$ per container) - WDI,79.561689764659562,1.1124932845511147e-18
+0687: Final consumption expenditure  (current US$) - WDI,74.511572454728636,1.2931572457448951e-17
+0320: Net ODA received  (% of GNI) - WDI,74.306474167288656,1.4288828224085061e-17
+0574: Time required to enforce a contract  (days) - WDI,73.462787332541609,2.1545967090982152e-17
+0576: Procedures to register property  (number) - WDI,68.486534100773639,2.4411974415351893e-16
+0376: Fossil fuel energy consumption  (% of total) - WDI,64.301719842988234,1.8929160680719e-15
+0319: Net ODA received  (% of gross capital formation) - WDI,63.355764148029586,3.0101712296288188e-15
+0589: Procedures to build a warehouse  (number) - WDI,57.680985414410202,4.9006412757351207e-14
+0575: Time required to register property  (days) - WDI,55.588139674893718,1.375627719628756e-13
+0641: Secure Internet servers - WDI,52.473207615578481,6.4137670767119339e-13
+0453: Bank nonperforming loans to total gross loans  (%) - WDI,51.702603611708305,9.3928459254294178e-13
+0587: Total tax rate  (% of commercial profits) - WDI,41.969792811725434,1.1900489660058429e-10
+0662: General government final consumption expenditure  (constant 2005 US$) - WDI,40.671596050999341,2.2781124106429714e-10
+0461: Bank liquid reserves to bank assets ratio  (%) - WDI,40.528861668297139,2.4468399621741862e-10
+0683: Final consumption expenditure; etc.  (constant 2005 US$) - WDI,38.650937857844802,6.2707408802375768e-10
+0689: Final consumption expenditure  (constant 2005 US$) - WDI,38.235299968663888,7.7249380544632741e-10
+0668: Household final consumption expenditure; etc.  (constant 2005 US$) - WDI,38.133546764965587,8.1297222462054612e-10
+0578: Time required to start a business  (days) - WDI,38.131900342734866,8.1364437289675644e-10
+0674: Household final consumption expenditure  (constant 2005 US$) - WDI,37.467245992515544,1.1360147245654046e-09
+0660: General government final consumption expenditure  (current US$) - WDI,35.540025590627089,2.9944879222259198e-09
+0694: Gross national expenditure  (constant 2005 US$) - WDI,35.406385783807295,3.2029372462319024e-09
+0364: Electricity production from oil sources  (% of total) - WDI,35.390101635812904,3.2293116755751354e-09
+0628: Air transport; freight  (million ton-km) - WDI,33.117737238819927,1.0158446710527047e-08
+0681: Final consumption expenditure; etc.  (current US$) - WDI,33.061710419820031,1.045003048097368e-08
+0362: Electricity production from natural gas sources  (% of total) - WDI,32.996621597784021,1.0799330722268942e-08
+0672: Household final consumption expenditure  (current US$) - WDI,32.603824244981375,1.3170307814400551e-08
+0366: Electricity production from renewable sources; excluding hydroelectric  (kWh) - WDI,32.44503865016177,1.4270998415463361e-08
+0666: Household final consumption expenditure; etc.  (current US$) - WDI,32.290852248072596,1.5428026519664242e-08
+0627: Air transport; registered carrier departures worldwide - WDI,30.906033513460475,3.1096680820398176e-08
+0474: Broad money growth  (annual %) - WDI,29.51020457964156,6.3118560107605441e-08
+0692: Gross national expenditure  (current US$) - WDI,29.203115437516857,7.3770549712612204e-08
+0479: Money and quasi money growth  (annual %) - WDI,28.787617131478747,9.1110648705851356e-08
+0699: Exports of goods and services  (constant 2005 US$) - WDI,28.46512466881563,1.0734294231702541e-07
+0619: CPIA trade rating  (1=low to 6=high) - WDI,27.985699953683724,1.3699214239149413e-07
+0377: Energy use (kg of oil equivalent) per $1;000 GDP  (constant 2011 PPP) - WDI,27.648217095624712,1.6267000104929162e-07
+0697: Exports of goods and services  (current US$) - WDI,26.588840992279508,2.791210803370472e-07
+0629: Air transport; passengers carried - WDI,26.118632009123768,3.5481965018536014e-07
+0289: Net official flows from UN agencies; UNDP  (current US$) - WDI,26.094196024617879,3.5927410893322251e-07
+0594: Scientific and technical journal articles - WDI,25.911721459170622,3.9436104465661176e-07
+0707: Gross fixed capital formation  (constant 2005 US$) - WDI,25.840187954009991,4.0903634420309641e-07
+0464: Total reserves in months of imports - WDI,25.476101440584706,4.926712899711833e-07
+0691: Gross national expenditure deflator  (base year varies by country) - WDI,25.121700212077222,5.9054834185696634e-07
+0295: Net official flows from UN agencies; WFP  (current US$) - WDI,24.486113298563183,8.1757131852150691e-07
+0323: Net ODA received per capita  (current US$) - WDI,24.42416733892891,8.4392422129423443e-07
+0487: Real interest rate  (%) - WDI,23.573474672680305,1.3052165294914521e-06
+0291: Net official flows from UN agencies; UNFPA  (current US$) - WDI,23.404177835878905,1.4236717210178635e-06
+0360: Electricity production from hydroelectric sources  (% of total) - WDI,23.112341371031143,1.6537726776939712e-06
+0284: Net financial flows; RDB concessional  (NFL; current US$) - WDI,23.014308981369226,1.739167453176347e-06
+0315: Net official development assistance and official aid received  (constant 2013 US$) - WDI,22.477154906102243,2.2920911402537843e-06
+0321: Net official development assistance received  (constant 2013 US$) - WDI,22.312634754711993,2.4944799412087631e-06
+0314: Net official development assistance and official aid received  (current US$) - WDI,22.198005552880002,2.6460138367206522e-06
+0318: Net official development assistance received  (current US$) - WDI,22.058997887291167,2.8422347990559162e-06
+0287: Net official flows from UN agencies; UNICEF  (current US$) - WDI,21.952980096457953,3.0016576055555145e-06
+0304: PPG; IDA  (NTR; current US$) - WDI,20.804461462798017,5.4261875190872079e-06
+0684: Final consumption expenditure; etc.  (annual % growth) - WDI,20.637261912732871,5.9154342846656701e-06
+0595: Patent applications; nonresidents - WDI,20.38646271085118,6.7336941254625107e-06
+0665: General government final consumption expenditure  (% of GDP) - WDI,19.835441988006597,8.9536479191204235e-06
+0678: Household final consumption expenditure per capita growth  (annual %) - WDI,19.807064612982948,9.0861034633477109e-06
+0419: CO2 emissions from residential buildings and commercial and public services  (% of total fuel combustion) - WDI,19.514273083778185,1.057325809463823e-05
+0338: PPG; IDA  (TDS; current US$) - WDI,19.360617662271615,1.1449254349711511e-05
+0705: Gross fixed capital formation  (current US$) - WDI,18.720480145949615,1.595686360104629e-05
+0272: PPG; multilateral concessional  (NFL; current US$) - WDI,18.513393879146165,1.7768162533540121e-05
+0306: PPG; multilateral concessional  (NTR; current US$) - WDI,17.756421150487668,2.6337235248795506e-05
+0341: PPG; multilateral concessional  (TDS; current US$) - WDI,17.680002507799159,2.7406117188750594e-05
+0591: Investment in telecoms with private participation  (current US$) - WDI,17.540303313352652,2.9474223163458673e-05
+0333: Debt service  (PPG and IMF only; % of exports of goods; services and primary income) - WDI,17.183882971138587,3.5490700205736892e-05
+0675: Household final consumption expenditure  (annual % growth) - WDI,16.922546919630996,4.0674681419281133e-05
+0326: PPG; bilateral concessional  (TDS; current US$) - WDI,16.913060555420557,4.08765647796639e-05
+0708: Gross fixed capital formation  (annual % growth) - WDI,16.843582260243604,4.2386228687960628e-05
+0325: PPG; bilateral  (TDS; current US$) - WDI,16.771465043962912,4.4012621792402016e-05
+0342: PPG; official creditors  (TDS; current US$) - WDI,15.790859610649216,7.3507382458853121e-05
+0351: Undisbursed external debt; official creditors  (UND; current US$) - WDI,15.194379858606169,0.00010051122927176507
+0339: Multilateral debt service  (TDS; current US$) - WDI,15.032135631657814,0.00010945336139675029
+0679: Household final consumption expenditure; PPP  (current international $) - WDI,14.971688000812687,0.00011298628313167967
+0350: Undisbursed external debt; total  (UND; current US$) - WDI,14.818464376438735,0.00012246515217640731
+0334: Debt service on external debt; public and publicly guaranteed (PPG)  (TDS; current US$) - WDI,13.811661058171207,0.00020819043288793177
+0337: PPG; IBRD  (TDS; current US$) - WDI,13.502772409325589,0.00024511357190524553
+0596: Patent applications; residents - WDI,13.471306418536209,0.00024922762729059374
+0420: CO2 emissions from electricity and heat production; total  (% of total fuel combustion) - WDI,13.336077063948368,0.00026771655430850782
+0680: Household final consumption expenditure; PPP  (constant 2011 international $) - WDI,13.035949020280547,0.0003138514227412253
+0347: PPG; other private creditors  (TDS; current US$) - WDI,13.027618391407215,0.0003152405876879113
+0331: Debt service on external debt; long-term  (TDS; current US$) - WDI,12.956945756349423,0.00032727801673817272
+0327: Debt service on external debt; total  (TDS; current US$) - WDI,12.893870453370079,0.00033841285038853895
+0639: Fixed broadband subscriptions - WDI,12.870100614660888,0.00034270753455825821
+0344: PPG; commercial banks  (TDS; current US$) - WDI,12.858189786241692,0.00034488020840922287
+0620: CPIA transparency; accountability; and corruption in the public sector rating  (1=low to 6=high) - WDI,12.71281054030036,0.00037254734375479219
+0271: Net financial flows; multilateral  (NFL; current US$) - WDI,12.585125294105209,0.00039869100633390612
+0346: PNG; commercial banks and other creditors  (TDS; current US$) - WDI,12.455599542967796,0.00042710636768090196
+0352: Undisbursed external debt; private creditors  (UND; current US$) - WDI,12.427258980481492,0.00043359162443323552
+0588: Time required to build a warehouse  (days) - WDI,12.286938630048228,0.00046719742371403188
+0348: PPG; private creditors  (TDS; current US$) - WDI,12.263898710986318,0.00047296163970140951
+0332: Debt service on external debt; private nonguaranteed (PNG)  (TDS; current US$) - WDI,12.260510947987241,0.00047381524110923868
+0328: Total debt service  (% of exports of goods; services and primary income) - WDI,12.199271207696167,0.00048951677104514435
+0421: CO2 emissions from manufacturing industries and construction  (% of total fuel combustion) - WDI,12.160727607411665,0.00049966766023118534
+0613: CPIA property rights and rule-based governance rating  (1=low to 6=high) - WDI,12.149484732414122,0.00050266847197577525
+0285: Net financial flows; RDB nonconcessional  (NFL; current US$) - WDI,12.078446184430405,0.00052205486521268295
+0336: Public and publicly guaranteed debt service  (% of exports of goods; services and primary income) - WDI,12.054166612965387,0.00052885257485835613
+0281: PNG; commercial banks and other creditors  (NFL; current US$) - WDI,11.749178276214913,0.00062226732696163889
+0669: Household final consumption expenditure; etc.  (annual % growth) - WDI,11.714375921608525,0.00063393672042129335
+0422: CO2 emissions from other sectors; excluding residential buildings and commercial and public services  (% of total fuel combustion) - WDI,11.654388663489406,0.00065457254734364162
+0279: Commercial banks and other lending (PPG + PNG)  (NFL; current US$) - WDI,11.393277608739654,0.00075261166661678329
+0343: PPG; bonds  (TDS; current US$) - WDI,11.371661539152587,0.00076136532429715614
+0275: IFC; private nonguaranteed  (NFL; current US$) - WDI,11.068229557857448,0.00089569855001233689
+0607: CPIA gender equality rating  (1=low to 6=high) - WDI,10.968294127900631,0.00094500357700528126
+0340: Multilateral debt service  (% of public and publicly guaranteed debt service) - WDI,10.475012799288624,0.0012317649986821851
+0478: Money and quasi money  to total reserves ratio (M2) - WDI,10.380634176250465,0.0012959642783480661
+0301: Net transfers on external debt; private nonguaranteed (PNG)  (NTR; current US$) - WDI,10.156439220280452,0.0014624066372025235
+0345: PNG; bonds  (TDS; current US$) - WDI,10.027040344026361,0.0015681746582911936
+0299: Net transfers on external debt; total  (NTR; current US$) - WDI,9.9635941530425463,0.0016228357678509529
+0460: Domestic credit to private sector by banks  (% of GDP) - WDI,9.9583201857044816,0.0016274655500431734
+0311: PNG; commercial banks and other creditors  (NTR; current US$) - WDI,9.8484328568099677,0.0017270378783227833
+0349: Total amount of debt rescheduled  (current US$) - WDI,9.7520356096873329,0.0018194656369197059
+0300: Net transfers on external debt; long-term  (NTR; current US$) - WDI,9.7074239723311671,0.0018639236186775029
+0462: Total reserves  (includes gold; current US$) - WDI,9.5805681688956899,0.0019964616951480261
+0473: Broad money to total reserves ratio - WDI,9.2579934500639833,0.0023782665258764582
+0305: PPG; multilateral  (NTR; current US$) - WDI,9.0129416122646671,0.0027172815275840426
+0273: Net financial flows; others  (NFL; current US$) - WDI,8.8531536844385172,0.0029644188566530969
+0276: PPG; official creditors  (NFL; current US$) - WDI,8.8528961818726373,0.0029648350420625452
+0330: IMF repurchases and charges  (TDS; current US$) - WDI,8.582133496347895,0.0034370740484884772
+0439: Aquaculture production  (metric tons) - WDI,8.0601829310973603,0.0045751565673920972
+0277: PPG; bonds  (NFL; current US$) - WDI,7.8500594898235603,0.0051357487602123183
+0329: Total debt service  (% of GNI) - WDI,7.7538883440882582,0.0054152380234869062
+0710: Gross fixed capital formation  (% of GDP) - WDI,7.6163539343868649,0.0058421579046010414
+0616: CPIA efficiency of revenue mobilization rating  (1=low to 6=high) - WDI,7.1776269804244617,0.0074483804623472023
+0463: Total reserves  (% of total external debt) - WDI,7.1090186336433323,0.0077376752402697471
+0286: Net official flows from UN agencies; UNAIDS  (current US$) - WDI,6.9190631325928225,0.0086001601807404616
+0283: PPG; private creditors  (NFL; current US$) - WDI,6.7392618748226178,0.0095073272006579324
+0623: Periodicity and timeliness assessment of statistical capacity  (scale 0 - 100) - WDI,6.5137048784358305,0.01078577332169342
+0612: CPIA equity of public resource use rating  (1=low to 6=high) - WDI,6.4145344079750783,0.011402499380628936
+0604: CPIA quality of budgetary and financial management rating  (1=low to 6=high) - WDI,6.2001067433319825,0.012862988117127076
+0622: Overall level of statistical capacity  (scale 0 - 100) - WDI,6.1679260590588099,0.013098230769226355
+0280: PNG; bonds  (NFL; current US$) - WDI,5.9906084554195793,0.014476257375534958
+0335: Public and publicly guaranteed debt service  (% of GNI) - WDI,5.8683834175276619,0.015512381647248982
+0465: Total reserves minus gold  (current US$) - WDI,5.8410604757393116,0.015754282449450784
+0371: Energy imports; net  (% of energy use) - WDI,5.8186983981395786,0.01595515654282692
+0698: Exports of goods and services  (current LCU) - WDI,4.7407047896397616,0.029585227330137721
+0310: PNG; bonds  (NTR; current US$) - WDI,4.7152909777079328,0.03002444830424433
+0663: General government final consumption expenditure  (annual % growth) - WDI,4.6796181769973977,0.030652479365651471
+0667: Household final consumption expenditure; etc.  (current LCU) - WDI,4.1894071174162297,0.040820837678263368
+0700: Exports of goods and services  (annual % growth) - WDI,4.1799048360230451,0.0410497701894093
+0441: Total fisheries production  (metric tons) - WDI,4.1133545559241096,0.042691445027389599
+0673: Household final consumption expenditure  (current LCU) - WDI,4.1131267758671353,0.042697181081876097
+0701: Exports of goods and services  (constant LCU) - WDI,4.0909730140946587,0.043258961031736348
+0470: Claims on private sector  (annual growth as % of broad money) - WDI,4.0069517598062649,0.045461353060374798
+0682: Final consumption expenditure; etc.  (current LCU) - WDI,3.9606168884796316,0.046726177161078082
+0693: Gross national expenditure  (current LCU) - WDI,3.9040954420849188,0.048319539121348017
+0688: Final consumption expenditure  (current LCU) - WDI,3.8756745194423012,0.049142325021175222
+0654: Armed forces personnel; total - WDI,3.8634971210759073,0.049499380056980666
+0670: Household final consumption expenditure; etc.  (constant LCU) - WDI,3.7145441837954825,0.054096001173586719
+0706: Gross fixed capital formation  (current LCU) - WDI,3.7101090788353477,0.054239612532743529
+0676: Household final consumption expenditure  (constant LCU) - WDI,3.7100045808589637,0.054243001111390375
+0695: Gross national expenditure  (constant LCU) - WDI,3.5550481208439804,0.059523913503169053
+0606: CPIA fiscal policy rating  (1=low to 6=high) - WDI,3.5473420333228276,0.059800412590737491
+0469: Net foreign assets  (current LCU) - WDI,3.5017468322220382,0.061464630642037076
+0308: PPG; bonds  (NTR; current US$) - WDI,3.4936557954928844,0.06176507207282287
+0709: Gross fixed capital formation  (constant LCU) - WDI,3.480953939907792,0.062239887128577656
+0611: CPIA quality of public administration rating  (1=low to 6=high) - WDI,3.4512049151318629,0.06336725201237782
+0685: Final consumption expenditure; etc.  (constant LCU) - WDI,3.4418108632645028,0.063727757550836317
+0690: Final consumption expenditure  (constant LCU) - WDI,3.4325730865774027,0.064084401106481254
+0423: CO2 emissions from transport  (% of total fuel combustion) - WDI,3.3617423533171462,0.066890840630976556
+0615: CPIA public sector management and institutions cluster average  (1=low to 6=high) - WDI,3.3434331878443015,0.067637455811098854
+0433: Population in the largest city  (% of urban population) - WDI,3.216967431059194,0.073044669332640449
+0603: CPIA policy and institutions for environmental sustainability rating  (1=low to 6=high) - WDI,3.1523876353451277,0.075983208894614226
+0637: Fixed telephone subscriptions - WDI,3.0918397011367778,0.078854043095469548
+0656: Military expenditure  (current LCU) - WDI,2.9603947521635816,0.085497265498935354
+0605: CPIA financial sector rating  (1=low to 6=high) - WDI,2.7744871116409162,0.095949616362787454
+0609: IDA resource allocation index  (1=low to 6=high) - WDI,2.7695116208402384,0.096247801175310871
+0307: PPG; official creditors  (NTR; current US$) - WDI,2.7026642465989372,0.10035361134595089
+0655: Armed forces personnel  (% of total labor force) - WDI,2.6891162233128925,0.10120884284388319
+0302: Net transfers on external debt; public and publicly guaranteed (PPG)  (NTR; current US$) - WDI,2.6838024917810226,0.10154645090025023
+0661: General government final consumption expenditure  (current LCU) - WDI,2.6362483198870779,0.10462329729580959
+0278: PPG; commercial banks  (NFL; current US$) - WDI,2.6050406369088734,0.10669796598682028
+0600: CPIA business regulatory environment rating  (1=low to 6=high) - WDI,2.2385342872839966,0.134782093688363
+0624: Source data assessment of statistical capacity  (scale 0 - 100) - WDI,2.171167453280531,0.14079256178544602
+0608: CPIA building human resources rating  (1=low to 6=high) - WDI,2.1545698309191574,0.14231922893250734
+0313: PPG; private creditors  (NTR; current US$) - WDI,2.1224251388344895,0.14532922651875385
+0370: GDP per unit of energy use  (constant 2011 PPP $ per kg of oil equivalent) - WDI,2.0888253702087409,0.1485524618180746
+0369: GDP per unit of energy use  (PPP $ per kg of oil equivalent) - WDI,2.0407068766079095,0.15331024433701471
+0664: General government final consumption expenditure  (constant LCU) - WDI,1.8564474464289349,0.17320413711251467
+0601: CPIA debt policy rating  (1=low to 6=high) - WDI,1.8247368992890651,0.17691856348088247
+0312: PPG; other private creditors  (NTR; current US$) - WDI,1.6618412498552568,0.19751890222792062
+0597: Trademark applications; direct nonresident - WDI,1.6037730487576238,0.20553156739804357
+0303: PPG; IBRD  (NTR; current US$) - WDI,1.3418202856479451,0.24686535455333522
+0476: Money and quasi money (M2)  (current LCU) - WDI,1.276583837153576,0.25868422786751449
+0635: Mobile cellular subscriptions - WDI,1.1540746628589795,0.28284036154915787
+0602: CPIA economic management cluster average  (1=low to 6=high) - WDI,1.1490321999689583,0.28389410913642316
+0297: PPG; bilateral  (NTR; current US$) - WDI,1.1132747147808604,0.29151140092522154
+0489: Claims on central government; etc.  (% GDP) - WDI,1.0975464038062979,0.29494445480464415
+0618: CPIA structural policies cluster average  (1=low to 6=high) - WDI,1.014066916022383,0.31406450759862103
+0471: Broad money  (current LCU) - WDI,0.97829095517355324,0.32275272512165887
+0440: Capture fisheries production  (metric tons) - WDI,0.96948157856865325,0.32494052300317722
+0359: Electricity production from oil; gas and coal sources  (% of total) - WDI,0.80257098572870822,0.37044439825036857
+0309: PPG; commercial banks  (NTR; current US$) - WDI,0.65364886711835624,0.41891690965454409
+0432: Population in largest city - WDI,0.64301419023112116,0.4227262176205453
+0482: Inflation; consumer prices  (annual %) - WDI,0.60663354187121388,0.43615952906124023
+0481: Consumer price index  (2010 = 100) - WDI,0.38486893906374914,0.53508666906878655
+0467: Claims on other sectors of the domestic economy  (annual growth as % of broad money) - WDI,0.36977042959444523,0.54320538665911133
+0358: Electricity production from coal sources  (% of total) - WDI,0.36362655744218525,0.54657422004427336
+0282: PPG; other private creditors  (NFL; current US$) - WDI,0.35994112269913886,0.54861370517108887
+0599: Trademark applications; total - WDI,0.2979832049390404,0.58521651522466667
+0475: Money  (current LCU) - WDI,0.25741429994393972,0.61196369481932111
+0653: Arms imports  (SIPRI trend indicator values) - WDI,0.23749284880734522,0.62608155986283442
+0468: Net domestic credit  (current LCU) - WDI,0.21949977600368831,0.63947749604819726
+0621: Methodology assessment of statistical capacity  (scale 0 - 100) - WDI,0.20244864213510633,0.65280523321385919
+0434: Population in urban agglomerations of more than 1 million - WDI,0.15781942604967059,0.69121873856724048
+0598: Trademark applications; direct resident - WDI,0.090472037861112228,0.76361230661387602
+0546: Public credit registry coverage  (% of adults) - WDI,0.054639146276618082,0.81520524690277907
+0298: PPG; bilateral concessional  (NTR; current US$) - WDI,0.015410420978875006,0.90121916705469052
+0466: Claims on central government  (annual growth as % of broad money) - WDI,0.012567576786111772,0.91075236706626095
+0610: CPIA macroeconomic management rating  (1=low to 6=high) - WDI,0.0019193792795467507,0.96506009231499035
+0657: Military expenditure  (% of GDP) - WDI,0.00048823474794329485,0.98237377438708451
