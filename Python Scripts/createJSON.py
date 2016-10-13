@@ -15,19 +15,19 @@ def createJSON(filename, numTargets, outputFilename = '2006-2013_data.json'):
 	(key = country key, value = the data object of the corresponding country) and stores it in a single json file.
 
 	Parameters
-    ----------
-    filename : string
-        File name or file path of the stacked data file from iteration 2.
+	----------
+	filename : string
+	    File name or file path of the stacked data file from iteration 2.
 
-    numTargets : int
-    	The number of targets in the input file.
+	numTargets : int
+		The number of targets in the input file.
 
-    outputFilename : string
-        File name of the json data file for iteration 3. It must end with '.json'. 
+	outputFilename : string
+	    File name of the json data file for iteration 3. It must end with '.json'. 
 
-    Return Value
-    ----------
-    None
+	Return Value
+	----------
+	None
 
 	"""
 

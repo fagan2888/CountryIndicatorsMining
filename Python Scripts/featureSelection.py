@@ -13,16 +13,16 @@ def writeCSV(path,aList):
 	This function dumps aList into a csv file as specified by path.
 
 	Parameters
-    ----------
-    path : string
-    	A filename or file path to save the csv file.
+	----------
+	path : string
+		A filename or file path to save the csv file.
 
-    aList : list
-    	A list of data to write into the csv file.
+	aList : list
+		A list of data to write into the csv file.
 
-    Return Value
-    ----------
-    None
+	Return Value
+	----------
+	None
 
 	"""
 	with open(path,'wb') as w:
@@ -39,16 +39,16 @@ def FS1Year(inputFolderPath = './Formatted Files Without Missing', outputFolderP
 	This function is similar to the function MINE1Year of runMINE.py but MINE1Year uses MIC to select features instead. 
 
 	Parameters
-    ----------
-    inputFolderPath : string
-    	A path to the folder containing the data files.
+	----------
+	inputFolderPath : string
+		A path to the folder containing the data files.
 
-    outputFolderPath : string
-    	A path to the existing folder to save output files.
+	outputFolderPath : string
+		A path to the existing folder to save output files.
 
-    Return Value
-    ----------
-    None
+	Return Value
+	----------
+	None
 
 	"""
 	fileList = []
@@ -145,16 +145,16 @@ def FS2Years(inputFolderPath = './FormattedFilesWithoutMissingToNextYear', outpu
 	This function is similar to the function MINE2Years of runMINE.py but MINE2Years uses MIC to select features instead. 
 
 	Parameters
-    ----------
-    inputFolderPath : string
-    	A path to the folder containing the data files.
+	----------
+	inputFolderPath : string
+		A path to the folder containing the data files.
 
-    outputFolderPath : string
-    	A path to the existing folder to save output files.
+	outputFolderPath : string
+		A path to the existing folder to save output files.
 
-    Return Value
-    ----------
-    None
+	Return Value
+	----------
+	None
 
 	"""
 	fileList = []
@@ -231,16 +231,16 @@ def FLargeFile(inputFile = 'New_2006-2013_FilteredColsTargetMissingBlank.csv', o
 	The results such as AllYear - Indicator2704 - k1012 - f_regression.csv are saved to another folder.
 
 	Parameters
-    ----------
-    inputFile : string
-    	A filename or file path of the stacked data file from iteration 2.
+	----------
+	inputFile : string
+		A filename or file path of the stacked data file from iteration 2.
 
-    outputFolderPath : string
-    	A path to the existing folder to save output files.
+	outputFolderPath : string
+		A path to the existing folder to save output files.
 
-    Return Value
-    ----------
-    None
+	Return Value
+	----------
+	None
 
 	"""
 	targetList = [2704,2707,2713,2716,2718,808,811,835]

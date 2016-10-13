@@ -30,19 +30,19 @@ def benchmarkTest(filename, targetIdx, method):
 	Then it aggregates the results and reports mean and sd of absolute error.
 
 	Parameters
-    ----------
-    filename : string
-    	The name of the json data file in iteration 3.
+	----------
+	filename : string
+		The name of the json data file in iteration 3.
 
-   	targetIndex : int
-    	The index of the target variable in the target variable list.
+		targetIndex : int
+		The index of the target variable in the target variable list.
 
-    method : string
-    	Benchmark name e.g. 'SPC-BPG'
+	method : string
+		Benchmark name e.g. 'SPC-BPG'
 
-    Return Value
-    ----------
-    mean_score, sd_score 
+	Return Value
+	----------
+	mean_score, sd_score 
 
 	"""
 	f = open(filename, 'rb')
@@ -147,19 +147,19 @@ def getTargetIndexInData(targetName, dataName, targetIdx):
 	This function finds the location of the focused target indicator in the list of predictor indicators. 
 
 	Parameters
-    ----------
-    targetName : list
-    	A list of target indicators name. 
+	----------
+	targetName : list
+		A list of target indicators name. 
 
-    dataName : list
-    	A list of predictor indicators name.
+	dataName : list
+		A list of predictor indicators name.
 
-    targetIdx : int
-    	An index of focused target variable in the targetName list.
+	targetIdx : int
+		An index of focused target variable in the targetName list.
 
-    Return Value
-    ----------
-    The index of the focused target indicator in the list of predictor indicators
+	Return Value
+	----------
+	The index of the focused target indicator in the list of predictor indicators
 
 	"""
 
@@ -172,25 +172,25 @@ def getFeaturesIndex(predictorHeader,folderName,targetID,rankingMethod,numFeatur
 	This function finds all indices of predictors based on predictorHeader. 
 
 	Parameters
-    ----------
-    predictorHeader : list
-    	The list of header (from startPredictorIndex and so on).
+	----------
+	predictorHeader : list
+		The list of header (from startPredictorIndex and so on).
 
-    folderName : string
-    	The name or path to the folder containing ranked predictor lists.
+	folderName : string
+		The name or path to the folder containing ranked predictor lists.
 
-    targetID : int
-    	The index (key) of the target variable.
+	targetID : int
+		The index (key) of the target variable.
 
-    rankingMethod : int
-    	The number specified how predictors are ranked. (See the file of ranked predictor lists)
+	rankingMethod : int
+		The number specified how predictors are ranked. (See the file of ranked predictor lists)
 
-    numFeatures : int
-    	The number of features included in the model.
+	numFeatures : int
+		The number of features included in the model.
 
-    Return Value
-    ----------
-    XIndex : all column indices of predictors included in the prediction model.
+	Return Value
+	----------
+	XIndex : all column indices of predictors included in the prediction model.
 
 	"""
 
@@ -211,16 +211,16 @@ def meanBenchmark(countryObject, targetIdx):
 	when predicting the specified target of the specified country object. 
 
 	Parameters
-    ----------
-    countryObject : object
-    	The object containing information of a country.
+	----------
+	countryObject : object
+		The object containing information of a country.
 
-    targetIdx : int
-    	An index of focused target variable in the targetName list.
+	targetIdx : int
+		An index of focused target variable in the targetName list.
 
-    Return Value
-    ----------
-    Absolute prediction error
+	Return Value
+	----------
+	Absolute prediction error
 
 	"""
 	target = np.array(countryObject['target'])
@@ -242,22 +242,22 @@ def combEWBenchmark(countryObject, targetIdx, option = 'AP'):
 	when predicting the specified target of the specified country object. 
 
 	Parameters
-    ----------
-    countryObject : object
-    	The object containing information of a country.
+	----------
+	countryObject : object
+		The object containing information of a country.
 
-    targetIdx : int
-    	An index of focused target variable in the targetName list.
+	targetIdx : int
+		An index of focused target variable in the targetName list.
 
-    option : string in {'AP','SP','BP'}
-    	The number of predictors used
-    		AP => All predictors
-    		SP => Some predictors (50)
-    		BP => Best number of predictors (validated using leave-one-out)
+	option : string in {'AP','SP','BP'}
+		The number of predictors used
+			AP => All predictors
+			SP => Some predictors (50)
+			BP => Best number of predictors (validated using leave-one-out)
 
-    Return Value
-    ----------
-    Absolute prediction error
+	Return Value
+	----------
+	Absolute prediction error
 
 	"""
 	target = np.array(countryObject['target'])
@@ -317,22 +317,22 @@ def combIMSEBenchmark(countryObject, targetIdx, option = 'AP'):
 	when predicting the specified target of the specified country object. 
 
 	Parameters
-    ----------
-    countryObject : object
-    	The object containing information of a country.
+	----------
+	countryObject : object
+		The object containing information of a country.
 
-    targetIdx : int
-    	An index of focused target variable in the targetName list.
+	targetIdx : int
+		An index of focused target variable in the targetName list.
 
-    option : string in {'AP','SP','BP'}
-    	The number of predictors used
-    		AP => All predictors
-    		SP => Some predictors (50)
-    		BP => Best number of predictors (validated using leave-one-out)
+	option : string in {'AP','SP','BP'}
+		The number of predictors used
+			AP => All predictors
+			SP => Some predictors (50)
+			BP => Best number of predictors (validated using leave-one-out)
 
-    Return Value
-    ----------
-    Absolute prediction error
+	Return Value
+	----------
+	Absolute prediction error
 
 	"""
 	target = np.array(countryObject['target'])
@@ -407,22 +407,22 @@ def combJMABenchmark(countryObject, targetIdx, option = 'AP'):
 	when predicting the specified target of the specified country object. 
 
 	Parameters
-    ----------
-    countryObject : object
-    	The object containing information of a country.
+	----------
+	countryObject : object
+		The object containing information of a country.
 
-    targetIdx : int
-    	An index of focused target variable in the targetName list.
+	targetIdx : int
+		An index of focused target variable in the targetName list.
 
-    option : string in {'AP','SP','BP'}
-    	The number of predictors used
-    		AP => All predictors
-    		SP => Some predictors (50)
-    		BP => Best number of predictors (validated using leave-one-out)
+	option : string in {'AP','SP','BP'}
+		The number of predictors used
+			AP => All predictors
+			SP => Some predictors (50)
+			BP => Best number of predictors (validated using leave-one-out)
 
-    Return Value
-    ----------
-    Absolute prediction error
+	Return Value
+	----------
+	Absolute prediction error
 
 	"""
 	target = np.array(countryObject['target'])
@@ -528,23 +528,23 @@ def PCBenchmark(countryObject, targetIdx, option = 'AP'):
 	when predicting the specified target of the specified country object. 
 
 	Parameters
-    ----------
-    countryObject : object
-    	The object containing information of a country.
+	----------
+	countryObject : object
+		The object containing information of a country.
 
-    targetIdx : int
-    	An index of focused target variable in the targetName list.
+	targetIdx : int
+		An index of focused target variable in the targetName list.
 
-    option : string in {'AP','SP','BP','BPG'}
-    	The number of predictors used
-    		AP => All predictors
-    		SP => Some predictors (50)
-    		BP => Best number of predictors (validated using leave-one-out)
-    		BPG => Best number of predictors and Best number of Principal Components used (validated using leave-one-out)
+	option : string in {'AP','SP','BP','BPG'}
+		The number of predictors used
+			AP => All predictors
+			SP => Some predictors (50)
+			BP => Best number of predictors (validated using leave-one-out)
+			BPG => Best number of predictors and Best number of Principal Components used (validated using leave-one-out)
 
-    Return Value
-    ----------
-    Absolute prediction error
+	Return Value
+	----------
+	Absolute prediction error
 
 	"""
 	target = np.array(countryObject['target'])
@@ -630,23 +630,23 @@ def PC2Benchmark(countryObject, targetIdx, option = 'AP'):
 	when predicting the specified target of the specified country object. 
 
 	Parameters
-    ----------
-    countryObject : object
-    	The object containing information of a country.
+	----------
+	countryObject : object
+		The object containing information of a country.
 
-    targetIdx : int
-    	An index of focused target variable in the targetName list.
+	targetIdx : int
+		An index of focused target variable in the targetName list.
 
-    option : string in {'AP','SP','BP','BPG'}
-    	The number of predictors used
-    		AP => All predictors
-    		SP => Some predictors (50)
-    		BP => Best number of predictors (validated using leave-one-out)
-    		BPG => Best number of predictors and Best number of Principal Components used (validated using leave-one-out)
+	option : string in {'AP','SP','BP','BPG'}
+		The number of predictors used
+			AP => All predictors
+			SP => Some predictors (50)
+			BP => Best number of predictors (validated using leave-one-out)
+			BPG => Best number of predictors and Best number of Principal Components used (validated using leave-one-out)
 
-    Return Value
-    ----------
-    Absolute prediction error
+	Return Value
+	----------
+	Absolute prediction error
 
 	"""
 	target = np.array(countryObject['target'])
@@ -739,23 +739,23 @@ def SPCBenchmark(countryObject, targetIdx, option = 'AP'):
 	when predicting the specified target of the specified country object. 
 
 	Parameters
-    ----------
-    countryObject : object
-    	The object containing information of a country.
+	----------
+	countryObject : object
+		The object containing information of a country.
 
-    targetIdx : int
-    	An index of focused target variable in the targetName list.
+	targetIdx : int
+		An index of focused target variable in the targetName list.
 
-    option : string in {'AP','SP','BP','BPG'}
-    	The number of predictors used
-    		AP => All predictors
-    		SP => Some predictors (50)
-    		BP => Best number of predictors (validated using leave-one-out)
-    		BPG => Best number of predictors and Best number of Principal Components used (validated using leave-one-out)
+	option : string in {'AP','SP','BP','BPG'}
+		The number of predictors used
+			AP => All predictors
+			SP => Some predictors (50)
+			BP => Best number of predictors (validated using leave-one-out)
+			BPG => Best number of predictors and Best number of Principal Components used (validated using leave-one-out)
 
-    Return Value
-    ----------
-    Absolute prediction error
+	Return Value
+	----------
+	Absolute prediction error
 
 	"""
 	target = np.array(countryObject['target'])
@@ -846,16 +846,16 @@ def RWBenchmark(countryObject, targetIdx):
 	when predicting the specified target of the specified country object. 
 
 	Parameters
-    ----------
-    countryObject : object
-    	The object containing information of a country.
+	----------
+	countryObject : object
+		The object containing information of a country.
 
-    targetIdx : int
-    	An index of focused target variable in the targetName list.
+	targetIdx : int
+		An index of focused target variable in the targetName list.
 
-    Return Value
-    ----------
-    Absolute prediction error
+	Return Value
+	----------
+	Absolute prediction error
 
 	"""
 	target = np.array(countryObject['target'])
@@ -882,16 +882,16 @@ def AR1Benchmark(countryObject, targetIdx):
 	when predicting the specified target of the specified country object. 
 
 	Parameters
-    ----------
-    countryObject : object
-    	The object containing information of a country.
+	----------
+	countryObject : object
+		The object containing information of a country.
 
-    targetIdx : int
-    	An index of focused target variable in the targetName list.
+	targetIdx : int
+		An index of focused target variable in the targetName list.
 
-    Return Value
-    ----------
-    Absolute prediction error
+	Return Value
+	----------
+	Absolute prediction error
 
 	"""
 	target = np.array(countryObject['target'])
@@ -933,16 +933,16 @@ def noChangeBenchmark(countryObject, targetIdx):
 	when predicting the specified target of the specified country object. 
 
 	Parameters
-    ----------
-    countryObject : object
-    	The object containing information of a country.
+	----------
+	countryObject : object
+		The object containing information of a country.
 
-    targetIdx : int
-    	An index of focused target variable in the targetName list.
+	targetIdx : int
+		An index of focused target variable in the targetName list.
 
-    Return Value
-    ----------
-    Absolute prediction error
+	Return Value
+	----------
+	Absolute prediction error
 
 	"""
 	target = np.array(countryObject['target'])
@@ -964,25 +964,25 @@ def KRRBenchmark(countryObject, targetIdx, kernel, option = 'AP'):
 	when predicting the specified target of the specified country object. 
 
 	Parameters
-    ----------
-    countryObject : object
-    	The object containing information of a country.
+	----------
+	countryObject : object
+		The object containing information of a country.
 
-    targetIdx : int
-    	An index of focused target variable in the targetName list.
+	targetIdx : int
+		An index of focused target variable in the targetName list.
 
-    kernel : string in {'linear','polynomial','rbf'}
-    	Kernel type of KRR
+	kernel : string in {'linear','polynomial','rbf'}
+		Kernel type of KRR
 
-    option : string in {'AP','SP','BP'}
-    	The number of predictors used
-    		AP => All predictors
-    		SP => Some predictors (50)
-    		BP => Best number of predictors (validated using leave-one-out)
-    		
-    Return Value
-    ----------
-    Absolute prediction error
+	option : string in {'AP','SP','BP'}
+		The number of predictors used
+			AP => All predictors
+			SP => Some predictors (50)
+			BP => Best number of predictors (validated using leave-one-out)
+			
+	Return Value
+	----------
+	Absolute prediction error
 
 	"""
 	target = np.array(countryObject['target'])
@@ -1064,22 +1064,22 @@ def getKernelParam(kernel, N, r2, sIdx, lIdx):
 		By Peter Exterkatea, Patrick J.F. Groenen, Christiaan Heij, Dick van Dijk
 
 	Parameters
-    ----------
-    kernel : string in {'linear','polynomial','rbf'}
-    	Kernel type of KRR
+	----------
+	kernel : string in {'linear','polynomial','rbf'}
+		Kernel type of KRR
 
-    N : int
-    	The number of predictors
+	N : int
+		The number of predictors
 
-    r2 : float
-    	R2 value from an OLS regression of y on the first four principal components of X. 
+	r2 : float
+		R2 value from an OLS regression of y on the first four principal components of X. 
 
-    sIdx, lIdx : int
-    	sIdx (sigma index) and lIdx (lambda index) ranging from 0 to 4
-    		
-    Return Value
-    ----------
-    The corresponding lambda
+	sIdx, lIdx : int
+		sIdx (sigma index) and lIdx (lambda index) ranging from 0 to 4
+			
+	Return Value
+	----------
+	The corresponding lambda
 
 	"""
 	if kernel == 'linear':
@@ -1107,25 +1107,25 @@ def OurMethod(countryObject, targetIdx, rankingMethod, bootstrapping = False, gr
 	** This function is hard coded. Please be careful while editing. **
 
 	Parameters
-    ----------
-    countryObject : object
-    	The object containing information of a country.
+	----------
+	countryObject : object
+		The object containing information of a country.
 
-    targetIdx : int
-    	An index of focused target variable in the targetName list.
+	targetIdx : int
+		An index of focused target variable in the targetName list.
 
-    rankingMethod : int
-    	The number specified how predictors are ranked. (See the file of ranked predictor lists)
+	rankingMethod : int
+		The number specified how predictors are ranked. (See the file of ranked predictor lists)
 
-    bootstrapping : boolean
-   		Perform bootstrapping prediction or not.
+	bootstrapping : boolean
+			Perform bootstrapping prediction or not.
 
-    gridSearch : boolean
-    	Perform parameter optimization or not.
-    		
-    Return Value
-    ----------
-    Absolute prediction error
+	gridSearch : boolean
+		Perform parameter optimization or not.
+			
+	Return Value
+	----------
+	Absolute prediction error
 
 	"""
 	target = np.array(countryObject['target'])
@@ -1204,19 +1204,19 @@ def getEstimator(algorithm, Yscaler, numFeatures):
 	This function returns sklearn estimator as requested. 
 
 	Parameters
-    ----------
-    algorithm : string (usually 3-character)
-    	The code of prediction algorithm such as 'RID' for ridge regression.
+	----------
+	algorithm : string (usually 3-character)
+		The code of prediction algorithm such as 'RID' for ridge regression.
 
-    Yscaler : Scaler object of sklearn
-    	Scaler object of sklearn fit to the training dataset
+	Yscaler : Scaler object of sklearn
+		Scaler object of sklearn fit to the training dataset
 
-    numFeatures : int
-    	The number of features included in the model.
+	numFeatures : int
+		The number of features included in the model.
 
-    Return Value
-    ----------
-    sklearn estimator as requested
+	Return Value
+	----------
+	sklearn estimator as requested
 
 	"""
 
@@ -1261,19 +1261,19 @@ def getEstimatorGridSearch(algorithm, Yscaler, numFeatures):
 	This function returns sklearn estimator with built-in grid search for parameter optimization as requested. 
 
 	Parameters
-    ----------
-    algorithm : string (usually 3-character)
-    	The code of prediction algorithm such as 'RID' for ridge regression.
+	----------
+	algorithm : string (usually 3-character)
+		The code of prediction algorithm such as 'RID' for ridge regression.
 
-    Yscaler : Scaler object of sklearn
-    	Scaler object of sklearn fit to the training dataset
+	Yscaler : Scaler object of sklearn
+		Scaler object of sklearn fit to the training dataset
 
-    numFeatures : int
-    	The number of features included in the model.
-    	
-    Return Value
-    ----------
-    sklearn estimator with built-in grid search as requested
+	numFeatures : int
+		The number of features included in the model.
+		
+	Return Value
+	----------
+	sklearn estimator with built-in grid search as requested
 
 	"""
 
@@ -1324,28 +1324,28 @@ def bootstrappingPrediction(estimator, Xready, y, XTestReady, B = 200, parametri
 	This function performs bootstrapping prediction instead of normal prediction.
 
 	Parameters
-    ----------
-    estimator : sklearn estimator
-    	An estimator object used to predict the target value.
+	----------
+	estimator : sklearn estimator
+		An estimator object used to predict the target value.
 
-    Xready : 2D numpy array
-    	An array of training instances.
+	Xready : 2D numpy array
+		An array of training instances.
 
-    y : 1D numpy array
-    	An array of target values for training instances.
+	y : 1D numpy array
+		An array of target values for training instances.
 
-    XTestReady : 2D numpy array
-    	An array of testing instances.
+	XTestReady : 2D numpy array
+		An array of testing instances.
 
-    B : int
-    	The number of bootstrapping models
+	B : int
+		The number of bootstrapping models
 
-    parametric : boolean
-    	(1 = Parametric bootstrapping - normal distribution) VS (0 = Nonparametric bootstrapping)
+	parametric : boolean
+		(1 = Parametric bootstrapping - normal distribution) VS (0 = Nonparametric bootstrapping)
 
-    Return Value
-    ----------
-    1D numpy array of prediction results corresponding to test instances.
+	Return Value
+	----------
+	1D numpy array of prediction results corresponding to test instances.
 
 	"""
 	estimator.fit(Xready, y)

@@ -27,16 +27,16 @@ def writeCSV(path,aList):
 	This function dumps aList into a csv file as specified by path.
 
 	Parameters
-    ----------
-    path : string
-    	A filename or file path to save the csv file.
+	----------
+	path : string
+		A filename or file path to save the csv file.
 
-    aList : list
-    	A list of data to write into the csv file.
+	aList : list
+		A list of data to write into the csv file.
 
-    Return Value
-    ----------
-    None
+	Return Value
+	----------
+	None
 
 	"""
 	with open(path,'wb') as w:
@@ -49,13 +49,13 @@ def getHeader(filepath):
 	This function returns the header row of input file as a list.
 
 	Parameters
-    ----------
-    filepath : string
-    	A filename or file path of the csv input file.
+	----------
+	filepath : string
+		A filename or file path of the csv input file.
 
-    Return Value
-    ----------
-    A list of entries in the header row of the input file. 
+	Return Value
+	----------
+	A list of entries in the header row of the input file. 
 
 	"""
 	with open(filepath, 'rb') as f:
@@ -70,21 +70,21 @@ def getIndicatorRank(targetIndex, allFeatures = 0, toNextYear = 0, rankMethod = 
 	The file containing the rank is in the folder 'Feature Ranking'.  
 
 	Parameters
-    ----------
-    targetIndex : int
-    	The index (key) of the target variable.
+	----------
+	targetIndex : int
+		The index (key) of the target variable.
 
-    allFeatures, toNextYear, rankMethod : 0 or 1
-    	allFeatures : (0 = All) VS (1 = Ext)
+	allFeatures, toNextYear, rankMethod : 0 or 1
+		allFeatures : (0 = All) VS (1 = Ext)
 		toNextYear : (0 = N) VS (1 = P)
 		rankMethod : (0 = MIC) VS (1 = FST)
 
-    Return Value
-    ----------
-    The ranked list of indicators which have a strong relationship with the target variable
+	Return Value
+	----------
+	The ranked list of indicators which have a strong relationship with the target variable
 
 	"""
-	
+
 	col = allFeatures * 4 + toNextYear * 2 + rankMethod * 1
 
 	indicatorRank = []
@@ -108,16 +108,16 @@ def findFileName(folderName, year):
 	This function checks whether there is a file whose name begins with the specified year in the specified folder or not. 
 
 	Parameters
-    ----------
-    folderName : string
-    	The name or path of the folder.
+	----------
+	folderName : string
+		The name or path of the folder.
 
-    year : int
-    	The year of the desired file we want to find.
+	year : int
+		The year of the desired file we want to find.
 
-    Return Value
-    ----------
-    File name if the file exists; otherwise, return 'Not found'.
+	Return Value
+	----------
+	File name if the file exists; otherwise, return 'Not found'.
 
 	"""
 	for root, dirs, files in os.walk('./'+folderName):    
@@ -131,23 +131,23 @@ def getColumnIndexList(folderName, filename, targetIndex, indicatorRank):
 	This function finds the index of column of the ranked indicators and the target indicator in the input file.
 
 	Parameters
-    ----------
-    folderName : string
-    	The name or path of the folder.
+	----------
+	folderName : string
+		The name or path of the folder.
 
-    filename : string
-    	The name of the data file.
+	filename : string
+		The name of the data file.
 
-   	targetIndex : int
-    	The index (key) of the target variable.
+		targetIndex : int
+		The index (key) of the target variable.
 
-    indicatorRank : list of string
-    	The output of function getIndicatorRank
+	indicatorRank : list of string
+		The output of function getIndicatorRank
 
-    Return Value
-    ----------
-    (columnIndexList, yIndex) where columnIndexList is the list of column indices of indicators in indicatorRank
-    and yIndex is the column index of target indicator in the input data file. 
+	Return Value
+	----------
+	(columnIndexList, yIndex) where columnIndexList is the list of column indices of indicators in indicatorRank
+	and yIndex is the column index of target indicator in the input data file. 
 
 	"""
 	columnIndexList = []
@@ -173,24 +173,24 @@ def shapingDataset(folderName, year, targetIndex, indicatorRank):
 	based on the specified year, targetIndex, and indicatorRank.
 
 	Parameters
-    ----------
-    folderName : string
-    	The name or path of the folder containing the data file.
+	----------
+	folderName : string
+		The name or path of the folder containing the data file.
 
-    year : int
-    	The year of the data.
+	year : int
+		The year of the data.
 
-   	targetIndex : int
-    	The index (key) of the target variable.
+		targetIndex : int
+		The index (key) of the target variable.
 
-    indicatorRank : list of string
-    	The output of function getIndicatorRank which are indicators we include in the analysis process.
+	indicatorRank : list of string
+		The output of function getIndicatorRank which are indicators we include in the analysis process.
 
-    Return Value
-    ----------
-    (X, y) where X is the 2D numpy array containing data of indicators (in indicatorRank) of the specified year 
-    and y is the 1D numpy array containing target value of the next year. 
-    Each value of y corresponds to each row of X. 
+	Return Value
+	----------
+	(X, y) where X is the 2D numpy array containing data of indicators (in indicatorRank) of the specified year 
+	and y is the 1D numpy array containing target value of the next year. 
+	Each value of y corresponds to each row of X. 
 
 	"""
 	filename = findFileName(folderName, year)
@@ -213,28 +213,28 @@ def crossValidation(targetIndexInList, allFeatures = 0, toNextYear = 0, rankMeth
 	using cross validation and mean absolute value.
 
 	Parameters
-    ----------
-    targetIndexInList : int
-    	The index of the focused target indicator in the list of all target indicators.
+	----------
+	targetIndexInList : int
+		The index of the focused target indicator in the list of all target indicators.
 
-    allFeatures, toNextYear, rankMethod : 0 or 1
-    	allFeatures : (0 = All) VS (1 = Ext)
+	allFeatures, toNextYear, rankMethod : 0 or 1
+		allFeatures : (0 = All) VS (1 = Ext)
 		toNextYear : (0 = N) VS (1 = P)
 		rankMethod : (0 = MIC) VS (1 = FST)
 
-    numFeatures : int
-    	The number of features included in the prediction model.
+	numFeatures : int
+		The number of features included in the prediction model.
 
-    algorithm : string (usually 3-character)
-    	The code of prediction algorithm such as 'RID' for ridge regression.
+	algorithm : string (usually 3-character)
+		The code of prediction algorithm such as 'RID' for ridge regression.
 
-   	cv : int
-    	The number of fold for cross validation.
+		cv : int
+		The number of fold for cross validation.
 
-    Return Value
-    ----------
-    averageScore : the average error of all folds
-    sumTime : total time used
+	Return Value
+	----------
+	averageScore : the average error of all folds
+	sumTime : total time used
 
 	"""
 	# allFeatures = 0 # All VS Ext
@@ -298,13 +298,13 @@ def getTargetAndPredictorIndex(header):
 	This function extracts the first column index of target indicators, predictor indicators, and total number of all columns.
 
 	Parameters
-    ----------
-    header : list
-    	The list of header of the data file.
+	----------
+	header : list
+		The list of header of the data file.
 
-    Return Value
-    ----------
-    startTargetIndex (normally 1), startPredictorIndex, numCols
+	Return Value
+	----------
+	startTargetIndex (normally 1), startPredictorIndex, numCols
 
 	"""
 	startTargetIndex = None
@@ -328,25 +328,25 @@ def getFeaturesIndex(predictorHeader,folderName,targetID,rankingMethod,numFeatur
 	This function finds all indices of predictors based on predictorHeader. 
 
 	Parameters
-    ----------
-    predictorHeader : list
-    	The list of header (from startPredictorIndex and so on).
+	----------
+	predictorHeader : list
+		The list of header (from startPredictorIndex and so on).
 
-    folderName : string
-    	The name or path to the folder containing ranked predictor lists.
+	folderName : string
+		The name or path to the folder containing ranked predictor lists.
 
-    targetID : int
-    	The index (key) of the target variable.
+	targetID : int
+		The index (key) of the target variable.
 
-    rankingMethod : int
-    	The number specified how predictors are ranked. (See the file of ranked predictor lists)
+	rankingMethod : int
+		The number specified how predictors are ranked. (See the file of ranked predictor lists)
 
-    numFeatures : int
-    	The number of features included in the model.
+	numFeatures : int
+		The number of features included in the model.
 
-    Return Value
-    ----------
-    XIndex : all column indices of predictors included in the prediction model.
+	Return Value
+	----------
+	XIndex : all column indices of predictors included in the prediction model.
 
 	"""
 	f = open('./'+folderName+'/'+str(targetID)+'.csv','rb')
@@ -365,19 +365,19 @@ def getEstimator(algorithm, Yscaler, numFeatures):
 	This function returns sklearn estimator as requested. 
 
 	Parameters
-    ----------
-    algorithm : string (usually 3-character)
-    	The code of prediction algorithm such as 'RID' for ridge regression.
+	----------
+	algorithm : string (usually 3-character)
+		The code of prediction algorithm such as 'RID' for ridge regression.
 
-    Yscaler : Scaler object of sklearn
-    	Scaler object of sklearn fit to the training dataset
+	Yscaler : Scaler object of sklearn
+		Scaler object of sklearn fit to the training dataset
 
-    numFeatures : int
-    	The number of features included in the model.
+	numFeatures : int
+		The number of features included in the model.
 
-    Return Value
-    ----------
-    sklearn estimator as requested
+	Return Value
+	----------
+	sklearn estimator as requested
 
 	"""
 	halfFeatures = numFeatures/2+1
@@ -421,19 +421,19 @@ def getEstimatorGridSearch(algorithm, Yscaler, numFeatures):
 	This function returns sklearn estimator with built-in grid search for parameter optimization as requested. 
 
 	Parameters
-    ----------
-    algorithm : string (usually 3-character)
-    	The code of prediction algorithm such as 'RID' for ridge regression.
+	----------
+	algorithm : string (usually 3-character)
+		The code of prediction algorithm such as 'RID' for ridge regression.
 
-    Yscaler : Scaler object of sklearn
-    	Scaler object of sklearn fit to the training dataset
+	Yscaler : Scaler object of sklearn
+		Scaler object of sklearn fit to the training dataset
 
-    numFeatures : int
-    	The number of features included in the model.
-    	
-    Return Value
-    ----------
-    sklearn estimator with built-in grid search as requested
+	numFeatures : int
+		The number of features included in the model.
+		
+	Return Value
+	----------
+	sklearn estimator with built-in grid search as requested
 
 	"""
 	halfFeatures = numFeatures/2+1
@@ -488,16 +488,16 @@ def crossValidationLargeFile(filename, cv=5):
 	** This function is hard coded. Please be careful while editing. **
 
 	Parameters
-    ----------
-    filename : string
-    	The name of stacked file in iteration 2.
+	----------
+	filename : string
+		The name of stacked file in iteration 2.
 
-   	cv : int
-    	The number of fold for cross validation.
+		cv : int
+		The number of fold for cross validation.
 
-    Return Value
-    ----------
-    None, but the results are saved as files instead.
+	Return Value
+	----------
+	None, but the results are saved as files instead.
 
 	"""
 	# filename = '2006-2013_FilteredColsTargetMissingBlank.csv'
@@ -617,19 +617,19 @@ def validationLargeFile(filename, testFilename, cv=5):
 	** This function is hard coded. Please be careful while editing. **
 
 	Parameters
-    ----------
-    filename : string
-    	The name of stacked file used as training data in iteration 2.
+	----------
+	filename : string
+		The name of stacked file used as training data in iteration 2.
 
-    testFilename : string
-    	The name of file used as test data in iteration 2.
+	testFilename : string
+		The name of file used as test data in iteration 2.
 
-   	cv : int
-    	The number of fold for cross validation. # is not used in this function
+		cv : int
+		The number of fold for cross validation. # is not used in this function
 
-    Return Value
-    ----------
-    None, but the results are saved as files instead.
+	Return Value
+	----------
+	None, but the results are saved as files instead.
 
 	"""
 	# filename = '2006-2013_FilteredColsTargetMissingBlank.csv'
@@ -763,28 +763,28 @@ def crossValidationOneOption(filename, targetIdx, rankingMethod, algorithm, numF
 	** This function is hard coded. Please be careful while editing. **
 
 	Parameters
-    ----------
-    filename : string
-    	The name of stacked file in iteration 2.
+	----------
+	filename : string
+		The name of stacked file in iteration 2.
 
-    targetIdx : int
-    	The index of target variable in the target list.
+	targetIdx : int
+		The index of target variable in the target list.
 
-    rankingMethod : int
-    	The number specified how predictors are ranked. (See the file of ranked predictor lists)
+	rankingMethod : int
+		The number specified how predictors are ranked. (See the file of ranked predictor lists)
 
-    algorithm : string (usually 3-character)
-    	The code of prediction algorithm such as 'RID' for ridge regression.
+	algorithm : string (usually 3-character)
+		The code of prediction algorithm such as 'RID' for ridge regression.
 
-    numFeatures : int
-    	The number of features included in the model.
+	numFeatures : int
+		The number of features included in the model.
 
-   	cv : int
-    	The number of fold for cross validation.
+		cv : int
+		The number of fold for cross validation.
 
-    Return Value
-    ----------
-    None, but the results (error, sd, time spent) are printed.
+	Return Value
+	----------
+	None, but the results (error, sd, time spent) are printed.
 
 	"""
 		# filename = '2006-2013_FilteredColsTargetMissingBlank.csv'
@@ -837,13 +837,13 @@ def getSimilarColIndex(header, testHeader):
 	appear in the train header.
 
 	Parameters
-    ----------
-    header, testHeader : list
-    	Lists of entries in header of training and testing data respectively.
+	----------
+	header, testHeader : list
+		Lists of entries in header of training and testing data respectively.
 
-    Return Value
-    ----------
-    The list of indices of the columns in the testHeader which also
+	Return Value
+	----------
+	The list of indices of the columns in the testHeader which also
 	appear in the train header.
 
 	"""
@@ -858,34 +858,34 @@ def testModel(testFilename, filename, targetIdx, rankingMethod, algorithm, numFe
 	This function trains and tests the input model configurations with the test dataset.
 
 	Parameters
-    ----------
-    testFilename : string
-    	The name of file in iteration 2 used as testing data.
+	----------
+	testFilename : string
+		The name of file in iteration 2 used as testing data.
 
-    filename : string
-    	The name of stacked file in iteration 2 used as training data.
+	filename : string
+		The name of stacked file in iteration 2 used as training data.
 
-    targetIdx : int
-    	The index of target variable in the target list.
+	targetIdx : int
+		The index of target variable in the target list.
 
-    rankingMethod : int
-    	The number specified how predictors are ranked. (See the file of ranked predictor lists)
+	rankingMethod : int
+		The number specified how predictors are ranked. (See the file of ranked predictor lists)
 
-    algorithm : string (usually 3-character)
-    	The code of prediction algorithm such as 'RID' for ridge regression.
+	algorithm : string (usually 3-character)
+		The code of prediction algorithm such as 'RID' for ridge regression.
 
-    numFeatures : int
-    	The number of features included in the model.
+	numFeatures : int
+		The number of features included in the model.
 
-    gridSearch : boolean
-    	Perform parameter optimization or not.
+	gridSearch : boolean
+		Perform parameter optimization or not.
 
-   	cv : int
-    	The number of fold for cross validation.
+		cv : int
+		The number of fold for cross validation.
 
-    Return Value
-    ----------
-    None, but the results (error, sd) are printed.
+	Return Value
+	----------
+	None, but the results (error, sd) are printed.
 
 	"""
 		# filename = '2006-2013_FilteredColsTargetMissingBlank.csv'
@@ -987,28 +987,28 @@ def bootstrappingPrediction(estimator, Xready, y, XTestReady, B = 200, parametri
 	This function performs bootstrapping prediction instead of normal prediction.
 
 	Parameters
-    ----------
-    estimator : sklearn estimator
-    	An estimator object used to predict the target value.
+	----------
+	estimator : sklearn estimator
+		An estimator object used to predict the target value.
 
-    Xready : 2D numpy array
-    	An array of training instances.
+	Xready : 2D numpy array
+		An array of training instances.
 
-    y : 1D numpy array
-    	An array of target values for training instances.
+	y : 1D numpy array
+		An array of target values for training instances.
 
-    XTestReady : 2D numpy array
-    	An array of testing instances.
+	XTestReady : 2D numpy array
+		An array of testing instances.
 
-    B : int
-    	The number of bootstrapping models
+	B : int
+		The number of bootstrapping models
 
-    parametric : boolean
-    	(1 = Parametric bootstrapping - normal distribution) VS (0 = Nonparametric bootstrapping)
+	parametric : boolean
+		(1 = Parametric bootstrapping - normal distribution) VS (0 = Nonparametric bootstrapping)
 
-    Return Value
-    ----------
-    1D numpy array of prediction results corresponding to test instances.
+	Return Value
+	----------
+	1D numpy array of prediction results corresponding to test instances.
 
 	"""
 	estimator.fit(Xready, y)

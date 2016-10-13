@@ -9,16 +9,16 @@ def writeCSV(path,aList):
 	This function dumps aList into a csv file as specified by path.
 
 	Parameters
-    ----------
-    path : string
-    	A filename or file path to save the csv file.
+	----------
+	path : string
+		A filename or file path to save the csv file.
 
-    aList : list
-    	A list of data to write into the csv file.
+	aList : list
+		A list of data to write into the csv file.
 
-    Return Value
-    ----------
-    None
+	Return Value
+	----------
+	None
 
 	"""
 	with open(path,'wb') as w:

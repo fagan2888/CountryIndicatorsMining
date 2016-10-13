@@ -27,16 +27,16 @@ def writeCSV(path,aList):
 	This function dumps aList into a csv file as specified by path.
 
 	Parameters
-    ----------
-    path : string
-    	A filename or file path to save the csv file.
+	----------
+	path : string
+		A filename or file path to save the csv file.
 
-    aList : list
-    	A list of data to write into the csv file.
+	aList : list
+		A list of data to write into the csv file.
 
-    Return Value
-    ----------
-    None
+	Return Value
+	----------
+	None
 
 	"""
 	with open(path,'wb') as w:
@@ -49,19 +49,19 @@ def getTargetIndexInData(targetName, dataName, targetIdx):
 	This function finds the location of the focused target indicator in the list of predictor indicators. 
 
 	Parameters
-    ----------
-    targetName : list
-    	A list of target indicators name. 
+	----------
+	targetName : list
+		A list of target indicators name. 
 
-    dataName : list
-    	A list of predictor indicators name.
+	dataName : list
+		A list of predictor indicators name.
 
-    targetIdx : int
-    	An idex of focused target variable in the targetName list.
+	targetIdx : int
+		An idex of focused target variable in the targetName list.
 
-    Return Value
-    ----------
-    The index of the focused target indicator in the list of predictor indicators
+	Return Value
+	----------
+	The index of the focused target indicator in the list of predictor indicators
 
 	"""
 	target = targetName[targetIdx]
@@ -73,25 +73,25 @@ def getFeaturesIndex(predictorHeader,folderName,targetID,rankingMethod,numFeatur
 	This function finds all indices of predictors based on predictorHeader. 
 
 	Parameters
-    ----------
-    predictorHeader : list
-    	The list of header (from startPredictorIndex and so on).
+	----------
+	predictorHeader : list
+		The list of header (from startPredictorIndex and so on).
 
-    folderName : string
-    	The name or path to the folder containing ranked predictor lists.
+	folderName : string
+		The name or path to the folder containing ranked predictor lists.
 
-    targetID : int
-    	The index (key) of the target variable.
+	targetID : int
+		The index (key) of the target variable.
 
-    rankingMethod : int
-    	The number specified how predictors are ranked. (See the file of ranked predictor lists)
+	rankingMethod : int
+		The number specified how predictors are ranked. (See the file of ranked predictor lists)
 
-    numFeatures : int
-    	The number of features included in the model.
+	numFeatures : int
+		The number of features included in the model.
 
-    Return Value
-    ----------
-    XIndex : all column indices of predictors included in the prediction model.
+	Return Value
+	----------
+	XIndex : all column indices of predictors included in the prediction model.
 
 	"""
 
@@ -111,19 +111,19 @@ def getEstimator(algorithm, Yscaler, numFeatures):
 	This function returns sklearn estimator as requested. 
 
 	Parameters
-    ----------
-    algorithm : string (usually 3-character)
-    	The code of prediction algorithm such as 'RID' for ridge regression.
+	----------
+	algorithm : string (usually 3-character)
+		The code of prediction algorithm such as 'RID' for ridge regression.
 
-    Yscaler : Scaler object of sklearn
-    	Scaler object of sklearn fit to the training dataset
+	Yscaler : Scaler object of sklearn
+		Scaler object of sklearn fit to the training dataset
 
-    numFeatures : int
-    	The number of features included in the model.
+	numFeatures : int
+		The number of features included in the model.
 
-    Return Value
-    ----------
-    sklearn estimator as requested
+	Return Value
+	----------
+	sklearn estimator as requested
 
 	"""
 
@@ -168,19 +168,19 @@ def getEstimatorGridSearch(algorithm, Yscaler, numFeatures):
 	This function returns sklearn estimator with built-in grid search for parameter optimization as requested. 
 
 	Parameters
-    ----------
-    algorithm : string (usually 3-character)
-    	The code of prediction algorithm such as 'RID' for ridge regression.
+	----------
+	algorithm : string (usually 3-character)
+		The code of prediction algorithm such as 'RID' for ridge regression.
 
-    Yscaler : Scaler object of sklearn
-    	Scaler object of sklearn fit to the training dataset
+	Yscaler : Scaler object of sklearn
+		Scaler object of sklearn fit to the training dataset
 
-    numFeatures : int
-    	The number of features included in the model.
-    	
-    Return Value
-    ----------
-    sklearn estimator with built-in grid search as requested
+	numFeatures : int
+		The number of features included in the model.
+		
+	Return Value
+	----------
+	sklearn estimator with built-in grid search as requested
 
 	"""
 
@@ -236,13 +236,13 @@ def crossValidation(filename):
 	** This function is hard coded. Please be careful while editing. **
 
 	Parameters
-    ----------
-    filename : string
-    	The name or path of the json file used in iteration 3.
+	----------
+	filename : string
+		The name or path of the json file used in iteration 3.
 
-    Return Value
-    ----------
-    None, but the results are saved as files instead.
+	Return Value
+	----------
+	None, but the results are saved as files instead.
 
 	"""
 
@@ -356,34 +356,34 @@ def testModel(filename, targetIdx, rankingMethod, algorithm, numFeatures, bootst
 	** This function is hard coded. Please be careful while editing. **
 
 	Parameters
-    ----------
-    filename : string
-    	The name of json file in iteration 3.
+	----------
+	filename : string
+		The name of json file in iteration 3.
 
-    targetIdx : int
-    	The index of target variable in the target list.
+	targetIdx : int
+		The index of target variable in the target list.
 
-    rankingMethod : int
-    	The number specified how predictors are ranked. (See the file of ranked predictor lists)
+	rankingMethod : int
+		The number specified how predictors are ranked. (See the file of ranked predictor lists)
 
-    algorithm : string (usually 3-character)
-    	The code of prediction algorithm such as 'RID' for ridge regression.
+	algorithm : string (usually 3-character)
+		The code of prediction algorithm such as 'RID' for ridge regression.
 
-    numFeatures : int
-    	The number of features included in the model.
+	numFeatures : int
+		The number of features included in the model.
 
-    bootstrapping : boolean
-   		Perform bootstrapping prediction or not.
+	bootstrapping : boolean
+			Perform bootstrapping prediction or not.
 
-    gridSearch : boolean
-    	Perform parameter optimization or not.
+	gridSearch : boolean
+		Perform parameter optimization or not.
 
-    estimator : sklearn estimator
-    	An estimator to test (optional since it can be indicated by other parameters).
+	estimator : sklearn estimator
+		An estimator to test (optional since it can be indicated by other parameters).
 
-    Return Value
-    ----------
-    None, but the results (error, sd) are printed.
+	Return Value
+	----------
+	None, but the results (error, sd) are printed.
 
 	"""
 	f = open(filename, 'rb')
@@ -447,28 +447,28 @@ def bootstrappingPrediction(estimator, Xready, y, XTestReady, B = 200, parametri
 	This function performs bootstrapping prediction instead of normal prediction.
 
 	Parameters
-    ----------
-    estimator : sklearn estimator
-    	An estimator object used to predict the target value.
+	----------
+	estimator : sklearn estimator
+		An estimator object used to predict the target value.
 
-    Xready : 2D numpy array
-    	An array of training instances.
+	Xready : 2D numpy array
+		An array of training instances.
 
-    y : 1D numpy array
-    	An array of target values for training instances.
+	y : 1D numpy array
+		An array of target values for training instances.
 
-    XTestReady : 2D numpy array
-    	An array of testing instances.
+	XTestReady : 2D numpy array
+		An array of testing instances.
 
-    B : int
-    	The number of bootstrapping models
+	B : int
+		The number of bootstrapping models
 
-    parametric : boolean
-    	(1 = Parametric bootstrapping - normal distribution) VS (0 = Nonparametric bootstrapping)
+	parametric : boolean
+		(1 = Parametric bootstrapping - normal distribution) VS (0 = Nonparametric bootstrapping)
 
-    Return Value
-    ----------
-    1D numpy array of prediction results corresponding to test instances.
+	Return Value
+	----------
+	1D numpy array of prediction results corresponding to test instances.
 
 	"""
 	estimator.fit(Xready, y)

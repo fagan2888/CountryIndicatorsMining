@@ -16,16 +16,16 @@ def createFileByYear(year, destinationFolder='Formatted Files'):
 	Each column in the created file is for one indicator e.g. 0001: Agricultural machinery; tractors - WDI
 
 	Parameters
-    ----------
-    year : int
-        The year of the created file.
+	----------
+	year : int
+	    The year of the created file.
 
-    destinationFolder : string 
-    	The name of folder in the same directory into which the created file is saved.
+	destinationFolder : string 
+		The name of folder in the same directory into which the created file is saved.
 
-    Return Value
-    ----------
-    (filename, data density)
+	Return Value
+	----------
+	(filename, data density)
 
 	"""
 	rows = []
@@ -107,16 +107,16 @@ def createFileByYearIgnoreMissingColumn(year, destinationFolder='Formatted Files
 	Each column in the created file is for one indicator e.g. 0001: Agricultural machinery; tractors - WDI
 
 	Parameters
-    ----------
-    year : int
-        The year of the created file.
+	----------
+	year : int
+	    The year of the created file.
 
-    destinationFolder : string 
-    	The name of folder in the same directory into which the created file is saved.
+	destinationFolder : string 
+		The name of folder in the same directory into which the created file is saved.
 
-    Return Value
-    ----------
-    (filename, data density)
+	Return Value
+	----------
+	(filename, data density)
 
 	"""
 	rows = []
@@ -207,18 +207,18 @@ def createFileToTheNextYearIgnoreMissingColumn(year, destinationFolder='NewForma
 	The first few columns are for target indicators of the next year e.g. 2704N: Corruption perceptions index - Transparency - 0
 
 	This function is used to create data files in iteration 1.
-	
+
 	Parameters
-    ----------
-    year : int
-        The year of the created file.
+	----------
+	year : int
+	    The year of the created file.
 
-    destinationFolder : string 
-    	The name of folder in the same directory into which the created file is saved.
+	destinationFolder : string 
+		The name of folder in the same directory into which the created file is saved.
 
-    Return Value
-    ----------
-    (filename, data density, the number of next year indicators included)
+	Return Value
+	----------
+	(filename, data density, the number of next year indicators included)
 
 	"""
 	targetList = [2704,2707,2713,2716,2718,808,811,1954]

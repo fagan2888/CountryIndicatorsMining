@@ -13,16 +13,16 @@ def spearmanAllFiles(folderName, filePrefix):
 	for all files in the specified folder with the specified filePrefix.
 
 	Parameters
-    ----------
-    folderName : string
-    	A relative file path to the folder containing result files from MINE.
+	----------
+	folderName : string
+		A relative file path to the folder containing result files from MINE.
 
-    filePrefix : string
-    	The prefix of file to calculate spearman correlation. 
+	filePrefix : string
+		The prefix of file to calculate spearman correlation. 
 
-    Return Value
-    ----------
-    None
+	Return Value
+	----------
+	None
 
 	"""
 	fileList = []
@@ -51,12 +51,12 @@ def spearmanTwoPhase():
 	** This function is hard coded. Please be careful while editing. **
 
 	Parameters
-    ----------
-    None
+	----------
+	None
 
-    Return Value
-    ----------
-    None
+	Return Value
+	----------
+	None
 
 	"""
 	targetList = ['0808','0811','2704','2707','2713','2716','2718']
@@ -93,16 +93,16 @@ def plotMICRHOAllFiles(folderName, filePrefix):
 	The plots are saved into the same folder as the result files from Weka.
 
 	Parameters
-    ----------
-    folderName : string
-    	A relative file path to the folder containing result files from Weka.
+	----------
+	folderName : string
+		A relative file path to the folder containing result files from Weka.
 
-    filePrefix : string
-    	The prefix of result files to plot e.g. 'MINE-Indicator-2006TO2013-'. 
+	filePrefix : string
+		The prefix of result files to plot e.g. 'MINE-Indicator-2006TO2013-'. 
 
-    Return Value
-    ----------
-    None
+	Return Value
+	----------
+	None
 
 	"""
 	fileList = []

@@ -11,14 +11,14 @@ def distance(list1,list2):
 	This function finds Eucledian distance between two data points with the same number of attributes.
 
 	Parameters
-    ----------
-    list1, list2 : list of float
-    	Two lists which we want to know the distance between 
+	----------
+	list1, list2 : list of float
+		Two lists which we want to know the distance between 
 
-    Return Value
-    ----------
-    If two lists have the same number of attributes, return the Eucledian distance. 
-    Otherwise, return None.
+	Return Value
+	----------
+	If two lists have the same number of attributes, return the Eucledian distance. 
+	Otherwise, return None.
 
 	"""
 	if len(list1) != len(list2):
@@ -31,8 +31,8 @@ def plot(XData,YData,XLabel,YLabel,title,saveName):
 	Generate and save a scatter plot.
 
 	Parameters
-    ----------
-    XData, YData : array_like, shape (n, )
+	----------
+	XData, YData : array_like, shape (n, )
 		Input data
 
 	XLabel,YLabel : string
@@ -44,9 +44,9 @@ def plot(XData,YData,XLabel,YLabel,title,saveName):
 	saveName: string
 		A filename or file path of the output plot (usually end with .png).
 
-    Return Value
-    ----------
-    None.
+	Return Value
+	----------
+	None.
 
 	"""
 	plt.scatter(XData,YData)
@@ -65,12 +65,12 @@ def plotPhase1():
 	** This function is hard coded. Please be careful when editing. **
 
 	Parameters
-    ----------
-    None
+	----------
+	None
 
-    Return Value
-    ----------
-    None.
+	Return Value
+	----------
+	None.
 
 	"""
 	targetIndex = ['0808','0811','1954','2704','2707','2713','2716','2718']
@@ -139,12 +139,12 @@ def plotPhase2():
 	** This function is hard coded. Please be careful when editing. **
 
 	Parameters
-    ----------
-    None
+	----------
+	None
 
-    Return Value
-    ----------
-    None.
+	Return Value
+	----------
+	None.
 
 	"""
 	targetIndex = ['0808','0811','0835','2704','2707','2713','2716','2718']
