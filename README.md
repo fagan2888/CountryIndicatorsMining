@@ -16,6 +16,7 @@ In a nutshell,
 1. After collecting data from many sources and conducting ETL into a data warehouse, we divide the analysis process into three iterations. Each of the iterations consists of data formatting, data exploration, and data forecasting except iteration 3 which does not have data exploration.
 2. If you want to work on the original data warehouse, please download it from [here](https://drive.google.com/file/d/0B6dxM_iLlLqwYmdNSEw0VG5seGs/view?usp=sharing)
 3. Repository Structure
+
 * Data Files : contains all formatted files for each iteration.
 * Data Exploration : contains plots and exploration results in iteration 1 and 2. 
 * Data Forecasting : contains feature selection and cross validation results from each iteration.  
