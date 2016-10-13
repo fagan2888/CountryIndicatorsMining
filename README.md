@@ -21,19 +21,17 @@ In a nutshell,
 * Data Exploration : contains plots and exploration results in iteration 1 and 2. 
 * Data Forecasting : contains feature selection and cross validation results from each iteration.  
 * Python Scripts : contains python files used to perform data formatting, exploration, and forecasting.
-
-	** createFileFromData.py : create data files of iteration 1 from the data warehouse (Please edit database connection at line 5 of this file before use)
-	** aggregateToSingleFile.py : create staked data files of iteration 2 from the data files in iteration 1.
-	** createJSON.py : create a json data file for iteration 3 from a stacked data file from iteration 2.
-	** eda.py : calculate Spearman correlation and plot MIC-Rho graph
-	** runMINE.py : execute MINE software and processing its results
-	** featureSelection.py : perform feature selection using selectKBest method
-	** averageRankingFeatureSelection.py : average the results from featureSelection.py.
-	** plotGraphClustering.py : generate scatter plots of all relationships categorized by clusters
-	** prediction.py : predict target variables in iteration 1 and 2
-	** predictionJSON.py : predict target variables in iteration 3 using our method 
-	** benchmarkTest.py : predict target variables in iteration 3 using our method and other benchmarks and report their accuracy	
-	
+	* createFileFromData.py : create data files of iteration 1 from the data warehouse (Please edit database connection at line 5 of this file before use)
+	* aggregateToSingleFile.py : create staked data files of iteration 2 from the data files in iteration 1.
+	* createJSON.py : create a json data file for iteration 3 from a stacked data file from iteration 2.
+	* eda.py : calculate Spearman correlation and plot MIC-Rho graph
+	* runMINE.py : execute MINE software and processing its results
+	* featureSelection.py : perform feature selection using selectKBest method
+	* averageRankingFeatureSelection.py : average the results from featureSelection.py.
+	* plotGraphClustering.py : generate scatter plots of all relationships categorized by clusters
+	* prediction.py : predict target variables in iteration 1 and 2
+	* predictionJSON.py : predict target variables in iteration 3 using our method 
+	* benchmarkTest.py : predict target variables in iteration 3 using our method and other benchmarks and report their accuracy	
 * MINE.jar is a software to calculate MIC and MINE statistics which is one of the important tools in this project. I downloaded it from http://www.exploredata.net/Downloads. So, all credit of this MINE software goes to its inventors (Reshef et al.). 
 
 ## Disclaimer
