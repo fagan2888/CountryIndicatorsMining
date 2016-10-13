@@ -7,12 +7,48 @@ import matplotlib.pyplot as plt
 from operator import add
 
 def distance(list1,list2):
+	""" 
+	This function finds Eucledian distance between two data points with the same number of attributes.
+
+	Parameters
+    ----------
+    list1, list2 : list of float
+    	Two lists which we want to know the distance between 
+
+    Return Value
+    ----------
+    If two lists have the same number of attributes, return the Eucledian distance. 
+    Otherwise, return None.
+
+	"""
 	if len(list1) != len(list2):
 		return None
 	else:
 		return np.sqrt(np.array([(list1[i]-list2[i])**2 for i in range(len(list1))]).sum())
 
 def plot(XData,YData,XLabel,YLabel,title,saveName):
+	""" 
+	Generate and save a scatter plot.
+
+	Parameters
+    ----------
+    XData, YData : array_like, shape (n, )
+		Input data
+
+	XLabel,YLabel : string
+		X axis label and Y axis label respectively
+
+	title : string
+		plot title
+
+	saveName: string
+		A filename or file path of the output plot (usually end with .png).
+
+    Return Value
+    ----------
+    None.
+
+	"""
 	plt.scatter(XData,YData)
 	plt.ylabel(YLabel)
 	plt.xlabel(XLabel)
@@ -21,6 +57,22 @@ def plot(XData,YData,XLabel,YLabel,title,saveName):
 	plt.close('all')
 
 def plotPhase1():
+	""" 
+	Plot and save all scatter plots from iteration 1 into folders grouped by the clusters e.g. 0811N-1287.png.
+	Moreover, duplicate the plot which is the nearest plot to the center of each cluster and save it e.g. Nearest-0811N-1071.png.
+	Do this for all target indicators.
+
+	** This function is hard coded. Please be careful when editing. **
+
+	Parameters
+    ----------
+    None
+
+    Return Value
+    ----------
+    None.
+
+	"""
 	targetIndex = ['0808','0811','1954','2704','2707','2713','2716','2718']
 	for target in targetIndex:
 		newpath = './For Clustering/'+target 
@@ -79,6 +131,22 @@ def plotPhase1():
 			plot(XData = XData, YData = YData, XLabel = nearest['row'][2], YLabel = nearest['row'][1], title = fname, saveName = './For Clustering/'+target+'/'+key+'/Nearest-'+nearest['row'][1][1:6]+'-'+nearest['row'][2][1:5]+'.png')
 
 def plotPhase2():
+	""" 
+	Plot and save all scatter plots from iteration 2 into folders grouped by the clusters e.g. 0811N-1287.png.
+	Moreover, duplicate the plot which is the nearest plot to the center of each cluster and save it e.g. Nearest-0811N-1071.png.
+	Do this for all target indicators.
+
+	** This function is hard coded. Please be careful when editing. **
+
+	Parameters
+    ----------
+    None
+
+    Return Value
+    ----------
+    None.
+
+	"""
 	targetIndex = ['0808','0811','0835','2704','2707','2713','2716','2718']
 	for target in targetIndex:
 		newpath = './For Clustering/'+target+'-2006TO2013' 

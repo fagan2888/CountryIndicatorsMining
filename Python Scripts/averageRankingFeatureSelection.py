@@ -8,6 +8,13 @@ from sklearn.feature_selection import *
 from sklearn.preprocessing import Imputer
 np.set_printoptions(threshold='nan')
 
+"""
+This file is used to average the results of FS2Years function from featureSelection.py.
+It computes the final selectKBest ranking for each target variable to be used in the prediction process in iteration 1.
+The prefix of the result files is 'Summary - ' such as 'Summary - FeatureSelectionIndicator811 - k40 - f_regression.csv'
+
+"""
+
 fileList = []
 for root, dirs, files in os.walk('./FormattedFilesWithoutMissingToNextYear'):    
     for afile in files:

@@ -8,6 +8,23 @@ import matplotlib.colors as co
 import numpy as np
 
 def spearmanAllFiles(folderName, filePrefix):
+	"""
+	Calculate Spearman Correlation between MIC and Rho which are results from MINE software
+	for all files in the specified folder with the specified filePrefix.
+
+	Parameters
+    ----------
+    folderName : string
+    	A relative file path to the folder containing result files from MINE.
+
+    filePrefix : string
+    	The prefix of file to calculate spearman correlation. 
+
+    Return Value
+    ----------
+    None
+
+	"""
 	fileList = []
 	for root, dirs, files in os.walk('./'+folderName):    
 	    for afile in files:
@@ -28,6 +45,20 @@ def spearmanAllFiles(folderName, filePrefix):
 		print ('%s - Spearman = %f, pvalue = %f')%(afile, scipy.stats.spearmanr(MIC,rho)[0], scipy.stats.spearmanr(MIC,rho)[1])
 
 def spearmanTwoPhase():
+	"""
+	Calculate Spearman Correlation between MIC of the first two iterations for all target variables.
+
+	** This function is hard coded. Please be careful while editing. **
+
+	Parameters
+    ----------
+    None
+
+    Return Value
+    ----------
+    None
+
+	"""
 	targetList = ['0808','0811','2704','2707','2713','2716','2718']
 	for target in targetList:
 		allYearValue = []
@@ -57,6 +88,23 @@ def spearmanTwoPhase():
 		print ('%s - Spearman = %f, pvalue = %f')%(target, scipy.stats.spearmanr(allYearValue,oneYearValue)[0], scipy.stats.spearmanr(allYearValue,oneYearValue)[1])
 
 def plotMICRHOAllFiles(folderName, filePrefix):
+	"""
+	Plot and save scatter plots between MIC and Rho for all target variables based on the clustering results from Weka.
+	The plots are saved into the same folder as the result files from Weka.
+
+	Parameters
+    ----------
+    folderName : string
+    	A relative file path to the folder containing result files from Weka.
+
+    filePrefix : string
+    	The prefix of result files to plot e.g. 'MINE-Indicator-2006TO2013-'. 
+
+    Return Value
+    ----------
+    None
+
+	"""
 	fileList = []
 	for root, dirs, files in os.walk('./'+folderName):    
 	    for afile in files:

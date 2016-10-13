@@ -2,17 +2,37 @@ import MySQLdb
 import time
 import csv
 
-def createFileByYear(year):
+db = MySQLdb.connect(host="localhost",    # your host, usually localhost
+	    user="root",         # your username
+	    passwd="plkumjorn",  # your password
+	    db="world_indicators")        # name of the data base
+
+def createFileByYear(year, destinationFolder='Formatted Files'):
+	""" 
+	Create a data file of the desired year by querying the data warehouse 
+	and save the file into the destinationFolder in the same directory.   
+
+	Each row in the created file is for one country e.g. 001: Aruba (ABW)
+	Each column in the created file is for one indicator e.g. 0001: Agricultural machinery; tractors - WDI
+
+	Parameters
+    ----------
+    year : int
+        The year of the created file.
+
+    destinationFolder : string 
+    	The name of folder in the same directory into which the created file is saved.
+
+    Return Value
+    ----------
+    (filename, data density)
+
+	"""
 	rows = []
 	allRecords = 0
 	
 	# Setup database connection
-	db = MySQLdb.connect(host="localhost",    # your host, usually localhost
-	                     user="root",         # your username
-	                     passwd="plkumjorn",  # your password
-	                     db="world_indicators")        # name of the data base
 	cur = db.cursor()
-
 	
 	# Create a header row
 	indicatorList = ['Country']
@@ -67,7 +87,7 @@ def createFileByYear(year):
 	db.close()
 
 	# CWrite to file
-	filename = './Formatted Files/'+str(year)+'_'+time.strftime("%Y-%m-%d-%H-%M-%S")+'.csv'
+	filename = './'+destinationFolder+'/'+str(year)+'_'+time.strftime("%Y-%m-%d-%H-%M-%S")+'.csv'
 	with open(filename,'wb') as w:
 		a = csv.writer(w, delimiter = ',')
 		a.writerows(rows)
@@ -76,15 +96,33 @@ def createFileByYear(year):
 	return (filename, 1.0*allRecords/(len(countryList)*len(indicatorIDs)))
 
 
-def createFileByYearIgnoreMissingColumn(year):
+def createFileByYearIgnoreMissingColumn(year, destinationFolder='Formatted Files Without Missing'):
+	""" 
+	Create a data file of the desired year by querying the data warehouse 
+	and save the file into the destinationFolder in the same directory.   
+
+	The file does not include the column with no data in that year.
+
+	Each row in the created file is for one country e.g. 001: Aruba (ABW)
+	Each column in the created file is for one indicator e.g. 0001: Agricultural machinery; tractors - WDI
+
+	Parameters
+    ----------
+    year : int
+        The year of the created file.
+
+    destinationFolder : string 
+    	The name of folder in the same directory into which the created file is saved.
+
+    Return Value
+    ----------
+    (filename, data density)
+
+	"""
 	rows = []
 	allRecords = 0
 	
 	# Setup database connection
-	db = MySQLdb.connect(host="localhost",    # your host, usually localhost
-	                     user="root",         # your username
-	                     passwd="plkumjorn",  # your password
-	                     db="world_indicators")        # name of the data base
 	cur = db.cursor()
 
 	
@@ -149,7 +187,7 @@ def createFileByYearIgnoreMissingColumn(year):
 	db.close()
 
 	# CWrite to file
-	filename = './Formatted Files Without Missing/'+str(year)+'_'+time.strftime("%Y-%m-%d-%H-%M-%S")+'.csv'
+	filename = './'+destinationFolder+'/'+str(year)+'_'+time.strftime("%Y-%m-%d-%H-%M-%S")+'.csv'
 	with open(filename,'wb') as w:
 		a = csv.writer(w, delimiter = ',')
 		a.writerows(rows)
@@ -157,7 +195,32 @@ def createFileByYearIgnoreMissingColumn(year):
 
 	return (filename, 1.0*allRecords/(len(countryList)*len(indicatorIDs)))
 
-def createFileToTheNextYearIgnoreMissingColumn(year):
+def createFileToTheNextYearIgnoreMissingColumn(year, destinationFolder='NewFormattedFilesWithoutMissingToNextYear'):
+	""" 
+	Create a data file of the desired year with target values of the next year by querying the data warehouse 
+	and save the file into the destinationFolder in the same directory.   
+
+	The file does not include the column with no data in that year.
+
+	Each row in the created file is for one country e.g. 001: Aruba (ABW)
+	Each column in the created file is for one indicator e.g. 0001: Agricultural machinery; tractors - WDI
+	The first few columns are for target indicators of the next year e.g. 2704N: Corruption perceptions index - Transparency - 0
+
+	This function is used to create data files in iteration 1.
+	
+	Parameters
+    ----------
+    year : int
+        The year of the created file.
+
+    destinationFolder : string 
+    	The name of folder in the same directory into which the created file is saved.
+
+    Return Value
+    ----------
+    (filename, data density, the number of next year indicators included)
+
+	"""
 	targetList = [2704,2707,2713,2716,2718,808,811,1954]
 	# targetList = [1994,1997,2003,2006,2008,807,810,1953]
 	yearList = [(1998,2015),(2005,2015),(2005,2015),(2005,2015),(2005,2015),(1960,2014),(1961,2014),(2002,2012)]
@@ -166,10 +229,6 @@ def createFileToTheNextYearIgnoreMissingColumn(year):
 	allRecords = 0
 	
 	# Setup database connection
-	db = MySQLdb.connect(host="localhost",    # your host, usually localhost
-	                     user="root",         # your username
-	                     passwd="plkumjorn",  # your password
-	                     db="world_indicators")        # name of the data base
 	cur = db.cursor()
 
 	
@@ -254,7 +313,7 @@ def createFileToTheNextYearIgnoreMissingColumn(year):
 	db.close()
 
 	# CWrite to file
-	filename = './NewFormattedFilesWithoutMissingToNextYear/'+str(year)+'_'+time.strftime("%Y-%m-%d-%H-%M-%S")+'.csv'
+	filename = './'+destinationFolder+'/'+str(year)+'_'+time.strftime("%Y-%m-%d-%H-%M-%S")+'.csv'
 	with open(filename,'wb') as w:
 		a = csv.writer(w, delimiter = ',')
 		a.writerows(rows)
@@ -263,9 +322,9 @@ def createFileToTheNextYearIgnoreMissingColumn(year):
 	return (filename, 1.0*allRecords/(len(countryList)*len(indicatorIDs)), nextYearIndicator)
 
 # year = 2010
-for year in range(1959,2016):
-	print createFileToTheNextYearIgnoreMissingColumn(year)
+# for year in range(1959,2016):
+# 	print createFileToTheNextYearIgnoreMissingColumn(year)
 # for year in range(2005,2017):
 # 	createFileByYear(year)
 
-# createFileToTheNextYearIgnoreMissingColumn(2011)
+createFileToTheNextYearIgnoreMissingColumn(2013)

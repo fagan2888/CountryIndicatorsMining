@@ -5,15 +5,31 @@ import time
 import json
 import numpy as np
 
-def getHeader(filepath):
-	with open(filepath, 'rb') as f:
-		reader = csv.reader(f)
-		header = next(reader)
-		f.close()
-	return header
-	
-def createJSON(filename, numTargets):
-	# header = getHeader(filename)
+def createJSON(filename, numTargets, outputFilename = '2006-2013_data.json'):
+	""" 
+	Create a json data file for iteration 3 from a stacked data file from iteration 2.
+
+	This function separates the information of each country in the input file 
+	and transformed it into object (one object per country). 
+	After that, it combines all objects into a large object 
+	(key = country key, value = the data object of the corresponding country) and stores it in a single json file.
+
+	Parameters
+    ----------
+    filename : string
+        File name or file path of the stacked data file from iteration 2.
+
+    numTargets : int
+    	The number of targets in the input file.
+
+    outputFilename : string
+        File name of the json data file for iteration 3. It must end with '.json'. 
+
+    Return Value
+    ----------
+    None
+
+	"""
 
 	allData = dict()
 
@@ -43,7 +59,7 @@ def createJSON(filename, numTargets):
 			firstDict = {'cid':cid, 'cname':cname, 'yearList':[year], 'targetName': targetName, 'dataName': dataName, 'data': [dataList], 'target':[targetList] }
 			allData[cid] = firstDict
 
-	with open('2006-2013_data.json', 'w') as outfile:
+	with open(outputFilename, 'w') as outfile:
 		json.dump(allData, outfile, sort_keys=True, indent=4, separators=(',', ': '))
 
 createJSON('New_2006-2013_FilteredColsTargetMissingBlank.csv', 8)
