@@ -36,7 +36,7 @@ In a nutshell,
 
 ## Disclaimer
 This repository is **not** the actual workspace of this project. The workspace is too messy for other people to understand (I'm so sorry), so I copy essential files and scripts from the workspace and restructure them so that you can find the things you want.
-Therefore, it is impossible to rerun the experiment straightforwardly from this repository. But, if you want to do so, you may download this repo, edit and run python scripts on your own. I have added explanations to all functions for this reason.   
+As a result, it is impossible to rerun the experiment straightforwardly from this repository. But, if you want to do so, you may download this repo, edit and run python scripts on your own (in your local computer). I have added explanations to all functions for this reason.   
 By combining them with my report, I'm sure that you are able to reproduce the experiments.
 
 ## Contact
