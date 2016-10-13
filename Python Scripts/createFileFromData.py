@@ -2,10 +2,10 @@ import MySQLdb
 import time
 import csv
 
-db = MySQLdb.connect(host="localhost",    # your host, usually localhost
-	    user="root",         # your username
-	    passwd="plkumjorn",  # your password
-	    db="world_indicators")        # name of the data base
+db = MySQLdb.connect(host="xxxx",    	# your host, usually localhost
+	    user="yyyy",         			# your username such as root
+	    passwd="zzzz",  				# your password
+	    db="world_indicators")        	# name of the database
 
 def createFileByYear(year, destinationFolder='Formatted Files'):
 	""" 
