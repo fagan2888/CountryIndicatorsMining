@@ -1,5 +1,6 @@
 <snippet>
 	<content>
+		
 # Mining Country Indicators using Big Data Approach
 This repository stores data files, python scripts, and results of the MSc Project "Exploring and Forecasting Country Indicators using Big Data Approach"
 by Piyawat Lertvittayakumjorn (supervised by Dr Chao Wu and Dr Liu Yue). This project is submitted in partial fulfillment of the requirements for the MSc degree in
