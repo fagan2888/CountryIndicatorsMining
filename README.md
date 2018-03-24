@@ -7,7 +7,8 @@ by Piyawat Lertvittayakumjorn (supervised by Dr Chao Wu and Dr Liu Yue). This pr
 Computing / Machine Learning of Imperial College London (2015-2016). 
 
 ## Related Literature
-To be published
+- Lertvittayakumjorn P, Wu C, Liu Y, Mi H, Guo Y. _Exploratory Analysis of Big Social Data Using MIC/MINE Statistics._ In 2017 9th International Conference on Social Informatics (SocInfo), Oxford, United Kingdom; Sep 2017. \[[Link](https://link.springer.com/chapter/10.1007/978-3-319-67256-4_41)\]
+- Guo Y, Lertvittayakumjorn P, Wu C, Liu Y, Mi H. _Multiple Domains Interdisciplinary Analysis of Country Indicators._ In 2017 28th International Population Conference of the International Union for the Scientific Study of Population (IUSSP), Cape Town, South Africa; Oct 2017. \[[Link](https://iussp.confex.com/iussp/ipc2017/meetingapp.cgi/Paper/6999)\]
 
 ## Usage and Repository Structure
 Please ask Dr Wu for the project report in order to understand overview of the project and structure of this repository.
